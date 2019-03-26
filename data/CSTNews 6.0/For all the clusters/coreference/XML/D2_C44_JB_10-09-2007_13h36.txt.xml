@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="O Conselho_de_Ética de o Senado vai decidir em a próxima semana sobre o pedido de o líder de o P-SOL , José_Nery ( PA ) , para juntar em uma só as representações apresentadas contra o presidente de a Casa , Renan_Calheiros ( PMDB-AL ) . O presidente de o conselho , Leomar_Quintanilha ( PMDB-TO ) , disse que é contra a união de as representações , mas que vai colocar a proposta em votação . - Ainda_que o objeto seja o mesmo - a perda de mandato - cada representação tem uma natureza . Sou contra porque a junção pode confundir os assuntos - afirmou . Para o senador José_Nery , a união de as representações demonstra mais robustez e elementos de convencimento para mostrar , em a nossa avaliação , que houve quebra de decoro parlanmentar . Ele disse que a exemplo de o que ocorreu com a primeira representação , o ideal é que seja criada uma comissão de três relatores para analisar os outros processos em conjunto . em a quinta-feira , a Mesa_Diretora de o Senado se reúne a as 14 horas para decidir se aceita a quarta representação contra o presidente de a Casa . A representação pede a investigação de denúncia de que Renan coordenaria um esquema para arrecadar recursos junto a ministérios comandados por o PMDB ." />
+  <Sentencas>
+    <sentenca_1 conteudo="O Conselho de Ética de o Senado vai decidir em a próxima semana sobre o pedido de o líder de o P-SOL, José Nery (PA), para juntar em uma só as representações apresentadas contra o presidente de a Casa, Renan Calheiros (PMDB-AL)." />
+    <sentenca_2 conteudo="O presidente de o conselho, Leomar Quintanilha (PMDB-TO), disse que é contra a união de as representações, mas que vai colocar a proposta em votação." />
+    <sentenca_3 conteudo="- Ainda que o objeto seja o mesmo - a perda de mandato - cada representação tem uma natureza." />
+    <sentenca_4 conteudo="Sou contra porque a junção pode confundir os assuntos - afirmou." />
+    <sentenca_5 conteudo="Para o senador José Nery, a união de as representações demonstra mais robustez e elementos de convencimento para mostrar, em a nossa avaliação, que houve quebra de decoro parlanmentar ." />
+    <sentenca_6 conteudo="Ele disse que a exemplo de o que ocorreu com a primeira representação, o ideal é que seja criada uma comissão de três relatores para analisar os outros processos em conjunto." />
+    <sentenca_7 conteudo="Na quinta-feira, a Mesa Diretora de o Senado se reúne a as 14 horas para decidir se aceita a quarta representação contra o presidente de a Casa." />
+    <sentenca_8 conteudo="A representação pede a investigação de denúncia de que Renan coordenaria um esquema para arrecadar recursos junto a ministérios comandados por o PMDB." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="O" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="Conselho_de_Ética" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_2 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_3 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_4 token="Senado" lemma="senado" pos="n" features="M=S" sentenca="1" />
+    <word_5 token="vai" lemma="ir" pos="v-fin" features="PR=3S=IND" sentenca="1" />
+    <word_6 token="decidir" lemma="decidir" pos="v-inf" features="-" sentenca="1" />
+    <word_7 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_8 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_9 token="próxima" lemma="próximo" pos="adj" features="F=S" sentenca="1" />
+    <word_10 token="semana" lemma="semana" pos="n" features="F=S" sentenca="1" />
+    <word_11 token="sobre" lemma="sobre" pos="prp" features="-" sentenca="1" />
+    <word_12 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_13 token="pedido" lemma="pedido" pos="n" features="M=S" sentenca="1" />
+    <word_14 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_15 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_16 token="líder" lemma="líder" pos="n" features="M=S" sentenca="1" />
+    <word_17 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_18 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_19 token="P-SOL" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_20 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_21 token="José_Nery" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_22 token="(" lemma="(" pos="(" features="-" sentenca="1" />
+    <word_23 token="PA" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_24 token=")" lemma=")" pos=")" features="-" sentenca="1" />
+    <word_25 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_26 token="para" lemma="para" pos="prp" features="-" sentenca="1" />
+    <word_27 token="juntar" lemma="juntar" pos="v-inf" features="-" sentenca="1" />
+    <word_28 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_29 token="uma" lemma="um" pos="art" features="F=S" sentenca="1" />
+    <word_30 token="só" lemma="só" pos="adv" features="-" sentenca="1" />
+    <word_31 token="as" lemma="o" pos="art" features="F=P" sentenca="1" />
+    <word_32 token="representações" lemma="representar" pos="n" features="F=P" sentenca="1" />
+    <word_33 token="apresentadas" lemma="apresentar" pos="v-pcp" features="F=P" sentenca="1" />
+    <word_34 token="contra" lemma="contra" pos="prp" features="-" sentenca="1" />
+    <word_35 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_36 token="presidente" lemma="presidente" pos="n" features="M=S" sentenca="1" />
+    <word_37 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_38 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_39 token="Casa" lemma="" pos="prop" features="F=S" sentenca="1" />
+    <word_40 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_41 token="Renan_Calheiros" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_42 token="(" lemma="(" pos="(" features="-" sentenca="1" />
+    <word_43 token="PMDB-AL" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_44 token=")" lemma=")" pos=")" features="-" sentenca="1" />
+    <word_45 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_46 token="O" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_47 token="presidente" lemma="presidente" pos="n" features="M=S" sentenca="2" />
+    <word_48 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_49 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_50 token="conselho" lemma="conselho" pos="n" features="M=S" sentenca="2" />
+    <word_51 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_52 token="Leomar_Quintanilha" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_53 token="(" lemma="(" pos="(" features="-" sentenca="2" />
+    <word_54 token="PMDB-TO" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_55 token=")" lemma=")" pos=")" features="-" sentenca="2" />
+    <word_56 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_57 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="2" />
+    <word_58 token="que" lemma="que" pos="conj-s" features="-" sentenca="2" />
+    <word_59 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_60 token="contra" lemma="contra" pos="prp" features="-" sentenca="2" />
+    <word_61 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_62 token="união" lemma="união" pos="n" features="F=S" sentenca="2" />
+    <word_63 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_64 token="as" lemma="o" pos="art" features="F=P" sentenca="2" />
+    <word_65 token="representações" lemma="representar" pos="n" features="F=P" sentenca="2" />
+    <word_66 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_67 token="mas" lemma="mas" pos="conj-c" features="-" sentenca="2" />
+    <word_68 token="que" lemma="que" pos="conj-s" features="-" sentenca="2" />
+    <word_69 token="vai" lemma="ir" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_70 token="colocar" lemma="colocar" pos="v-inf" features="-" sentenca="2" />
+    <word_71 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_72 token="proposta" lemma="proposta" pos="n" features="F=S" sentenca="2" />
+    <word_73 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_74 token="votação" lemma="votação, votar" pos="n" features="F=S" sentenca="2" />
+    <word_75 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_76 token="-" lemma="" pos="-" features="-" sentenca="3" />
+    <word_77 token="Ainda_que" lemma="" pos="conj-s" features="-" sentenca="3" />
+    <word_78 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_79 token="objeto" lemma="objeto" pos="n" features="M=S" sentenca="3" />
+    <word_80 token="seja" lemma="ser" pos="v-fin" features="PR=3S=SUBJ" sentenca="3" />
+    <word_81 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_82 token="mesmo" lemma="mesmo" pos="pron-det" features="M=S" sentenca="3" />
+    <word_83 token="-" lemma="" pos="-" features="-" sentenca="3" />
+    <word_84 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_85 token="perda" lemma="perda" pos="n" features="F=S" sentenca="3" />
+    <word_86 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_87 token="mandato" lemma="mandato" pos="n" features="M=S" sentenca="3" />
+    <word_88 token="-" lemma="" pos="-" features="-" sentenca="3" />
+    <word_89 token="cada" lemma="cada" pos="pron-det" features="F=S" sentenca="3" />
+    <word_90 token="representação" lemma="representação, representar" pos="n" features="F=S" sentenca="3" />
+    <word_91 token="tem" lemma="ter" pos="v-fin" features="PR=3S=IND" sentenca="3" />
+    <word_92 token="uma" lemma="um" pos="art" features="F=S" sentenca="3" />
+    <word_93 token="natureza" lemma="natureza" pos="n" features="F=S" sentenca="3" />
+    <word_94 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_95 token="Sou" lemma="ser" pos="v-fin" features="PR=1S=IND" sentenca="4" />
+    <word_96 token="contra" lemma="contra" pos="prp" features="-" sentenca="4" />
+    <word_97 token="porque" lemma="porque" pos="conj-s" features="-" sentenca="4" />
+    <word_98 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_99 token="junção" lemma="junção" pos="n" features="F=S" sentenca="4" />
+    <word_100 token="pode" lemma="poder, podar" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_101 token="confundir" lemma="confundir" pos="v-inf" features="-" sentenca="4" />
+    <word_102 token="os" lemma="o" pos="art" features="M=P" sentenca="4" />
+    <word_103 token="assuntos" lemma="assunto" pos="n" features="M=P" sentenca="4" />
+    <word_104 token="-" lemma="" pos="-" features="-" sentenca="4" />
+    <word_105 token="afirmou" lemma="afirmar" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_106 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_107 token="Para" lemma="para" pos="prp" features="-" sentenca="5" />
+    <word_108 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_109 token="senador" lemma="senador" pos="n" features="M=S" sentenca="5" />
+    <word_110 token="José_Nery" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_111 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_112 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_113 token="união" lemma="união" pos="n" features="F=S" sentenca="5" />
+    <word_114 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_115 token="as" lemma="o" pos="art" features="F=P" sentenca="5" />
+    <word_116 token="representações" lemma="representar" pos="n" features="F=P" sentenca="5" />
+    <word_117 token="demonstra" lemma="demonstrar" pos="v-fin" features="PR=3S=IND" sentenca="5" />
+    <word_118 token="mais" lemma="mais" pos="pron-det" features="F=P" sentenca="5" />
+    <word_119 token="robustez" lemma="robustez" pos="n" features="F=S" sentenca="5" />
+    <word_120 token="e" lemma="e" pos="conj-c" features="-" sentenca="5" />
+    <word_121 token="elementos" lemma="elemento" pos="n" features="M=P" sentenca="5" />
+    <word_122 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_123 token="convencimento" lemma="convencer" pos="n" features="M=S" sentenca="5" />
+    <word_124 token="para" lemma="para" pos="prp" features="-" sentenca="5" />
+    <word_125 token="mostrar" lemma="mostrar" pos="v-inf" features="-" sentenca="5" />
+    <word_126 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_127 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_128 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_129 token="nossa" lemma="nosso" pos="pron-det" features="F=S" sentenca="5" />
+    <word_130 token="avaliação" lemma="avaliar" pos="n" features="F=S" sentenca="5" />
+    <word_131 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_132 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="5" />
+    <word_133 token="houve" lemma="haver" pos="v-fin" features="PS=3S=IND" sentenca="5" />
+    <word_134 token="quebra" lemma="quebra" pos="n" features="F=S" sentenca="5" />
+    <word_135 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_136 token="decoro" lemma="decoro" pos="n" features="M=S" sentenca="5" />
+    <word_137 token="parlanmentar" lemma="" pos="adj" features="M=S" sentenca="5" />
+    <word_138 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_139 token="Ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="6" />
+    <word_140 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_141 token="que" lemma="que" pos="conj-s" features="-" sentenca="6" />
+    <word_142 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_143 token="exemplo" lemma="exemplo" pos="n" features="M=S" sentenca="6" />
+    <word_144 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_145 token="o" lemma="" pos="pron-det" features="M=S" sentenca="6" />
+    <word_146 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="6" />
+    <word_147 token="ocorreu" lemma="ocorrer" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_148 token="com" lemma="com" pos="prp" features="-" sentenca="6" />
+    <word_149 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_150 token="primeira" lemma="" pos="adj" features="F=S" sentenca="6" />
+    <word_151 token="representação" lemma="representação, representar" pos="n" features="F=S" sentenca="6" />
+    <word_152 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_153 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_154 token="ideal" lemma="ideal" pos="adj" features="M=S" sentenca="6" />
+    <word_155 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="6" />
+    <word_156 token="que" lemma="que" pos="conj-s" features="-" sentenca="6" />
+    <word_157 token="seja" lemma="ser" pos="v-fin" features="PR=3S=SUBJ" sentenca="6" />
+    <word_158 token="criada" lemma="criar" pos="v-pcp" features="F=S" sentenca="6" />
+    <word_159 token="uma" lemma="um" pos="art" features="F=S" sentenca="6" />
+    <word_160 token="comissão" lemma="comissão" pos="n" features="F=S" sentenca="6" />
+    <word_161 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_162 token="três" lemma="três" pos="num" features="M=P" sentenca="6" />
+    <word_163 token="relatores" lemma="relator" pos="n" features="M=P" sentenca="6" />
+    <word_164 token="para" lemma="para" pos="prp" features="-" sentenca="6" />
+    <word_165 token="analisar" lemma="analisar" pos="v-inf" features="-" sentenca="6" />
+    <word_166 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_167 token="outros" lemma="outro" pos="pron-det" features="M=P" sentenca="6" />
+    <word_168 token="processos" lemma="processo" pos="n" features="M=P" sentenca="6" />
+    <word_169 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_170 token="conjunto" lemma="conjunto" pos="n" features="M=S" sentenca="6" />
+    <word_171 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_172 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_173 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_174 token="quinta-feira" lemma="quinta-feira" pos="n" features="F=S" sentenca="7" />
+    <word_175 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_176 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_177 token="Mesa_Diretora" lemma="" pos="n" features="F=S" sentenca="7" />
+    <word_178 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_179 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_180 token="Senado" lemma="senado" pos="n" features="M=S" sentenca="7" />
+    <word_181 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" sentenca="7" />
+    <word_182 token="reúne" lemma="reunir" pos="v-fin" features="PR=3S=IND" sentenca="7" />
+    <word_183 token="a" lemma="a" pos="prp" features="-" sentenca="7" />
+    <word_184 token="as" lemma="o" pos="art" features="F=P" sentenca="7" />
+    <word_185 token="14" lemma="" pos="num" features="F=P" sentenca="7" />
+    <word_186 token="horas" lemma="hora" pos="n" features="F=P" sentenca="7" />
+    <word_187 token="para" lemma="para" pos="prp" features="-" sentenca="7" />
+    <word_188 token="decidir" lemma="decidir" pos="v-inf" features="-" sentenca="7" />
+    <word_189 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" sentenca="7" />
+    <word_190 token="aceita" lemma="aceitar" pos="v-fin" features="PR=3S=IND" sentenca="7" />
+    <word_191 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_192 token="quarta" lemma="quarta" pos="n-adj" features="F=S" sentenca="7" />
+    <word_193 token="representação" lemma="representação, representar" pos="n" features="F=S" sentenca="7" />
+    <word_194 token="contra" lemma="contra" pos="prp" features="-" sentenca="7" />
+    <word_195 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_196 token="presidente" lemma="presidente" pos="n" features="M=S" sentenca="7" />
+    <word_197 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_198 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_199 token="Casa" lemma="" pos="prop" features="F=S" sentenca="7" />
+    <word_200 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_201 token="A" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_202 token="representação" lemma="representação, representar" pos="n" features="F=S" sentenca="8" />
+    <word_203 token="pede" lemma="pedir" pos="v-fin" features="PR=3S=IND" sentenca="8" />
+    <word_204 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_205 token="investigação" lemma="investigação, investigar" pos="n" features="F=S" sentenca="8" />
+    <word_206 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_207 token="denúncia" lemma="denúncia" pos="n" features="F=S" sentenca="8" />
+    <word_208 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_209 token="que" lemma="que" pos="conj-s" features="-" sentenca="8" />
+    <word_210 token="Renan" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_211 token="coordenaria" lemma="coordenar" pos="v-fin" features="COND=3S" sentenca="8" />
+    <word_212 token="um" lemma="um" pos="art" features="M=S" sentenca="8" />
+    <word_213 token="esquema" lemma="esquema" pos="n" features="M=S" sentenca="8" />
+    <word_214 token="para" lemma="para" pos="prp" features="-" sentenca="8" />
+    <word_215 token="arrecadar" lemma="arrecadar" pos="v-inf" features="-" sentenca="8" />
+    <word_216 token="recursos" lemma="recurso" pos="n" features="M=P" sentenca="8" />
+    <word_217 token="junto" lemma="junto" pos="adv" features="-" sentenca="8" />
+    <word_218 token="a" lemma="a" pos="prp" features="-" sentenca="8" />
+    <word_219 token="ministérios" lemma="ministério" pos="n" features="M=P" sentenca="8" />
+    <word_220 token="comandados" lemma="comandar" pos="v-pcp" features="M=P" sentenca="8" />
+    <word_221 token="por" lemma="por" pos="prp" features="-" sentenca="8" />
+    <word_222 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_223 token="PMDB" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_224 token="." lemma="." pos="." features="-" sentenca="8" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="0...4" nucleo="Conselho_de_Ética" sintagma="O Conselho de Ética de o Senado" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_0 token="O" lemma="o" pos="art" features="M=S" />
+        <word_1 token="Conselho_de_Ética" lemma="" pos="prop" features="M=S" />
+        <word_2 token="de" lemma="de" pos="prp" features="-" />
+        <word_3 token="o" lemma="o" pos="art" features="M=S" />
+        <word_4 token="Senado" lemma="senado" pos="n" features="M=S" />
+      </sn>
+      <sn id="14" tokens="49...50" nucleo="conselho" sintagma="o conselho" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_49 token="o" lemma="o" pos="art" features="M=S" />
+        <word_50 token="conselho" lemma="conselho" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_1>
+      <sn id="1" tokens="3...4" nucleo="Senado" sintagma="o Senado" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_3 token="o" lemma="o" pos="art" features="M=S" />
+        <word_4 token="Senado" lemma="senado" pos="n" features="M=S" />
+      </sn>
+      <sn id="10" tokens="38...39" nucleo="Casa" sintagma="a Casa" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_38 token="a" lemma="o" pos="art" features="F=S" />
+        <word_39 token="Casa" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="51" tokens="179...180" nucleo="Senado" sintagma="o Senado" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_179 token="o" lemma="o" pos="art" features="M=S" />
+        <word_180 token="Senado" lemma="senado" pos="n" features="M=S" />
+      </sn>
+      <sn id="57" tokens="198...199" nucleo="Casa" sintagma="a Casa" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_198 token="a" lemma="o" pos="art" features="F=S" />
+        <word_199 token="Casa" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_1>
+    <Cadeia_10>
+      <sn id="9" tokens="35...39" nucleo="presidente" sintagma="o presidente de a Casa" Categoria="PESSOA" sentenca="1">
+        <word_35 token="o" lemma="o" pos="art" features="M=S" />
+        <word_36 token="presidente" lemma="presidente" pos="n" features="M=S" />
+        <word_37 token="de" lemma="de" pos="prp" features="-" />
+        <word_38 token="a" lemma="o" pos="art" features="F=S" />
+        <word_39 token="Casa" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="11" tokens="41...41" nucleo="Renan_Calheiros" sintagma="Renan Calheiros" Categoria="PESSOA" sentenca="1">
+        <word_41 token="Renan_Calheiros" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="56" tokens="195...199" nucleo="presidente" sintagma="o presidente de a Casa" Categoria="PESSOA" sentenca="7">
+        <word_195 token="o" lemma="o" pos="art" features="M=S" />
+        <word_196 token="presidente" lemma="presidente" pos="n" features="M=S" />
+        <word_197 token="de" lemma="de" pos="prp" features="-" />
+        <word_198 token="a" lemma="o" pos="art" features="F=S" />
+        <word_199 token="Casa" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="61" tokens="210...210" nucleo="Renan" sintagma="Renan" Categoria="PESSOA" sentenca="8">
+        <word_210 token="Renan" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_10>
+    <Cadeia_12>
+      <sn id="13" tokens="46...51" nucleo="presidente" sintagma="O presidente de o conselho" Categoria="PESSOA" sentenca="2">
+        <word_46 token="O" lemma="o" pos="art" features="M=S" />
+        <word_47 token="presidente" lemma="presidente" pos="n" features="M=S" />
+        <word_48 token="de" lemma="de" pos="prp" features="-" />
+        <word_49 token="o" lemma="o" pos="art" features="M=S" />
+        <word_50 token="conselho" lemma="conselho" pos="n" features="M=S" />
+        <word_51 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="15" tokens="52...52" nucleo="Leomar_Quintanilha" sintagma="Leomar Quintanilha" Categoria="PESSOA" sentenca="2">
+        <word_52 token="Leomar_Quintanilha" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="41" tokens="139...139" nucleo="Ele" sintagma="Ele" Categoria="PESSOA" sentenca="6">
+        <word_139 token="Ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+      </sn>
+    </Cadeia_12>
+    <Cadeia_20>
+      <sn id="29" tokens="108...109" nucleo="senador" sintagma="o senador" Categoria="PESSOA" sentenca="5">
+        <word_108 token="o" lemma="o" pos="art" features="M=S" />
+        <word_109 token="senador" lemma="senador" pos="n" features="M=S" />
+      </sn>
+      <sn id="30" tokens="110...110" nucleo="José_Nery" sintagma="José Nery" Categoria="PESSOA" sentenca="5">
+        <word_110 token="José_Nery" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_20>
+    <Cadeia_35>
+      <sn id="21" tokens="78...79" nucleo="objeto" sintagma="o objeto" Categoria="OUTRO" sentenca="3">
+        <word_78 token="o" lemma="o" pos="art" features="M=S" />
+        <word_79 token="objeto" lemma="objeto" pos="n" features="M=S" />
+      </sn>
+      <sn id="22" tokens="81...82" nucleo="mesmo" sintagma="o mesmo" Categoria="OUTRO" sentenca="3">
+        <word_81 token="o" lemma="o" pos="art" features="M=S" />
+        <word_82 token="mesmo" lemma="mesmo" pos="pron-det" features="M=S" />
+      </sn>
+      <sn id="23" tokens="84...87" nucleo="perda" sintagma="a perda de mandato" Categoria="OUTRO" sentenca="3">
+        <word_84 token="a" lemma="o" pos="art" features="F=S" />
+        <word_85 token="perda" lemma="perda" pos="n" features="F=S" />
+        <word_86 token="de" lemma="de" pos="prp" features="-" />
+        <word_87 token="mandato" lemma="mandato" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_35>
+    <Cadeia_36>
+      <sn id="3" tokens="12...13" nucleo="pedido" sintagma="o pedido" Categoria="OUTRO" sentenca="1">
+        <word_12 token="o" lemma="o" pos="art" features="M=S" />
+        <word_13 token="pedido" lemma="pedido" pos="n" features="M=S" />
+      </sn>
+      <sn id="19" tokens="71...72" nucleo="proposta" sintagma="a proposta" Categoria="OUTRO" sentenca="2">
+        <word_71 token="a" lemma="o" pos="art" features="F=S" />
+        <word_72 token="proposta" lemma="proposta" pos="n" features="F=S" />
+      </sn>
+      <sn id="27" tokens="98...99" nucleo="junção" sintagma="a junção" Categoria="OUTRO" sentenca="4">
+        <word_98 token="a" lemma="o" pos="art" features="F=S" />
+        <word_99 token="junção" lemma="junção" pos="n" features="F=S" />
+      </sn>
+      <sn id="31" tokens="112...116" nucleo="união" sintagma="a união de as representações" Categoria="OUTRO" sentenca="5">
+        <word_112 token="a" lemma="o" pos="art" features="F=S" />
+        <word_113 token="união" lemma="união" pos="n" features="F=S" />
+        <word_114 token="de" lemma="de" pos="prp" features="-" />
+        <word_115 token="as" lemma="o" pos="art" features="F=P" />
+        <word_116 token="representações" lemma="representar" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_36>
+    <Cadeia_37>
+      <sn id="55" tokens="191...199" nucleo="representação" sintagma="a quarta representação contra o presidente de a Casa" Categoria="DOCUMENTOS" sentenca="7">
+        <word_191 token="a" lemma="o" pos="art" features="F=S" />
+        <word_192 token="quarta" lemma="quarta" pos="n-adj" features="F=S" />
+        <word_193 token="representação" lemma="representação, representar" pos="n" features="F=S" />
+        <word_194 token="contra" lemma="contra" pos="prp" features="-" />
+        <word_195 token="o" lemma="o" pos="art" features="M=S" />
+        <word_196 token="presidente" lemma="presidente" pos="n" features="M=S" />
+        <word_197 token="de" lemma="de" pos="prp" features="-" />
+        <word_198 token="a" lemma="o" pos="art" features="F=S" />
+        <word_199 token="Casa" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="58" tokens="201...202" nucleo="representação" sintagma="A representação" Categoria="DOCUMENTOS" sentenca="8">
+        <word_201 token="A" lemma="o" pos="art" features="F=S" />
+        <word_202 token="representação" lemma="representação, representar" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_37>
+    <Cadeia_6>
+      <sn id="4" tokens="15...19" nucleo="líder" sintagma="o líder de o P-SOL" Categoria="PESSOA" sentenca="1">
+        <word_15 token="o" lemma="o" pos="art" features="M=S" />
+        <word_16 token="líder" lemma="líder" pos="n" features="M=S" />
+        <word_17 token="de" lemma="de" pos="prp" features="-" />
+        <word_18 token="o" lemma="o" pos="art" features="M=S" />
+        <word_19 token="P-SOL" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="6" tokens="21...21" nucleo="José_Nery" sintagma="José Nery" Categoria="PESSOA" sentenca="1">
+        <word_21 token="José_Nery" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_6>
+    <Cadeia_7>
+      <sn id="8" tokens="31...32" nucleo="representações" sintagma="as representações" Categoria="DOCUMENTOS" sentenca="1">
+        <word_31 token="as" lemma="o" pos="art" features="F=P" />
+        <word_32 token="representações" lemma="representar" pos="n" features="F=P" />
+      </sn>
+      <sn id="18" tokens="64...65" nucleo="representações" sintagma="as representações" Categoria="DOCUMENTOS" sentenca="2">
+        <word_64 token="as" lemma="o" pos="art" features="F=P" />
+        <word_65 token="representações" lemma="representar" pos="n" features="F=P" />
+      </sn>
+      <sn id="25" tokens="89...90" nucleo="cada" sintagma="cada representação" Categoria="DOCUMENTOS" sentenca="3">
+        <word_89 token="cada" lemma="cada" pos="pron-det" features="F=S" />
+        <word_90 token="representação" lemma="representação, representar" pos="n" features="F=S" />
+      </sn>
+      <sn id="32" tokens="115...116" nucleo="representações" sintagma="as representações" Categoria="DOCUMENTOS" sentenca="5">
+        <word_115 token="as" lemma="o" pos="art" features="F=P" />
+        <word_116 token="representações" lemma="representar" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_7>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="2" tokens="8...10" nucleo="semana" sintagma="a próxima semana" Categoria="--" sentenca="1">
+      <word_8 token="a" lemma="o" pos="art" features="F=S" />
+      <word_9 token="próxima" lemma="próximo" pos="adj" features="F=S" />
+      <word_10 token="semana" lemma="semana" pos="n" features="F=S" />
+    </sn>
+    <sn id="5" tokens="18...19" nucleo="P-SOL" sintagma="o P-SOL" Categoria="--" sentenca="1">
+      <word_18 token="o" lemma="o" pos="art" features="M=S" />
+      <word_19 token="P-SOL" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="7" tokens="23...23" nucleo="PA" sintagma="PA" Categoria="--" sentenca="1">
+      <word_23 token="PA" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="12" tokens="43...43" nucleo="PMDB-AL" sintagma="PMDB-AL" Categoria="--" sentenca="1">
+      <word_43 token="PMDB-AL" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="16" tokens="54...54" nucleo="PMDB-TO" sintagma="PMDB-TO" Categoria="--" sentenca="2">
+      <word_54 token="PMDB-TO" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="17" tokens="60...65" nucleo="união" sintagma="contra a união de as representações" Categoria="--" sentenca="2">
+      <word_60 token="contra" lemma="contra" pos="prp" features="-" />
+      <word_61 token="a" lemma="o" pos="art" features="F=S" />
+      <word_62 token="união" lemma="união" pos="n" features="F=S" />
+      <word_63 token="de" lemma="de" pos="prp" features="-" />
+      <word_64 token="as" lemma="o" pos="art" features="F=P" />
+      <word_65 token="representações" lemma="representar" pos="n" features="F=P" />
+    </sn>
+    <sn id="20" tokens="74...74" nucleo="votação" sintagma="votação" Categoria="--" sentenca="2">
+      <word_74 token="votação" lemma="votação, votar" pos="n" features="F=S" />
+    </sn>
+    <sn id="24" tokens="87...87" nucleo="mandato" sintagma="mandato" Categoria="--" sentenca="3">
+      <word_87 token="mandato" lemma="mandato" pos="n" features="M=S" />
+    </sn>
+    <sn id="26" tokens="92...93" nucleo="natureza" sintagma="uma natureza" Categoria="--" sentenca="3">
+      <word_92 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_93 token="natureza" lemma="natureza" pos="n" features="F=S" />
+    </sn>
+    <sn id="28" tokens="102...103" nucleo="assuntos" sintagma="os assuntos" Categoria="--" sentenca="4">
+      <word_102 token="os" lemma="o" pos="art" features="M=P" />
+      <word_103 token="assuntos" lemma="assunto" pos="n" features="M=P" />
+    </sn>
+    <sn id="33" tokens="118...123" nucleo="mais" sintagma="mais robustez e elementos de convencimento" Categoria="--" sentenca="5">
+      <word_118 token="mais" lemma="mais" pos="pron-det" features="F=P" />
+      <word_119 token="robustez" lemma="robustez" pos="n" features="F=S" />
+      <word_120 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_121 token="elementos" lemma="elemento" pos="n" features="M=P" />
+      <word_122 token="de" lemma="de" pos="prp" features="-" />
+      <word_123 token="convencimento" lemma="convencer" pos="n" features="M=S" />
+    </sn>
+    <sn id="34" tokens="119...120" nucleo="robustez" sintagma="robustez e" Categoria="--" sentenca="5">
+      <word_119 token="robustez" lemma="robustez" pos="n" features="F=S" />
+      <word_120 token="e" lemma="e" pos="conj-c" features="-" />
+    </sn>
+    <sn id="35" tokens="121...121" nucleo="elementos" sintagma="elementos" Categoria="--" sentenca="5">
+      <word_121 token="elementos" lemma="elemento" pos="n" features="M=P" />
+    </sn>
+    <sn id="36" tokens="123...123" nucleo="convencimento" sintagma="convencimento" Categoria="--" sentenca="5">
+      <word_123 token="convencimento" lemma="convencer" pos="n" features="M=S" />
+    </sn>
+    <sn id="37" tokens="128...130" nucleo="nossa" sintagma="a nossa avaliação" Categoria="--" sentenca="5">
+      <word_128 token="a" lemma="o" pos="art" features="F=S" />
+      <word_129 token="nossa" lemma="nosso" pos="pron-det" features="F=S" />
+      <word_130 token="avaliação" lemma="avaliar" pos="n" features="F=S" />
+    </sn>
+    <sn id="38" tokens="132...132" nucleo="que" sintagma="que" Categoria="--" sentenca="5">
+      <word_132 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="39" tokens="134...137" nucleo="quebra" sintagma="quebra de decoro parlanmentar" Categoria="--" sentenca="5">
+      <word_134 token="quebra" lemma="quebra" pos="n" features="F=S" />
+      <word_135 token="de" lemma="de" pos="prp" features="-" />
+      <word_136 token="decoro" lemma="decoro" pos="n" features="M=S" />
+      <word_137 token="parlanmentar" lemma="" pos="adj" features="M=S" />
+    </sn>
+    <sn id="40" tokens="136...137" nucleo="decoro" sintagma="decoro parlanmentar" Categoria="--" sentenca="5">
+      <word_136 token="decoro" lemma="decoro" pos="n" features="M=S" />
+      <word_137 token="parlanmentar" lemma="" pos="adj" features="M=S" />
+    </sn>
+    <sn id="42" tokens="142...146" nucleo="exemplo" sintagma="a exemplo de o que" Categoria="--" sentenca="6">
+      <word_142 token="a" lemma="o" pos="art" features="F=S" />
+      <word_143 token="exemplo" lemma="exemplo" pos="n" features="M=S" />
+      <word_144 token="de" lemma="de" pos="prp" features="-" />
+      <word_145 token="o" lemma="" pos="pron-det" features="M=S" />
+      <word_146 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="43" tokens="146...146" nucleo="que" sintagma="que" Categoria="--" sentenca="6">
+      <word_146 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="44" tokens="149...151" nucleo="representação" sintagma="a primeira representação" Categoria="--" sentenca="6">
+      <word_149 token="a" lemma="o" pos="art" features="F=S" />
+      <word_150 token="primeira" lemma="" pos="adj" features="F=S" />
+      <word_151 token="representação" lemma="representação, representar" pos="n" features="F=S" />
+    </sn>
+    <sn id="45" tokens="159...164" nucleo="comissão" sintagma="uma comissão de três relatores para" Categoria="--" sentenca="6">
+      <word_159 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_160 token="comissão" lemma="comissão" pos="n" features="F=S" />
+      <word_161 token="de" lemma="de" pos="prp" features="-" />
+      <word_162 token="três" lemma="três" pos="num" features="M=P" />
+      <word_163 token="relatores" lemma="relator" pos="n" features="M=P" />
+      <word_164 token="para" lemma="para" pos="prp" features="-" />
+    </sn>
+    <sn id="46" tokens="162...163" nucleo="relatores" sintagma="três relatores" Categoria="--" sentenca="6">
+      <word_162 token="três" lemma="três" pos="num" features="M=P" />
+      <word_163 token="relatores" lemma="relator" pos="n" features="M=P" />
+    </sn>
+    <sn id="47" tokens="166...168" nucleo="outros" sintagma="os outros processos" Categoria="--" sentenca="6">
+      <word_166 token="os" lemma="o" pos="art" features="M=P" />
+      <word_167 token="outros" lemma="outro" pos="pron-det" features="M=P" />
+      <word_168 token="processos" lemma="processo" pos="n" features="M=P" />
+    </sn>
+    <sn id="48" tokens="170...170" nucleo="conjunto" sintagma="conjunto" Categoria="--" sentenca="6">
+      <word_170 token="conjunto" lemma="conjunto" pos="n" features="M=S" />
+    </sn>
+    <sn id="49" tokens="173...174" nucleo="quinta-feira" sintagma="a quinta-feira" Categoria="--" sentenca="7">
+      <word_173 token="a" lemma="o" pos="art" features="F=S" />
+      <word_174 token="quinta-feira" lemma="quinta-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="50" tokens="176...180" nucleo="Mesa_Diretora" sintagma="a Mesa Diretora de o Senado" Categoria="--" sentenca="7">
+      <word_176 token="a" lemma="o" pos="art" features="F=S" />
+      <word_177 token="Mesa_Diretora" lemma="" pos="n" features="F=S" />
+      <word_178 token="de" lemma="de" pos="prp" features="-" />
+      <word_179 token="o" lemma="o" pos="art" features="M=S" />
+      <word_180 token="Senado" lemma="senado" pos="n" features="M=S" />
+    </sn>
+    <sn id="52" tokens="184...186" nucleo="horas" sintagma="as 14 horas" Categoria="--" sentenca="7">
+      <word_184 token="as" lemma="o" pos="art" features="F=P" />
+      <word_185 token="14" lemma="" pos="num" features="F=P" />
+      <word_186 token="horas" lemma="hora" pos="n" features="F=P" />
+    </sn>
+    <sn id="53" tokens="181...181" nucleo="se" sintagma="se" Categoria="--" sentenca="7">
+      <word_181 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" />
+    </sn>
+    <sn id="54" tokens="189...189" nucleo="se" sintagma="se" Categoria="--" sentenca="7">
+      <word_189 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" />
+    </sn>
+    <sn id="59" tokens="204...209" nucleo="investigação" sintagma="a investigação de denúncia de que" Categoria="--" sentenca="8">
+      <word_204 token="a" lemma="o" pos="art" features="F=S" />
+      <word_205 token="investigação" lemma="investigação, investigar" pos="n" features="F=S" />
+      <word_206 token="de" lemma="de" pos="prp" features="-" />
+      <word_207 token="denúncia" lemma="denúncia" pos="n" features="F=S" />
+      <word_208 token="de" lemma="de" pos="prp" features="-" />
+      <word_209 token="que" lemma="que" pos="conj-s" features="-" />
+    </sn>
+    <sn id="60" tokens="207...207" nucleo="denúncia" sintagma="denúncia" Categoria="--" sentenca="8">
+      <word_207 token="denúncia" lemma="denúncia" pos="n" features="F=S" />
+    </sn>
+    <sn id="62" tokens="212...214" nucleo="esquema" sintagma="um esquema para" Categoria="--" sentenca="8">
+      <word_212 token="um" lemma="um" pos="art" features="M=S" />
+      <word_213 token="esquema" lemma="esquema" pos="n" features="M=S" />
+      <word_214 token="para" lemma="para" pos="prp" features="-" />
+    </sn>
+    <sn id="63" tokens="216...216" nucleo="recursos" sintagma="recursos" Categoria="--" sentenca="8">
+      <word_216 token="recursos" lemma="recurso" pos="n" features="M=P" />
+    </sn>
+    <sn id="64" tokens="219...219" nucleo="ministérios" sintagma="ministérios" Categoria="--" sentenca="8">
+      <word_219 token="ministérios" lemma="ministério" pos="n" features="M=P" />
+    </sn>
+    <sn id="65" tokens="222...223" nucleo="PMDB" sintagma="o PMDB" Categoria="--" sentenca="8">
+      <word_222 token="o" lemma="o" pos="art" features="M=S" />
+      <word_223 token="PMDB" lemma="" pos="prop" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

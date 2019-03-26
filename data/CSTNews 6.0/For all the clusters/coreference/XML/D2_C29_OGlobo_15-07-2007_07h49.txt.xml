@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="A Igreja Católica chegou a um acordo financeiro estimado em US$ 660 milhões ( aproximadamente R$ 1,2 bilhão ) com mais_de 500 pessoas que alegam ter sido vítimas de abuso sexual por padres em Los_Angeles , em os Estados_Unidos . A informação foi divulgada por o advogado de as supostas vítimas , Ray_Boucher , mas a indenização ainda tem que ser aprovada por um juiz . Este seria o maior pagamento já feito por a Igreja desde que surgiu o escândalo de abuso sexual envolvendo religiosos em 2002 e elevaria o total de indenizações pago por a Igreja desde 1950 , em os Estados_Unidos , a US$ 2 bilhões ( R$ 3,7 bilhões ) . Em uma carta enviada recentemente a seus paroquianos , o cardeal Roger_Mahony disse que Igreja venderia prédios administrativos e consideraria a venda de outras 50 propriedades para levantar fundos para o acordo . A diocese ainda não comentou o resultado de as negociações , mas informou que integrantes de a Igreja planejavam aparecer perante a corte em a manhã de a próxima segunda-feira . Uma de as supostas vítimas em o processo , Steven_Sanchez , disse estar a o mesmo tempo aliviado e desapontado com o resultado . Eu estava emocionalmente pronto para levar a arquidiocese para a corte em menos de 48 horas , mas estou feliz que todas as vítimas vão receber uma compensação , disse ele . Espero que as vítimas encontrem algum tipo de conforto em esse processo . . O advogado Ray_Boucher disse que o acordo também pedia a divulgação de arquivos pessoais confidenciais de os padres . A transparência é parte fundamental de isso , disse Boucher . Para David_Clohessy , diretor de a Rede de Sobreviventes a Abusos_Cometidos por Padres , apesar_do o valor recorde de o acordo , dinheiro não era o objetivo principal de as vítimas . Nunca é uma questão de dinheiro . As vítimas querem conforto , prevenção , conclusão , prestação de contas . . Desde 2002 , cerca_de mil pessoas entraram com ações contra a Igreja Católica só em o estado americano de a Califórnia . Em fevereiro de 2004 , um relatório encomendado por a própria Igreja concluiu que mais de 4 mil padres católicos em os Estados_Unidos tinham sido acusados de cometer abuso sexual em os últimos 50 anos ." />
+  <Sentencas>
+    <sentenca_1 conteudo="A Igreja Católica chegou a um acordo financeiro estimado em US$ 660 milhões (aproximadamente R$ 1,2 bilhão) com mais de 500 pessoas que alegam ter sido vítimas de abuso sexual por padres em Los Angeles, em os Estados Unidos." />
+    <sentenca_2 conteudo="A informação foi divulgada por o advogado de as supostas vítimas, Ray Boucher, mas a indenização ainda tem que ser aprovada por um juiz." />
+    <sentenca_3 conteudo="Este seria o maior pagamento já feito por a Igreja desde que surgiu o escândalo de abuso sexual envolvendo religiosos em 2002 e elevaria o total de indenizações pago por a Igreja desde 1950, em os Estados Unidos, a US$ 2 bilhões (R$ 3,7 bilhões)." />
+    <sentenca_4 conteudo="Em uma carta enviada recentemente a seus paroquianos, o cardeal Roger Mahony disse que Igreja venderia prédios administrativos e consideraria a venda de outras 50 propriedades para levantar fundos para o acordo." />
+    <sentenca_5 conteudo="A diocese ainda não comentou o resultado de as negociações, mas informou que integrantes de a Igreja planejavam aparecer perante a corte em a manhã de a próxima segunda-feira." />
+    <sentenca_6 conteudo="Uma de as supostas vítimas em o processo, Steven Sanchez, disse estar ao mesmo tempo aliviado e desapontado com o resultado." />
+    <sentenca_7 conteudo="Eu estava emocionalmente pronto para levar a arquidiocese para a corte em menos de 48 horas, mas estou feliz que todas as vítimas vão receber uma compensação, disse ele." />
+    <sentenca_8 conteudo="Espero que as vítimas encontrem algum tipo de conforto em esse processo." />
+    <sentenca_9 conteudo="." />
+    <sentenca_10 conteudo="O advogado Ray Boucher disse que o acordo também pedia a divulgação de arquivos pessoais confidenciais de os padres." />
+    <sentenca_11 conteudo="A transparência é parte fundamental disso, disse Boucher." />
+    <sentenca_12 conteudo="Para David Clohessy, diretor de a Rede de Sobreviventes a Abusos Cometidos por Padres, apesar de o valor recorde de o acordo, dinheiro não era o objetivo principal de as vítimas." />
+    <sentenca_13 conteudo="Nunca é uma questão de dinheiro." />
+    <sentenca_14 conteudo="As vítimas querem conforto, prevenção, conclusão, prestação de contas." />
+    <sentenca_15 conteudo="." />
+    <sentenca_16 conteudo="Desde 2002, cerca de mil pessoas entraram com ações contra a Igreja Católica só em o estado americano de a Califórnia." />
+    <sentenca_17 conteudo="Em fevereiro de 2004, um relatório encomendado por a própria Igreja concluiu que mais de 4 mil padres católicos em os Estados Unidos tinham sido acusados de cometer abuso sexual em os últimos 50 anos." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="A" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_1 token="Igreja" lemma="igreja" pos="n" features="F=S" sentenca="1" />
+    <word_2 token="Católica" lemma="católico" pos="adj" features="F=S" sentenca="1" />
+    <word_3 token="chegou" lemma="chegar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_4 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_5 token="um" lemma="um" pos="art" features="M=S" sentenca="1" />
+    <word_6 token="acordo" lemma="acordo" pos="n" features="M=S" sentenca="1" />
+    <word_7 token="financeiro" lemma="financeiro" pos="adj" features="M=S" sentenca="1" />
+    <word_8 token="estimado" lemma="estimar" pos="v-pcp" features="M=S" sentenca="1" />
+    <word_9 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_10 token="US$" lemma="" pos="n" features="M=P" sentenca="1" />
+    <word_11 token="660" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_12 token="milhões" lemma="" pos="n" features="M=P" sentenca="1" />
+    <word_13 token="(" lemma="(" pos="(" features="-" sentenca="1" />
+    <word_14 token="aproximadamente" lemma="aproximadamente, aproximar" pos="adv" features="-" sentenca="1" />
+    <word_15 token="R$" lemma="" pos="n" features="M=P" sentenca="1" />
+    <word_16 token="1,2" lemma="" pos="num" features="M=S" sentenca="1" />
+    <word_17 token="bilhão" lemma="" pos="n" features="M=S" sentenca="1" />
+    <word_18 token=")" lemma=")" pos=")" features="-" sentenca="1" />
+    <word_19 token="com" lemma="com" pos="prp" features="-" sentenca="1" />
+    <word_20 token="mais_de" lemma="" pos="adv" features="-" sentenca="1" />
+    <word_21 token="500" lemma="" pos="num" features="F=P" sentenca="1" />
+    <word_22 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="1" />
+    <word_23 token="que" lemma="que" pos="pron-indp" features="F=P" sentenca="1" />
+    <word_24 token="alegam" lemma="alegar" pos="v-fin" features="PR=3P=IND" sentenca="1" />
+    <word_25 token="ter" lemma="ter" pos="v-inf" features="-" sentenca="1" />
+    <word_26 token="sido" lemma="ser" pos="v-pcp" features="M=S" sentenca="1" />
+    <word_27 token="vítimas" lemma="vítima" pos="n" features="F=P" sentenca="1" />
+    <word_28 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_29 token="abuso" lemma="abuso" pos="n" features="M=S" sentenca="1" />
+    <word_30 token="sexual" lemma="sexual" pos="adj" features="M=S" sentenca="1" />
+    <word_31 token="por" lemma="por" pos="prp" features="-" sentenca="1" />
+    <word_32 token="padres" lemma="padre" pos="n-adj" features="M=P" sentenca="1" />
+    <word_33 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_34 token="Los_Angeles" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_35 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_36 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_37 token="os" lemma="o" pos="art" features="M=P" sentenca="1" />
+    <word_38 token="Estados_Unidos" lemma="" pos="prop" features="M=P" sentenca="1" />
+    <word_39 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_40 token="A" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_41 token="informação" lemma="informação, informar" pos="n" features="F=S" sentenca="2" />
+    <word_42 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="2" />
+    <word_43 token="divulgada" lemma="divulgar" pos="v-pcp" features="F=S" sentenca="2" />
+    <word_44 token="por" lemma="por" pos="prp" features="-" sentenca="2" />
+    <word_45 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_46 token="advogado" lemma="advogado" pos="n" features="M=S" sentenca="2" />
+    <word_47 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_48 token="as" lemma="o" pos="art" features="F=P" sentenca="2" />
+    <word_49 token="supostas" lemma="supor" pos="v-pcp" features="F=P" sentenca="2" />
+    <word_50 token="vítimas" lemma="vítima" pos="n" features="F=P" sentenca="2" />
+    <word_51 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_52 token="Ray_Boucher" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_53 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_54 token="mas" lemma="mas" pos="conj-c" features="-" sentenca="2" />
+    <word_55 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_56 token="indenização" lemma="" pos="n" features="F=S" sentenca="2" />
+    <word_57 token="ainda" lemma="ainda" pos="adv" features="-" sentenca="2" />
+    <word_58 token="tem" lemma="ter" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_59 token="que" lemma="que" pos="conj-s" features="-" sentenca="2" />
+    <word_60 token="ser" lemma="ser" pos="v-inf" features="-" sentenca="2" />
+    <word_61 token="aprovada" lemma="aprovar" pos="v-pcp" features="F=S" sentenca="2" />
+    <word_62 token="por" lemma="por" pos="prp" features="-" sentenca="2" />
+    <word_63 token="um" lemma="um" pos="art" features="M=S" sentenca="2" />
+    <word_64 token="juiz" lemma="juiz" pos="n" features="M=S" sentenca="2" />
+    <word_65 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_66 token="Este" lemma="este" pos="pron-det" features="M=S" sentenca="3" />
+    <word_67 token="seria" lemma="seriar, ser" pos="v-fin" features="COND=3S" sentenca="3" />
+    <word_68 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_69 token="maior" lemma="maior" pos="adj" features="M=S" sentenca="3" />
+    <word_70 token="pagamento" lemma="pagar" pos="n" features="M=S" sentenca="3" />
+    <word_71 token="já" lemma="já" pos="adv" features="-" sentenca="3" />
+    <word_72 token="feito" lemma="fazer" pos="v-pcp" features="M=S" sentenca="3" />
+    <word_73 token="por" lemma="por" pos="prp" features="-" sentenca="3" />
+    <word_74 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_75 token="Igreja" lemma="igreja" pos="n" features="F=S" sentenca="3" />
+    <word_76 token="desde" lemma="desde" pos="prp" features="-" sentenca="3" />
+    <word_77 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="3" />
+    <word_78 token="surgiu" lemma="surgir" pos="v-fin" features="PS=3S=IND" sentenca="3" />
+    <word_79 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_80 token="escândalo" lemma="escândalo" pos="n" features="M=S" sentenca="3" />
+    <word_81 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_82 token="abuso" lemma="abuso" pos="n" features="M=S" sentenca="3" />
+    <word_83 token="sexual" lemma="sexual" pos="adj" features="M=S" sentenca="3" />
+    <word_84 token="envolvendo" lemma="envolver" pos="v-ger" features="-" sentenca="3" />
+    <word_85 token="religiosos" lemma="religioso" pos="adj" features="M=P" sentenca="3" />
+    <word_86 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_87 token="2002" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_88 token="e" lemma="e" pos="conj-c" features="-" sentenca="3" />
+    <word_89 token="elevaria" lemma="elevar" pos="v-fin" features="COND=3S" sentenca="3" />
+    <word_90 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_91 token="total" lemma="total" pos="n" features="M=S" sentenca="3" />
+    <word_92 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_93 token="indenizações" lemma="" pos="n" features="F=P" sentenca="3" />
+    <word_94 token="pago" lemma="" pos="v-pcp" features="M=S" sentenca="3" />
+    <word_95 token="por" lemma="por" pos="prp" features="-" sentenca="3" />
+    <word_96 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_97 token="Igreja" lemma="igreja" pos="n" features="F=S" sentenca="3" />
+    <word_98 token="desde" lemma="desde" pos="prp" features="-" sentenca="3" />
+    <word_99 token="1950" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_100 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_101 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_102 token="os" lemma="o" pos="art" features="M=P" sentenca="3" />
+    <word_103 token="Estados_Unidos" lemma="" pos="prop" features="M=P" sentenca="3" />
+    <word_104 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_105 token="a" lemma="a" pos="prp" features="-" sentenca="3" />
+    <word_106 token="US$" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_107 token="2" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_108 token="bilhões" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_109 token="(" lemma="(" pos="(" features="-" sentenca="3" />
+    <word_110 token="R$" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_111 token="3,7" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_112 token="bilhões" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_113 token=")" lemma=")" pos=")" features="-" sentenca="3" />
+    <word_114 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_115 token="Em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_116 token="uma" lemma="um" pos="art" features="F=S" sentenca="4" />
+    <word_117 token="carta" lemma="carta" pos="n" features="F=S" sentenca="4" />
+    <word_118 token="enviada" lemma="enviar" pos="v-pcp" features="F=S" sentenca="4" />
+    <word_119 token="recentemente" lemma="recente" pos="adv" features="-" sentenca="4" />
+    <word_120 token="a" lemma="a" pos="prp" features="-" sentenca="4" />
+    <word_121 token="seus" lemma="seu" pos="pron-det" features="M=P" sentenca="4" />
+    <word_122 token="paroquianos" lemma="paroquiano" pos="n" features="M=P" sentenca="4" />
+    <word_123 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_124 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_125 token="cardeal" lemma="cardeal" pos="n" features="M=S" sentenca="4" />
+    <word_126 token="Roger_Mahony" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_127 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_128 token="que" lemma="que" pos="conj-s" features="-" sentenca="4" />
+    <word_129 token="Igreja" lemma="igreja" pos="n" features="F=S" sentenca="4" />
+    <word_130 token="venderia" lemma="vender" pos="v-fin" features="COND=3S" sentenca="4" />
+    <word_131 token="prédios" lemma="prédio" pos="n" features="M=P" sentenca="4" />
+    <word_132 token="administrativos" lemma="administrativo" pos="adj" features="M=P" sentenca="4" />
+    <word_133 token="e" lemma="e" pos="conj-c" features="-" sentenca="4" />
+    <word_134 token="consideraria" lemma="considerar" pos="v-fin" features="COND=3S" sentenca="4" />
+    <word_135 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_136 token="venda" lemma="venda" pos="n" features="F=S" sentenca="4" />
+    <word_137 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_138 token="outras" lemma="outro" pos="pron-det" features="F=P" sentenca="4" />
+    <word_139 token="50" lemma="" pos="num" features="F=P" sentenca="4" />
+    <word_140 token="propriedades" lemma="propriedade" pos="n" features="F=P" sentenca="4" />
+    <word_141 token="para" lemma="para" pos="prp" features="-" sentenca="4" />
+    <word_142 token="levantar" lemma="levantar" pos="v-inf" features="-" sentenca="4" />
+    <word_143 token="fundos" lemma="fundo" pos="n" features="M=P" sentenca="4" />
+    <word_144 token="para" lemma="para" pos="prp" features="-" sentenca="4" />
+    <word_145 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_146 token="acordo" lemma="acordo" pos="n" features="M=S" sentenca="4" />
+    <word_147 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_148 token="A" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_149 token="diocese" lemma="diocese" pos="n" features="F=S" sentenca="5" />
+    <word_150 token="ainda" lemma="ainda" pos="adv" features="-" sentenca="5" />
+    <word_151 token="não" lemma="não" pos="adv" features="-" sentenca="5" />
+    <word_152 token="comentou" lemma="comentar" pos="v-fin" features="PS=3S=IND" sentenca="5" />
+    <word_153 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_154 token="resultado" lemma="resultado" pos="n" features="M=S" sentenca="5" />
+    <word_155 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_156 token="as" lemma="o" pos="art" features="F=P" sentenca="5" />
+    <word_157 token="negociações" lemma="negociação, negociar" pos="n" features="F=P" sentenca="5" />
+    <word_158 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_159 token="mas" lemma="mas" pos="conj-c" features="-" sentenca="5" />
+    <word_160 token="informou" lemma="informar" pos="v-fin" features="PS=3S=IND" sentenca="5" />
+    <word_161 token="que" lemma="que" pos="conj-s" features="-" sentenca="5" />
+    <word_162 token="integrantes" lemma="integrante, integrar" pos="n-adj" features="M=P" sentenca="5" />
+    <word_163 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_164 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_165 token="Igreja" lemma="igreja" pos="n" features="F=S" sentenca="5" />
+    <word_166 token="planejavam" lemma="" pos="v-fin" features="IMPF=3P=IND" sentenca="5" />
+    <word_167 token="aparecer" lemma="aparecer" pos="v-inf" features="-" sentenca="5" />
+    <word_168 token="perante" lemma="perante" pos="prp" features="-" sentenca="5" />
+    <word_169 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_170 token="corte" lemma="corte" pos="n" features="F=S" sentenca="5" />
+    <word_171 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_172 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_173 token="manhã" lemma="manhã" pos="n" features="F=S" sentenca="5" />
+    <word_174 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_175 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_176 token="próxima" lemma="próximo" pos="adj" features="F=S" sentenca="5" />
+    <word_177 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" sentenca="5" />
+    <word_178 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_179 token="Uma" lemma="um" pos="num" features="F=S" sentenca="6" />
+    <word_180 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_181 token="as" lemma="o" pos="art" features="F=P" sentenca="6" />
+    <word_182 token="supostas" lemma="supor" pos="v-pcp" features="F=P" sentenca="6" />
+    <word_183 token="vítimas" lemma="vítima" pos="n" features="F=P" sentenca="6" />
+    <word_184 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_185 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_186 token="processo" lemma="processo" pos="n" features="M=S" sentenca="6" />
+    <word_187 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_188 token="Steven_Sanchez" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_189 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_190 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_191 token="estar" lemma="estar" pos="v-inf" features="-" sentenca="6" />
+    <word_192 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_193 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_194 token="mesmo" lemma="mesmo" pos="pron-det" features="M=S" sentenca="6" />
+    <word_195 token="tempo" lemma="tempo" pos="n" features="M=S" sentenca="6" />
+    <word_196 token="aliviado" lemma="aliviar" pos="v-pcp" features="M=S" sentenca="6" />
+    <word_197 token="e" lemma="e" pos="conj-c" features="-" sentenca="6" />
+    <word_198 token="desapontado" lemma="desapontar" pos="v-pcp" features="M=S" sentenca="6" />
+    <word_199 token="com" lemma="com" pos="prp" features="-" sentenca="6" />
+    <word_200 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_201 token="resultado" lemma="resultado" pos="n" features="M=S" sentenca="6" />
+    <word_202 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_203 token="Eu" lemma="eu" pos="pron-pers" features="M=1S=NOM" sentenca="7" />
+    <word_204 token="estava" lemma="estar" pos="v-fin" features="IMPF=1S=IND" sentenca="7" />
+    <word_205 token="emocionalmente" lemma="emocional" pos="adv" features="-" sentenca="7" />
+    <word_206 token="pronto" lemma="pronto" pos="adj" features="M=S" sentenca="7" />
+    <word_207 token="para" lemma="para" pos="prp" features="-" sentenca="7" />
+    <word_208 token="levar" lemma="levar" pos="v-inf" features="-" sentenca="7" />
+    <word_209 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_210 token="arquidiocese" lemma="arquidiocese" pos="n" features="F=S" sentenca="7" />
+    <word_211 token="para" lemma="para" pos="prp" features="-" sentenca="7" />
+    <word_212 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_213 token="corte" lemma="corte" pos="n" features="F=S" sentenca="7" />
+    <word_214 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_215 token="menos" lemma="menos" pos="pron-det" features="M=P" sentenca="7" />
+    <word_216 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_217 token="48" lemma="" pos="num" features="F=P" sentenca="7" />
+    <word_218 token="horas" lemma="hora" pos="n" features="F=P" sentenca="7" />
+    <word_219 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_220 token="mas" lemma="mas" pos="conj-c" features="-" sentenca="7" />
+    <word_221 token="estou" lemma="estar" pos="v-fin" features="PR=1S=IND" sentenca="7" />
+    <word_222 token="feliz" lemma="feliz" pos="adj" features="M=S" sentenca="7" />
+    <word_223 token="que" lemma="que" pos="conj-s" features="-" sentenca="7" />
+    <word_224 token="todas" lemma="todo" pos="pron-det" features="F=P" sentenca="7" />
+    <word_225 token="as" lemma="o" pos="art" features="F=P" sentenca="7" />
+    <word_226 token="vítimas" lemma="vítima" pos="n" features="F=P" sentenca="7" />
+    <word_227 token="vão" lemma="ir" pos="v-fin" features="PR=3P=IND" sentenca="7" />
+    <word_228 token="receber" lemma="receber" pos="v-inf" features="-" sentenca="7" />
+    <word_229 token="uma" lemma="um" pos="art" features="F=S" sentenca="7" />
+    <word_230 token="compensação" lemma="compensar" pos="n" features="F=S" sentenca="7" />
+    <word_231 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_232 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_233 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="7" />
+    <word_234 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_235 token="Espero" lemma="esperar" pos="v-fin" features="PR=1S=IND" sentenca="8" />
+    <word_236 token="que" lemma="que" pos="conj-s" features="-" sentenca="8" />
+    <word_237 token="as" lemma="o" pos="art" features="F=P" sentenca="8" />
+    <word_238 token="vítimas" lemma="vítima" pos="n" features="F=P" sentenca="8" />
+    <word_239 token="encontrem" lemma="encontrar" pos="v-fin" features="PR=3P=SUBJ" sentenca="8" />
+    <word_240 token="algum" lemma="algum" pos="pron-det" features="M=S" sentenca="8" />
+    <word_241 token="tipo" lemma="tipo" pos="n" features="M=S" sentenca="8" />
+    <word_242 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_243 token="conforto" lemma="conforto" pos="n" features="M=S" sentenca="8" />
+    <word_244 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_245 token="esse" lemma="esse" pos="pron-det" features="M=S" sentenca="8" />
+    <word_246 token="processo" lemma="processo" pos="n" features="M=S" sentenca="8" />
+    <word_247 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_248 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_249 token="O" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_250 token="advogado" lemma="advogado" pos="n" features="M=S" sentenca="10" />
+    <word_251 token="Ray_Boucher" lemma="" pos="prop" features="M=S" sentenca="10" />
+    <word_252 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="10" />
+    <word_253 token="que" lemma="que" pos="conj-s" features="-" sentenca="10" />
+    <word_254 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_255 token="acordo" lemma="acordo" pos="n" features="M=S" sentenca="10" />
+    <word_256 token="também" lemma="também" pos="adv" features="-" sentenca="10" />
+    <word_257 token="pedia" lemma="pedir" pos="v-fin" features="IMPF=3S=IND" sentenca="10" />
+    <word_258 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_259 token="divulgação" lemma="divulgar" pos="n" features="F=S" sentenca="10" />
+    <word_260 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_261 token="arquivos" lemma="arquivo" pos="n" features="M=P" sentenca="10" />
+    <word_262 token="pessoais" lemma="pessoal" pos="adj" features="M=P" sentenca="10" />
+    <word_263 token="confidenciais" lemma="confidenciar" pos="v-fin" features="PR=2P=IND" sentenca="10" />
+    <word_264 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_265 token="os" lemma="o" pos="art" features="M=P" sentenca="10" />
+    <word_266 token="padres" lemma="padre" pos="n" features="M=P" sentenca="10" />
+    <word_267 token="." lemma="." pos="." features="-" sentenca="10" />
+    <word_268 token="A" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_269 token="transparência" lemma="transparência" pos="n" features="F=S" sentenca="11" />
+    <word_270 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="11" />
+    <word_271 token="parte" lemma="parte" pos="n" features="F=S" sentenca="11" />
+    <word_272 token="fundamental" lemma="fundamental" pos="adj" features="F=S" sentenca="11" />
+    <word_273 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_274 token="isso" lemma="isso" pos="pron-indp" features="M=S" sentenca="11" />
+    <word_275 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_276 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_277 token="Boucher" lemma="" pos="prop" features="M=S" sentenca="11" />
+    <word_278 token="." lemma="." pos="." features="-" sentenca="11" />
+    <word_279 token="Para" lemma="para" pos="prp" features="-" sentenca="12" />
+    <word_280 token="David_Clohessy" lemma="" pos="prop" features="M=S" sentenca="12" />
+    <word_281 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_282 token="diretor" lemma="diretor" pos="n" features="M=S" sentenca="12" />
+    <word_283 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_284 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_285 token="Rede" lemma="rede" pos="n" features="F=S" sentenca="12" />
+    <word_286 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_287 token="Sobreviventes" lemma="" pos="prop" features="M=S" sentenca="12" />
+    <word_288 token="a" lemma="a" pos="prp" features="-" sentenca="12" />
+    <word_289 token="Abusos_Cometidos" lemma="" pos="prop" features="M=S" sentenca="12" />
+    <word_290 token="por" lemma="por" pos="prp" features="-" sentenca="12" />
+    <word_291 token="Padres" lemma="" pos="prop" features="M=S" sentenca="12" />
+    <word_292 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_293 token="apesar_do" lemma="" pos="prp" features="-" sentenca="12" />
+    <word_294 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_295 token="valor" lemma="valor" pos="n" features="M=S" sentenca="12" />
+    <word_296 token="recorde" lemma="" pos="adj" features="M=S" sentenca="12" />
+    <word_297 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_298 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_299 token="acordo" lemma="acordo" pos="n" features="M=S" sentenca="12" />
+    <word_300 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_301 token="dinheiro" lemma="dinheiro" pos="n" features="M=S" sentenca="12" />
+    <word_302 token="não" lemma="não" pos="adv" features="-" sentenca="12" />
+    <word_303 token="era" lemma="ser" pos="v-fin" features="IMPF=3S=IND" sentenca="12" />
+    <word_304 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_305 token="objetivo" lemma="objetivo" pos="n" features="M=S" sentenca="12" />
+    <word_306 token="principal" lemma="principal" pos="adj" features="M=S" sentenca="12" />
+    <word_307 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_308 token="as" lemma="o" pos="art" features="F=P" sentenca="12" />
+    <word_309 token="vítimas" lemma="vítima" pos="n" features="F=P" sentenca="12" />
+    <word_310 token="." lemma="." pos="." features="-" sentenca="12" />
+    <word_311 token="Nunca" lemma="nunca" pos="adv" features="-" sentenca="13" />
+    <word_312 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="13" />
+    <word_313 token="uma" lemma="um" pos="art" features="F=S" sentenca="13" />
+    <word_314 token="questão" lemma="questão" pos="n" features="F=S" sentenca="13" />
+    <word_315 token="de" lemma="de" pos="prp" features="-" sentenca="13" />
+    <word_316 token="dinheiro" lemma="dinheiro" pos="n" features="M=S" sentenca="13" />
+    <word_317 token="." lemma="." pos="." features="-" sentenca="13" />
+    <word_318 token="As" lemma="o" pos="art" features="F=P" sentenca="14" />
+    <word_319 token="vítimas" lemma="vítima" pos="n" features="F=P" sentenca="14" />
+    <word_320 token="querem" lemma="querer" pos="v-fin" features="PR=3P=IND" sentenca="14" />
+    <word_321 token="conforto" lemma="conforto" pos="n" features="M=S" sentenca="14" />
+    <word_322 token="," lemma="" pos="," features="-" sentenca="14" />
+    <word_323 token="prevenção" lemma="prevenção" pos="n" features="F=S" sentenca="14" />
+    <word_324 token="," lemma="" pos="," features="-" sentenca="14" />
+    <word_325 token="conclusão" lemma="conclusão" pos="n" features="F=S" sentenca="14" />
+    <word_326 token="," lemma="" pos="," features="-" sentenca="14" />
+    <word_327 token="prestação" lemma="prestar" pos="n" features="F=S" sentenca="14" />
+    <word_328 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_329 token="contas" lemma="conta" pos="n" features="F=P" sentenca="14" />
+    <word_330 token="." lemma="." pos="." features="-" sentenca="14" />
+    <word_331 token="." lemma="." pos="." features="-" sentenca="15" />
+    <word_332 token="Desde" lemma="desde" pos="prp" features="-" sentenca="16" />
+    <word_333 token="2002" lemma="" pos="num" features="M=S" sentenca="16" />
+    <word_334 token="," lemma="" pos="," features="-" sentenca="16" />
+    <word_335 token="cerca_de" lemma="" pos="adv" features="-" sentenca="16" />
+    <word_336 token="mil" lemma="" pos="n" features="F=P" sentenca="16" />
+    <word_337 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="16" />
+    <word_338 token="entraram" lemma="entrar" pos="v-fin" features="MQP=3P=IND" sentenca="16" />
+    <word_339 token="com" lemma="com" pos="prp" features="-" sentenca="16" />
+    <word_340 token="ações" lemma="ação" pos="n" features="F=P" sentenca="16" />
+    <word_341 token="contra" lemma="contra" pos="prp" features="-" sentenca="16" />
+    <word_342 token="a" lemma="o" pos="art" features="F=S" sentenca="16" />
+    <word_343 token="Igreja" lemma="igreja" pos="n" features="F=S" sentenca="16" />
+    <word_344 token="Católica" lemma="católico" pos="adj" features="F=S" sentenca="16" />
+    <word_345 token="só" lemma="só" pos="adv" features="-" sentenca="16" />
+    <word_346 token="em" lemma="em" pos="prp" features="-" sentenca="16" />
+    <word_347 token="o" lemma="o" pos="art" features="M=S" sentenca="16" />
+    <word_348 token="estado" lemma="estado" pos="n" features="M=S" sentenca="16" />
+    <word_349 token="americano" lemma="americano" pos="adj" features="M=S" sentenca="16" />
+    <word_350 token="de" lemma="de" pos="prp" features="-" sentenca="16" />
+    <word_351 token="a" lemma="o" pos="art" features="F=S" sentenca="16" />
+    <word_352 token="Califórnia" lemma="Califórnia" pos="prop" features="M=S" sentenca="16" />
+    <word_353 token="." lemma="." pos="." features="-" sentenca="16" />
+    <word_354 token="Em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_355 token="fevereiro" lemma="fevereiro" pos="n" features="M=S" sentenca="17" />
+    <word_356 token="de" lemma="de" pos="prp" features="-" sentenca="17" />
+    <word_357 token="2004" lemma="" pos="num" features="M=P" sentenca="17" />
+    <word_358 token="," lemma="" pos="," features="-" sentenca="17" />
+    <word_359 token="um" lemma="um" pos="art" features="M=S" sentenca="17" />
+    <word_360 token="relatório" lemma="relatório" pos="n" features="M=S" sentenca="17" />
+    <word_361 token="encomendado" lemma="encomendar" pos="v-pcp" features="M=S" sentenca="17" />
+    <word_362 token="por" lemma="por" pos="prp" features="-" sentenca="17" />
+    <word_363 token="a" lemma="o" pos="art" features="F=S" sentenca="17" />
+    <word_364 token="própria" lemma="próprio" pos="adj" features="F=S" sentenca="17" />
+    <word_365 token="Igreja" lemma="igreja" pos="n" features="F=S" sentenca="17" />
+    <word_366 token="concluiu" lemma="concluir" pos="v-fin" features="PS=3S=IND" sentenca="17" />
+    <word_367 token="que" lemma="que" pos="conj-s" features="-" sentenca="17" />
+    <word_368 token="mais" lemma="mais" pos="adv" features="-" sentenca="17" />
+    <word_369 token="de" lemma="de" pos="prp" features="-" sentenca="17" />
+    <word_370 token="4" lemma="" pos="num" features="M=P" sentenca="17" />
+    <word_371 token="mil" lemma="" pos="n" features="M=P" sentenca="17" />
+    <word_372 token="padres" lemma="padre" pos="n" features="M=P" sentenca="17" />
+    <word_373 token="católicos" lemma="católico" pos="adj" features="M=P" sentenca="17" />
+    <word_374 token="em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_375 token="os" lemma="o" pos="art" features="M=P" sentenca="17" />
+    <word_376 token="Estados_Unidos" lemma="" pos="prop" features="M=P" sentenca="17" />
+    <word_377 token="tinham" lemma="ter" pos="v-fin" features="IMPF=3P=IND" sentenca="17" />
+    <word_378 token="sido" lemma="ser" pos="v-pcp" features="M=S" sentenca="17" />
+    <word_379 token="acusados" lemma="acusar" pos="v-pcp" features="M=P" sentenca="17" />
+    <word_380 token="de" lemma="de" pos="prp" features="-" sentenca="17" />
+    <word_381 token="cometer" lemma="cometer" pos="v-inf" features="-" sentenca="17" />
+    <word_382 token="abuso" lemma="abuso" pos="n" features="M=S" sentenca="17" />
+    <word_383 token="sexual" lemma="sexual" pos="adj" features="M=S" sentenca="17" />
+    <word_384 token="em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_385 token="os" lemma="o" pos="art" features="M=P" sentenca="17" />
+    <word_386 token="últimos" lemma="último" pos="adj" features="M=P" sentenca="17" />
+    <word_387 token="50" lemma="" pos="num" features="M=P" sentenca="17" />
+    <word_388 token="anos" lemma="ano" pos="n" features="M=P" sentenca="17" />
+    <word_389 token="." lemma="." pos="." features="-" sentenca="17" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="0...2" nucleo="Igreja" sintagma="A Igreja Católica" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_0 token="A" lemma="o" pos="art" features="F=S" />
+        <word_1 token="Igreja" lemma="igreja" pos="n" features="F=S" />
+        <word_2 token="Católica" lemma="católico" pos="adj" features="F=S" />
+      </sn>
+      <sn id="20" tokens="74...75" nucleo="Igreja" sintagma="a Igreja" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_74 token="a" lemma="o" pos="art" features="F=S" />
+        <word_75 token="Igreja" lemma="igreja" pos="n" features="F=S" />
+      </sn>
+      <sn id="26" tokens="96...97" nucleo="Igreja" sintagma="a Igreja" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_96 token="a" lemma="o" pos="art" features="F=S" />
+        <word_97 token="Igreja" lemma="igreja" pos="n" features="F=S" />
+      </sn>
+      <sn id="36" tokens="129...129" nucleo="Igreja" sintagma="Igreja" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_129 token="Igreja" lemma="igreja" pos="n" features="F=S" />
+      </sn>
+      <sn id="97" tokens="342...344" nucleo="Igreja" sintagma="a Igreja Católica" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="16">
+        <word_342 token="a" lemma="o" pos="art" features="F=S" />
+        <word_343 token="Igreja" lemma="igreja" pos="n" features="F=S" />
+        <word_344 token="Católica" lemma="católico" pos="adj" features="F=S" />
+      </sn>
+      <sn id="102" tokens="363...365" nucleo="Igreja" sintagma="a própria Igreja" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="17">
+        <word_363 token="a" lemma="o" pos="art" features="F=S" />
+        <word_364 token="própria" lemma="próprio" pos="adj" features="F=S" />
+        <word_365 token="Igreja" lemma="igreja" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_1>
+      <sn id="1" tokens="5...7" nucleo="acordo" sintagma="um acordo financeiro" Categoria="OUTRO" sentenca="1">
+        <word_5 token="um" lemma="um" pos="art" features="M=S" />
+        <word_6 token="acordo" lemma="acordo" pos="n" features="M=S" />
+        <word_7 token="financeiro" lemma="financeiro" pos="adj" features="M=S" />
+      </sn>
+      <sn id="41" tokens="145...146" nucleo="acordo" sintagma="o acordo" Categoria="OUTRO" sentenca="4">
+        <word_145 token="o" lemma="o" pos="art" features="M=S" />
+        <word_146 token="acordo" lemma="acordo" pos="n" features="M=S" />
+      </sn>
+      <sn id="43" tokens="153...157" nucleo="resultado" sintagma="o resultado de as negociações" Categoria="OUTRO" sentenca="5">
+        <word_153 token="o" lemma="o" pos="art" features="M=S" />
+        <word_154 token="resultado" lemma="resultado" pos="n" features="M=S" />
+        <word_155 token="de" lemma="de" pos="prp" features="-" />
+        <word_156 token="as" lemma="o" pos="art" features="F=P" />
+        <word_157 token="negociações" lemma="negociação, negociar" pos="n" features="F=P" />
+      </sn>
+      <sn id="53" tokens="200...201" nucleo="resultado" sintagma="o resultado" Categoria="OUTRO" sentenca="6">
+        <word_200 token="o" lemma="o" pos="art" features="M=S" />
+        <word_201 token="resultado" lemma="resultado" pos="n" features="M=S" />
+      </sn>
+      <sn id="68" tokens="254...255" nucleo="acordo" sintagma="o acordo" Categoria="OUTRO" sentenca="10">
+        <word_254 token="o" lemma="o" pos="art" features="M=S" />
+        <word_255 token="acordo" lemma="acordo" pos="n" features="M=S" />
+      </sn>
+      <sn id="83" tokens="298...299" nucleo="acordo" sintagma="o acordo" Categoria="OUTRO" sentenca="12">
+        <word_298 token="o" lemma="o" pos="art" features="M=S" />
+        <word_299 token="acordo" lemma="acordo" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_1>
+    <Cadeia_31>
+      <sn id="46" tokens="169...170" nucleo="corte" sintagma="a corte" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+        <word_169 token="a" lemma="o" pos="art" features="F=S" />
+        <word_170 token="corte" lemma="corte" pos="n" features="F=S" />
+      </sn>
+      <sn id="56" tokens="212...213" nucleo="corte" sintagma="a corte" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_212 token="a" lemma="o" pos="art" features="F=S" />
+        <word_213 token="corte" lemma="corte" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_31>
+    <Cadeia_34>
+      <sn id="49" tokens="179...187" nucleo="vítimas" sintagma="Uma de as supostas vítimas em o processo" Categoria="PESSOA" sentenca="6">
+        <word_179 token="Uma" lemma="um" pos="num" features="F=S" />
+        <word_180 token="de" lemma="de" pos="prp" features="-" />
+        <word_181 token="as" lemma="o" pos="art" features="F=P" />
+        <word_182 token="supostas" lemma="supor" pos="v-pcp" features="F=P" />
+        <word_183 token="vítimas" lemma="vítima" pos="n" features="F=P" />
+        <word_184 token="em" lemma="em" pos="prp" features="-" />
+        <word_185 token="o" lemma="o" pos="art" features="M=S" />
+        <word_186 token="processo" lemma="processo" pos="n" features="M=S" />
+        <word_187 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="51" tokens="188...188" nucleo="Steven_Sanchez" sintagma="Steven Sanchez" Categoria="PESSOA" sentenca="6">
+        <word_188 token="Steven_Sanchez" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_34>
+    <Cadeia_57>
+      <sn id="6" tokens="20...22" nucleo="pessoas" sintagma="mais de 500 pessoas" Categoria="PESSOA" sentenca="1">
+        <word_20 token="mais_de" lemma="" pos="adv" features="-" />
+        <word_21 token="500" lemma="" pos="num" features="F=P" />
+        <word_22 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+      </sn>
+      <sn id="7" tokens="23...23" nucleo="que" sintagma="que" Categoria="PESSOA" sentenca="1">
+        <word_23 token="que" lemma="que" pos="pron-indp" features="F=P" />
+      </sn>
+      <sn id="8" tokens="27...32" nucleo="vítimas" sintagma="vítimas de abuso sexual por padres" Categoria="PESSOA" sentenca="1">
+        <word_27 token="vítimas" lemma="vítima" pos="n" features="F=P" />
+        <word_28 token="de" lemma="de" pos="prp" features="-" />
+        <word_29 token="abuso" lemma="abuso" pos="n" features="M=S" />
+        <word_30 token="sexual" lemma="sexual" pos="adj" features="M=S" />
+        <word_31 token="por" lemma="por" pos="prp" features="-" />
+        <word_32 token="padres" lemma="padre" pos="n-adj" features="M=P" />
+      </sn>
+      <sn id="14" tokens="48...50" nucleo="vítimas" sintagma="as supostas vítimas" Categoria="PESSOA" sentenca="2">
+        <word_48 token="as" lemma="o" pos="art" features="F=P" />
+        <word_49 token="supostas" lemma="supor" pos="v-pcp" features="F=P" />
+        <word_50 token="vítimas" lemma="vítima" pos="n" features="F=P" />
+      </sn>
+      <sn id="62" tokens="237...238" nucleo="vítimas" sintagma="as vítimas" Categoria="PESSOA" sentenca="8">
+        <word_237 token="as" lemma="o" pos="art" features="F=P" />
+        <word_238 token="vítimas" lemma="vítima" pos="n" features="F=P" />
+      </sn>
+      <sn id="86" tokens="308...309" nucleo="vítimas" sintagma="as vítimas" Categoria="PESSOA" sentenca="12">
+        <word_308 token="as" lemma="o" pos="art" features="F=P" />
+        <word_309 token="vítimas" lemma="vítima" pos="n" features="F=P" />
+      </sn>
+      <sn id="89" tokens="318...319" nucleo="vítimas" sintagma="As vítimas" Categoria="PESSOA" sentenca="14">
+        <word_318 token="As" lemma="o" pos="art" features="F=P" />
+        <word_319 token="vítimas" lemma="vítima" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_57>
+    <Cadeia_58>
+      <sn id="2" tokens="10...12" nucleo="US$" sintagma="US$ 660 milhões" Categoria="OUTRO" sentenca="1">
+        <word_10 token="US$" lemma="" pos="n" features="M=P" />
+        <word_11 token="660" lemma="" pos="num" features="M=P" />
+        <word_12 token="milhões" lemma="" pos="n" features="M=P" />
+      </sn>
+      <sn id="4" tokens="14...17" nucleo="R$" sintagma=" aproximadamente R$ 1,2 bilhão " Categoria="OUTRO" sentenca="1">
+        <word_14 token="aproximadamente" lemma="aproximadamente, aproximar" pos="adv" features="-" />
+        <word_15 token="R$" lemma="" pos="n" features="M=P" />
+        <word_16 token="1,2" lemma="" pos="num" features="M=S" />
+        <word_17 token="bilhão" lemma="" pos="n" features="M=S" />
+      </sn>
+      <sn id="16" tokens="55...56" nucleo="indenização" sintagma="a indenização" Categoria="OUTRO" sentenca="2">
+        <word_55 token="a" lemma="o" pos="art" features="F=S" />
+        <word_56 token="indenização" lemma="" pos="n" features="F=S" />
+      </sn>
+      <sn id="19" tokens="68...70" nucleo="pagamento" sintagma="o maior pagamento" Categoria="OUTRO" sentenca="3">
+        <word_68 token="o" lemma="o" pos="art" features="M=S" />
+        <word_69 token="maior" lemma="maior" pos="adj" features="M=S" />
+        <word_70 token="pagamento" lemma="pagar" pos="n" features="M=S" />
+      </sn>
+      <sn id="82" tokens="294...296" nucleo="valor" sintagma="o valor recorde" Categoria="OUTRO" sentenca="12">
+        <word_294 token="o" lemma="o" pos="art" features="M=S" />
+        <word_295 token="valor" lemma="valor" pos="n" features="M=S" />
+        <word_296 token="recorde" lemma="" pos="adj" features="M=S" />
+      </sn>
+    </Cadeia_58>
+    <Cadeia_59>
+      <sn id="76" tokens="280...280" nucleo="David_Clohessy" sintagma="David Clohessy" Categoria="PESSOA" sentenca="12">
+        <word_280 token="David_Clohessy" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="77" tokens="282...291" nucleo="diretor" sintagma="diretor de a Rede de Sobreviventes a Abusos_Cometidos por Padres" Categoria="PESSOA" sentenca="12">
+        <word_282 token="diretor" lemma="diretor" pos="n" features="M=S" />
+        <word_283 token="de" lemma="de" pos="prp" features="-" />
+        <word_284 token="a" lemma="o" pos="art" features="F=S" />
+        <word_285 token="Rede" lemma="rede" pos="n" features="F=S" />
+        <word_286 token="de" lemma="de" pos="prp" features="-" />
+        <word_287 token="Sobreviventes" lemma="" pos="prop" features="M=S" />
+        <word_288 token="a" lemma="a" pos="prp" features="-" />
+        <word_289 token="Abusos_Cometidos" lemma="" pos="prop" features="M=S" />
+        <word_290 token="por" lemma="por" pos="prp" features="-" />
+        <word_291 token="Padres" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_59>
+    <Cadeia_60>
+      <sn id="42" tokens="148...149" nucleo="diocese" sintagma="A diocese" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+        <word_148 token="A" lemma="o" pos="art" features="F=S" />
+        <word_149 token="diocese" lemma="diocese" pos="n" features="F=S" />
+      </sn>
+      <sn id="55" tokens="209...210" nucleo="arquidiocese" sintagma="a arquidiocese" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_209 token="a" lemma="o" pos="art" features="F=S" />
+        <word_210 token="arquidiocese" lemma="arquidiocese" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_60>
+    <Cadeia_8>
+      <sn id="11" tokens="37...38" nucleo="Estados_Unidos" sintagma="os Estados Unidos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_37 token="os" lemma="o" pos="art" features="M=P" />
+        <word_38 token="Estados_Unidos" lemma="" pos="prop" features="M=P" />
+      </sn>
+      <sn id="27" tokens="102...103" nucleo="Estados_Unidos" sintagma="os Estados Unidos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_102 token="os" lemma="o" pos="art" features="M=P" />
+        <word_103 token="Estados_Unidos" lemma="" pos="prop" features="M=P" />
+      </sn>
+      <sn id="104" tokens="375...376" nucleo="Estados_Unidos" sintagma="os Estados Unidos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="17">
+        <word_375 token="os" lemma="o" pos="art" features="M=P" />
+        <word_376 token="Estados_Unidos" lemma="" pos="prop" features="M=P" />
+      </sn>
+    </Cadeia_8>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="10" tokens="34...34" nucleo="Los_Angeles" sintagma="Los Angeles" Categoria="--" sentenca="1">
+      <word_34 token="Los_Angeles" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="12" tokens="40...41" nucleo="informação" sintagma="A informação" Categoria="--" sentenca="2">
+      <word_40 token="A" lemma="o" pos="art" features="F=S" />
+      <word_41 token="informação" lemma="informação, informar" pos="n" features="F=S" />
+    </sn>
+    <sn id="13" tokens="45...46" nucleo="advogado" sintagma="o advogado" Categoria="--" sentenca="2">
+      <word_45 token="o" lemma="o" pos="art" features="M=S" />
+      <word_46 token="advogado" lemma="advogado" pos="n" features="M=S" />
+    </sn>
+    <sn id="15" tokens="52...52" nucleo="Ray_Boucher" sintagma="Ray Boucher" Categoria="--" sentenca="2">
+      <word_52 token="Ray_Boucher" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="17" tokens="63...64" nucleo="juiz" sintagma="um juiz" Categoria="--" sentenca="2">
+      <word_63 token="um" lemma="um" pos="art" features="M=S" />
+      <word_64 token="juiz" lemma="juiz" pos="n" features="M=S" />
+    </sn>
+    <sn id="18" tokens="66...66" nucleo="Este" sintagma="Este" Categoria="--" sentenca="3">
+      <word_66 token="Este" lemma="este" pos="pron-det" features="M=S" />
+    </sn>
+    <sn id="21" tokens="77...77" nucleo="que" sintagma="que" Categoria="--" sentenca="3">
+      <word_77 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="22" tokens="79...83" nucleo="escândalo" sintagma="o escândalo de abuso sexual" Categoria="--" sentenca="3">
+      <word_79 token="o" lemma="o" pos="art" features="M=S" />
+      <word_80 token="escândalo" lemma="escândalo" pos="n" features="M=S" />
+      <word_81 token="de" lemma="de" pos="prp" features="-" />
+      <word_82 token="abuso" lemma="abuso" pos="n" features="M=S" />
+      <word_83 token="sexual" lemma="sexual" pos="adj" features="M=S" />
+    </sn>
+    <sn id="23" tokens="82...83" nucleo="abuso" sintagma="abuso sexual" Categoria="--" sentenca="3">
+      <word_82 token="abuso" lemma="abuso" pos="n" features="M=S" />
+      <word_83 token="sexual" lemma="sexual" pos="adj" features="M=S" />
+    </sn>
+    <sn id="24" tokens="90...93" nucleo="total" sintagma="o total de indenizações" Categoria="--" sentenca="3">
+      <word_90 token="o" lemma="o" pos="art" features="M=S" />
+      <word_91 token="total" lemma="total" pos="n" features="M=S" />
+      <word_92 token="de" lemma="de" pos="prp" features="-" />
+      <word_93 token="indenizações" lemma="" pos="n" features="F=P" />
+    </sn>
+    <sn id="25" tokens="93...93" nucleo="indenizações" sintagma="indenizações" Categoria="--" sentenca="3">
+      <word_93 token="indenizações" lemma="" pos="n" features="F=P" />
+    </sn>
+    <sn id="28" tokens="106...106" nucleo="US$" sintagma="US$" Categoria="--" sentenca="3">
+      <word_106 token="US$" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="30" tokens="110...110" nucleo="R$" sintagma="R$" Categoria="--" sentenca="3">
+      <word_110 token="R$" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="32" tokens="116...117" nucleo="carta" sintagma="uma carta" Categoria="--" sentenca="4">
+      <word_116 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_117 token="carta" lemma="carta" pos="n" features="F=S" />
+    </sn>
+    <sn id="33" tokens="121...122" nucleo="seus" sintagma="seus paroquianos" Categoria="--" sentenca="4">
+      <word_121 token="seus" lemma="seu" pos="pron-det" features="M=P" />
+      <word_122 token="paroquianos" lemma="paroquiano" pos="n" features="M=P" />
+    </sn>
+    <sn id="34" tokens="124...126" nucleo="cardeal" sintagma="o cardeal Roger Mahony" Categoria="--" sentenca="4">
+      <word_124 token="o" lemma="o" pos="art" features="M=S" />
+      <word_125 token="cardeal" lemma="cardeal" pos="n" features="M=S" />
+      <word_126 token="Roger_Mahony" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="37" tokens="131...132" nucleo="prédios" sintagma="prédios administrativos" Categoria="--" sentenca="4">
+      <word_131 token="prédios" lemma="prédio" pos="n" features="M=P" />
+      <word_132 token="administrativos" lemma="administrativo" pos="adj" features="M=P" />
+    </sn>
+    <sn id="38" tokens="135...141" nucleo="venda" sintagma="a venda de outras 50 propriedades para" Categoria="--" sentenca="4">
+      <word_135 token="a" lemma="o" pos="art" features="F=S" />
+      <word_136 token="venda" lemma="venda" pos="n" features="F=S" />
+      <word_137 token="de" lemma="de" pos="prp" features="-" />
+      <word_138 token="outras" lemma="outro" pos="pron-det" features="F=P" />
+      <word_139 token="50" lemma="" pos="num" features="F=P" />
+      <word_140 token="propriedades" lemma="propriedade" pos="n" features="F=P" />
+      <word_141 token="para" lemma="para" pos="prp" features="-" />
+    </sn>
+    <sn id="39" tokens="138...140" nucleo="outras" sintagma="outras 50 propriedades" Categoria="--" sentenca="4">
+      <word_138 token="outras" lemma="outro" pos="pron-det" features="F=P" />
+      <word_139 token="50" lemma="" pos="num" features="F=P" />
+      <word_140 token="propriedades" lemma="propriedade" pos="n" features="F=P" />
+    </sn>
+    <sn id="40" tokens="143...146" nucleo="fundos" sintagma="fundos para o acordo" Categoria="--" sentenca="4">
+      <word_143 token="fundos" lemma="fundo" pos="n" features="M=P" />
+      <word_144 token="para" lemma="para" pos="prp" features="-" />
+      <word_145 token="o" lemma="o" pos="art" features="M=S" />
+      <word_146 token="acordo" lemma="acordo" pos="n" features="M=S" />
+    </sn>
+    <sn id="44" tokens="156...157" nucleo="negociações" sintagma="as negociações" Categoria="--" sentenca="5">
+      <word_156 token="as" lemma="o" pos="art" features="F=P" />
+      <word_157 token="negociações" lemma="negociação, negociar" pos="n" features="F=P" />
+    </sn>
+    <sn id="45" tokens="162...165" nucleo="Igreja" sintagma="integrantes de a Igreja" Categoria="--" sentenca="5">
+      <word_162 token="integrantes" lemma="integrante, integrar" pos="n-adj" features="M=P" />
+      <word_163 token="de" lemma="de" pos="prp" features="-" />
+      <word_164 token="a" lemma="o" pos="art" features="F=S" />
+      <word_165 token="Igreja" lemma="igreja" pos="n" features="F=S" />
+    </sn>
+    <sn id="47" tokens="172...173" nucleo="manhã" sintagma="a manhã" Categoria="--" sentenca="5">
+      <word_172 token="a" lemma="o" pos="art" features="F=S" />
+      <word_173 token="manhã" lemma="manhã" pos="n" features="F=S" />
+    </sn>
+    <sn id="48" tokens="175...177" nucleo="segunda-feira" sintagma="a próxima segunda-feira" Categoria="--" sentenca="5">
+      <word_175 token="a" lemma="o" pos="art" features="F=S" />
+      <word_176 token="próxima" lemma="próximo" pos="adj" features="F=S" />
+      <word_177 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="50" tokens="185...186" nucleo="processo" sintagma="o processo" Categoria="--" sentenca="6">
+      <word_185 token="o" lemma="o" pos="art" features="M=S" />
+      <word_186 token="processo" lemma="processo" pos="n" features="M=S" />
+    </sn>
+    <sn id="52" tokens="193...198" nucleo="mesmo" sintagma="o mesmo tempo aliviado e desapontado" Categoria="--" sentenca="6">
+      <word_193 token="o" lemma="o" pos="art" features="M=S" />
+      <word_194 token="mesmo" lemma="mesmo" pos="pron-det" features="M=S" />
+      <word_195 token="tempo" lemma="tempo" pos="n" features="M=S" />
+      <word_196 token="aliviado" lemma="aliviar" pos="v-pcp" features="M=S" />
+      <word_197 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_198 token="desapontado" lemma="desapontar" pos="v-pcp" features="M=S" />
+    </sn>
+    <sn id="54" tokens="203...203" nucleo="Eu" sintagma="Eu" Categoria="--" sentenca="7">
+      <word_203 token="Eu" lemma="eu" pos="pron-pers" features="M=1S=NOM" />
+    </sn>
+    <sn id="57" tokens="215...215" nucleo="menos" sintagma="menos" Categoria="--" sentenca="7">
+      <word_215 token="menos" lemma="menos" pos="pron-det" features="M=P" />
+    </sn>
+    <sn id="59" tokens="223...224" nucleo="todas" sintagma="que " Categoria="--" sentenca="7">
+      <word_223 token="que" lemma="que" pos="conj-s" features="-" />
+      <word_224 token="todas" lemma="todo" pos="pron-det" features="F=P" />
+    </sn>
+    <sn id="60" tokens="229...230" nucleo="compensação" sintagma="uma compensação" Categoria="--" sentenca="7">
+      <word_229 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_230 token="compensação" lemma="compensar" pos="n" features="F=S" />
+    </sn>
+    <sn id="61" tokens="233...233" nucleo="ele" sintagma="ele" Categoria="--" sentenca="7">
+      <word_233 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+    </sn>
+    <sn id="63" tokens="240...243" nucleo="algum" sintagma="algum tipo de conforto" Categoria="--" sentenca="8">
+      <word_240 token="algum" lemma="algum" pos="pron-det" features="M=S" />
+      <word_241 token="tipo" lemma="tipo" pos="n" features="M=S" />
+      <word_242 token="de" lemma="de" pos="prp" features="-" />
+      <word_243 token="conforto" lemma="conforto" pos="n" features="M=S" />
+    </sn>
+    <sn id="64" tokens="243...243" nucleo="conforto" sintagma="conforto" Categoria="--" sentenca="8">
+      <word_243 token="conforto" lemma="conforto" pos="n" features="M=S" />
+    </sn>
+    <sn id="65" tokens="245...246" nucleo="esse" sintagma="esse processo" Categoria="--" sentenca="8">
+      <word_245 token="esse" lemma="esse" pos="pron-det" features="M=S" />
+      <word_246 token="processo" lemma="processo" pos="n" features="M=S" />
+    </sn>
+    <sn id="66" tokens="249...251" nucleo="advogado" sintagma="O advogado Ray Boucher" Categoria="--" sentenca="10">
+      <word_249 token="O" lemma="o" pos="art" features="M=S" />
+      <word_250 token="advogado" lemma="advogado" pos="n" features="M=S" />
+      <word_251 token="Ray_Boucher" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="67" tokens="251...251" nucleo="Ray_Boucher" sintagma="Ray Boucher" Categoria="--" sentenca="10">
+      <word_251 token="Ray_Boucher" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="69" tokens="258...262" nucleo="divulgação" sintagma="a divulgação de arquivos pessoais" Categoria="--" sentenca="10">
+      <word_258 token="a" lemma="o" pos="art" features="F=S" />
+      <word_259 token="divulgação" lemma="divulgar" pos="n" features="F=S" />
+      <word_260 token="de" lemma="de" pos="prp" features="-" />
+      <word_261 token="arquivos" lemma="arquivo" pos="n" features="M=P" />
+      <word_262 token="pessoais" lemma="pessoal" pos="adj" features="M=P" />
+    </sn>
+    <sn id="70" tokens="261...262" nucleo="arquivos" sintagma="arquivos pessoais" Categoria="--" sentenca="10">
+      <word_261 token="arquivos" lemma="arquivo" pos="n" features="M=P" />
+      <word_262 token="pessoais" lemma="pessoal" pos="adj" features="M=P" />
+    </sn>
+    <sn id="71" tokens="265...266" nucleo="padres" sintagma="os padres" Categoria="--" sentenca="10">
+      <word_265 token="os" lemma="o" pos="art" features="M=P" />
+      <word_266 token="padres" lemma="padre" pos="n" features="M=P" />
+    </sn>
+    <sn id="72" tokens="268...269" nucleo="transparência" sintagma="A transparência" Categoria="--" sentenca="11">
+      <word_268 token="A" lemma="o" pos="art" features="F=S" />
+      <word_269 token="transparência" lemma="transparência" pos="n" features="F=S" />
+    </sn>
+    <sn id="73" tokens="271...274" nucleo="parte" sintagma="parte fundamental de isso" Categoria="--" sentenca="11">
+      <word_271 token="parte" lemma="parte" pos="n" features="F=S" />
+      <word_272 token="fundamental" lemma="fundamental" pos="adj" features="F=S" />
+      <word_273 token="de" lemma="de" pos="prp" features="-" />
+      <word_274 token="isso" lemma="isso" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="74" tokens="274...274" nucleo="isso" sintagma="isso" Categoria="--" sentenca="11">
+      <word_274 token="isso" lemma="isso" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="75" tokens="277...277" nucleo="Boucher" sintagma="Boucher" Categoria="--" sentenca="11">
+      <word_277 token="Boucher" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="78" tokens="284...285" nucleo="Rede" sintagma="a Rede" Categoria="--" sentenca="12">
+      <word_284 token="a" lemma="o" pos="art" features="F=S" />
+      <word_285 token="Rede" lemma="rede" pos="n" features="F=S" />
+    </sn>
+    <sn id="79" tokens="287...287" nucleo="Sobreviventes" sintagma="Sobreviventes" Categoria="--" sentenca="12">
+      <word_287 token="Sobreviventes" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="80" tokens="289...289" nucleo="Abusos_Cometidos" sintagma="Abusos Cometidos" Categoria="--" sentenca="12">
+      <word_289 token="Abusos_Cometidos" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="81" tokens="291...291" nucleo="Padres" sintagma="Padres" Categoria="--" sentenca="12">
+      <word_291 token="Padres" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="84" tokens="301...301" nucleo="dinheiro" sintagma="dinheiro" Categoria="--" sentenca="12">
+      <word_301 token="dinheiro" lemma="dinheiro" pos="n" features="M=S" />
+    </sn>
+    <sn id="85" tokens="304...309" nucleo="objetivo" sintagma="o objetivo principal de as vítimas" Categoria="--" sentenca="12">
+      <word_304 token="o" lemma="o" pos="art" features="M=S" />
+      <word_305 token="objetivo" lemma="objetivo" pos="n" features="M=S" />
+      <word_306 token="principal" lemma="principal" pos="adj" features="M=S" />
+      <word_307 token="de" lemma="de" pos="prp" features="-" />
+      <word_308 token="as" lemma="o" pos="art" features="F=P" />
+      <word_309 token="vítimas" lemma="vítima" pos="n" features="F=P" />
+    </sn>
+    <sn id="87" tokens="313...316" nucleo="questão" sintagma="uma questão de dinheiro" Categoria="--" sentenca="13">
+      <word_313 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_314 token="questão" lemma="questão" pos="n" features="F=S" />
+      <word_315 token="de" lemma="de" pos="prp" features="-" />
+      <word_316 token="dinheiro" lemma="dinheiro" pos="n" features="M=S" />
+    </sn>
+    <sn id="90" tokens="321...329" nucleo="conforto" sintagma="conforto , prevenção , conclusão , prestação de contas" Categoria="--" sentenca="14">
+      <word_321 token="conforto" lemma="conforto" pos="n" features="M=S" />
+      <word_322 token="," lemma="" pos="," features="-" />
+      <word_323 token="prevenção" lemma="prevenção" pos="n" features="F=S" />
+      <word_324 token="," lemma="" pos="," features="-" />
+      <word_325 token="conclusão" lemma="conclusão" pos="n" features="F=S" />
+      <word_326 token="," lemma="" pos="," features="-" />
+      <word_327 token="prestação" lemma="prestar" pos="n" features="F=S" />
+      <word_328 token="de" lemma="de" pos="prp" features="-" />
+      <word_329 token="contas" lemma="conta" pos="n" features="F=P" />
+    </sn>
+    <sn id="91" tokens="323...323" nucleo="prevenção" sintagma="prevenção" Categoria="--" sentenca="14">
+      <word_323 token="prevenção" lemma="prevenção" pos="n" features="F=S" />
+    </sn>
+    <sn id="92" tokens="325...325" nucleo="conclusão" sintagma="conclusão" Categoria="--" sentenca="14">
+      <word_325 token="conclusão" lemma="conclusão" pos="n" features="F=S" />
+    </sn>
+    <sn id="93" tokens="327...327" nucleo="prestação" sintagma="prestação" Categoria="--" sentenca="14">
+      <word_327 token="prestação" lemma="prestar" pos="n" features="F=S" />
+    </sn>
+    <sn id="94" tokens="329...329" nucleo="contas" sintagma="contas" Categoria="--" sentenca="14">
+      <word_329 token="contas" lemma="conta" pos="n" features="F=P" />
+    </sn>
+    <sn id="95" tokens="335...337" nucleo="mil" sintagma="cerca de mil pessoas" Categoria="--" sentenca="16">
+      <word_335 token="cerca_de" lemma="" pos="adv" features="-" />
+      <word_336 token="mil" lemma="" pos="n" features="F=P" />
+      <word_337 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+    </sn>
+    <sn id="96" tokens="339...344" nucleo="ações" sintagma="com ações contra a Igreja Católica" Categoria="--" sentenca="16">
+      <word_339 token="com" lemma="com" pos="prp" features="-" />
+      <word_340 token="ações" lemma="ação" pos="n" features="F=P" />
+      <word_341 token="contra" lemma="contra" pos="prp" features="-" />
+      <word_342 token="a" lemma="o" pos="art" features="F=S" />
+      <word_343 token="Igreja" lemma="igreja" pos="n" features="F=S" />
+      <word_344 token="Católica" lemma="católico" pos="adj" features="F=S" />
+    </sn>
+    <sn id="98" tokens="347...349" nucleo="estado" sintagma="o estado americano" Categoria="--" sentenca="16">
+      <word_347 token="o" lemma="o" pos="art" features="M=S" />
+      <word_348 token="estado" lemma="estado" pos="n" features="M=S" />
+      <word_349 token="americano" lemma="americano" pos="adj" features="M=S" />
+    </sn>
+    <sn id="99" tokens="351...352" nucleo="Califórnia" sintagma="a Califórnia" Categoria="--" sentenca="16">
+      <word_351 token="a" lemma="o" pos="art" features="F=S" />
+      <word_352 token="Califórnia" lemma="Califórnia" pos="prop" features="M=S" />
+    </sn>
+    <sn id="100" tokens="355...355" nucleo="fevereiro" sintagma="fevereiro" Categoria="--" sentenca="17">
+      <word_355 token="fevereiro" lemma="fevereiro" pos="n" features="M=S" />
+    </sn>
+    <sn id="101" tokens="359...360" nucleo="relatório" sintagma="um relatório" Categoria="--" sentenca="17">
+      <word_359 token="um" lemma="um" pos="art" features="M=S" />
+      <word_360 token="relatório" lemma="relatório" pos="n" features="M=S" />
+    </sn>
+    <sn id="105" tokens="382...383" nucleo="abuso" sintagma="abuso sexual" Categoria="--" sentenca="17">
+      <word_382 token="abuso" lemma="abuso" pos="n" features="M=S" />
+      <word_383 token="sexual" lemma="sexual" pos="adj" features="M=S" />
+    </sn>
+    <sn id="106" tokens="385...388" nucleo="anos" sintagma="os últimos 50 anos" Categoria="--" sentenca="17">
+      <word_385 token="os" lemma="o" pos="art" features="M=P" />
+      <word_386 token="últimos" lemma="último" pos="adj" features="M=P" />
+      <word_387 token="50" lemma="" pos="num" features="M=P" />
+      <word_388 token="anos" lemma="ano" pos="n" features="M=P" />
+    </sn>
+    <sn id="9" tokens="29...30" nucleo="abuso" sintagma="abuso sexual" Categoria="--" sentenca="1">
+      <word_29 token="abuso" lemma="abuso" pos="n" features="M=S" />
+      <word_30 token="sexual" lemma="sexual" pos="adj" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

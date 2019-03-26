@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="Astrônomos de o Observatório_Europeu_Austral , localizado em o Chile , anunciaram a descoberta de uma dupla de planetas errantes ( sem estrela-mãe ) que giram a o redor de eles mesmos e que vagam livremente por o espaço . Esta é a primeira vez que se observam dois corpos celestes unidos por a gravidade de planetas flutuantes livres ( free floating planets , em inglês ) . O maior corpo celeste , com uma massa sete vezes maior de o que a de Júpiter , foi detectado a cerca_de 400 anos-luz de nosso sistema solar . O fato extraordinário é que ele não gira em_volta_de uma estrela , mas em torno de outro corpo frio com o dobro de sua massa . Ray_Jayawardhana , de a Universidade_de_Toronto , e Valentin_Ivanov , de o Observatório_Europeu_Austral , publicarão a descoberta em a Science_Express , site de a revista Science . Durante os últimos cinco anos , os astrônomos identificaram algumas dúzias de objetos com massas inferiores , flutuando livres em as proximidades de regiões de formação estelar próximas , a os quais chamam de planemos , mas nunca até agora unidos . Este é um par de gêmeos verdadeiramente de destaque , já_que cada um tem uma massa de apenas 1 % de nosso Sol , declarou Jayawardhana . Sua mera existência é uma surpresa e sua origem e seu futuro são um mistério , declarou ." />
+  <Sentencas>
+    <sentenca_1 conteudo="Astrônomos de o Observatório Europeu Austral, localizado em o Chile, anunciaram a descoberta de uma dupla de planetas errantes (sem estrela-mãe) que giram ao redor deles mesmos e que vagam livremente por o espaço." />
+    <sentenca_2 conteudo="Esta é a primeira vez que se observam dois corpos celestes unidos por a gravidade de planetas flutuantes livres (free floating planets, em inglês)." />
+    <sentenca_3 conteudo="O maior corpo celeste, com uma massa sete vezes maior de o que a de Júpiter, foi detectado a cerca de 400 anos-luz de nosso sistema solar." />
+    <sentenca_4 conteudo="O fato extraordinário é que ele não gira em volta de uma estrela, mas em torno de outro corpo frio com o dobro de sua massa." />
+    <sentenca_5 conteudo="Ray Jayawardhana, de a Universidade de Toronto, e Valentin Ivanov, de o Observatório Europeu Austral, publicarão a descoberta em a Science Express, site de a revista Science." />
+    <sentenca_6 conteudo="Durante os últimos cinco anos, os astrônomos identificaram algumas dúzias de objetos com massas inferiores, flutuando livres em as proximidades de regiões de formação estelar próximas, aos quais chamam de planemos, mas nunca até agora unidos." />
+    <sentenca_7 conteudo="Este é um par de gêmeos verdadeiramente de destaque, já que cada um tem uma massa de apenas 1% de nosso Sol, declarou Jayawardhana." />
+    <sentenca_8 conteudo="Sua mera existência é uma surpresa e sua origem e seu futuro são um mistério, declarou." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="Astrônomos" lemma="astrônomo" pos="n" features="M=P" sentenca="1" />
+    <word_1 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_2 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_3 token="Observatório_Europeu_Austral" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_4 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_5 token="localizado" lemma="localizar" pos="v-pcp" features="M=S" sentenca="1" />
+    <word_6 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_7 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_8 token="Chile" lemma="Chile" pos="prop" features="M=S" sentenca="1" />
+    <word_9 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_10 token="anunciaram" lemma="anunciar" pos="v-fin" features="PS=3P=IND" sentenca="1" />
+    <word_11 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_12 token="descoberta" lemma="descoberta" pos="n" features="F=S" sentenca="1" />
+    <word_13 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_14 token="uma" lemma="um" pos="art" features="F=S" sentenca="1" />
+    <word_15 token="dupla" lemma="duplo" pos="n" features="F=S" sentenca="1" />
+    <word_16 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_17 token="planetas" lemma="planeta" pos="n" features="M=P" sentenca="1" />
+    <word_18 token="errantes" lemma="errante, errar" pos="adj" features="M=P" sentenca="1" />
+    <word_19 token="(" lemma="(" pos="(" features="-" sentenca="1" />
+    <word_20 token="sem" lemma="sem" pos="prp" features="-" sentenca="1" />
+    <word_21 token="estrela-mãe" lemma="" pos="n" features="F=S" sentenca="1" />
+    <word_22 token=")" lemma=")" pos=")" features="-" sentenca="1" />
+    <word_23 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="1" />
+    <word_24 token="giram" lemma="girar, gerir" pos="v-fin" features="PR=3P=IND" sentenca="1" />
+    <word_25 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_26 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_27 token="redor" lemma="redor" pos="n" features="M=S" sentenca="1" />
+    <word_28 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_29 token="eles" lemma="ele" pos="pron-pers" features="M=3P=NOM" sentenca="1" />
+    <word_30 token="mesmos" lemma="mesmo" pos="pron-det" features="M=P" sentenca="1" />
+    <word_31 token="e" lemma="e" pos="conj-c" features="-" sentenca="1" />
+    <word_32 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="1" />
+    <word_33 token="vagam" lemma="vagar" pos="v-fin" features="PR=3P=IND" sentenca="1" />
+    <word_34 token="livremente" lemma="livremente" pos="adv" features="-" sentenca="1" />
+    <word_35 token="por" lemma="por" pos="prp" features="-" sentenca="1" />
+    <word_36 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_37 token="espaço" lemma="espaço" pos="n" features="M=S" sentenca="1" />
+    <word_38 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_39 token="Esta" lemma="este" pos="pron-det" features="F=S" sentenca="2" />
+    <word_40 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_41 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_42 token="primeira" lemma="" pos="adj" features="F=S" sentenca="2" />
+    <word_43 token="vez" lemma="vez" pos="n" features="F=S" sentenca="2" />
+    <word_44 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="2" />
+    <word_45 token="se" lemma="se" pos="pron-pers" features="M=3P=ACC" sentenca="2" />
+    <word_46 token="observam" lemma="observar" pos="v-fin" features="PR=3P=IND" sentenca="2" />
+    <word_47 token="dois" lemma="dois" pos="num" features="M=P" sentenca="2" />
+    <word_48 token="corpos" lemma="corpo" pos="n" features="M=P" sentenca="2" />
+    <word_49 token="celestes" lemma="celeste" pos="adj" features="M=P" sentenca="2" />
+    <word_50 token="unidos" lemma="unir" pos="v-pcp" features="M=P" sentenca="2" />
+    <word_51 token="por" lemma="por" pos="prp" features="-" sentenca="2" />
+    <word_52 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_53 token="gravidade" lemma="gravidade, grave" pos="n" features="F=S" sentenca="2" />
+    <word_54 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_55 token="planetas" lemma="planeta" pos="n" features="M=P" sentenca="2" />
+    <word_56 token="flutuantes" lemma="flutuante, flutuar" pos="adj" features="M=P" sentenca="2" />
+    <word_57 token="livres" lemma="livre" pos="adj" features="M=P" sentenca="2" />
+    <word_58 token="(" lemma="(" pos="(" features="-" sentenca="2" />
+    <word_59 token="free" lemma="" pos="n" features="F=S" sentenca="2" />
+    <word_60 token="floating" lemma="" pos="adj" features="F=S" sentenca="2" />
+    <word_61 token="planets" lemma="" pos="n" features="M=P" sentenca="2" />
+    <word_62 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_63 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_64 token="inglês" lemma="" pos="n" features="M=S" sentenca="2" />
+    <word_65 token=")" lemma=")" pos=")" features="-" sentenca="2" />
+    <word_66 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_67 token="O" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_68 token="maior" lemma="maior" pos="adj" features="M=S" sentenca="3" />
+    <word_69 token="corpo" lemma="corpo" pos="n" features="M=S" sentenca="3" />
+    <word_70 token="celeste" lemma="celeste" pos="adj" features="M=S" sentenca="3" />
+    <word_71 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_72 token="com" lemma="com" pos="prp" features="-" sentenca="3" />
+    <word_73 token="uma" lemma="um" pos="art" features="F=S" sentenca="3" />
+    <word_74 token="massa" lemma="massa" pos="n" features="F=S" sentenca="3" />
+    <word_75 token="sete" lemma="sete" pos="num" features="F=P" sentenca="3" />
+    <word_76 token="vezes" lemma="vez" pos="n" features="F=P" sentenca="3" />
+    <word_77 token="maior" lemma="maior" pos="adj" features="F=S" sentenca="3" />
+    <word_78 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_79 token="o" lemma="" pos="pron-det" features="M=S" sentenca="3" />
+    <word_80 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="3" />
+    <word_81 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_82 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_83 token="Júpiter" lemma="Júpiter" pos="prop" features="-" sentenca="3" />
+    <word_84 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_85 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="3" />
+    <word_86 token="detectado" lemma="" pos="v-pcp" features="M=S" sentenca="3" />
+    <word_87 token="a" lemma="a" pos="prp" features="-" sentenca="3" />
+    <word_88 token="cerca_de" lemma="" pos="adv" features="-" sentenca="3" />
+    <word_89 token="400" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_90 token="anos-luz" lemma="ano-luz" pos="n" features="M=P" sentenca="3" />
+    <word_91 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_92 token="nosso" lemma="nosso" pos="pron-det" features="M=S" sentenca="3" />
+    <word_93 token="sistema" lemma="sistema" pos="n" features="M=S" sentenca="3" />
+    <word_94 token="solar" lemma="solar" pos="adj" features="M=S" sentenca="3" />
+    <word_95 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_96 token="O" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_97 token="fato" lemma="fato" pos="n" features="M=S" sentenca="4" />
+    <word_98 token="extraordinário" lemma="extraordinário" pos="adj" features="M=S" sentenca="4" />
+    <word_99 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_100 token="que" lemma="que" pos="conj-s" features="-" sentenca="4" />
+    <word_101 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="4" />
+    <word_102 token="não" lemma="não" pos="adv" features="-" sentenca="4" />
+    <word_103 token="gira" lemma="girar, gerir" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_104 token="em_volta_de" lemma="" pos="prp" features="-" sentenca="4" />
+    <word_105 token="uma" lemma="um" pos="art" features="F=S" sentenca="4" />
+    <word_106 token="estrela" lemma="estrela" pos="n" features="F=S" sentenca="4" />
+    <word_107 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_108 token="mas" lemma="mas" pos="conj-c" features="-" sentenca="4" />
+    <word_109 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_110 token="torno" lemma="torno" pos="n" features="M=S" sentenca="4" />
+    <word_111 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_112 token="outro" lemma="outro" pos="pron-det" features="M=S" sentenca="4" />
+    <word_113 token="corpo" lemma="corpo" pos="n" features="M=S" sentenca="4" />
+    <word_114 token="frio" lemma="frio" pos="adj" features="M=S" sentenca="4" />
+    <word_115 token="com" lemma="com" pos="prp" features="-" sentenca="4" />
+    <word_116 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_117 token="dobro" lemma="" pos="n" features="M=S" sentenca="4" />
+    <word_118 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_119 token="sua" lemma="sua" pos="pron-det" features="F=S" sentenca="4" />
+    <word_120 token="massa" lemma="massa" pos="n" features="F=S" sentenca="4" />
+    <word_121 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_122 token="Ray_Jayawardhana" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_123 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_124 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_125 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_126 token="Universidade_de_Toronto" lemma="" pos="prop" features="F=S" sentenca="5" />
+    <word_127 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_128 token="e" lemma="e" pos="conj-c" features="-" sentenca="5" />
+    <word_129 token="Valentin_Ivanov" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_130 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_131 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_132 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_133 token="Observatório_Europeu_Austral" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_134 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_135 token="publicarão" lemma="publicar" pos="v-fin" features="FUT=3P=IND" sentenca="5" />
+    <word_136 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_137 token="descoberta" lemma="descoberta" pos="n" features="F=S" sentenca="5" />
+    <word_138 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_139 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_140 token="Science_Express" lemma="" pos="prop" features="F=S" sentenca="5" />
+    <word_141 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_142 token="site" lemma="site" pos="n" features="M=S" sentenca="5" />
+    <word_143 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_144 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_145 token="revista" lemma="revista" pos="n" features="F=S" sentenca="5" />
+    <word_146 token="Science" lemma="" pos="prop" features="F=S" sentenca="5" />
+    <word_147 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_148 token="Durante" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_149 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_150 token="últimos" lemma="último" pos="adj" features="M=P" sentenca="6" />
+    <word_151 token="cinco" lemma="cinco" pos="num" features="M=P" sentenca="6" />
+    <word_152 token="anos" lemma="ano" pos="n" features="M=P" sentenca="6" />
+    <word_153 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_154 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_155 token="astrônomos" lemma="astrônomo" pos="n" features="M=P" sentenca="6" />
+    <word_156 token="identificaram" lemma="identificar" pos="v-fin" features="MQP=3P=IND" sentenca="6" />
+    <word_157 token="algumas" lemma="algum" pos="pron-det" features="F=P" sentenca="6" />
+    <word_158 token="dúzias" lemma="dúzia" pos="n" features="F=P" sentenca="6" />
+    <word_159 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_160 token="objetos" lemma="objeto" pos="n" features="M=P" sentenca="6" />
+    <word_161 token="com" lemma="com" pos="prp" features="-" sentenca="6" />
+    <word_162 token="massas" lemma="massa" pos="n" features="F=P" sentenca="6" />
+    <word_163 token="inferiores" lemma="inferior" pos="adj" features="F=P" sentenca="6" />
+    <word_164 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_165 token="flutuando" lemma="flutuar" pos="v-ger" features="-" sentenca="6" />
+    <word_166 token="livres" lemma="livre" pos="adj" features="M=P" sentenca="6" />
+    <word_167 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_168 token="as" lemma="o" pos="art" features="F=P" sentenca="6" />
+    <word_169 token="proximidades" lemma="proximidade" pos="n" features="F=P" sentenca="6" />
+    <word_170 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_171 token="regiões" lemma="região" pos="n" features="F=P" sentenca="6" />
+    <word_172 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_173 token="formação" lemma="formação, formar" pos="n" features="F=S" sentenca="6" />
+    <word_174 token="estelar" lemma="estelar" pos="adj" features="F=S" sentenca="6" />
+    <word_175 token="próximas" lemma="próximo" pos="adj" features="F=P" sentenca="6" />
+    <word_176 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_177 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_178 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_179 token="quais" lemma="qual" pos="pron-det" features="M=P" sentenca="6" />
+    <word_180 token="chamam" lemma="chamar" pos="v-fin" features="PR=3P=IND" sentenca="6" />
+    <word_181 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_182 token="planemos" lemma="planar" pos="v-fin" features="PR=1P=SUBJ" sentenca="6" />
+    <word_183 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_184 token="mas" lemma="mas" pos="conj-c" features="-" sentenca="6" />
+    <word_185 token="nunca" lemma="nunca" pos="adv" features="-" sentenca="6" />
+    <word_186 token="até" lemma="até" pos="prp" features="-" sentenca="6" />
+    <word_187 token="agora" lemma="agora" pos="adv" features="-" sentenca="6" />
+    <word_188 token="unidos" lemma="unir" pos="v-pcp" features="M=P" sentenca="6" />
+    <word_189 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_190 token="Este" lemma="este" pos="pron-det" features="M=S" sentenca="7" />
+    <word_191 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="7" />
+    <word_192 token="um" lemma="um" pos="art" features="M=S" sentenca="7" />
+    <word_193 token="par" lemma="" pos="n" features="M=S" sentenca="7" />
+    <word_194 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_195 token="gêmeos" lemma="gêmeo" pos="n" features="M=P" sentenca="7" />
+    <word_196 token="verdadeiramente" lemma="verdadeiro" pos="adv" features="-" sentenca="7" />
+    <word_197 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_198 token="destaque" lemma="destaque" pos="n" features="M=S" sentenca="7" />
+    <word_199 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_200 token="já_que" lemma="" pos="conj-s" features="-" sentenca="7" />
+    <word_201 token="cada" lemma="cada" pos="pron-det" features="M=S" sentenca="7" />
+    <word_202 token="um" lemma="um" pos="art" features="M=S" sentenca="7" />
+    <word_203 token="tem" lemma="ter" pos="v-fin" features="PR=3S=IND" sentenca="7" />
+    <word_204 token="uma" lemma="um" pos="art" features="F=S" sentenca="7" />
+    <word_205 token="massa" lemma="massa" pos="n" features="F=S" sentenca="7" />
+    <word_206 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_207 token="apenas" lemma="apenas" pos="adv" features="-" sentenca="7" />
+    <word_208 token="1" lemma="" pos="num" features="M=S" sentenca="7" />
+    <word_209 token="%" lemma="" pos="n" features="M=P" sentenca="7" />
+    <word_210 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_211 token="nosso" lemma="nosso" pos="pron-det" features="M=S" sentenca="7" />
+    <word_212 token="Sol" lemma="sol" pos="n" features="M=S" sentenca="7" />
+    <word_213 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_214 token="declarou" lemma="declarar" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_215 token="Jayawardhana" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_216 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_217 token="Sua" lemma="sua" pos="pron-det" features="F=S" sentenca="8" />
+    <word_218 token="mera" lemma="mero" pos="adj" features="F=S" sentenca="8" />
+    <word_219 token="existência" lemma="existência" pos="n" features="F=S" sentenca="8" />
+    <word_220 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="8" />
+    <word_221 token="uma" lemma="um" pos="art" features="F=S" sentenca="8" />
+    <word_222 token="surpresa" lemma="surpresa" pos="n" features="F=S" sentenca="8" />
+    <word_223 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_224 token="sua" lemma="sua" pos="pron-det" features="F=S" sentenca="8" />
+    <word_225 token="origem" lemma="origem" pos="n" features="F=S" sentenca="8" />
+    <word_226 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_227 token="seu" lemma="seu" pos="pron-det" features="M=S" sentenca="8" />
+    <word_228 token="futuro" lemma="futuro" pos="n" features="M=S" sentenca="8" />
+    <word_229 token="são" lemma="ser" pos="v-fin" features="PR=3P=IND" sentenca="8" />
+    <word_230 token="um" lemma="um" pos="art" features="M=S" sentenca="8" />
+    <word_231 token="mistério" lemma="mistério" pos="n" features="M=S" sentenca="8" />
+    <word_232 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_233 token="declarou" lemma="declarar" pos="v-fin" features="PS=3S=IND" sentenca="8" />
+    <word_234 token="." lemma="." pos="." features="-" sentenca="8" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="0...0" nucleo="Astrônomos" sintagma="Astrônomos" Categoria="PESSOA" sentenca="1">
+        <word_0 token="Astrônomos" lemma="astrônomo" pos="n" features="M=P" />
+      </sn>
+      <sn id="48" tokens="154...155" nucleo="astrônomos" sintagma="os astrônomos" Categoria="PESSOA" sentenca="6">
+        <word_154 token="os" lemma="o" pos="art" features="M=P" />
+        <word_155 token="astrônomos" lemma="astrônomo" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_1>
+      <sn id="1" tokens="2...3" nucleo="Observatório_Europeu_Austral" sintagma="o Observatório Europeu Austral" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_2 token="o" lemma="o" pos="art" features="M=S" />
+        <word_3 token="Observatório_Europeu_Austral" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="40" tokens="132...133" nucleo="Observatório_Europeu_Austral" sintagma="o Observatório Europeu Austral" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+        <word_132 token="o" lemma="o" pos="art" features="M=S" />
+        <word_133 token="Observatório_Europeu_Austral" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_1>
+    <Cadeia_13>
+      <sn id="13" tokens="39...39" nucleo="Esta" sintagma="Esta" Categoria="OUTRO" sentenca="2">
+        <word_39 token="Esta" lemma="este" pos="pron-det" features="F=S" />
+      </sn>
+      <sn id="14" tokens="41...43" nucleo="vez" sintagma="a primeira vez" Categoria="ORGANIZAÇÃO|LOCAL/HIDRO" sentenca="2">
+        <word_41 token="a" lemma="o" pos="art" features="F=S" />
+        <word_42 token="primeira" lemma="" pos="adj" features="F=S" />
+        <word_43 token="vez" lemma="vez" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_13>
+    <Cadeia_18>
+      <sn id="19" tokens="55...57" nucleo="planetas" sintagma="planetas flutuantes livres" Categoria="OUTROS_SERES" sentenca="2">
+        <word_55 token="planetas" lemma="planeta" pos="n" features="M=P" />
+        <word_56 token="flutuantes" lemma="flutuante, flutuar" pos="adj" features="M=P" />
+        <word_57 token="livres" lemma="livre" pos="adj" features="M=P" />
+      </sn>
+      <sn id="20" tokens="59...64" nucleo="free" sintagma=" free floating planets , em inglês " Categoria="OUTROS_SERES" sentenca="2">
+        <word_59 token="free" lemma="" pos="n" features="F=S" />
+        <word_60 token="floating" lemma="" pos="adj" features="F=S" />
+        <word_61 token="planets" lemma="" pos="n" features="M=P" />
+        <word_62 token="," lemma="" pos="," features="-" />
+        <word_63 token="em" lemma="em" pos="prp" features="-" />
+        <word_64 token="inglês" lemma="" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_18>
+    <Cadeia_3>
+      <sn id="3" tokens="11...22" nucleo="descoberta" sintagma="a descoberta de uma dupla de planetas errantes ( sem estrela-mãe )" Categoria="OUTRO" sentenca="1">
+        <word_11 token="a" lemma="o" pos="art" features="F=S" />
+        <word_12 token="descoberta" lemma="descoberta" pos="n" features="F=S" />
+        <word_13 token="de" lemma="de" pos="prp" features="-" />
+        <word_14 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_15 token="dupla" lemma="duplo" pos="n" features="F=S" />
+        <word_16 token="de" lemma="de" pos="prp" features="-" />
+        <word_17 token="planetas" lemma="planeta" pos="n" features="M=P" />
+        <word_18 token="errantes" lemma="errante, errar" pos="adj" features="M=P" />
+        <word_19 token="(" lemma="(" pos="(" features="-" />
+        <word_20 token="sem" lemma="sem" pos="prp" features="-" />
+        <word_21 token="estrela-mãe" lemma="" pos="n" features="F=S" />
+        <word_22 token=")" lemma=")" pos=")" features="-" />
+      </sn>
+      <sn id="41" tokens="136...137" nucleo="descoberta" sintagma="a descoberta" Categoria="OUTRO" sentenca="5">
+        <word_136 token="a" lemma="o" pos="art" features="F=S" />
+        <word_137 token="descoberta" lemma="descoberta" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_3>
+    <Cadeia_34>
+      <sn id="37" tokens="122...134" nucleo="Ray_Jayawardhana" sintagma="Ray Jayawardhana , de a Universidade de Toronto , e Valentin Ivanov , de o Observatório Europeu Austral" Categoria="PESSOA" sentenca="5">
+        <word_122 token="Ray_Jayawardhana" lemma="" pos="prop" features="M=S" />
+        <word_123 token="," lemma="" pos="," features="-" />
+        <word_124 token="de" lemma="de" pos="prp" features="-" />
+        <word_125 token="a" lemma="o" pos="art" features="F=S" />
+        <word_126 token="Universidade_de_Toronto" lemma="" pos="prop" features="F=S" />
+        <word_127 token="," lemma="" pos="," features="-" />
+        <word_128 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_129 token="Valentin_Ivanov" lemma="" pos="prop" features="M=S" />
+        <word_130 token="," lemma="" pos="," features="-" />
+        <word_131 token="de" lemma="de" pos="prp" features="-" />
+        <word_132 token="o" lemma="o" pos="art" features="M=S" />
+        <word_133 token="Observatório_Europeu_Austral" lemma="" pos="prop" features="M=S" />
+        <word_134 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="64" tokens="215...215" nucleo="Jayawardhana" sintagma="Jayawardhana" Categoria="PESSOA" sentenca="7">
+        <word_215 token="Jayawardhana" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_34>
+    <Cadeia_38>
+      <sn id="44" tokens="144...145" nucleo="revista" sintagma="a revista" Categoria="COMUNICAÇÃO" sentenca="5">
+        <word_144 token="a" lemma="o" pos="art" features="F=S" />
+        <word_145 token="revista" lemma="revista" pos="n" features="F=S" />
+      </sn>
+      <sn id="45" tokens="146...146" nucleo="Science" sintagma="Science" Categoria="COMUNICAÇÃO" sentenca="5">
+        <word_146 token="Science" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_38>
+    <Cadeia_47>
+      <sn id="56" tokens="190...190" nucleo="Este" sintagma="Este" Categoria="OUTROS_SERES" sentenca="7">
+        <word_190 token="Este" lemma="este" pos="pron-det" features="M=S" />
+      </sn>
+      <sn id="57" tokens="192...195" nucleo="par" sintagma="um par de gêmeos" Categoria="OUTROS_SERES" sentenca="7">
+        <word_192 token="um" lemma="um" pos="art" features="M=S" />
+        <word_193 token="par" lemma="" pos="n" features="M=S" />
+        <word_194 token="de" lemma="de" pos="prp" features="-" />
+        <word_195 token="gêmeos" lemma="gêmeo" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_47>
+    <Cadeia_53>
+      <sn id="65" tokens="217...219" nucleo="Sua" sintagma="Sua mera existência" Categoria="OUTRO" sentenca="8">
+        <word_217 token="Sua" lemma="sua" pos="pron-det" features="F=S" />
+        <word_218 token="mera" lemma="mero" pos="adj" features="F=S" />
+        <word_219 token="existência" lemma="existência" pos="n" features="F=S" />
+      </sn>
+      <sn id="66" tokens="221...228" nucleo="surpresa" sintagma="uma surpresa e sua origem e seu futuro" Categoria="OUTRO" sentenca="8">
+        <word_221 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_222 token="surpresa" lemma="surpresa" pos="n" features="F=S" />
+        <word_223 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_224 token="sua" lemma="sua" pos="pron-det" features="F=S" />
+        <word_225 token="origem" lemma="origem" pos="n" features="F=S" />
+        <word_226 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_227 token="seu" lemma="seu" pos="pron-det" features="M=S" />
+        <word_228 token="futuro" lemma="futuro" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_53>
+    <Cadeia_55>
+      <sn id="4" tokens="14...15" nucleo="dupla" sintagma="uma dupla" Categoria="OUTROS_SERES" sentenca="1">
+        <word_14 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_15 token="dupla" lemma="duplo" pos="n" features="F=S" />
+      </sn>
+      <sn id="5" tokens="17...18" nucleo="planetas" sintagma="planetas errantes" Categoria="OUTROS_SERES" sentenca="1">
+        <word_17 token="planetas" lemma="planeta" pos="n" features="M=P" />
+        <word_18 token="errantes" lemma="errante, errar" pos="adj" features="M=P" />
+      </sn>
+      <sn id="8" tokens="29...29" nucleo="eles" sintagma="eles" Categoria="OUTROS_SERES" sentenca="1">
+        <word_29 token="eles" lemma="ele" pos="pron-pers" features="M=3P=NOM" />
+      </sn>
+      <sn id="9" tokens="30...30" nucleo="mesmos" sintagma="mesmos" Categoria="OUTROS_SERES" sentenca="1">
+        <word_30 token="mesmos" lemma="mesmo" pos="pron-det" features="M=P" />
+      </sn>
+      <sn id="17" tokens="47...49" nucleo="corpos" sintagma="dois corpos celestes" Categoria="OUTROS_SERES" sentenca="2">
+        <word_47 token="dois" lemma="dois" pos="num" features="M=P" />
+        <word_48 token="corpos" lemma="corpo" pos="n" features="M=P" />
+        <word_49 token="celestes" lemma="celeste" pos="adj" features="M=P" />
+      </sn>
+      <sn id="58" tokens="195...195" nucleo="gêmeos" sintagma="gêmeos" Categoria="OUTROS_SERES" sentenca="7">
+        <word_195 token="gêmeos" lemma="gêmeo" pos="n" features="M=P" />
+      </sn>
+      <sn id="60" tokens="201...202" nucleo="cada" sintagma="cada um" Categoria="OUTROS_SERES" sentenca="7">
+        <word_201 token="cada" lemma="cada" pos="pron-det" features="M=S" />
+        <word_202 token="um" lemma="um" pos="art" features="M=S" />
+      </sn>
+      <sn id="67" tokens="224...225" nucleo="sua" sintagma="sua origem" Categoria="OUTROS_SERES" sentenca="8">
+        <word_224 token="sua" lemma="sua" pos="pron-det" features="F=S" />
+        <word_225 token="origem" lemma="origem" pos="n" features="F=S" />
+      </sn>
+      <sn id="68" tokens="227...228" nucleo="seu" sintagma="seu futuro" Categoria="OUTROS_SERES" sentenca="8">
+        <word_227 token="seu" lemma="seu" pos="pron-det" features="M=S" />
+        <word_228 token="futuro" lemma="futuro" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_55>
+    <Cadeia_57>
+      <sn id="23" tokens="67...84" nucleo="corpo" sintagma="O maior corpo celeste , com uma massa sete vezes maior de o que a de Júpiter" Categoria="OUTROS_SERES" sentenca="3">
+        <word_67 token="O" lemma="o" pos="art" features="M=S" />
+        <word_68 token="maior" lemma="maior" pos="adj" features="M=S" />
+        <word_69 token="corpo" lemma="corpo" pos="n" features="M=S" />
+        <word_70 token="celeste" lemma="celeste" pos="adj" features="M=S" />
+        <word_71 token="," lemma="" pos="," features="-" />
+        <word_72 token="com" lemma="com" pos="prp" features="-" />
+        <word_73 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_74 token="massa" lemma="massa" pos="n" features="F=S" />
+        <word_75 token="sete" lemma="sete" pos="num" features="F=P" />
+        <word_76 token="vezes" lemma="vez" pos="n" features="F=P" />
+        <word_77 token="maior" lemma="maior" pos="adj" features="F=S" />
+        <word_78 token="de" lemma="de" pos="prp" features="-" />
+        <word_79 token="o" lemma="" pos="pron-det" features="M=S" />
+        <word_80 token="que" lemma="que" pos="pron-indp" features="M=S" />
+        <word_81 token="a" lemma="o" pos="art" features="F=S" />
+        <word_82 token="de" lemma="de" pos="prp" features="-" />
+        <word_83 token="Júpiter" lemma="Júpiter" pos="prop" features="-" />
+        <word_84 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="31" tokens="101...101" nucleo="ele" sintagma="ele" Categoria="OUTROS_SERES" sentenca="4">
+        <word_101 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+      </sn>
+      <sn id="36" tokens="119...120" nucleo="sua" sintagma="sua massa" Categoria="OUTROS_SERES" sentenca="4">
+        <word_119 token="sua" lemma="sua" pos="pron-det" features="F=S" />
+        <word_120 token="massa" lemma="massa" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_57>
+    <Cadeia_58>
+      <sn id="10" tokens="23...23" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="1">
+        <word_23 token="que" lemma="que" pos="pron-indp" features="M=P" />
+      </sn>
+      <sn id="11" tokens="32...32" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="1">
+        <word_32 token="que" lemma="que" pos="pron-indp" features="M=P" />
+      </sn>
+      <sn id="15" tokens="44...44" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="2">
+        <word_44 token="que" lemma="que" pos="pron-indp" features="F=S" />
+      </sn>
+      <sn id="26" tokens="80...80" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="3">
+        <word_80 token="que" lemma="que" pos="pron-indp" features="M=S" />
+      </sn>
+    </Cadeia_58>
+    <Cadeia_6>
+      <sn id="6" tokens="21...21" nucleo="estrela-mãe" sintagma="estrela-mãe" Categoria="OUTROS_SERES" sentenca="1">
+        <word_21 token="estrela-mãe" lemma="" pos="n" features="F=S" />
+      </sn>
+      <sn id="32" tokens="105...106" nucleo="estrela" sintagma="uma estrela" Categoria="OUTROS_SERES" sentenca="4">
+        <word_105 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_106 token="estrela" lemma="estrela" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_6>
+    <Cadeia_60>
+      <sn id="42" tokens="139...140" nucleo="Science_Express" sintagma="a Science Express" Categoria="COMUNICAÇÃO" sentenca="5">
+        <word_139 token="a" lemma="o" pos="art" features="F=S" />
+        <word_140 token="Science_Express" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="43" tokens="142...142" nucleo="site" sintagma="site" Categoria="COMUNICAÇÃO" sentenca="5">
+        <word_142 token="site" lemma="site" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_60>
+    <Cadeia_61>
+      <sn id="49" tokens="157...160" nucleo="algumas" sintagma="algumas dúzias de objetos" Categoria="OUTRO" sentenca="6">
+        <word_157 token="algumas" lemma="algum" pos="pron-det" features="F=P" />
+        <word_158 token="dúzias" lemma="dúzia" pos="n" features="F=P" />
+        <word_159 token="de" lemma="de" pos="prp" features="-" />
+        <word_160 token="objetos" lemma="objeto" pos="n" features="M=P" />
+      </sn>
+      <sn id="50" tokens="160...160" nucleo="objetos" sintagma="objetos" Categoria="OUTRO" sentenca="6">
+        <word_160 token="objetos" lemma="objeto" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_61>
+    <Cadeia_7>
+      <sn id="7" tokens="26...27" nucleo="redor" sintagma="o redor" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_26 token="o" lemma="o" pos="art" features="M=S" />
+        <word_27 token="redor" lemma="redor" pos="n" features="M=S" />
+      </sn>
+      <sn id="52" tokens="168...169" nucleo="proximidades" sintagma="as proximidades" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_168 token="as" lemma="o" pos="art" features="F=P" />
+        <word_169 token="proximidades" lemma="proximidade" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_7>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="16" tokens="45...45" nucleo="se" sintagma="se" Categoria="OUTRO" sentenca="2">
+      <word_45 token="se" lemma="se" pos="pron-pers" features="M=3P=ACC" />
+    </sn>
+    <sn id="18" tokens="52...53" nucleo="gravidade" sintagma="a gravidade" Categoria="OUTRO" sentenca="2">
+      <word_52 token="a" lemma="o" pos="art" features="F=S" />
+      <word_53 token="gravidade" lemma="gravidade, grave" pos="n" features="F=S" />
+    </sn>
+    <sn id="21" tokens="61...61" nucleo="planets" sintagma="planets" Categoria="OUTRO" sentenca="2">
+      <word_61 token="planets" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="22" tokens="64...64" nucleo="inglês" sintagma="inglês" Categoria="ABSTRAÇÃO/DISC" sentenca="2">
+      <word_64 token="inglês" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="24" tokens="73...74" nucleo="massa" sintagma="uma massa" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="3">
+      <word_73 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_74 token="massa" lemma="massa" pos="n" features="F=S" />
+    </sn>
+    <sn id="25" tokens="75...77" nucleo="vezes" sintagma="sete vezes maior" Categoria="OUTRO" sentenca="3">
+      <word_75 token="sete" lemma="sete" pos="num" features="F=P" />
+      <word_76 token="vezes" lemma="vez" pos="n" features="F=P" />
+      <word_77 token="maior" lemma="maior" pos="adj" features="F=S" />
+    </sn>
+    <sn id="27" tokens="83...83" nucleo="Júpiter" sintagma="Júpiter" Categoria="OUTROS SERES/MITLG" sentenca="3">
+      <word_83 token="Júpiter" lemma="Júpiter" pos="prop" features="-" />
+    </sn>
+    <sn id="28" tokens="88...90" nucleo="anos-luz" sintagma="cerca de 400 anos-luz" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+      <word_88 token="cerca_de" lemma="" pos="adv" features="-" />
+      <word_89 token="400" lemma="" pos="num" features="M=P" />
+      <word_90 token="anos-luz" lemma="ano-luz" pos="n" features="M=P" />
+    </sn>
+    <sn id="29" tokens="92...94" nucleo="nosso" sintagma="nosso sistema solar" Categoria="OUTRO" sentenca="3">
+      <word_92 token="nosso" lemma="nosso" pos="pron-det" features="M=S" />
+      <word_93 token="sistema" lemma="sistema" pos="n" features="M=S" />
+      <word_94 token="solar" lemma="solar" pos="adj" features="M=S" />
+    </sn>
+    <sn id="30" tokens="96...98" nucleo="fato" sintagma="O fato extraordinário" Categoria="OUTRO" sentenca="4">
+      <word_96 token="O" lemma="o" pos="art" features="M=S" />
+      <word_97 token="fato" lemma="fato" pos="n" features="M=S" />
+      <word_98 token="extraordinário" lemma="extraordinário" pos="adj" features="M=S" />
+    </sn>
+    <sn id="33" tokens="110...110" nucleo="torno" sintagma="torno" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="4">
+      <word_110 token="torno" lemma="torno" pos="n" features="M=S" />
+    </sn>
+    <sn id="34" tokens="112...114" nucleo="outro" sintagma="outro corpo frio" Categoria="OUTRO" sentenca="4">
+      <word_112 token="outro" lemma="outro" pos="pron-det" features="M=S" />
+      <word_113 token="corpo" lemma="corpo" pos="n" features="M=S" />
+      <word_114 token="frio" lemma="frio" pos="adj" features="M=S" />
+    </sn>
+    <sn id="35" tokens="116...117" nucleo="dobro" sintagma="o dobro" Categoria="OUTRO" sentenca="4">
+      <word_116 token="o" lemma="o" pos="art" features="M=S" />
+      <word_117 token="dobro" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="38" tokens="125...126" nucleo="Universidade_de_Toronto" sintagma="a Universidade de Toronto" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+      <word_125 token="a" lemma="o" pos="art" features="F=S" />
+      <word_126 token="Universidade_de_Toronto" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="46" tokens="148...148" nucleo="Durante" sintagma="Durante" Categoria="OUTRO" sentenca="6">
+      <word_148 token="Durante" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="47" tokens="149...152" nucleo="anos" sintagma="os últimos cinco anos" Categoria="OUTRO" sentenca="6">
+      <word_149 token="os" lemma="o" pos="art" features="M=P" />
+      <word_150 token="últimos" lemma="último" pos="adj" features="M=P" />
+      <word_151 token="cinco" lemma="cinco" pos="num" features="M=P" />
+      <word_152 token="anos" lemma="ano" pos="n" features="M=P" />
+    </sn>
+    <sn id="51" tokens="162...163" nucleo="massas" sintagma="massas inferiores" Categoria="OUTRO" sentenca="6">
+      <word_162 token="massas" lemma="massa" pos="n" features="F=P" />
+      <word_163 token="inferiores" lemma="inferior" pos="adj" features="F=P" />
+    </sn>
+    <sn id="53" tokens="171...171" nucleo="regiões" sintagma="regiões" Categoria="COMUNICAÇÃO/RTT" sentenca="6">
+      <word_171 token="regiões" lemma="região" pos="n" features="F=P" />
+    </sn>
+    <sn id="54" tokens="173...175" nucleo="formação" sintagma="formação estelar próximas" Categoria="OUTRO" sentenca="6">
+      <word_173 token="formação" lemma="formação, formar" pos="n" features="F=S" />
+      <word_174 token="estelar" lemma="estelar" pos="adj" features="F=S" />
+      <word_175 token="próximas" lemma="próximo" pos="adj" features="F=P" />
+    </sn>
+    <sn id="55" tokens="178...179" nucleo="quais" sintagma="os quais" Categoria="OUTRO" sentenca="6">
+      <word_178 token="os" lemma="o" pos="art" features="M=P" />
+      <word_179 token="quais" lemma="qual" pos="pron-det" features="M=P" />
+    </sn>
+    <sn id="59" tokens="198...198" nucleo="destaque" sintagma="destaque" Categoria="OUTRO" sentenca="7">
+      <word_198 token="destaque" lemma="destaque" pos="n" features="M=S" />
+    </sn>
+    <sn id="61" tokens="204...212" nucleo="massa" sintagma="uma massa de apenas 1 % de nosso Sol" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="7">
+      <word_204 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_205 token="massa" lemma="massa" pos="n" features="F=S" />
+      <word_206 token="de" lemma="de" pos="prp" features="-" />
+      <word_207 token="apenas" lemma="apenas" pos="adv" features="-" />
+      <word_208 token="1" lemma="" pos="num" features="M=S" />
+      <word_209 token="%" lemma="" pos="n" features="M=P" />
+      <word_210 token="de" lemma="de" pos="prp" features="-" />
+      <word_211 token="nosso" lemma="nosso" pos="pron-det" features="M=S" />
+      <word_212 token="Sol" lemma="sol" pos="n" features="M=S" />
+    </sn>
+    <sn id="62" tokens="207...209" nucleo="%" sintagma="apenas 1 %" Categoria="OUTRO" sentenca="7">
+      <word_207 token="apenas" lemma="apenas" pos="adv" features="-" />
+      <word_208 token="1" lemma="" pos="num" features="M=S" />
+      <word_209 token="%" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="63" tokens="211...212" nucleo="nosso" sintagma="nosso Sol" Categoria="OUTRO" sentenca="7">
+      <word_211 token="nosso" lemma="nosso" pos="pron-det" features="M=S" />
+      <word_212 token="Sol" lemma="sol" pos="n" features="M=S" />
+    </sn>
+    <sn id="69" tokens="230...231" nucleo="mistério" sintagma="um mistério" Categoria="OUTRO" sentenca="8">
+      <word_230 token="um" lemma="um" pos="art" features="M=S" />
+      <word_231 token="mistério" lemma="mistério" pos="n" features="M=S" />
+    </sn>
+    <sn id="2" tokens="7...8" nucleo="Chile" sintagma="o Chile" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+      <word_7 token="o" lemma="o" pos="art" features="M=S" />
+      <word_8 token="Chile" lemma="Chile" pos="prop" features="M=S" />
+    </sn>
+    <sn id="12" tokens="36...37" nucleo="espaço" sintagma="o espaço" Categoria="OUTRO" sentenca="1">
+      <word_36 token="o" lemma="o" pos="art" features="M=S" />
+      <word_37 token="espaço" lemma="espaço" pos="n" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

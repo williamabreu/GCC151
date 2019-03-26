@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="O Itaú , segundo maior banco privado de o País , obteve lucro líquido de R$ 4,016 bilhões em o primeiro semestre de esse ano , superando o rival Bradesco e registrando o maior lucro entre bancos privados em os últimos 20 anos . em a segunda-feira , o Bradesco havia anunciado lucro de R$ 4,007 bilhões em o período . Em comparação com a receita obtida em os seis primeiros meses de 2006 , de R$ 2,958 bilhões , o lucro de o Itaú cresceu 36 % em este ano . em o segundo trimestre , a instituição financeira teve um lucro líquido de R$ 2,115 bilhões , contra R$ 1,498 bilhão em igual período de o ano anterior . A alta , de 41,2 % , foi impulsionada por a vendas de ativos e crescimento de a carteira de empréstimos . Esse resultado inclui entre outros efeitos não recorrentes as vendas de a participação acionária de o banco em a empresa de informações de crédito Serasa e de a sede de o BankBoston em São_Paulo e constituição de provisão para créditos de liquidação duvidosa excedente a o mínimo requerido de forma a permitir a absorção de eventuais aumentos de inadimplência ocasionados por forte reversão de o ciclo econômico em situações de stress , informou o Itaú . em o total , os efeitos não recorrentes foram de R$ 196 milhões de reais . O lucro líquido recorrente em o período foi de R$ 1,919 bilhão , comparado a R$ 1,477 bilhão em o segundo trimestre de 2006 . Em_relação_aos os primeiros três meses de o ano o resultado recorrente de a instituição cresceu 0,9 % . A carteira de crédito de o Itaú , incluindo avais e fianças , saltou de R$ 74,8 bilhões em junho de 2006 para R$ 104,8 bilhões a o final de o segundo trimestre de este ano , um salto de 40,2 % . em a comparação com os primeiros três meses de este ano , a carteira cresceu 3,7 % . O desempenho de a carteira foi puxado por financiamento de veículos , que cresceu 58,6 % em o período , e por crédito para micro , pequenas e médias empresas , que avançou 59,7 % . O retorno sobre o patrimônio líquido médio anualizado ficou em 32,8 % , abaixo de os 35,1 % há um ano . Se considerados bancos públicos e privados , o maior lucro entre janeiro e junho de os últimos 20 anos pertence a o Banco de o Brasil que em 2006 informou receita de R$ 4,032 bilhões ( valor ajustado por o IPCA até 30 de junho de 2007 ) ." />
+  <Sentencas>
+    <sentenca_1 conteudo="O Itaú, segundo maior banco privado de o País, obteve lucro líquido de R$ 4,016 bilhões em o primeiro semestre desse ano, superando o rival Bradesco e registrando o maior lucro entre bancos privados em os últimos 20 anos." />
+    <sentenca_2 conteudo="Na segunda-feira, o Bradesco havia anunciado lucro de R$ 4,007 bilhões em o período." />
+    <sentenca_3 conteudo="Em comparação com a receita obtida em os seis primeiros meses de 2006, de R$ 2,958 bilhões, o lucro de o Itaú cresceu 36% em ente ano." />
+    <sentenca_4 conteudo="No segundo trimestre, a instituição financeira teve um lucro líquido de R$ 2,115 bilhões, contra R$ 1,498 bilhão em igual período de o ano anterior." />
+    <sentenca_5 conteudo="A alta, de 41,2%, foi impulsionada por a vendas de ativos e crescimento de a carteira de empréstimos." />
+    <sentenca_6 conteudo="Esse resultado inclui entre outros efeitos não recorrentes as vendas de a participação acionária de o banco em a empresa de informações de crédito Serasa e de a sede de o BankBoston em São Paulo e constituição de provisão para créditos de liquidação duvidosa excedente ao mínimo requerido de forma a permitir a absorção de eventuais aumentos de inadimplência ocasionados por forte reversão de o ciclo econômico em situações de stress, informou o Itaú." />
+    <sentenca_7 conteudo="No total, os efeitos não recorrentes foram de R$ 196 milhões de reais." />
+    <sentenca_8 conteudo="O lucro líquido recorrente em o período foi de R$ 1,919 bilhão, comparado a R$ 1,477 bilhão em o segundo trimestre de 2006." />
+    <sentenca_9 conteudo="Em relação aos primeiros três meses de o ano o resultado recorrente de a instituição cresceu 0,9%." />
+    <sentenca_10 conteudo="A carteira de crédito de o Itaú, incluindo avais e fianças, saltou de R$ 74,8 bilhões em junho de 2006 para R$ 104,8 bilhões ao final de o segundo trimestre deste ano, um salto de 40,2%." />
+    <sentenca_11 conteudo="Na comparação com os primeiros três meses deste ano, a carteira cresceu 3,7%." />
+    <sentenca_12 conteudo="O desempenho de a carteira foi puxado por financiamento de veículos, que cresceu 58,6% em o período, e por crédito para micro, pequenas e médias empresas, que avançou 59,7%." />
+    <sentenca_13 conteudo="O retorno sobre o patrimônio líquido médio anualizado ficou em 32,8%, abaixo de os 35,1% há um ano." />
+    <sentenca_14 conteudo="Se considerados bancos públicos e privados, o maior lucro entre janeiro e junho de os últimos 20 anos pertence ao Banco de o Brasil que em 2006 informou receita de R$ 4,032 bilhões (valor ajustado por o IPCA até 30 de junho de 2007)." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="O" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="Itaú" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_2 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_3 token="segundo" lemma="segundo" pos="prp" features="-" sentenca="1" />
+    <word_4 token="maior" lemma="maior" pos="adj" features="F=S" sentenca="1" />
+    <word_5 token="banco" lemma="banco" pos="n" features="M=S" sentenca="1" />
+    <word_6 token="privado" lemma="privado" pos="adj" features="M=S" sentenca="1" />
+    <word_7 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_8 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_9 token="País" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_10 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_11 token="obteve" lemma="obter" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_12 token="lucro" lemma="lucro" pos="n" features="M=S" sentenca="1" />
+    <word_13 token="líquido" lemma="líquido" pos="adj" features="M=S" sentenca="1" />
+    <word_14 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_15 token="R$" lemma="" pos="n" features="M=P" sentenca="1" />
+    <word_16 token="4,016" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_17 token="bilhões" lemma="" pos="n" features="M=P" sentenca="1" />
+    <word_18 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_19 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_20 token="primeiro" lemma="primeiro" pos="adj" features="M=S" sentenca="1" />
+    <word_21 token="semestre" lemma="semestre" pos="n" features="M=S" sentenca="1" />
+    <word_22 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_23 token="esse" lemma="esse" pos="pron-det" features="M=S" sentenca="1" />
+    <word_24 token="ano" lemma="ano" pos="n" features="M=S" sentenca="1" />
+    <word_25 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_26 token="superando" lemma="superar" pos="v-ger" features="-" sentenca="1" />
+    <word_27 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_28 token="rival" lemma="rival" pos="n" features="M=S" sentenca="1" />
+    <word_29 token="Bradesco" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_30 token="e" lemma="e" pos="conj-c" features="-" sentenca="1" />
+    <word_31 token="registrando" lemma="" pos="v-ger" features="-" sentenca="1" />
+    <word_32 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_33 token="maior" lemma="maior" pos="adj" features="M=S" sentenca="1" />
+    <word_34 token="lucro" lemma="lucro" pos="n" features="M=S" sentenca="1" />
+    <word_35 token="entre" lemma="entre" pos="prp" features="-" sentenca="1" />
+    <word_36 token="bancos" lemma="banco" pos="n" features="M=P" sentenca="1" />
+    <word_37 token="privados" lemma="privar" pos="v-pcp" features="M=P" sentenca="1" />
+    <word_38 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_39 token="os" lemma="o" pos="art" features="M=P" sentenca="1" />
+    <word_40 token="últimos" lemma="último" pos="adj" features="M=P" sentenca="1" />
+    <word_41 token="20" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_42 token="anos" lemma="ano" pos="n" features="M=P" sentenca="1" />
+    <word_43 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_44 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_45 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_46 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" sentenca="2" />
+    <word_47 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_48 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_49 token="Bradesco" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_50 token="havia" lemma="haver" pos="v-fin" features="IMPF=3S=IND" sentenca="2" />
+    <word_51 token="anunciado" lemma="anunciar" pos="v-pcp" features="M=S" sentenca="2" />
+    <word_52 token="lucro" lemma="lucro" pos="n" features="M=S" sentenca="2" />
+    <word_53 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_54 token="R$" lemma="" pos="n" features="M=P" sentenca="2" />
+    <word_55 token="4,007" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_56 token="bilhões" lemma="" pos="n" features="M=P" sentenca="2" />
+    <word_57 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_58 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_59 token="período" lemma="período" pos="n" features="M=S" sentenca="2" />
+    <word_60 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_61 token="Em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_62 token="comparação" lemma="comparação, comparar" pos="n" features="F=S" sentenca="3" />
+    <word_63 token="com" lemma="com" pos="prp" features="-" sentenca="3" />
+    <word_64 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_65 token="receita" lemma="receita" pos="n" features="F=S" sentenca="3" />
+    <word_66 token="obtida" lemma="obter" pos="v-pcp" features="F=S" sentenca="3" />
+    <word_67 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_68 token="os" lemma="o" pos="art" features="M=P" sentenca="3" />
+    <word_69 token="seis" lemma="seis" pos="num" features="M=P" sentenca="3" />
+    <word_70 token="primeiros" lemma="" pos="adj" features="M=P" sentenca="3" />
+    <word_71 token="meses" lemma="mês" pos="n" features="M=P" sentenca="3" />
+    <word_72 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_73 token="2006" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_74 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_75 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_76 token="R$" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_77 token="2,958" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_78 token="bilhões" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_79 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_80 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_81 token="lucro" lemma="lucro" pos="n" features="M=S" sentenca="3" />
+    <word_82 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_83 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_84 token="Itaú" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_85 token="cresceu" lemma="crescer" pos="v-fin" features="PS=3S=IND" sentenca="3" />
+    <word_86 token="36" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_87 token="%" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_88 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_89 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="3" />
+    <word_90 token="ano" lemma="ano" pos="n" features="M=S" sentenca="3" />
+    <word_91 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_92 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_93 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_94 token="segundo" lemma="" pos="adj" features="M=S" sentenca="4" />
+    <word_95 token="trimestre" lemma="trimestre" pos="n" features="M=S" sentenca="4" />
+    <word_96 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_97 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_98 token="instituição" lemma="instituição, instituir" pos="n" features="F=S" sentenca="4" />
+    <word_99 token="financeira" lemma="financeiro" pos="adj" features="F=S" sentenca="4" />
+    <word_100 token="teve" lemma="ter" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_101 token="um" lemma="um" pos="art" features="M=S" sentenca="4" />
+    <word_102 token="lucro" lemma="lucro" pos="n" features="M=S" sentenca="4" />
+    <word_103 token="líquido" lemma="líquido" pos="adj" features="M=S" sentenca="4" />
+    <word_104 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_105 token="R$" lemma="" pos="n" features="M=P" sentenca="4" />
+    <word_106 token="2,115" lemma="" pos="num" features="M=P" sentenca="4" />
+    <word_107 token="bilhões" lemma="" pos="n" features="M=P" sentenca="4" />
+    <word_108 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_109 token="contra" lemma="contra" pos="prp" features="-" sentenca="4" />
+    <word_110 token="R$" lemma="" pos="n" features="M=S" sentenca="4" />
+    <word_111 token="1,498" lemma="" pos="num" features="M=S" sentenca="4" />
+    <word_112 token="bilhão" lemma="" pos="n" features="M=S" sentenca="4" />
+    <word_113 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_114 token="igual" lemma="igual" pos="adj" features="M=S" sentenca="4" />
+    <word_115 token="período" lemma="período" pos="n" features="M=S" sentenca="4" />
+    <word_116 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_117 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_118 token="ano" lemma="ano" pos="n" features="M=S" sentenca="4" />
+    <word_119 token="anterior" lemma="anterior" pos="adj" features="M=S" sentenca="4" />
+    <word_120 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_121 token="A" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_122 token="alta" lemma="alta, alto" pos="n" features="F=S" sentenca="5" />
+    <word_123 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_124 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_125 token="41,2" lemma="" pos="num" features="M=P" sentenca="5" />
+    <word_126 token="%" lemma="" pos="n" features="M=P" sentenca="5" />
+    <word_127 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_128 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="5" />
+    <word_129 token="impulsionada" lemma="impulsionar" pos="v-pcp" features="F=S" sentenca="5" />
+    <word_130 token="por" lemma="por" pos="prp" features="-" sentenca="5" />
+    <word_131 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_132 token="vendas" lemma="venda" pos="n" features="F=P" sentenca="5" />
+    <word_133 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_134 token="ativos" lemma="ativo" pos="n" features="M=P" sentenca="5" />
+    <word_135 token="e" lemma="e" pos="conj-c" features="-" sentenca="5" />
+    <word_136 token="crescimento" lemma="crescer" pos="n" features="M=S" sentenca="5" />
+    <word_137 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_138 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_139 token="carteira" lemma="carteira" pos="n" features="F=S" sentenca="5" />
+    <word_140 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_141 token="empréstimos" lemma="empréstimo" pos="n" features="M=P" sentenca="5" />
+    <word_142 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_143 token="Esse" lemma="esse" pos="pron-det" features="M=S" sentenca="6" />
+    <word_144 token="resultado" lemma="resultado" pos="n" features="M=S" sentenca="6" />
+    <word_145 token="inclui" lemma="incluir" pos="v-fin" features="PR=3S=IND" sentenca="6" />
+    <word_146 token="entre" lemma="entre" pos="prp" features="-" sentenca="6" />
+    <word_147 token="outros" lemma="outro" pos="pron-det" features="M=P" sentenca="6" />
+    <word_148 token="efeitos" lemma="efeito" pos="n" features="M=P" sentenca="6" />
+    <word_149 token="não" lemma="não" pos="adv" features="-" sentenca="6" />
+    <word_150 token="recorrentes" lemma="recorrer" pos="adj" features="F=P" sentenca="6" />
+    <word_151 token="as" lemma="o" pos="art" features="F=P" sentenca="6" />
+    <word_152 token="vendas" lemma="venda" pos="n" features="F=P" sentenca="6" />
+    <word_153 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_154 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_155 token="participação" lemma="participação, participar" pos="n" features="F=S" sentenca="6" />
+    <word_156 token="acionária" lemma="" pos="adj" features="F=S" sentenca="6" />
+    <word_157 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_158 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_159 token="banco" lemma="banco" pos="n" features="M=S" sentenca="6" />
+    <word_160 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_161 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_162 token="empresa" lemma="empresa" pos="n" features="F=S" sentenca="6" />
+    <word_163 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_164 token="informações" lemma="informar" pos="n" features="F=P" sentenca="6" />
+    <word_165 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_166 token="crédito" lemma="crédito" pos="n" features="M=S" sentenca="6" />
+    <word_167 token="Serasa" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_168 token="e" lemma="e" pos="conj-c" features="-" sentenca="6" />
+    <word_169 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_170 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_171 token="sede" lemma="sede" pos="n" features="F=S" sentenca="6" />
+    <word_172 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_173 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_174 token="BankBoston" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_175 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_176 token="São_Paulo" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_177 token="e" lemma="e" pos="conj-c" features="-" sentenca="6" />
+    <word_178 token="constituição" lemma="constituição, constituir" pos="n" features="F=S" sentenca="6" />
+    <word_179 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_180 token="provisão" lemma="provisão" pos="n" features="F=S" sentenca="6" />
+    <word_181 token="para" lemma="para" pos="prp" features="-" sentenca="6" />
+    <word_182 token="créditos" lemma="crédito" pos="n" features="M=P" sentenca="6" />
+    <word_183 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_184 token="liquidação" lemma="liquidar" pos="n" features="F=S" sentenca="6" />
+    <word_185 token="duvidosa" lemma="duvidoso" pos="adj" features="F=S" sentenca="6" />
+    <word_186 token="excedente" lemma="excedente, exceder" pos="adj" features="F=S" sentenca="6" />
+    <word_187 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_188 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_189 token="mínimo" lemma="mínimo" pos="n" features="M=S" sentenca="6" />
+    <word_190 token="requerido" lemma="requerer" pos="v-pcp" features="M=S" sentenca="6" />
+    <word_191 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_192 token="forma" lemma="forma" pos="n" features="F=S" sentenca="6" />
+    <word_193 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_194 token="permitir" lemma="permitir" pos="v-inf" features="-" sentenca="6" />
+    <word_195 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_196 token="absorção" lemma="absorção" pos="n" features="F=S" sentenca="6" />
+    <word_197 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_198 token="eventuais" lemma="eventual" pos="adj" features="M=P" sentenca="6" />
+    <word_199 token="aumentos" lemma="aumento" pos="n" features="M=P" sentenca="6" />
+    <word_200 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_201 token="inadimplência" lemma="" pos="n" features="F=S" sentenca="6" />
+    <word_202 token="ocasionados" lemma="ocasionar" pos="v-pcp" features="M=P" sentenca="6" />
+    <word_203 token="por" lemma="por" pos="prp" features="-" sentenca="6" />
+    <word_204 token="forte" lemma="forte" pos="n" features="M=S" sentenca="6" />
+    <word_205 token="reversão" lemma="reversão" pos="n" features="F=S" sentenca="6" />
+    <word_206 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_207 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_208 token="ciclo" lemma="ciclo" pos="n" features="M=S" sentenca="6" />
+    <word_209 token="econômico" lemma="econômico" pos="adj" features="M=S" sentenca="6" />
+    <word_210 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_211 token="situações" lemma="situação, situar" pos="n" features="F=P" sentenca="6" />
+    <word_212 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_213 token="stress" lemma="stress" pos="n" features="M=S" sentenca="6" />
+    <word_214 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_215 token="informou" lemma="informar" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_216 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_217 token="Itaú" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_218 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_219 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_220 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_221 token="total" lemma="total" pos="n" features="M=S" sentenca="7" />
+    <word_222 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_223 token="os" lemma="o" pos="art" features="M=P" sentenca="7" />
+    <word_224 token="efeitos" lemma="efeito" pos="n" features="M=P" sentenca="7" />
+    <word_225 token="não" lemma="não" pos="adv" features="-" sentenca="7" />
+    <word_226 token="recorrentes" lemma="recorrer" pos="adj" features="M=P" sentenca="7" />
+    <word_227 token="foram" lemma="ir, ser" pos="v-fin" features="MQP=3P=IND" sentenca="7" />
+    <word_228 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_229 token="R$" lemma="" pos="n" features="M=P" sentenca="7" />
+    <word_230 token="196" lemma="" pos="num" features="M=P" sentenca="7" />
+    <word_231 token="milhões" lemma="" pos="n" features="M=P" sentenca="7" />
+    <word_232 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_233 token="reais" lemma="real" pos="n" features="M=P" sentenca="7" />
+    <word_234 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_235 token="O" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_236 token="lucro" lemma="lucro" pos="n" features="M=S" sentenca="8" />
+    <word_237 token="líquido" lemma="líquido" pos="adj" features="M=S" sentenca="8" />
+    <word_238 token="recorrente" lemma="recorrente, recorrer" pos="adj" features="M=S" sentenca="8" />
+    <word_239 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_240 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_241 token="período" lemma="período" pos="n" features="M=S" sentenca="8" />
+    <word_242 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="8" />
+    <word_243 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_244 token="R$" lemma="" pos="n" features="M=S" sentenca="8" />
+    <word_245 token="1,919" lemma="" pos="num" features="M=S" sentenca="8" />
+    <word_246 token="bilhão" lemma="" pos="n" features="M=S" sentenca="8" />
+    <word_247 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_248 token="comparado" lemma="comparar" pos="v-pcp" features="M=S" sentenca="8" />
+    <word_249 token="a" lemma="a" pos="prp" features="-" sentenca="8" />
+    <word_250 token="R$" lemma="" pos="n" features="M=S" sentenca="8" />
+    <word_251 token="1,477" lemma="" pos="num" features="M=S" sentenca="8" />
+    <word_252 token="bilhão" lemma="" pos="n" features="M=S" sentenca="8" />
+    <word_253 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_254 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_255 token="segundo" lemma="" pos="adj" features="M=S" sentenca="8" />
+    <word_256 token="trimestre" lemma="trimestre" pos="n" features="M=S" sentenca="8" />
+    <word_257 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_258 token="2006" lemma="" pos="num" features="M=P" sentenca="8" />
+    <word_259 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_260 token="Em_relação_aos" lemma="" pos="prp" features="-" sentenca="9" />
+    <word_261 token="os" lemma="o" pos="art" features="M=P" sentenca="9" />
+    <word_262 token="primeiros" lemma="" pos="adj" features="M=P" sentenca="9" />
+    <word_263 token="três" lemma="três" pos="num" features="M=P" sentenca="9" />
+    <word_264 token="meses" lemma="mês" pos="n" features="M=P" sentenca="9" />
+    <word_265 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_266 token="o" lemma="" pos="pron-det" features="M=S" sentenca="9" />
+    <word_267 token="ano" lemma="ano" pos="n" features="M=S" sentenca="9" />
+    <word_268 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_269 token="resultado" lemma="resultado" pos="n" features="M=S" sentenca="9" />
+    <word_270 token="recorrente" lemma="recorrente, recorrer" pos="adj" features="M=S" sentenca="9" />
+    <word_271 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_272 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_273 token="instituição" lemma="instituição, instituir" pos="n" features="F=S" sentenca="9" />
+    <word_274 token="cresceu" lemma="crescer" pos="v-fin" features="PS=3S=IND" sentenca="9" />
+    <word_275 token="0,9" lemma="" pos="num" features="M=P" sentenca="9" />
+    <word_276 token="%" lemma="" pos="n" features="M=P" sentenca="9" />
+    <word_277 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_278 token="A" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_279 token="carteira" lemma="carteira" pos="n" features="F=S" sentenca="10" />
+    <word_280 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_281 token="crédito" lemma="crédito" pos="n" features="M=S" sentenca="10" />
+    <word_282 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_283 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_284 token="Itaú" lemma="" pos="prop" features="M=S" sentenca="10" />
+    <word_285 token="," lemma="" pos="," features="-" sentenca="10" />
+    <word_286 token="incluindo" lemma="incluir" pos="v-ger" features="-" sentenca="10" />
+    <word_287 token="avais" lemma="" pos="n" features="M=P" sentenca="10" />
+    <word_288 token="e" lemma="e" pos="conj-c" features="-" sentenca="10" />
+    <word_289 token="fianças" lemma="fiança" pos="n" features="F=P" sentenca="10" />
+    <word_290 token="," lemma="" pos="," features="-" sentenca="10" />
+    <word_291 token="saltou" lemma="saltar" pos="v-fin" features="PS=3S=IND" sentenca="10" />
+    <word_292 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_293 token="R$" lemma="" pos="n" features="M=P" sentenca="10" />
+    <word_294 token="74,8" lemma="" pos="num" features="M=P" sentenca="10" />
+    <word_295 token="bilhões" lemma="" pos="n" features="M=P" sentenca="10" />
+    <word_296 token="em" lemma="em" pos="prp" features="-" sentenca="10" />
+    <word_297 token="junho" lemma="junho" pos="n" features="M=S" sentenca="10" />
+    <word_298 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_299 token="2006" lemma="" pos="num" features="M=P" sentenca="10" />
+    <word_300 token="para" lemma="para" pos="prp" features="-" sentenca="10" />
+    <word_301 token="R$" lemma="" pos="n" features="M=P" sentenca="10" />
+    <word_302 token="104,8" lemma="" pos="num" features="M=P" sentenca="10" />
+    <word_303 token="bilhões" lemma="" pos="n" features="M=P" sentenca="10" />
+    <word_304 token="a" lemma="a" pos="prp" features="-" sentenca="10" />
+    <word_305 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_306 token="final" lemma="final" pos="n" features="M=S" sentenca="10" />
+    <word_307 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_308 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_309 token="segundo" lemma="" pos="adj" features="M=S" sentenca="10" />
+    <word_310 token="trimestre" lemma="trimestre" pos="n" features="M=S" sentenca="10" />
+    <word_311 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_312 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="10" />
+    <word_313 token="ano" lemma="ano" pos="n" features="M=S" sentenca="10" />
+    <word_314 token="," lemma="" pos="," features="-" sentenca="10" />
+    <word_315 token="um" lemma="um" pos="art" features="M=S" sentenca="10" />
+    <word_316 token="salto" lemma="salto" pos="n" features="M=S" sentenca="10" />
+    <word_317 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_318 token="40,2" lemma="" pos="num" features="M=P" sentenca="10" />
+    <word_319 token="%" lemma="" pos="n" features="M=P" sentenca="10" />
+    <word_320 token="." lemma="." pos="." features="-" sentenca="10" />
+    <word_321 token="em" lemma="em" pos="prp" features="-" sentenca="11" />
+    <word_322 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_323 token="comparação" lemma="comparação, comparar" pos="n" features="F=S" sentenca="11" />
+    <word_324 token="com" lemma="com" pos="prp" features="-" sentenca="11" />
+    <word_325 token="os" lemma="o" pos="art" features="M=P" sentenca="11" />
+    <word_326 token="primeiros" lemma="" pos="adj" features="M=P" sentenca="11" />
+    <word_327 token="três" lemma="três" pos="num" features="M=P" sentenca="11" />
+    <word_328 token="meses" lemma="mês" pos="n" features="M=P" sentenca="11" />
+    <word_329 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_330 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="11" />
+    <word_331 token="ano" lemma="ano" pos="n" features="M=S" sentenca="11" />
+    <word_332 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_333 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_334 token="carteira" lemma="carteira" pos="n" features="F=S" sentenca="11" />
+    <word_335 token="cresceu" lemma="crescer" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_336 token="3,7" lemma="" pos="num" features="M=P" sentenca="11" />
+    <word_337 token="%" lemma="" pos="n" features="M=P" sentenca="11" />
+    <word_338 token="." lemma="." pos="." features="-" sentenca="11" />
+    <word_339 token="O" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_340 token="desempenho" lemma="desempenho" pos="n" features="M=S" sentenca="12" />
+    <word_341 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_342 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_343 token="carteira" lemma="carteira" pos="n" features="F=S" sentenca="12" />
+    <word_344 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="12" />
+    <word_345 token="puxado" lemma="puxar" pos="v-pcp" features="M=S" sentenca="12" />
+    <word_346 token="por" lemma="por" pos="prp" features="-" sentenca="12" />
+    <word_347 token="financiamento" lemma="financiar" pos="n" features="M=S" sentenca="12" />
+    <word_348 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_349 token="veículos" lemma="veículo" pos="n" features="M=P" sentenca="12" />
+    <word_350 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_351 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="12" />
+    <word_352 token="cresceu" lemma="crescer" pos="v-fin" features="PS=3S=IND" sentenca="12" />
+    <word_353 token="58,6" lemma="" pos="num" features="M=P" sentenca="12" />
+    <word_354 token="%" lemma="" pos="n" features="M=P" sentenca="12" />
+    <word_355 token="em" lemma="em" pos="prp" features="-" sentenca="12" />
+    <word_356 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_357 token="período" lemma="período" pos="n" features="M=S" sentenca="12" />
+    <word_358 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_359 token="e" lemma="e" pos="conj-c" features="-" sentenca="12" />
+    <word_360 token="por" lemma="por" pos="prp" features="-" sentenca="12" />
+    <word_361 token="crédito" lemma="crédito" pos="n" features="M=S" sentenca="12" />
+    <word_362 token="para" lemma="para" pos="prp" features="-" sentenca="12" />
+    <word_363 token="micro" lemma="micro" pos="n" features="M=S" sentenca="12" />
+    <word_364 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_365 token="pequenas" lemma="pequeno" pos="adj" features="F=P" sentenca="12" />
+    <word_366 token="e" lemma="e" pos="conj-c" features="-" sentenca="12" />
+    <word_367 token="médias" lemma="médio" pos="adj" features="F=P" sentenca="12" />
+    <word_368 token="empresas" lemma="empresa" pos="n" features="F=P" sentenca="12" />
+    <word_369 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_370 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="12" />
+    <word_371 token="avançou" lemma="avançar" pos="v-fin" features="PS=3S=IND" sentenca="12" />
+    <word_372 token="59,7" lemma="" pos="num" features="M=P" sentenca="12" />
+    <word_373 token="%" lemma="" pos="n" features="M=P" sentenca="12" />
+    <word_374 token="." lemma="." pos="." features="-" sentenca="12" />
+    <word_375 token="O" lemma="o" pos="art" features="M=S" sentenca="13" />
+    <word_376 token="retorno" lemma="retorno" pos="n" features="M=S" sentenca="13" />
+    <word_377 token="sobre" lemma="sobre" pos="prp" features="-" sentenca="13" />
+    <word_378 token="o" lemma="o" pos="art" features="M=S" sentenca="13" />
+    <word_379 token="patrimônio" lemma="patrimônio" pos="n" features="M=S" sentenca="13" />
+    <word_380 token="líquido" lemma="líquido" pos="adj" features="M=S" sentenca="13" />
+    <word_381 token="médio" lemma="médio" pos="adj" features="M=S" sentenca="13" />
+    <word_382 token="anualizado" lemma="" pos="n" features="M=S" sentenca="13" />
+    <word_383 token="ficou" lemma="ficar" pos="v-fin" features="PS=3S=IND" sentenca="13" />
+    <word_384 token="em" lemma="em" pos="prp" features="-" sentenca="13" />
+    <word_385 token="32,8" lemma="" pos="num" features="M=P" sentenca="13" />
+    <word_386 token="%" lemma="" pos="n" features="M=P" sentenca="13" />
+    <word_387 token="," lemma="" pos="," features="-" sentenca="13" />
+    <word_388 token="abaixo" lemma="abaixo" pos="adv" features="-" sentenca="13" />
+    <word_389 token="de" lemma="de" pos="prp" features="-" sentenca="13" />
+    <word_390 token="os" lemma="o" pos="art" features="M=P" sentenca="13" />
+    <word_391 token="35,1" lemma="" pos="num" features="M=P" sentenca="13" />
+    <word_392 token="%" lemma="" pos="n" features="M=P" sentenca="13" />
+    <word_393 token="há" lemma="" pos="prp" features="-" sentenca="13" />
+    <word_394 token="um" lemma="um" pos="num" features="M=S" sentenca="13" />
+    <word_395 token="ano" lemma="ano" pos="n" features="M=S" sentenca="13" />
+    <word_396 token="." lemma="." pos="." features="-" sentenca="13" />
+    <word_397 token="Se" lemma="se" pos="conj-s" features="-" sentenca="14" />
+    <word_398 token="considerados" lemma="considerar" pos="v-pcp" features="M=P" sentenca="14" />
+    <word_399 token="bancos" lemma="banco" pos="n" features="M=P" sentenca="14" />
+    <word_400 token="públicos" lemma="público" pos="adj" features="M=P" sentenca="14" />
+    <word_401 token="e" lemma="e" pos="conj-c" features="-" sentenca="14" />
+    <word_402 token="privados" lemma="privado" pos="adj" features="M=P" sentenca="14" />
+    <word_403 token="," lemma="" pos="," features="-" sentenca="14" />
+    <word_404 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_405 token="maior" lemma="maior" pos="adj" features="M=S" sentenca="14" />
+    <word_406 token="lucro" lemma="lucro" pos="n" features="M=S" sentenca="14" />
+    <word_407 token="entre" lemma="entre" pos="prp" features="-" sentenca="14" />
+    <word_408 token="janeiro" lemma="janeiro" pos="n" features="M=S" sentenca="14" />
+    <word_409 token="e" lemma="e" pos="conj-c" features="-" sentenca="14" />
+    <word_410 token="junho" lemma="junho" pos="n" features="M=S" sentenca="14" />
+    <word_411 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_412 token="os" lemma="o" pos="art" features="M=P" sentenca="14" />
+    <word_413 token="últimos" lemma="último" pos="adj" features="M=P" sentenca="14" />
+    <word_414 token="20" lemma="" pos="num" features="M=P" sentenca="14" />
+    <word_415 token="anos" lemma="ano" pos="n" features="M=P" sentenca="14" />
+    <word_416 token="pertence" lemma="pertencer" pos="v-fin" features="PR=3S=IND" sentenca="14" />
+    <word_417 token="a" lemma="a" pos="prp" features="-" sentenca="14" />
+    <word_418 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_419 token="Banco" lemma="banco" pos="n" features="M=S" sentenca="14" />
+    <word_420 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_421 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_422 token="Brasil" lemma="Brasil" pos="prop" features="M=S" sentenca="14" />
+    <word_423 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="14" />
+    <word_424 token="em" lemma="em" pos="prp" features="-" sentenca="14" />
+    <word_425 token="2006" lemma="" pos="num" features="M=S" sentenca="14" />
+    <word_426 token="informou" lemma="informar" pos="v-fin" features="PS=3S=IND" sentenca="14" />
+    <word_427 token="receita" lemma="receita" pos="n" features="F=S" sentenca="14" />
+    <word_428 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_429 token="R$" lemma="" pos="n" features="M=P" sentenca="14" />
+    <word_430 token="4,032" lemma="" pos="num" features="M=P" sentenca="14" />
+    <word_431 token="bilhões" lemma="" pos="n" features="M=P" sentenca="14" />
+    <word_432 token="(" lemma="(" pos="(" features="-" sentenca="14" />
+    <word_433 token="valor" lemma="valor" pos="n" features="M=S" sentenca="14" />
+    <word_434 token="ajustado" lemma="ajustar" pos="v-pcp" features="M=S" sentenca="14" />
+    <word_435 token="por" lemma="por" pos="prp" features="-" sentenca="14" />
+    <word_436 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_437 token="IPCA" lemma="" pos="prop" features="M=S" sentenca="14" />
+    <word_438 token="até" lemma="até" pos="prp" features="-" sentenca="14" />
+    <word_439 token="30" lemma="" pos="num" features="M=P" sentenca="14" />
+    <word_440 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_441 token="junho" lemma="junho" pos="n" features="M=S" sentenca="14" />
+    <word_442 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_443 token="2007" lemma="" pos="num" features="M=P" sentenca="14" />
+    <word_444 token=")" lemma=")" pos=")" features="-" sentenca="14" />
+    <word_445 token="." lemma="." pos="." features="-" sentenca="14" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="0...1" nucleo="Itaú" sintagma="O Itaú" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_0 token="O" lemma="o" pos="art" features="M=S" />
+        <word_1 token="Itaú" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="1" tokens="4...9" nucleo="banco" sintagma="maior banco privado de o País" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_4 token="maior" lemma="maior" pos="adj" features="F=S" />
+        <word_5 token="banco" lemma="banco" pos="n" features="M=S" />
+        <word_6 token="privado" lemma="privado" pos="adj" features="M=S" />
+        <word_7 token="de" lemma="de" pos="prp" features="-" />
+        <word_8 token="o" lemma="o" pos="art" features="M=S" />
+        <word_9 token="País" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="25" tokens="83...84" nucleo="Itaú" sintagma="o Itaú" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_83 token="o" lemma="o" pos="art" features="M=S" />
+        <word_84 token="Itaú" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="29" tokens="97...99" nucleo="instituição" sintagma="a instituição financeira" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_97 token="a" lemma="o" pos="art" features="F=S" />
+        <word_98 token="instituição" lemma="instituição, instituir" pos="n" features="F=S" />
+        <word_99 token="financeira" lemma="financeiro" pos="adj" features="F=S" />
+      </sn>
+      <sn id="48" tokens="158...159" nucleo="banco" sintagma="o banco" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_158 token="o" lemma="o" pos="art" features="M=S" />
+        <word_159 token="banco" lemma="banco" pos="n" features="M=S" />
+      </sn>
+      <sn id="70" tokens="216...217" nucleo="Itaú" sintagma="o Itaú" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_216 token="o" lemma="o" pos="art" features="M=S" />
+        <word_217 token="Itaú" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="85" tokens="272...273" nucleo="instituição" sintagma="a instituição" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_272 token="a" lemma="o" pos="art" features="F=S" />
+        <word_273 token="instituição" lemma="instituição, instituir" pos="n" features="F=S" />
+      </sn>
+      <sn id="89" tokens="283...284" nucleo="Itaú" sintagma="o Itaú" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="10">
+        <word_283 token="o" lemma="o" pos="art" features="M=S" />
+        <word_284 token="Itaú" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_12>
+      <sn id="82" tokens="261...267" nucleo="meses" sintagma="os primeiros três meses de o ano" Categoria="OUTRO" sentenca="9">
+        <word_261 token="os" lemma="o" pos="art" features="M=P" />
+        <word_262 token="primeiros" lemma="" pos="adj" features="M=P" />
+        <word_263 token="três" lemma="três" pos="num" features="M=P" />
+        <word_264 token="meses" lemma="mês" pos="n" features="M=P" />
+        <word_265 token="de" lemma="de" pos="prp" features="-" />
+        <word_266 token="o" lemma="" pos="pron-det" features="M=S" />
+        <word_267 token="ano" lemma="ano" pos="n" features="M=S" />
+      </sn>
+      <sn id="103" tokens="325...331" nucleo="meses" sintagma="os primeiros três meses de este ano" Categoria="OUTRO" sentenca="11">
+        <word_325 token="os" lemma="o" pos="art" features="M=P" />
+        <word_326 token="primeiros" lemma="" pos="adj" features="M=P" />
+        <word_327 token="três" lemma="três" pos="num" features="M=P" />
+        <word_328 token="meses" lemma="mês" pos="n" features="M=P" />
+        <word_329 token="de" lemma="de" pos="prp" features="-" />
+        <word_330 token="este" lemma="este" pos="pron-det" features="M=S" />
+        <word_331 token="ano" lemma="ano" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_12>
+    <Cadeia_15>
+      <sn id="28" tokens="93...95" nucleo="trimestre" sintagma="o segundo trimestre" Categoria="OUTRO" sentenca="4">
+        <word_93 token="o" lemma="o" pos="art" features="M=S" />
+        <word_94 token="segundo" lemma="" pos="adj" features="M=S" />
+        <word_95 token="trimestre" lemma="trimestre" pos="n" features="M=S" />
+      </sn>
+      <sn id="98" tokens="308...313" nucleo="trimestre" sintagma="o segundo trimestre de este ano" Categoria="OUTRO" sentenca="10">
+        <word_308 token="o" lemma="o" pos="art" features="M=S" />
+        <word_309 token="segundo" lemma="" pos="adj" features="M=S" />
+        <word_310 token="trimestre" lemma="trimestre" pos="n" features="M=S" />
+        <word_311 token="de" lemma="de" pos="prp" features="-" />
+        <word_312 token="este" lemma="este" pos="pron-det" features="M=S" />
+        <word_313 token="ano" lemma="ano" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_15>
+    <Cadeia_16>
+      <sn id="49" tokens="161...166" nucleo="empresa" sintagma="a empresa de informações de crédito" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_161 token="a" lemma="o" pos="art" features="F=S" />
+        <word_162 token="empresa" lemma="empresa" pos="n" features="F=S" />
+        <word_163 token="de" lemma="de" pos="prp" features="-" />
+        <word_164 token="informações" lemma="informar" pos="n" features="F=P" />
+        <word_165 token="de" lemma="de" pos="prp" features="-" />
+        <word_166 token="crédito" lemma="crédito" pos="n" features="M=S" />
+      </sn>
+      <sn id="52" tokens="167...167" nucleo="Serasa" sintagma="Serasa" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_167 token="Serasa" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_16>
+    <Cadeia_18>
+      <sn id="36" tokens="117...119" nucleo="ano" sintagma="o ano anterior" Categoria="OUTRO/UNID" sentenca="4">
+        <word_117 token="o" lemma="o" pos="art" features="M=S" />
+        <word_118 token="ano" lemma="ano" pos="n" features="M=S" />
+        <word_119 token="anterior" lemma="anterior" pos="adj" features="M=S" />
+      </sn>
+      <sn id="123" tokens="393...395" nucleo="ano" sintagma="há um ano" Categoria="OUTRO/UNID" sentenca="13">
+        <word_393 token="há" lemma="" pos="prp" features="-" />
+        <word_394 token="um" lemma="um" pos="num" features="M=S" />
+        <word_395 token="ano" lemma="ano" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_18>
+    <Cadeia_23>
+      <sn id="42" tokens="138...141" nucleo="carteira" sintagma="a carteira de empréstimos" Categoria="OUTRO" sentenca="5">
+        <word_138 token="a" lemma="o" pos="art" features="F=S" />
+        <word_139 token="carteira" lemma="carteira" pos="n" features="F=S" />
+        <word_140 token="de" lemma="de" pos="prp" features="-" />
+        <word_141 token="empréstimos" lemma="empréstimo" pos="n" features="M=P" />
+      </sn>
+      <sn id="87" tokens="278...285" nucleo="carteira" sintagma="A carteira de crédito de o Itaú" Categoria="OUTRO" sentenca="10">
+        <word_278 token="A" lemma="o" pos="art" features="F=S" />
+        <word_279 token="carteira" lemma="carteira" pos="n" features="F=S" />
+        <word_280 token="de" lemma="de" pos="prp" features="-" />
+        <word_281 token="crédito" lemma="crédito" pos="n" features="M=S" />
+        <word_282 token="de" lemma="de" pos="prp" features="-" />
+        <word_283 token="o" lemma="o" pos="art" features="M=S" />
+        <word_284 token="Itaú" lemma="" pos="prop" features="M=S" />
+        <word_285 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="105" tokens="333...334" nucleo="carteira" sintagma="a carteira" Categoria="OUTRO" sentenca="11">
+        <word_333 token="a" lemma="o" pos="art" features="F=S" />
+        <word_334 token="carteira" lemma="carteira" pos="n" features="F=S" />
+      </sn>
+      <sn id="108" tokens="342...343" nucleo="carteira" sintagma="a carteira" Categoria="OUTRO" sentenca="12">
+        <word_342 token="a" lemma="o" pos="art" features="F=S" />
+        <word_343 token="carteira" lemma="carteira" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_23>
+    <Cadeia_3>
+      <sn id="9" tokens="12...17" nucleo="lucro" sintagma="lucro líquido de R$ 4,016 bilhões" Categoria="ABSTRAÇÃO" sentenca="1">
+        <word_12 token="lucro" lemma="lucro" pos="n" features="M=S" />
+        <word_13 token="líquido" lemma="líquido" pos="adj" features="M=S" />
+        <word_14 token="de" lemma="de" pos="prp" features="-" />
+        <word_15 token="R$" lemma="" pos="n" features="M=P" />
+        <word_16 token="4,016" lemma="" pos="num" features="M=P" />
+        <word_17 token="bilhões" lemma="" pos="n" features="M=P" />
+      </sn>
+      <sn id="10" tokens="32...42" nucleo="lucro" sintagma="o maior lucro entre bancos privados em os últimos 20 anos" Categoria="ABSTRAÇÃO" sentenca="1">
+        <word_32 token="o" lemma="o" pos="art" features="M=S" />
+        <word_33 token="maior" lemma="maior" pos="adj" features="M=S" />
+        <word_34 token="lucro" lemma="lucro" pos="n" features="M=S" />
+        <word_35 token="entre" lemma="entre" pos="prp" features="-" />
+        <word_36 token="bancos" lemma="banco" pos="n" features="M=P" />
+        <word_37 token="privados" lemma="privar" pos="v-pcp" features="M=P" />
+        <word_38 token="em" lemma="em" pos="prp" features="-" />
+        <word_39 token="os" lemma="o" pos="art" features="M=P" />
+        <word_40 token="últimos" lemma="último" pos="adj" features="M=P" />
+        <word_41 token="20" lemma="" pos="num" features="M=P" />
+        <word_42 token="anos" lemma="ano" pos="n" features="M=P" />
+      </sn>
+      <sn id="24" tokens="80...84" nucleo="lucro" sintagma="o lucro de o Itaú" Categoria="ABSTRAÇÃO" sentenca="3">
+        <word_80 token="o" lemma="o" pos="art" features="M=S" />
+        <word_81 token="lucro" lemma="lucro" pos="n" features="M=S" />
+        <word_82 token="de" lemma="de" pos="prp" features="-" />
+        <word_83 token="o" lemma="o" pos="art" features="M=S" />
+        <word_84 token="Itaú" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="44" tokens="143...144" nucleo="Esse" sintagma="Esse resultado" Categoria="ABSTRAÇÃO" sentenca="6">
+        <word_143 token="Esse" lemma="esse" pos="pron-det" features="M=S" />
+        <word_144 token="resultado" lemma="resultado" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_3>
+    <Cadeia_4>
+      <sn id="5" tokens="19...21" nucleo="semestre" sintagma="o primeiro semestre" Categoria="OUTRO" sentenca="1">
+        <word_19 token="o" lemma="o" pos="art" features="M=S" />
+        <word_20 token="primeiro" lemma="primeiro" pos="adj" features="M=S" />
+        <word_21 token="semestre" lemma="semestre" pos="n" features="M=S" />
+      </sn>
+      <sn id="18" tokens="58...59" nucleo="período" sintagma="o período" Categoria="OUTRO" sentenca="2">
+        <word_58 token="o" lemma="o" pos="art" features="M=S" />
+        <word_59 token="período" lemma="período" pos="n" features="M=S" />
+      </sn>
+      <sn id="77" tokens="240...241" nucleo="período" sintagma="o período" Categoria="OUTRO" sentenca="8">
+        <word_240 token="o" lemma="o" pos="art" features="M=S" />
+        <word_241 token="período" lemma="período" pos="n" features="M=S" />
+      </sn>
+      <sn id="111" tokens="356...357" nucleo="período" sintagma="o período" Categoria="OUTRO" sentenca="12">
+        <word_356 token="o" lemma="o" pos="art" features="M=S" />
+        <word_357 token="período" lemma="período" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_4>
+    <Cadeia_56>
+      <sn id="109" tokens="347...347" nucleo="financiamento" sintagma="financiamento" Categoria="OUTRO" sentenca="12">
+        <word_347 token="financiamento" lemma="financiar" pos="n" features="M=S" />
+      </sn>
+      <sn id="115" tokens="351...351" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="12">
+        <word_351 token="que" lemma="que" pos="pron-indp" features="M=S" />
+      </sn>
+    </Cadeia_56>
+    <Cadeia_57>
+      <sn id="125" tokens="404...415" nucleo="lucro" sintagma="o maior lucro entre janeiro e junho de os últimos 20 anos" Categoria="OUTRO" sentenca="14">
+        <word_404 token="o" lemma="o" pos="art" features="M=S" />
+        <word_405 token="maior" lemma="maior" pos="adj" features="M=S" />
+        <word_406 token="lucro" lemma="lucro" pos="n" features="M=S" />
+        <word_407 token="entre" lemma="entre" pos="prp" features="-" />
+        <word_408 token="janeiro" lemma="janeiro" pos="n" features="M=S" />
+        <word_409 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_410 token="junho" lemma="junho" pos="n" features="M=S" />
+        <word_411 token="de" lemma="de" pos="prp" features="-" />
+        <word_412 token="os" lemma="o" pos="art" features="M=P" />
+        <word_413 token="últimos" lemma="último" pos="adj" features="M=P" />
+        <word_414 token="20" lemma="" pos="num" features="M=P" />
+        <word_415 token="anos" lemma="ano" pos="n" features="M=P" />
+      </sn>
+      <sn id="132" tokens="427...432" nucleo="receita" sintagma="receita de R$ 4,032 bilhões " Categoria="OUTRO" sentenca="14">
+        <word_427 token="receita" lemma="receita" pos="n" features="F=S" />
+        <word_428 token="de" lemma="de" pos="prp" features="-" />
+        <word_429 token="R$" lemma="" pos="n" features="M=P" />
+        <word_430 token="4,032" lemma="" pos="num" features="M=P" />
+        <word_431 token="bilhões" lemma="" pos="n" features="M=P" />
+        <word_432 token="(" lemma="(" pos="(" features="-" />
+      </sn>
+      <sn id="135" tokens="433...443" nucleo="valor" sintagma=" valor ajustado por o IPCA até 30 de junho de 2007 " Categoria="OUTRO" sentenca="14">
+        <word_433 token="valor" lemma="valor" pos="n" features="M=S" />
+        <word_434 token="ajustado" lemma="ajustar" pos="v-pcp" features="M=S" />
+        <word_435 token="por" lemma="por" pos="prp" features="-" />
+        <word_436 token="o" lemma="o" pos="art" features="M=S" />
+        <word_437 token="IPCA" lemma="" pos="prop" features="M=S" />
+        <word_438 token="até" lemma="até" pos="prp" features="-" />
+        <word_439 token="30" lemma="" pos="num" features="M=P" />
+        <word_440 token="de" lemma="de" pos="prp" features="-" />
+        <word_441 token="junho" lemma="junho" pos="n" features="M=S" />
+        <word_442 token="de" lemma="de" pos="prp" features="-" />
+        <word_443 token="2007" lemma="" pos="num" features="M=P" />
+      </sn>
+    </Cadeia_57>
+    <Cadeia_6>
+      <sn id="7" tokens="27...30" nucleo="rival" sintagma="o rival Bradesco e" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_27 token="o" lemma="o" pos="art" features="M=S" />
+        <word_28 token="rival" lemma="rival" pos="n" features="M=S" />
+        <word_29 token="Bradesco" lemma="" pos="prop" features="M=S" />
+        <word_30 token="e" lemma="e" pos="conj-c" features="-" />
+      </sn>
+      <sn id="14" tokens="48...49" nucleo="Bradesco" sintagma="o Bradesco" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_48 token="o" lemma="o" pos="art" features="M=S" />
+        <word_49 token="Bradesco" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_6>
+    <Cadeia_9>
+      <sn id="12" tokens="39...42" nucleo="anos" sintagma="os últimos 20 anos" Categoria="OUTRO" sentenca="1">
+        <word_39 token="os" lemma="o" pos="art" features="M=P" />
+        <word_40 token="últimos" lemma="último" pos="adj" features="M=P" />
+        <word_41 token="20" lemma="" pos="num" features="M=P" />
+        <word_42 token="anos" lemma="ano" pos="n" features="M=P" />
+      </sn>
+      <sn id="128" tokens="412...415" nucleo="anos" sintagma="os últimos 20 anos" Categoria="OUTRO" sentenca="14">
+        <word_412 token="os" lemma="o" pos="art" features="M=P" />
+        <word_413 token="últimos" lemma="último" pos="adj" features="M=P" />
+        <word_414 token="20" lemma="" pos="num" features="M=P" />
+        <word_415 token="anos" lemma="ano" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_9>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="3" tokens="15...17" nucleo="R$" sintagma="R$ 4,016 bilhões" Categoria="--" sentenca="1">
+      <word_15 token="R$" lemma="" pos="n" features="M=P" />
+      <word_16 token="4,016" lemma="" pos="num" features="M=P" />
+      <word_17 token="bilhões" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="6" tokens="23...24" nucleo="esse" sintagma="esse ano" Categoria="--" sentenca="1">
+      <word_23 token="esse" lemma="esse" pos="pron-det" features="M=S" />
+      <word_24 token="ano" lemma="ano" pos="n" features="M=S" />
+    </sn>
+    <sn id="11" tokens="36...36" nucleo="bancos" sintagma="bancos" Categoria="--" sentenca="1">
+      <word_36 token="bancos" lemma="banco" pos="n" features="M=P" />
+    </sn>
+    <sn id="13" tokens="45...46" nucleo="segunda-feira" sintagma="a segunda-feira" Categoria="--" sentenca="2">
+      <word_45 token="a" lemma="o" pos="art" features="F=S" />
+      <word_46 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="15" tokens="52...56" nucleo="lucro" sintagma="lucro de R$ 4,007 bilhões" Categoria="--" sentenca="2">
+      <word_52 token="lucro" lemma="lucro" pos="n" features="M=S" />
+      <word_53 token="de" lemma="de" pos="prp" features="-" />
+      <word_54 token="R$" lemma="" pos="n" features="M=P" />
+      <word_55 token="4,007" lemma="" pos="num" features="M=P" />
+      <word_56 token="bilhões" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="16" tokens="54...54" nucleo="R$" sintagma="R$" Categoria="--" sentenca="2">
+      <word_54 token="R$" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="19" tokens="62...62" nucleo="comparação" sintagma="comparação" Categoria="--" sentenca="3">
+      <word_62 token="comparação" lemma="comparação, comparar" pos="n" features="F=S" />
+    </sn>
+    <sn id="20" tokens="64...65" nucleo="receita" sintagma="a receita" Categoria="--" sentenca="3">
+      <word_64 token="a" lemma="o" pos="art" features="F=S" />
+      <word_65 token="receita" lemma="receita" pos="n" features="F=S" />
+    </sn>
+    <sn id="21" tokens="68...71" nucleo="meses" sintagma="os seis primeiros meses" Categoria="--" sentenca="3">
+      <word_68 token="os" lemma="o" pos="art" features="M=P" />
+      <word_69 token="seis" lemma="seis" pos="num" features="M=P" />
+      <word_70 token="primeiros" lemma="" pos="adj" features="M=P" />
+      <word_71 token="meses" lemma="mês" pos="n" features="M=P" />
+    </sn>
+    <sn id="22" tokens="76...76" nucleo="R$" sintagma="R$" Categoria="--" sentenca="3">
+      <word_76 token="R$" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="27" tokens="89...90" nucleo="este" sintagma="este ano" Categoria="--" sentenca="3">
+      <word_89 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_90 token="ano" lemma="ano" pos="n" features="M=S" />
+    </sn>
+    <sn id="30" tokens="101...107" nucleo="lucro" sintagma="um lucro líquido de R$ 2,115 bilhões" Categoria="--" sentenca="4">
+      <word_101 token="um" lemma="um" pos="art" features="M=S" />
+      <word_102 token="lucro" lemma="lucro" pos="n" features="M=S" />
+      <word_103 token="líquido" lemma="líquido" pos="adj" features="M=S" />
+      <word_104 token="de" lemma="de" pos="prp" features="-" />
+      <word_105 token="R$" lemma="" pos="n" features="M=P" />
+      <word_106 token="2,115" lemma="" pos="num" features="M=P" />
+      <word_107 token="bilhões" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="31" tokens="105...105" nucleo="R$" sintagma="R$" Categoria="--" sentenca="4">
+      <word_105 token="R$" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="33" tokens="110...110" nucleo="R$" sintagma="R$" Categoria="--" sentenca="4">
+      <word_110 token="R$" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="35" tokens="114...115" nucleo="período" sintagma="igual período" Categoria="--" sentenca="4">
+      <word_114 token="igual" lemma="igual" pos="adj" features="M=S" />
+      <word_115 token="período" lemma="período" pos="n" features="M=S" />
+    </sn>
+    <sn id="37" tokens="121...127" nucleo="alta" sintagma="A alta , de 41,2 %" Categoria="--" sentenca="5">
+      <word_121 token="A" lemma="o" pos="art" features="F=S" />
+      <word_122 token="alta" lemma="alta, alto" pos="n" features="F=S" />
+      <word_123 token="," lemma="" pos="," features="-" />
+      <word_124 token="de" lemma="de" pos="prp" features="-" />
+      <word_125 token="41,2" lemma="" pos="num" features="M=P" />
+      <word_126 token="%" lemma="" pos="n" features="M=P" />
+      <word_127 token="," lemma="" pos="," features="-" />
+    </sn>
+    <sn id="39" tokens="131...132" nucleo="vendas" sintagma="a vendas" Categoria="--" sentenca="5">
+      <word_131 token="a" lemma="o" pos="art" features="F=S" />
+      <word_132 token="vendas" lemma="venda" pos="n" features="F=P" />
+    </sn>
+    <sn id="40" tokens="134...134" nucleo="ativos" sintagma="ativos" Categoria="--" sentenca="5">
+      <word_134 token="ativos" lemma="ativo" pos="n" features="M=P" />
+    </sn>
+    <sn id="41" tokens="136...136" nucleo="crescimento" sintagma="crescimento" Categoria="--" sentenca="5">
+      <word_136 token="crescimento" lemma="crescer" pos="n" features="M=S" />
+    </sn>
+    <sn id="43" tokens="141...141" nucleo="empréstimos" sintagma="empréstimos" Categoria="--" sentenca="5">
+      <word_141 token="empréstimos" lemma="empréstimo" pos="n" features="M=P" />
+    </sn>
+    <sn id="45" tokens="147...150" nucleo="outros" sintagma="outros efeitos não recorrentes" Categoria="--" sentenca="6">
+      <word_147 token="outros" lemma="outro" pos="pron-det" features="M=P" />
+      <word_148 token="efeitos" lemma="efeito" pos="n" features="M=P" />
+      <word_149 token="não" lemma="não" pos="adv" features="-" />
+      <word_150 token="recorrentes" lemma="recorrer" pos="adj" features="F=P" />
+    </sn>
+    <sn id="46" tokens="151...159" nucleo="vendas" sintagma="as vendas de a participação acionária de o banco" Categoria="--" sentenca="6">
+      <word_151 token="as" lemma="o" pos="art" features="F=P" />
+      <word_152 token="vendas" lemma="venda" pos="n" features="F=P" />
+      <word_153 token="de" lemma="de" pos="prp" features="-" />
+      <word_154 token="a" lemma="o" pos="art" features="F=S" />
+      <word_155 token="participação" lemma="participação, participar" pos="n" features="F=S" />
+      <word_156 token="acionária" lemma="" pos="adj" features="F=S" />
+      <word_157 token="de" lemma="de" pos="prp" features="-" />
+      <word_158 token="o" lemma="o" pos="art" features="M=S" />
+      <word_159 token="banco" lemma="banco" pos="n" features="M=S" />
+    </sn>
+    <sn id="47" tokens="154...156" nucleo="participação" sintagma="a participação acionária" Categoria="--" sentenca="6">
+      <word_154 token="a" lemma="o" pos="art" features="F=S" />
+      <word_155 token="participação" lemma="participação, participar" pos="n" features="F=S" />
+      <word_156 token="acionária" lemma="" pos="adj" features="F=S" />
+    </sn>
+    <sn id="50" tokens="164...164" nucleo="informações" sintagma="informações" Categoria="--" sentenca="6">
+      <word_164 token="informações" lemma="informar" pos="n" features="F=P" />
+    </sn>
+    <sn id="51" tokens="166...166" nucleo="crédito" sintagma="crédito" Categoria="--" sentenca="6">
+      <word_166 token="crédito" lemma="crédito" pos="n" features="M=S" />
+    </sn>
+    <sn id="53" tokens="170...171" nucleo="sede" sintagma="a sede" Categoria="--" sentenca="6">
+      <word_170 token="a" lemma="o" pos="art" features="F=S" />
+      <word_171 token="sede" lemma="sede" pos="n" features="F=S" />
+    </sn>
+    <sn id="54" tokens="173...174" nucleo="BankBoston" sintagma="o BankBoston" Categoria="--" sentenca="6">
+      <word_173 token="o" lemma="o" pos="art" features="M=S" />
+      <word_174 token="BankBoston" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="55" tokens="176...176" nucleo="São_Paulo" sintagma="São Paulo" Categoria="--" sentenca="6">
+      <word_176 token="São_Paulo" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="56" tokens="178...178" nucleo="constituição" sintagma="constituição" Categoria="--" sentenca="6">
+      <word_178 token="constituição" lemma="constituição, constituir" pos="n" features="F=S" />
+    </sn>
+    <sn id="57" tokens="180...180" nucleo="provisão" sintagma="provisão" Categoria="--" sentenca="6">
+      <word_180 token="provisão" lemma="provisão" pos="n" features="F=S" />
+    </sn>
+    <sn id="58" tokens="182...182" nucleo="créditos" sintagma="créditos" Categoria="--" sentenca="6">
+      <word_182 token="créditos" lemma="crédito" pos="n" features="M=P" />
+    </sn>
+    <sn id="59" tokens="184...186" nucleo="liquidação" sintagma="liquidação duvidosa excedente" Categoria="--" sentenca="6">
+      <word_184 token="liquidação" lemma="liquidar" pos="n" features="F=S" />
+      <word_185 token="duvidosa" lemma="duvidoso" pos="adj" features="F=S" />
+      <word_186 token="excedente" lemma="excedente, exceder" pos="adj" features="F=S" />
+    </sn>
+    <sn id="60" tokens="188...190" nucleo="mínimo" sintagma="o mínimo requerido" Categoria="--" sentenca="6">
+      <word_188 token="o" lemma="o" pos="art" features="M=S" />
+      <word_189 token="mínimo" lemma="mínimo" pos="n" features="M=S" />
+      <word_190 token="requerido" lemma="requerer" pos="v-pcp" features="M=S" />
+    </sn>
+    <sn id="61" tokens="192...192" nucleo="forma" sintagma="forma" Categoria="--" sentenca="6">
+      <word_192 token="forma" lemma="forma" pos="n" features="F=S" />
+    </sn>
+    <sn id="62" tokens="195...201" nucleo="absorção" sintagma="a absorção de eventuais aumentos de inadimplência" Categoria="--" sentenca="6">
+      <word_195 token="a" lemma="o" pos="art" features="F=S" />
+      <word_196 token="absorção" lemma="absorção" pos="n" features="F=S" />
+      <word_197 token="de" lemma="de" pos="prp" features="-" />
+      <word_198 token="eventuais" lemma="eventual" pos="adj" features="M=P" />
+      <word_199 token="aumentos" lemma="aumento" pos="n" features="M=P" />
+      <word_200 token="de" lemma="de" pos="prp" features="-" />
+      <word_201 token="inadimplência" lemma="" pos="n" features="F=S" />
+    </sn>
+    <sn id="63" tokens="198...199" nucleo="aumentos" sintagma="eventuais aumentos" Categoria="--" sentenca="6">
+      <word_198 token="eventuais" lemma="eventual" pos="adj" features="M=P" />
+      <word_199 token="aumentos" lemma="aumento" pos="n" features="M=P" />
+    </sn>
+    <sn id="64" tokens="201...201" nucleo="inadimplência" sintagma="inadimplência" Categoria="--" sentenca="6">
+      <word_201 token="inadimplência" lemma="" pos="n" features="F=S" />
+    </sn>
+    <sn id="65" tokens="204...204" nucleo="forte" sintagma="forte" Categoria="--" sentenca="6">
+      <word_204 token="forte" lemma="forte" pos="n" features="M=S" />
+    </sn>
+    <sn id="66" tokens="205...205" nucleo="reversão" sintagma="reversão" Categoria="--" sentenca="6">
+      <word_205 token="reversão" lemma="reversão" pos="n" features="F=S" />
+    </sn>
+    <sn id="67" tokens="207...209" nucleo="ciclo" sintagma="o ciclo econômico" Categoria="--" sentenca="6">
+      <word_207 token="o" lemma="o" pos="art" features="M=S" />
+      <word_208 token="ciclo" lemma="ciclo" pos="n" features="M=S" />
+      <word_209 token="econômico" lemma="econômico" pos="adj" features="M=S" />
+    </sn>
+    <sn id="68" tokens="211...211" nucleo="situações" sintagma="situações" Categoria="--" sentenca="6">
+      <word_211 token="situações" lemma="situação, situar" pos="n" features="F=P" />
+    </sn>
+    <sn id="69" tokens="213...213" nucleo="stress" sintagma="stress" Categoria="--" sentenca="6">
+      <word_213 token="stress" lemma="stress" pos="n" features="M=S" />
+    </sn>
+    <sn id="71" tokens="220...221" nucleo="total" sintagma="o total" Categoria="--" sentenca="7">
+      <word_220 token="o" lemma="o" pos="art" features="M=S" />
+      <word_221 token="total" lemma="total" pos="n" features="M=S" />
+    </sn>
+    <sn id="72" tokens="223...226" nucleo="efeitos" sintagma="os efeitos não recorrentes" Categoria="--" sentenca="7">
+      <word_223 token="os" lemma="o" pos="art" features="M=P" />
+      <word_224 token="efeitos" lemma="efeito" pos="n" features="M=P" />
+      <word_225 token="não" lemma="não" pos="adv" features="-" />
+      <word_226 token="recorrentes" lemma="recorrer" pos="adj" features="M=P" />
+    </sn>
+    <sn id="73" tokens="229...229" nucleo="R$" sintagma="R$" Categoria="--" sentenca="7">
+      <word_229 token="R$" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="75" tokens="233...233" nucleo="reais" sintagma="reais" Categoria="--" sentenca="7">
+      <word_233 token="reais" lemma="real" pos="n" features="M=P" />
+    </sn>
+    <sn id="76" tokens="235...241" nucleo="lucro" sintagma="O lucro líquido recorrente em o período" Categoria="--" sentenca="8">
+      <word_235 token="O" lemma="o" pos="art" features="M=S" />
+      <word_236 token="lucro" lemma="lucro" pos="n" features="M=S" />
+      <word_237 token="líquido" lemma="líquido" pos="adj" features="M=S" />
+      <word_238 token="recorrente" lemma="recorrente, recorrer" pos="adj" features="M=S" />
+      <word_239 token="em" lemma="em" pos="prp" features="-" />
+      <word_240 token="o" lemma="o" pos="art" features="M=S" />
+      <word_241 token="período" lemma="período" pos="n" features="M=S" />
+    </sn>
+    <sn id="79" tokens="243...247" nucleo="R$" sintagma="R$ 1,919 bilhão" Categoria="--" sentenca="8">
+      <word_243 token="de" lemma="de" pos="prp" features="-" />
+      <word_244 token="R$" lemma="" pos="n" features="M=S" />
+      <word_245 token="1,919" lemma="" pos="num" features="M=S" />
+      <word_246 token="bilhão" lemma="" pos="n" features="M=S" />
+      <word_247 token="," lemma="" pos="," features="-" />
+    </sn>
+    <sn id="81" tokens="254...258" nucleo="trimestre" sintagma="o segundo trimestre de 2006" Categoria="--" sentenca="8">
+      <word_254 token="o" lemma="o" pos="art" features="M=S" />
+      <word_255 token="segundo" lemma="" pos="adj" features="M=S" />
+      <word_256 token="trimestre" lemma="trimestre" pos="n" features="M=S" />
+      <word_257 token="de" lemma="de" pos="prp" features="-" />
+      <word_258 token="2006" lemma="" pos="num" features="M=P" />
+    </sn>
+    <sn id="83" tokens="266...267" nucleo="ano" sintagma="o ano" Categoria="--" sentenca="9">
+      <word_266 token="o" lemma="" pos="pron-det" features="M=S" />
+      <word_267 token="ano" lemma="ano" pos="n" features="M=S" />
+    </sn>
+    <sn id="84" tokens="268...273" nucleo="resultado" sintagma="o resultado recorrente de a instituição" Categoria="--" sentenca="9">
+      <word_268 token="o" lemma="o" pos="art" features="M=S" />
+      <word_269 token="resultado" lemma="resultado" pos="n" features="M=S" />
+      <word_270 token="recorrente" lemma="recorrente, recorrer" pos="adj" features="M=S" />
+      <word_271 token="de" lemma="de" pos="prp" features="-" />
+      <word_272 token="a" lemma="o" pos="art" features="F=S" />
+      <word_273 token="instituição" lemma="instituição, instituir" pos="n" features="F=S" />
+    </sn>
+    <sn id="86" tokens="275...276" nucleo="%" sintagma="0,9 %" Categoria="--" sentenca="9">
+      <word_275 token="0,9" lemma="" pos="num" features="M=P" />
+      <word_276 token="%" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="88" tokens="281...281" nucleo="crédito" sintagma="crédito" Categoria="--" sentenca="10">
+      <word_281 token="crédito" lemma="crédito" pos="n" features="M=S" />
+    </sn>
+    <sn id="90" tokens="287...289" nucleo="avais" sintagma="avais e fianças" Categoria="--" sentenca="10">
+      <word_287 token="avais" lemma="" pos="n" features="M=P" />
+      <word_288 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_289 token="fianças" lemma="fiança" pos="n" features="F=P" />
+    </sn>
+    <sn id="91" tokens="289...289" nucleo="fianças" sintagma="fianças" Categoria="--" sentenca="10">
+      <word_289 token="fianças" lemma="fiança" pos="n" features="F=P" />
+    </sn>
+    <sn id="92" tokens="293...293" nucleo="R$" sintagma="R$" Categoria="--" sentenca="10">
+      <word_293 token="R$" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="94" tokens="297...297" nucleo="junho" sintagma="junho" Categoria="--" sentenca="10">
+      <word_297 token="junho" lemma="junho" pos="n" features="M=S" />
+    </sn>
+    <sn id="95" tokens="301...301" nucleo="R$" sintagma="R$" Categoria="--" sentenca="10">
+      <word_301 token="R$" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="97" tokens="305...306" nucleo="final" sintagma="o final" Categoria="--" sentenca="10">
+      <word_305 token="o" lemma="o" pos="art" features="M=S" />
+      <word_306 token="final" lemma="final" pos="n" features="M=S" />
+    </sn>
+    <sn id="99" tokens="312...313" nucleo="este" sintagma="este ano" Categoria="--" sentenca="10">
+      <word_312 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_313 token="ano" lemma="ano" pos="n" features="M=S" />
+    </sn>
+    <sn id="100" tokens="315...319" nucleo="salto" sintagma="um salto de 40,2 %" Categoria="--" sentenca="10">
+      <word_315 token="um" lemma="um" pos="art" features="M=S" />
+      <word_316 token="salto" lemma="salto" pos="n" features="M=S" />
+      <word_317 token="de" lemma="de" pos="prp" features="-" />
+      <word_318 token="40,2" lemma="" pos="num" features="M=P" />
+      <word_319 token="%" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="102" tokens="322...323" nucleo="comparação" sintagma="a comparação" Categoria="--" sentenca="11">
+      <word_322 token="a" lemma="o" pos="art" features="F=S" />
+      <word_323 token="comparação" lemma="comparação, comparar" pos="n" features="F=S" />
+    </sn>
+    <sn id="104" tokens="330...331" nucleo="este" sintagma="este ano" Categoria="--" sentenca="11">
+      <word_330 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_331 token="ano" lemma="ano" pos="n" features="M=S" />
+    </sn>
+    <sn id="107" tokens="339...343" nucleo="desempenho" sintagma="O desempenho de a carteira" Categoria="--" sentenca="12">
+      <word_339 token="O" lemma="o" pos="art" features="M=S" />
+      <word_340 token="desempenho" lemma="desempenho" pos="n" features="M=S" />
+      <word_341 token="de" lemma="de" pos="prp" features="-" />
+      <word_342 token="a" lemma="o" pos="art" features="F=S" />
+      <word_343 token="carteira" lemma="carteira" pos="n" features="F=S" />
+    </sn>
+    <sn id="110" tokens="349...349" nucleo="veículos" sintagma="veículos" Categoria="--" sentenca="12">
+      <word_349 token="veículos" lemma="veículo" pos="n" features="M=P" />
+    </sn>
+    <sn id="112" tokens="361...361" nucleo="crédito" sintagma="crédito" Categoria="--" sentenca="12">
+      <word_361 token="crédito" lemma="crédito" pos="n" features="M=S" />
+    </sn>
+    <sn id="113" tokens="363...363" nucleo="micro" sintagma="micro" Categoria="--" sentenca="12">
+      <word_363 token="micro" lemma="micro" pos="n" features="M=S" />
+    </sn>
+    <sn id="114" tokens="365...368" nucleo="empresas" sintagma="pequenas e médias empresas" Categoria="--" sentenca="12">
+      <word_365 token="pequenas" lemma="pequeno" pos="adj" features="F=P" />
+      <word_366 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_367 token="médias" lemma="médio" pos="adj" features="F=P" />
+      <word_368 token="empresas" lemma="empresa" pos="n" features="F=P" />
+    </sn>
+    <sn id="116" tokens="370...370" nucleo="que" sintagma="que" Categoria="--" sentenca="12">
+      <word_370 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="119" tokens="375...382" nucleo="retorno" sintagma="O retorno sobre o patrimônio líquido médio anualizado" Categoria="--" sentenca="13">
+      <word_375 token="O" lemma="o" pos="art" features="M=S" />
+      <word_376 token="retorno" lemma="retorno" pos="n" features="M=S" />
+      <word_377 token="sobre" lemma="sobre" pos="prp" features="-" />
+      <word_378 token="o" lemma="o" pos="art" features="M=S" />
+      <word_379 token="patrimônio" lemma="patrimônio" pos="n" features="M=S" />
+      <word_380 token="líquido" lemma="líquido" pos="adj" features="M=S" />
+      <word_381 token="médio" lemma="médio" pos="adj" features="M=S" />
+      <word_382 token="anualizado" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="120" tokens="378...382" nucleo="patrimônio" sintagma="o patrimônio líquido médio anualizado" Categoria="--" sentenca="13">
+      <word_378 token="o" lemma="o" pos="art" features="M=S" />
+      <word_379 token="patrimônio" lemma="patrimônio" pos="n" features="M=S" />
+      <word_380 token="líquido" lemma="líquido" pos="adj" features="M=S" />
+      <word_381 token="médio" lemma="médio" pos="adj" features="M=S" />
+      <word_382 token="anualizado" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="122" tokens="390...392" nucleo="%" sintagma="os 35,1 %" Categoria="--" sentenca="13">
+      <word_390 token="os" lemma="o" pos="art" features="M=P" />
+      <word_391 token="35,1" lemma="" pos="num" features="M=P" />
+      <word_392 token="%" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="124" tokens="398...415" nucleo="bancos" sintagma="considerados bancos públicos e privados , o maior lucro entre janeiro e junho de os últimos 20 anos" Categoria="--" sentenca="14">
+      <word_398 token="considerados" lemma="considerar" pos="v-pcp" features="M=P" />
+      <word_399 token="bancos" lemma="banco" pos="n" features="M=P" />
+      <word_400 token="públicos" lemma="público" pos="adj" features="M=P" />
+      <word_401 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_402 token="privados" lemma="privado" pos="adj" features="M=P" />
+      <word_403 token="," lemma="" pos="," features="-" />
+      <word_404 token="o" lemma="o" pos="art" features="M=S" />
+      <word_405 token="maior" lemma="maior" pos="adj" features="M=S" />
+      <word_406 token="lucro" lemma="lucro" pos="n" features="M=S" />
+      <word_407 token="entre" lemma="entre" pos="prp" features="-" />
+      <word_408 token="janeiro" lemma="janeiro" pos="n" features="M=S" />
+      <word_409 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_410 token="junho" lemma="junho" pos="n" features="M=S" />
+      <word_411 token="de" lemma="de" pos="prp" features="-" />
+      <word_412 token="os" lemma="o" pos="art" features="M=P" />
+      <word_413 token="últimos" lemma="último" pos="adj" features="M=P" />
+      <word_414 token="20" lemma="" pos="num" features="M=P" />
+      <word_415 token="anos" lemma="ano" pos="n" features="M=P" />
+    </sn>
+    <sn id="126" tokens="408...408" nucleo="janeiro" sintagma="janeiro" Categoria="--" sentenca="14">
+      <word_408 token="janeiro" lemma="janeiro" pos="n" features="M=S" />
+    </sn>
+    <sn id="127" tokens="410...410" nucleo="junho" sintagma="junho" Categoria="--" sentenca="14">
+      <word_410 token="junho" lemma="junho" pos="n" features="M=S" />
+    </sn>
+    <sn id="129" tokens="418...419" nucleo="Banco" sintagma="o Banco" Categoria="--" sentenca="14">
+      <word_418 token="o" lemma="o" pos="art" features="M=S" />
+      <word_419 token="Banco" lemma="banco" pos="n" features="M=S" />
+    </sn>
+    <sn id="130" tokens="421...422" nucleo="Brasil" sintagma="o Brasil" Categoria="--" sentenca="14">
+      <word_421 token="o" lemma="o" pos="art" features="M=S" />
+      <word_422 token="Brasil" lemma="Brasil" pos="prop" features="M=S" />
+    </sn>
+    <sn id="131" tokens="423...423" nucleo="que" sintagma="que" Categoria="--" sentenca="14">
+      <word_423 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="133" tokens="429...429" nucleo="R$" sintagma="R$" Categoria="--" sentenca="14">
+      <word_429 token="R$" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="136" tokens="436...437" nucleo="IPCA" sintagma="o IPCA" Categoria="--" sentenca="14">
+      <word_436 token="o" lemma="o" pos="art" features="M=S" />
+      <word_437 token="IPCA" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="137" tokens="441...441" nucleo="junho" sintagma="junho" Categoria="--" sentenca="14">
+      <word_441 token="junho" lemma="junho" pos="n" features="M=S" />
+    </sn>
+    <sn id="2" tokens="8...9" nucleo="País" sintagma="o País" Categoria="--" sentenca="1">
+      <word_8 token="o" lemma="o" pos="art" features="M=S" />
+      <word_9 token="País" lemma="" pos="prop" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

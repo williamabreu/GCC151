@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="O brasileiro Thiago_Pereira conquista com folga o primeiro lugar em os 4x200m medley , levando a medalha de ouro , segundo de o Brasil . O brasileiro liderou de ponta a ponta e a o final bateu o recorde Pan-Americano e Sul-Americano , com o tempo de 4min11s14 . O americano Robert_Margalis ficou com a prata . O canadense Keith_Beavers garantiu o bronze . O outro brasileiro , Diogo_Yabe , ficou com a quarta colocação . Thiago_Pereira , já havia sido bronze em 2003 em a mesma prova de 4x200m medley , em Santo_Domingo . ." />
+  <Sentencas>
+    <sentenca_1 conteudo="O brasileiro Thiago Pereira conquista com folga o primeiro lugar em os 4x200m medley, levando a medalha de ouro, segundo de o Brasil." />
+    <sentenca_2 conteudo="O brasileiro liderou de ponta a ponta e ao final bateu o recorde Pan-Americano e Sul-Americano, com o tempo de 4min11s14." />
+    <sentenca_3 conteudo="O americano Robert Margalis ficou com a prata." />
+    <sentenca_4 conteudo="O canadense Keith Beavers garantiu o bronze." />
+    <sentenca_5 conteudo="O outro brasileiro, Diogo Yabe, ficou com a quarta colocação." />
+    <sentenca_6 conteudo="Thiago Pereira, já havia sido bronze em 2003 em a mesma prova de 4x200m medley, em Santo Domingo." />
+    <sentenca_7 conteudo="." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="O" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="brasileiro" lemma="brasileiro" pos="n" features="M=S" sentenca="1" />
+    <word_2 token="Thiago_Pereira" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_3 token="conquista" lemma="conquistar" pos="v-fin" features="PR=3S=IND" sentenca="1" />
+    <word_4 token="com" lemma="com" pos="prp" features="-" sentenca="1" />
+    <word_5 token="folga" lemma="folga" pos="n" features="F=S" sentenca="1" />
+    <word_6 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_7 token="primeiro" lemma="primeiro" pos="adj" features="M=S" sentenca="1" />
+    <word_8 token="lugar" lemma="lugar" pos="n" features="M=S" sentenca="1" />
+    <word_9 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_10 token="os" lemma="o" pos="art" features="M=P" sentenca="1" />
+    <word_11 token="4x200m" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_12 token="medley" lemma="" pos="n" features="M=P" sentenca="1" />
+    <word_13 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_14 token="levando" lemma="levar" pos="v-ger" features="-" sentenca="1" />
+    <word_15 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_16 token="medalha" lemma="medalha" pos="n" features="F=S" sentenca="1" />
+    <word_17 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_18 token="ouro" lemma="ouro" pos="n" features="M=S" sentenca="1" />
+    <word_19 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_20 token="segundo" lemma="segundo" pos="prp" features="-" sentenca="1" />
+    <word_21 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_22 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_23 token="Brasil" lemma="Brasil" pos="prop" features="M=S" sentenca="1" />
+    <word_24 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_25 token="O" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_26 token="brasileiro" lemma="brasileiro" pos="n" features="M=S" sentenca="2" />
+    <word_27 token="liderou" lemma="liderar" pos="v-fin" features="PS=3S=IND" sentenca="2" />
+    <word_28 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_29 token="ponta" lemma="ponta" pos="n" features="F=S" sentenca="2" />
+    <word_30 token="a" lemma="a" pos="prp" features="-" sentenca="2" />
+    <word_31 token="ponta" lemma="ponta" pos="n" features="F=S" sentenca="2" />
+    <word_32 token="e" lemma="e" pos="conj-c" features="-" sentenca="2" />
+    <word_33 token="a" lemma="a" pos="prp" features="-" sentenca="2" />
+    <word_34 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_35 token="final" lemma="final" pos="n" features="M=S" sentenca="2" />
+    <word_36 token="bateu" lemma="bater" pos="v-fin" features="PS=3S=IND" sentenca="2" />
+    <word_37 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_38 token="recorde" lemma="recorde" pos="n" features="M=S" sentenca="2" />
+    <word_39 token="Pan-Americano" lemma="" pos="n" features="M=S" sentenca="2" />
+    <word_40 token="e" lemma="e" pos="conj-c" features="-" sentenca="2" />
+    <word_41 token="Sul-Americano" lemma="sul-americano" pos="n" features="M=S" sentenca="2" />
+    <word_42 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_43 token="com" lemma="com" pos="prp" features="-" sentenca="2" />
+    <word_44 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_45 token="tempo" lemma="tempo" pos="n" features="M=S" sentenca="2" />
+    <word_46 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_47 token="4min11s14" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_48 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_49 token="O" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_50 token="americano" lemma="americano" pos="n" features="M=S" sentenca="3" />
+    <word_51 token="Robert_Margalis" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_52 token="ficou" lemma="ficar" pos="v-fin" features="PS=3S=IND" sentenca="3" />
+    <word_53 token="com" lemma="com" pos="prp" features="-" sentenca="3" />
+    <word_54 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_55 token="prata" lemma="prata" pos="n" features="F=S" sentenca="3" />
+    <word_56 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_57 token="O" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_58 token="canadense" lemma="canadense" pos="n" features="M=S" sentenca="4" />
+    <word_59 token="Keith_Beavers" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_60 token="garantiu" lemma="garantir" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_61 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_62 token="bronze" lemma="bronze" pos="n" features="M=S" sentenca="4" />
+    <word_63 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_64 token="O" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_65 token="outro" lemma="outro" pos="pron-det" features="M=S" sentenca="5" />
+    <word_66 token="brasileiro" lemma="brasileiro" pos="n" features="M=S" sentenca="5" />
+    <word_67 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_68 token="Diogo_Yabe" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_69 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_70 token="ficou" lemma="ficar" pos="v-fin" features="PS=3S=IND" sentenca="5" />
+    <word_71 token="com" lemma="com" pos="prp" features="-" sentenca="5" />
+    <word_72 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_73 token="quarta" lemma="" pos="adj" features="F=S" sentenca="5" />
+    <word_74 token="colocação" lemma="colocar" pos="n" features="F=S" sentenca="5" />
+    <word_75 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_76 token="Thiago_Pereira" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_77 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_78 token="já" lemma="já" pos="adv" features="-" sentenca="6" />
+    <word_79 token="havia" lemma="haver" pos="v-fin" features="IMPF=3S=IND" sentenca="6" />
+    <word_80 token="sido" lemma="ser" pos="v-pcp" features="M=S" sentenca="6" />
+    <word_81 token="bronze" lemma="bronze" pos="n" features="M=S" sentenca="6" />
+    <word_82 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_83 token="2003" lemma="" pos="num" features="M=P" sentenca="6" />
+    <word_84 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_85 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_86 token="mesma" lemma="mesmo" pos="pron-det" features="F=S" sentenca="6" />
+    <word_87 token="prova" lemma="prova" pos="n" features="F=S" sentenca="6" />
+    <word_88 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_89 token="4x200m" lemma="" pos="art" features="M=S" sentenca="6" />
+    <word_90 token="medley" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_91 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_92 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_93 token="Santo_Domingo" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_94 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_95 token="." lemma="." pos="." features="-" sentenca="7" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="0...1" nucleo="brasileiro" sintagma="O brasileiro" Categoria="PESSOA" sentenca="1">
+        <word_0 token="O" lemma="o" pos="art" features="M=S" />
+        <word_1 token="brasileiro" lemma="brasileiro" pos="n" features="M=S" />
+      </sn>
+      <sn id="1" tokens="2...2" nucleo="Thiago_Pereira" sintagma="Thiago Pereira" Categoria="PESSOA" sentenca="1">
+        <word_2 token="Thiago_Pereira" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="8" tokens="25...26" nucleo="brasileiro" sintagma="O brasileiro" Categoria="PESSOA" sentenca="2">
+        <word_25 token="O" lemma="o" pos="art" features="M=S" />
+        <word_26 token="brasileiro" lemma="brasileiro" pos="n" features="M=S" />
+      </sn>
+      <sn id="25" tokens="76...76" nucleo="Thiago_Pereira" sintagma="Thiago Pereira" Categoria="PESSOA" sentenca="6">
+        <word_76 token="Thiago_Pereira" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_17>
+      <sn id="4" tokens="10...12" nucleo="medley" sintagma="os 4x200m medley" Categoria="OUTRO" sentenca="1">
+        <word_10 token="os" lemma="o" pos="art" features="M=P" />
+        <word_11 token="4x200m" lemma="" pos="num" features="M=P" />
+        <word_12 token="medley" lemma="" pos="n" features="M=P" />
+      </sn>
+      <sn id="27" tokens="85...87" nucleo="mesma" sintagma="a mesma prova" Categoria="OUTRO" sentenca="6">
+        <word_85 token="a" lemma="o" pos="art" features="F=S" />
+        <word_86 token="mesma" lemma="mesmo" pos="pron-det" features="F=S" />
+        <word_87 token="prova" lemma="prova" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_17>
+    <Cadeia_18>
+      <sn id="16" tokens="49...50" nucleo="americano" sintagma="O americano" Categoria="PESSOA" sentenca="3">
+        <word_49 token="O" lemma="o" pos="art" features="M=S" />
+        <word_50 token="americano" lemma="americano" pos="n" features="M=S" />
+      </sn>
+      <sn id="18" tokens="51...51" nucleo="prata" sintagma="Robert_Margalis" Categoria="PESSOA" sentenca="3">
+        <word_51 token="Robert_Margalis" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_18>
+    <Cadeia_19>
+      <sn id="22" tokens="64...67" nucleo="outro" sintagma="O outro brasileiro" Categoria="PESSOA" sentenca="5">
+        <word_64 token="O" lemma="o" pos="art" features="M=S" />
+        <word_65 token="outro" lemma="outro" pos="pron-det" features="M=S" />
+        <word_66 token="brasileiro" lemma="brasileiro" pos="n" features="M=S" />
+        <word_67 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="23" tokens="68...68" nucleo="Diogo_Yabe" sintagma="Diogo Yabe" Categoria="PESSOA" sentenca="5">
+        <word_68 token="Diogo_Yabe" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_19>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="3" tokens="6...8" nucleo="lugar" sintagma="o primeiro lugar" Categoria="--" sentenca="1">
+      <word_6 token="o" lemma="o" pos="art" features="M=S" />
+      <word_7 token="primeiro" lemma="primeiro" pos="adj" features="M=S" />
+      <word_8 token="lugar" lemma="lugar" pos="n" features="M=S" />
+    </sn>
+    <sn id="5" tokens="15...18" nucleo="medalha" sintagma="a medalha de ouro" Categoria="--" sentenca="1">
+      <word_15 token="a" lemma="o" pos="art" features="F=S" />
+      <word_16 token="medalha" lemma="medalha" pos="n" features="F=S" />
+      <word_17 token="de" lemma="de" pos="prp" features="-" />
+      <word_18 token="ouro" lemma="ouro" pos="n" features="M=S" />
+    </sn>
+    <sn id="6" tokens="18...18" nucleo="ouro" sintagma="ouro" Categoria="--" sentenca="1">
+      <word_18 token="ouro" lemma="ouro" pos="n" features="M=S" />
+    </sn>
+    <sn id="7" tokens="22...23" nucleo="Brasil" sintagma="o Brasil" Categoria="--" sentenca="1">
+      <word_22 token="o" lemma="o" pos="art" features="M=S" />
+      <word_23 token="Brasil" lemma="Brasil" pos="prop" features="M=S" />
+    </sn>
+    <sn id="9" tokens="29...29" nucleo="ponta" sintagma="ponta" Categoria="--" sentenca="2">
+      <word_29 token="ponta" lemma="ponta" pos="n" features="F=S" />
+    </sn>
+    <sn id="10" tokens="31...31" nucleo="ponta" sintagma="ponta" Categoria="--" sentenca="2">
+      <word_31 token="ponta" lemma="ponta" pos="n" features="F=S" />
+    </sn>
+    <sn id="11" tokens="34...35" nucleo="final" sintagma="o final" Categoria="--" sentenca="2">
+      <word_34 token="o" lemma="o" pos="art" features="M=S" />
+      <word_35 token="final" lemma="final" pos="n" features="M=S" />
+    </sn>
+    <sn id="12" tokens="37...47" nucleo="recorde" sintagma="o recorde Pan-Americano e Sul-Americano , com o tempo de 4min11s14" Categoria="--" sentenca="2">
+      <word_37 token="o" lemma="o" pos="art" features="M=S" />
+      <word_38 token="recorde" lemma="recorde" pos="n" features="M=S" />
+      <word_39 token="Pan-Americano" lemma="" pos="n" features="M=S" />
+      <word_40 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_41 token="Sul-Americano" lemma="sul-americano" pos="n" features="M=S" />
+      <word_42 token="," lemma="" pos="," features="-" />
+      <word_43 token="com" lemma="com" pos="prp" features="-" />
+      <word_44 token="o" lemma="o" pos="art" features="M=S" />
+      <word_45 token="tempo" lemma="tempo" pos="n" features="M=S" />
+      <word_46 token="de" lemma="de" pos="prp" features="-" />
+      <word_47 token="4min11s14" lemma="" pos="num" features="M=P" />
+    </sn>
+    <sn id="13" tokens="39...40" nucleo="Pan-Americano" sintagma="Pan-Americano e" Categoria="--" sentenca="2">
+      <word_39 token="Pan-Americano" lemma="" pos="n" features="M=S" />
+      <word_40 token="e" lemma="e" pos="conj-c" features="-" />
+    </sn>
+    <sn id="14" tokens="41...41" nucleo="Sul-Americano" sintagma="Sul-Americano" Categoria="--" sentenca="2">
+      <word_41 token="Sul-Americano" lemma="sul-americano" pos="n" features="M=S" />
+    </sn>
+    <sn id="15" tokens="44...45" nucleo="tempo" sintagma="o tempo" Categoria="--" sentenca="2">
+      <word_44 token="o" lemma="o" pos="art" features="M=S" />
+      <word_45 token="tempo" lemma="tempo" pos="n" features="M=S" />
+    </sn>
+    <sn id="21" tokens="61...62" nucleo="bronze" sintagma="o bronze" Categoria="--" sentenca="4">
+      <word_61 token="o" lemma="o" pos="art" features="M=S" />
+      <word_62 token="bronze" lemma="bronze" pos="n" features="M=S" />
+    </sn>
+    <sn id="24" tokens="72...74" nucleo="colocação" sintagma="a quarta colocação" Categoria="--" sentenca="5">
+      <word_72 token="a" lemma="o" pos="art" features="F=S" />
+      <word_73 token="quarta" lemma="" pos="adj" features="F=S" />
+      <word_74 token="colocação" lemma="colocar" pos="n" features="F=S" />
+    </sn>
+    <sn id="26" tokens="81...83" nucleo="bronze" sintagma="bronze em 2003" Categoria="--" sentenca="6">
+      <word_81 token="bronze" lemma="bronze" pos="n" features="M=S" />
+      <word_82 token="em" lemma="em" pos="prp" features="-" />
+      <word_83 token="2003" lemma="" pos="num" features="M=P" />
+    </sn>
+    <sn id="28" tokens="89...90" nucleo="medley" sintagma="4x200m medley" Categoria="--" sentenca="6">
+      <word_89 token="4x200m" lemma="" pos="art" features="M=S" />
+      <word_90 token="medley" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="29" tokens="93...93" nucleo="Santo_Domingo" sintagma="Santo Domingo" Categoria="--" sentenca="6">
+      <word_93 token="Santo_Domingo" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="2" tokens="5...5" nucleo="folga" sintagma="folga" Categoria="--" sentenca="1">
+      <word_5 token="folga" lemma="folga" pos="n" features="F=S" />
+    </sn>
+    <sn id="19" tokens="57...59" nucleo="canadense" sintagma="O canadense Keith Beavers" Categoria="PESSOA" sentenca="4">
+      <word_57 token="O" lemma="o" pos="art" features="M=S" />
+      <word_58 token="canadense" lemma="canadense" pos="n" features="M=S" />
+      <word_59 token="Keith_Beavers" lemma="" pos="prop" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="Depois de 20 dias de tempo seco , voltou a chover em a capital paulista . Segundo o Centro_de_Gerenciamento_de_Emergências ( CGE ) , a última chuva havia ocorrido em o dia 29 de junho , em intensidade menor de o que a que cai sobre a cidade desde a noite de domingo . A previsão é que ocorram novas pancadas entre a noite de terça e a manhã de quarta . A temperatura deve permanecer baixa , por_conta de a massa de ar polar que acompanha a frente fria que passa por o estado . em esta segunda-feira , os termômetros não devem passar de 18 graus . Amanhã , a temperatura máxima pode chegar a 22 graus , mas em a quarta volta a cair . O Aeroporto de Congonhas funciona normalmente em esta segunda . De_acordo com a Infraero , até 8h20m apenas dois de os 42 vôos programados atrasaram e um foi cancelado . A chuva começou em a noite de domingo e ficou mais forte entre 6h e 7h30m de esta segunda . em a madrugada , a temperatura foi de 12 graus em os lugares mais frios de a cidade . Com o asfalto molhado , o trânsito ficou mais lento e o congestionamento ficou o dobro de a média . Até 9h30m foram registrados oito pontos de alagamento , dois de eles intransitáveis - em a Marginal_Pinheiros , em a altura de a Ponte_João_Dias , e em a Marginal_Tietê , em o acesso a a Rodovia de os Bandeirantes . em a noite de domingo , a pista molhada causou dois capotamentos . Um de eles , em o começo de a Rodovia de os Imigrantes , deixou sete feridos . O outro , em a Avenida 23 de Maio , perto_do o Viaduto_Pedroso , feriu quatro . De_acordo com a CET , o índice de congestionamento era de 54 quilômetros a as 8h , bem acima_da a média . Em julho de o ano passado , a média foi de 36 km em o horário . O pico de lentidão foi registrado a as 9h , com 113 km de lentidão , o dobro de o registrado em este horário . O rodízio de veículos vigora em a cidade e hoje há restrição de circulação para os carros com placas final 1 e 2 . - O tempo deve ficar firme somente a_partir_de quinta-feira - diz Alexandre_Nascimento , de a Climatempo ." />
+  <Sentencas>
+    <sentenca_1 conteudo="Depois de 20 dias de tempo seco, voltou a chover em a capital paulista." />
+    <sentenca_2 conteudo="Segundo o Centro de Gerenciamento de Emergências (CGE), a última chuva havia ocorrido em o dia 29 de junho, em intensidade menor de o que a que cai sobre a cidade desde a noite de domingo." />
+    <sentenca_3 conteudo="A previsão é que ocorram novas pancadas entre a noite de terça e a manhã de quarta." />
+    <sentenca_4 conteudo="A temperatura deve permanecer baixa, por conta de a massa de ar polar que acompanha a frente fria que passa por o estado." />
+    <sentenca_5 conteudo="Nesta segunda-feira, os termômetros não devem passar de 18 graus." />
+    <sentenca_6 conteudo="Amanhã, a temperatura máxima pode chegar a 22 graus, mas em a quarta volta a cair." />
+    <sentenca_7 conteudo="O Aeroporto de Congonhas funciona normalmente em esta segunda." />
+    <sentenca_8 conteudo="De acordo com a Infraero, até 8h20m apenas dois de os 42 vôos programados atrasaram e um foi cancelado." />
+    <sentenca_9 conteudo="A chuva começou em a noite de domingo e ficou mais forte entre 6h e 7h30m desta segunda." />
+    <sentenca_10 conteudo="Na madrugada, a temperatura foi de 12 graus em os lugares mais frios de a cidade." />
+    <sentenca_11 conteudo="Com o asfalto molhado, o trânsito ficou mais lento e o congestionamento ficou o dobro de a média." />
+    <sentenca_12 conteudo="Até 9h30m foram registrados oito pontos de alagamento, dois deles intransitáveis - em a Marginal Pinheiros, em a altura de a Ponte João Dias, e em a Marginal Tietê, em o acesso aa Rodovia de os Bandeirantes." />
+    <sentenca_13 conteudo="Na noite de domingo, a pista molhada causou dois capotamentos." />
+    <sentenca_14 conteudo="Um deles, em o começo de a Rodovia de os Imigrantes, deixou sete feridos." />
+    <sentenca_15 conteudo="O outro, em a Avenida 23 de Maio, perto de o Viaduto Pedroso, feriu quatro." />
+    <sentenca_16 conteudo="De acordo com a CET, o índice de congestionamento era de 54 quilômetros a as 8h, bem acima de a média." />
+    <sentenca_17 conteudo="Em julho de o ano passado, a média foi de 36 km em o horário." />
+    <sentenca_18 conteudo="O pico de lentidão foi registrado a as 9h, com 113 km de lentidão, o dobro de o registrado em ente horário." />
+    <sentenca_19 conteudo="O rodízio de veículos vigora em a cidade e hoje há restrição de circulação para os carros com placas final 1 e 2." />
+    <sentenca_20 conteudo="- O tempo deve ficar firme somente a partir de quinta-feira - diz Alexandre Nascimento, de a Climatempo." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="Depois" lemma="depois" pos="adv" features="-" sentenca="1" />
+    <word_1 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_2 token="20" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_3 token="dias" lemma="dia" pos="n" features="M=P" sentenca="1" />
+    <word_4 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_5 token="tempo" lemma="tempo" pos="n" features="M=S" sentenca="1" />
+    <word_6 token="seco" lemma="seco" pos="adj" features="M=S" sentenca="1" />
+    <word_7 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_8 token="voltou" lemma="voltar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_9 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_10 token="chover" lemma="chover" pos="v-inf" features="-" sentenca="1" />
+    <word_11 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_12 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_13 token="capital" lemma="capital" pos="n" features="F=S" sentenca="1" />
+    <word_14 token="paulista" lemma="" pos="adj" features="F=S" sentenca="1" />
+    <word_15 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_16 token="Segundo" lemma="segundo" pos="prp" features="-" sentenca="2" />
+    <word_17 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_18 token="Centro_de_Gerenciamento_de_Emergências" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_19 token="(" lemma="(" pos="(" features="-" sentenca="2" />
+    <word_20 token="CGE" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_21 token=")" lemma=")" pos=")" features="-" sentenca="2" />
+    <word_22 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_23 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_24 token="última" lemma="último" pos="adj" features="F=S" sentenca="2" />
+    <word_25 token="chuva" lemma="chuva" pos="n" features="F=S" sentenca="2" />
+    <word_26 token="havia" lemma="haver" pos="v-fin" features="IMPF=3S=IND" sentenca="2" />
+    <word_27 token="ocorrido" lemma="ocorrer" pos="v-pcp" features="M=S" sentenca="2" />
+    <word_28 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_29 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_30 token="dia" lemma="dia" pos="n" features="M=S" sentenca="2" />
+    <word_31 token="29" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_32 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_33 token="junho" lemma="junho" pos="n" features="M=S" sentenca="2" />
+    <word_34 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_35 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_36 token="intensidade" lemma="intensidade, intenso" pos="n" features="F=S" sentenca="2" />
+    <word_37 token="menor" lemma="menor" pos="adj" features="F=S" sentenca="2" />
+    <word_38 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_39 token="o" lemma="" pos="pron-det" features="M=S" sentenca="2" />
+    <word_40 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="2" />
+    <word_41 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_42 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="2" />
+    <word_43 token="cai" lemma="cair" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_44 token="sobre" lemma="sobre" pos="prp" features="-" sentenca="2" />
+    <word_45 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_46 token="cidade" lemma="cidade" pos="n" features="F=S" sentenca="2" />
+    <word_47 token="desde" lemma="desde" pos="prp" features="-" sentenca="2" />
+    <word_48 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_49 token="noite" lemma="noite" pos="n" features="F=S" sentenca="2" />
+    <word_50 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_51 token="domingo" lemma="domingo" pos="n" features="M=S" sentenca="2" />
+    <word_52 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_53 token="A" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_54 token="previsão" lemma="previsão" pos="n" features="F=S" sentenca="3" />
+    <word_55 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="3" />
+    <word_56 token="que" lemma="que" pos="conj-s" features="-" sentenca="3" />
+    <word_57 token="ocorram" lemma="ocorrer" pos="v-fin" features="PR=3P=SUBJ" sentenca="3" />
+    <word_58 token="novas" lemma="novo" pos="adj" features="F=P" sentenca="3" />
+    <word_59 token="pancadas" lemma="pancada" pos="n" features="F=P" sentenca="3" />
+    <word_60 token="entre" lemma="entre" pos="prp" features="-" sentenca="3" />
+    <word_61 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_62 token="noite" lemma="noite" pos="n" features="F=S" sentenca="3" />
+    <word_63 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_64 token="terça" lemma="terça" pos="n" features="F=S" sentenca="3" />
+    <word_65 token="e" lemma="e" pos="conj-c" features="-" sentenca="3" />
+    <word_66 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_67 token="manhã" lemma="manhã" pos="n" features="F=S" sentenca="3" />
+    <word_68 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_69 token="quarta" lemma="quarta" pos="n" features="F=S" sentenca="3" />
+    <word_70 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_71 token="A" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_72 token="temperatura" lemma="temperatura" pos="n" features="F=S" sentenca="4" />
+    <word_73 token="deve" lemma="dever" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_74 token="permanecer" lemma="permanecer" pos="v-inf" features="-" sentenca="4" />
+    <word_75 token="baixa" lemma="baixo" pos="adj" features="F=S" sentenca="4" />
+    <word_76 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_77 token="por_conta" lemma="" pos="adv" features="-" sentenca="4" />
+    <word_78 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_79 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_80 token="massa" lemma="massa" pos="n" features="F=S" sentenca="4" />
+    <word_81 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_82 token="ar" lemma="ar" pos="n" features="M=S" sentenca="4" />
+    <word_83 token="polar" lemma="polar" pos="adj" features="M=S" sentenca="4" />
+    <word_84 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="4" />
+    <word_85 token="acompanha" lemma="acompanhar" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_86 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_87 token="frente" lemma="frente" pos="n" features="F=S" sentenca="4" />
+    <word_88 token="fria" lemma="frio" pos="adj" features="F=S" sentenca="4" />
+    <word_89 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="4" />
+    <word_90 token="passa" lemma="passar" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_91 token="por" lemma="por" pos="prp" features="-" sentenca="4" />
+    <word_92 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_93 token="estado" lemma="estado" pos="n" features="M=S" sentenca="4" />
+    <word_94 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_95 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_96 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="5" />
+    <word_97 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" sentenca="5" />
+    <word_98 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_99 token="os" lemma="o" pos="art" features="M=P" sentenca="5" />
+    <word_100 token="termômetros" lemma="termômetro" pos="n" features="M=P" sentenca="5" />
+    <word_101 token="não" lemma="não" pos="adv" features="-" sentenca="5" />
+    <word_102 token="devem" lemma="dever" pos="v-fin" features="PR=3P=IND" sentenca="5" />
+    <word_103 token="passar" lemma="passar" pos="v-inf" features="-" sentenca="5" />
+    <word_104 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_105 token="18" lemma="" pos="num" features="M=P" sentenca="5" />
+    <word_106 token="graus" lemma="grau" pos="n" features="M=P" sentenca="5" />
+    <word_107 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_108 token="Amanhã" lemma="amanhã" pos="adv" features="-" sentenca="6" />
+    <word_109 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_110 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_111 token="temperatura" lemma="temperatura" pos="n" features="F=S" sentenca="6" />
+    <word_112 token="máxima" lemma="máximo" pos="adj" features="F=S" sentenca="6" />
+    <word_113 token="pode" lemma="poder, podar" pos="v-fin" features="PR=3S=IND" sentenca="6" />
+    <word_114 token="chegar" lemma="chegar" pos="v-inf" features="-" sentenca="6" />
+    <word_115 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_116 token="22" lemma="" pos="num" features="M=P" sentenca="6" />
+    <word_117 token="graus" lemma="grau" pos="n" features="M=P" sentenca="6" />
+    <word_118 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_119 token="mas" lemma="mas" pos="conj-c" features="-" sentenca="6" />
+    <word_120 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_121 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_122 token="quarta" lemma="" pos="adj" features="F=S" sentenca="6" />
+    <word_123 token="volta" lemma="volta" pos="n" features="F=S" sentenca="6" />
+    <word_124 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_125 token="cair" lemma="cair" pos="v-inf" features="-" sentenca="6" />
+    <word_126 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_127 token="O" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_128 token="Aeroporto" lemma="aeroporto" pos="n" features="M=S" sentenca="7" />
+    <word_129 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_130 token="Congonhas" lemma="" pos="n" features="M=S" sentenca="7" />
+    <word_131 token="funciona" lemma="funcionar" pos="v-fin" features="PR=3S=IND" sentenca="7" />
+    <word_132 token="normalmente" lemma="normal" pos="adv" features="-" sentenca="7" />
+    <word_133 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_134 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="7" />
+    <word_135 token="segunda" lemma="segundo" pos="n" features="F=S" sentenca="7" />
+    <word_136 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_137 token="De_acordo" lemma="" pos="adv" features="-" sentenca="8" />
+    <word_138 token="com" lemma="com" pos="prp" features="-" sentenca="8" />
+    <word_139 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_140 token="Infraero" lemma="" pos="prop" features="F=S" sentenca="8" />
+    <word_141 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_142 token="até" lemma="até" pos="prp" features="-" sentenca="8" />
+    <word_143 token="8h20m" lemma="" pos="num" features="F=P" sentenca="8" />
+    <word_144 token="apenas" lemma="apenas" pos="adv" features="-" sentenca="8" />
+    <word_145 token="dois" lemma="dois" pos="num" features="M=P" sentenca="8" />
+    <word_146 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_147 token="os" lemma="o" pos="art" features="M=P" sentenca="8" />
+    <word_148 token="42" lemma="" pos="num" features="M=P" sentenca="8" />
+    <word_149 token="vôos" lemma="" pos="n" features="M=P" sentenca="8" />
+    <word_150 token="programados" lemma="programar" pos="v-pcp" features="M=P" sentenca="8" />
+    <word_151 token="atrasaram" lemma="atrasar" pos="v-fin" features="MQP=3P=IND" sentenca="8" />
+    <word_152 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_153 token="um" lemma="um" pos="art" features="M=S" sentenca="8" />
+    <word_154 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="8" />
+    <word_155 token="cancelado" lemma="cancelar" pos="v-pcp" features="M=S" sentenca="8" />
+    <word_156 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_157 token="A" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_158 token="chuva" lemma="chuva" pos="n" features="F=S" sentenca="9" />
+    <word_159 token="começou" lemma="começar" pos="v-fin" features="PS=3S=IND" sentenca="9" />
+    <word_160 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_161 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_162 token="noite" lemma="noite" pos="n" features="F=S" sentenca="9" />
+    <word_163 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_164 token="domingo" lemma="domingo" pos="n" features="M=S" sentenca="9" />
+    <word_165 token="e" lemma="e" pos="conj-c" features="-" sentenca="9" />
+    <word_166 token="ficou" lemma="ficar" pos="v-fin" features="PS=3S=IND" sentenca="9" />
+    <word_167 token="mais" lemma="mais" pos="adv" features="-" sentenca="9" />
+    <word_168 token="forte" lemma="forte" pos="adj" features="F=S" sentenca="9" />
+    <word_169 token="entre" lemma="entre" pos="prp" features="-" sentenca="9" />
+    <word_170 token="6h" lemma="" pos="n" features="M=S" sentenca="9" />
+    <word_171 token="e" lemma="e" pos="conj-c" features="-" sentenca="9" />
+    <word_172 token="7h30m" lemma="" pos="n" features="M=S" sentenca="9" />
+    <word_173 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_174 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="9" />
+    <word_175 token="segunda" lemma="segundo" pos="n" features="F=S" sentenca="9" />
+    <word_176 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_177 token="em" lemma="em" pos="prp" features="-" sentenca="10" />
+    <word_178 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_179 token="madrugada" lemma="madrugada" pos="n" features="F=S" sentenca="10" />
+    <word_180 token="," lemma="" pos="," features="-" sentenca="10" />
+    <word_181 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_182 token="temperatura" lemma="temperatura" pos="n" features="F=S" sentenca="10" />
+    <word_183 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="10" />
+    <word_184 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_185 token="12" lemma="" pos="num" features="M=P" sentenca="10" />
+    <word_186 token="graus" lemma="grau" pos="n" features="M=P" sentenca="10" />
+    <word_187 token="em" lemma="em" pos="prp" features="-" sentenca="10" />
+    <word_188 token="os" lemma="o" pos="art" features="M=P" sentenca="10" />
+    <word_189 token="lugares" lemma="lugar" pos="n" features="M=P" sentenca="10" />
+    <word_190 token="mais" lemma="mais" pos="adv" features="-" sentenca="10" />
+    <word_191 token="frios" lemma="frio" pos="adj" features="M=P" sentenca="10" />
+    <word_192 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_193 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_194 token="cidade" lemma="cidade" pos="n" features="F=S" sentenca="10" />
+    <word_195 token="." lemma="." pos="." features="-" sentenca="10" />
+    <word_196 token="Com" lemma="com" pos="prp" features="-" sentenca="11" />
+    <word_197 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_198 token="asfalto" lemma="asfalto" pos="n" features="M=S" sentenca="11" />
+    <word_199 token="molhado" lemma="molhar" pos="v-pcp" features="M=S" sentenca="11" />
+    <word_200 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_201 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_202 token="trânsito" lemma="trânsito" pos="n" features="M=S" sentenca="11" />
+    <word_203 token="ficou" lemma="ficar" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_204 token="mais" lemma="mais" pos="adv" features="-" sentenca="11" />
+    <word_205 token="lento" lemma="lento" pos="adj" features="M=S" sentenca="11" />
+    <word_206 token="e" lemma="e" pos="conj-c" features="-" sentenca="11" />
+    <word_207 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_208 token="congestionamento" lemma="congestionar" pos="n" features="M=S" sentenca="11" />
+    <word_209 token="ficou" lemma="ficar" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_210 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_211 token="dobro" lemma="" pos="n" features="M=S" sentenca="11" />
+    <word_212 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_213 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_214 token="média" lemma="média, médio" pos="n" features="F=S" sentenca="11" />
+    <word_215 token="." lemma="." pos="." features="-" sentenca="11" />
+    <word_216 token="Até" lemma="até" pos="prp" features="-" sentenca="12" />
+    <word_217 token="9h30m" lemma="" pos="num" features="M=S" sentenca="12" />
+    <word_218 token="foram" lemma="ir, ser" pos="v-fin" features="MQP=3P=IND" sentenca="12" />
+    <word_219 token="registrados" lemma="" pos="v-pcp" features="M=P" sentenca="12" />
+    <word_220 token="oito" lemma="oito" pos="num" features="M=P" sentenca="12" />
+    <word_221 token="pontos" lemma="ponto" pos="n" features="M=P" sentenca="12" />
+    <word_222 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_223 token="alagamento" lemma="alagar" pos="n" features="M=S" sentenca="12" />
+    <word_224 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_225 token="dois" lemma="dois" pos="num" features="M=P" sentenca="12" />
+    <word_226 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_227 token="eles" lemma="ele" pos="pron-pers" features="M=3P=NOM" sentenca="12" />
+    <word_228 token="intransitáveis" lemma="intransitável" pos="adj" features="M=P" sentenca="12" />
+    <word_229 token="-" lemma="" pos="-" features="-" sentenca="12" />
+    <word_230 token="em" lemma="em" pos="prp" features="-" sentenca="12" />
+    <word_231 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_232 token="Marginal_Pinheiros" lemma="" pos="prop" features="F=S" sentenca="12" />
+    <word_233 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_234 token="em" lemma="em" pos="prp" features="-" sentenca="12" />
+    <word_235 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_236 token="altura" lemma="altura" pos="n" features="F=S" sentenca="12" />
+    <word_237 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_238 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_239 token="Ponte_João_Dias" lemma="" pos="prop" features="F=S" sentenca="12" />
+    <word_240 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_241 token="e" lemma="e" pos="conj-c" features="-" sentenca="12" />
+    <word_242 token="em" lemma="em" pos="prp" features="-" sentenca="12" />
+    <word_243 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_244 token="Marginal_Tietê" lemma="" pos="prop" features="F=S" sentenca="12" />
+    <word_245 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_246 token="em" lemma="em" pos="prp" features="-" sentenca="12" />
+    <word_247 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_248 token="acesso" lemma="acesso" pos="n" features="M=S" sentenca="12" />
+    <word_249 token="a" lemma="a" pos="prp" features="-" sentenca="12" />
+    <word_250 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_251 token="Rodovia" lemma="rodovia" pos="n" features="F=S" sentenca="12" />
+    <word_252 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_253 token="os" lemma="o" pos="art" features="M=P" sentenca="12" />
+    <word_254 token="Bandeirantes" lemma="Bandeirantes" pos="prop" features="F=S" sentenca="12" />
+    <word_255 token="." lemma="." pos="." features="-" sentenca="12" />
+    <word_256 token="em" lemma="em" pos="prp" features="-" sentenca="13" />
+    <word_257 token="a" lemma="o" pos="art" features="F=S" sentenca="13" />
+    <word_258 token="noite" lemma="noite" pos="n" features="F=S" sentenca="13" />
+    <word_259 token="de" lemma="de" pos="prp" features="-" sentenca="13" />
+    <word_260 token="domingo" lemma="domingo" pos="n" features="M=S" sentenca="13" />
+    <word_261 token="," lemma="" pos="," features="-" sentenca="13" />
+    <word_262 token="a" lemma="o" pos="art" features="F=S" sentenca="13" />
+    <word_263 token="pista" lemma="pista" pos="n" features="F=S" sentenca="13" />
+    <word_264 token="molhada" lemma="molhar" pos="v-pcp" features="F=S" sentenca="13" />
+    <word_265 token="causou" lemma="causar" pos="v-fin" features="PS=3S=IND" sentenca="13" />
+    <word_266 token="dois" lemma="dois" pos="num" features="M=P" sentenca="13" />
+    <word_267 token="capotamentos" lemma="" pos="n" features="M=P" sentenca="13" />
+    <word_268 token="." lemma="." pos="." features="-" sentenca="13" />
+    <word_269 token="Um" lemma="um" pos="num" features="M=S" sentenca="14" />
+    <word_270 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_271 token="eles" lemma="ele" pos="pron-pers" features="M=3P=NOM" sentenca="14" />
+    <word_272 token="," lemma="" pos="," features="-" sentenca="14" />
+    <word_273 token="em" lemma="em" pos="prp" features="-" sentenca="14" />
+    <word_274 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_275 token="começo" lemma="começo" pos="n" features="M=S" sentenca="14" />
+    <word_276 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_277 token="a" lemma="o" pos="art" features="F=S" sentenca="14" />
+    <word_278 token="Rodovia" lemma="rodovia" pos="n" features="F=S" sentenca="14" />
+    <word_279 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_280 token="os" lemma="o" pos="art" features="M=P" sentenca="14" />
+    <word_281 token="Imigrantes" lemma="" pos="prop" features="M=P" sentenca="14" />
+    <word_282 token="," lemma="" pos="," features="-" sentenca="14" />
+    <word_283 token="deixou" lemma="deixar" pos="v-fin" features="PS=3S=IND" sentenca="14" />
+    <word_284 token="sete" lemma="sete" pos="num" features="M=P" sentenca="14" />
+    <word_285 token="feridos" lemma="ferir" pos="v-pcp" features="M=P" sentenca="14" />
+    <word_286 token="." lemma="." pos="." features="-" sentenca="14" />
+    <word_287 token="O" lemma="o" pos="art" features="M=S" sentenca="15" />
+    <word_288 token="outro" lemma="outro" pos="pron-det" features="M=S" sentenca="15" />
+    <word_289 token="," lemma="" pos="," features="-" sentenca="15" />
+    <word_290 token="em" lemma="em" pos="prp" features="-" sentenca="15" />
+    <word_291 token="a" lemma="o" pos="art" features="F=S" sentenca="15" />
+    <word_292 token="Avenida" lemma="" pos="prop" features="F=S" sentenca="15" />
+    <word_293 token="23" lemma="" pos="num" features="F=P" sentenca="15" />
+    <word_294 token="de" lemma="de" pos="prp" features="-" sentenca="15" />
+    <word_295 token="Maio" lemma="" pos="prop" features="M=S" sentenca="15" />
+    <word_296 token="," lemma="" pos="," features="-" sentenca="15" />
+    <word_297 token="perto_do" lemma="" pos="prp" features="-" sentenca="15" />
+    <word_298 token="o" lemma="o" pos="art" features="M=S" sentenca="15" />
+    <word_299 token="Viaduto_Pedroso" lemma="" pos="prop" features="M=S" sentenca="15" />
+    <word_300 token="," lemma="" pos="," features="-" sentenca="15" />
+    <word_301 token="feriu" lemma="ferir" pos="v-fin" features="PS=3S=IND" sentenca="15" />
+    <word_302 token="quatro" lemma="quatro" pos="num" features="M=P" sentenca="15" />
+    <word_303 token="." lemma="." pos="." features="-" sentenca="15" />
+    <word_304 token="De_acordo" lemma="" pos="adv" features="-" sentenca="16" />
+    <word_305 token="com" lemma="com" pos="prp" features="-" sentenca="16" />
+    <word_306 token="a" lemma="o" pos="art" features="F=S" sentenca="16" />
+    <word_307 token="CET" lemma="" pos="prop" features="F=S" sentenca="16" />
+    <word_308 token="," lemma="" pos="," features="-" sentenca="16" />
+    <word_309 token="o" lemma="o" pos="art" features="M=S" sentenca="16" />
+    <word_310 token="índice" lemma="índice" pos="n" features="M=S" sentenca="16" />
+    <word_311 token="de" lemma="de" pos="prp" features="-" sentenca="16" />
+    <word_312 token="congestionamento" lemma="congestionar" pos="n" features="M=S" sentenca="16" />
+    <word_313 token="era" lemma="ser" pos="v-fin" features="IMPF=3S=IND" sentenca="16" />
+    <word_314 token="de" lemma="de" pos="prp" features="-" sentenca="16" />
+    <word_315 token="54" lemma="" pos="num" features="M=P" sentenca="16" />
+    <word_316 token="quilômetros" lemma="quilômetro" pos="n" features="M=P" sentenca="16" />
+    <word_317 token="a" lemma="a" pos="prp" features="-" sentenca="16" />
+    <word_318 token="as" lemma="o" pos="art" features="F=P" sentenca="16" />
+    <word_319 token="8h" lemma="" pos="n" features="F=P" sentenca="16" />
+    <word_320 token="," lemma="" pos="," features="-" sentenca="16" />
+    <word_321 token="bem" lemma="bem" pos="adv" features="-" sentenca="16" />
+    <word_322 token="acima_da" lemma="" pos="prp" features="-" sentenca="16" />
+    <word_323 token="a" lemma="o" pos="art" features="F=S" sentenca="16" />
+    <word_324 token="média" lemma="média, médio" pos="n" features="F=S" sentenca="16" />
+    <word_325 token="." lemma="." pos="." features="-" sentenca="16" />
+    <word_326 token="Em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_327 token="julho" lemma="julho" pos="n" features="M=S" sentenca="17" />
+    <word_328 token="de" lemma="de" pos="prp" features="-" sentenca="17" />
+    <word_329 token="o" lemma="o" pos="art" features="M=S" sentenca="17" />
+    <word_330 token="ano" lemma="ano" pos="n" features="M=S" sentenca="17" />
+    <word_331 token="passado" lemma="passar" pos="v-pcp" features="M=S" sentenca="17" />
+    <word_332 token="," lemma="" pos="," features="-" sentenca="17" />
+    <word_333 token="a" lemma="o" pos="art" features="F=S" sentenca="17" />
+    <word_334 token="média" lemma="média, médio" pos="n" features="F=S" sentenca="17" />
+    <word_335 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="17" />
+    <word_336 token="de" lemma="de" pos="prp" features="-" sentenca="17" />
+    <word_337 token="36" lemma="" pos="num" features="M=P" sentenca="17" />
+    <word_338 token="km" lemma="quilômetro" pos="n" features="M=P" sentenca="17" />
+    <word_339 token="em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_340 token="o" lemma="o" pos="art" features="M=S" sentenca="17" />
+    <word_341 token="horário" lemma="horário" pos="n" features="M=S" sentenca="17" />
+    <word_342 token="." lemma="." pos="." features="-" sentenca="17" />
+    <word_343 token="O" lemma="o" pos="art" features="M=S" sentenca="18" />
+    <word_344 token="pico" lemma="pico" pos="n" features="M=S" sentenca="18" />
+    <word_345 token="de" lemma="de" pos="prp" features="-" sentenca="18" />
+    <word_346 token="lentidão" lemma="lentidão" pos="n" features="F=S" sentenca="18" />
+    <word_347 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="18" />
+    <word_348 token="registrado" lemma="" pos="v-pcp" features="M=S" sentenca="18" />
+    <word_349 token="a" lemma="a" pos="prp" features="-" sentenca="18" />
+    <word_350 token="as" lemma="o" pos="art" features="F=P" sentenca="18" />
+    <word_351 token="9h" lemma="" pos="n" features="F=P" sentenca="18" />
+    <word_352 token="," lemma="" pos="," features="-" sentenca="18" />
+    <word_353 token="com" lemma="com" pos="prp" features="-" sentenca="18" />
+    <word_354 token="113" lemma="" pos="num" features="M=P" sentenca="18" />
+    <word_355 token="km" lemma="quilômetro" pos="n" features="M=P" sentenca="18" />
+    <word_356 token="de" lemma="de" pos="prp" features="-" sentenca="18" />
+    <word_357 token="lentidão" lemma="lentidão" pos="n" features="F=S" sentenca="18" />
+    <word_358 token="," lemma="" pos="," features="-" sentenca="18" />
+    <word_359 token="o" lemma="o" pos="art" features="M=S" sentenca="18" />
+    <word_360 token="dobro" lemma="" pos="n" features="M=S" sentenca="18" />
+    <word_361 token="de" lemma="de" pos="prp" features="-" sentenca="18" />
+    <word_362 token="o" lemma="o" pos="art" features="M=S" sentenca="18" />
+    <word_363 token="registrado" lemma="" pos="v-pcp" features="M=S" sentenca="18" />
+    <word_364 token="em" lemma="em" pos="prp" features="-" sentenca="18" />
+    <word_365 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="18" />
+    <word_366 token="horário" lemma="horário" pos="n" features="M=S" sentenca="18" />
+    <word_367 token="." lemma="." pos="." features="-" sentenca="18" />
+    <word_368 token="O" lemma="o" pos="art" features="M=S" sentenca="19" />
+    <word_369 token="rodízio" lemma="rodízio" pos="n" features="M=S" sentenca="19" />
+    <word_370 token="de" lemma="de" pos="prp" features="-" sentenca="19" />
+    <word_371 token="veículos" lemma="veículo" pos="n" features="M=P" sentenca="19" />
+    <word_372 token="vigora" lemma="vigorar" pos="v-fin" features="PR=3S=IND" sentenca="19" />
+    <word_373 token="em" lemma="em" pos="prp" features="-" sentenca="19" />
+    <word_374 token="a" lemma="o" pos="art" features="F=S" sentenca="19" />
+    <word_375 token="cidade" lemma="cidade" pos="n" features="F=S" sentenca="19" />
+    <word_376 token="e" lemma="e" pos="conj-c" features="-" sentenca="19" />
+    <word_377 token="hoje" lemma="hoje" pos="adv" features="-" sentenca="19" />
+    <word_378 token="há" lemma="haver" pos="v-fin" features="PR=3S=IND" sentenca="19" />
+    <word_379 token="restrição" lemma="restrição" pos="n" features="F=S" sentenca="19" />
+    <word_380 token="de" lemma="de" pos="prp" features="-" sentenca="19" />
+    <word_381 token="circulação" lemma="circular" pos="n" features="F=S" sentenca="19" />
+    <word_382 token="para" lemma="para" pos="prp" features="-" sentenca="19" />
+    <word_383 token="os" lemma="o" pos="art" features="M=P" sentenca="19" />
+    <word_384 token="carros" lemma="carro" pos="n" features="M=P" sentenca="19" />
+    <word_385 token="com" lemma="com" pos="prp" features="-" sentenca="19" />
+    <word_386 token="placas" lemma="placa" pos="n" features="F=P" sentenca="19" />
+    <word_387 token="final" lemma="final" pos="adj" features="M=S" sentenca="19" />
+    <word_388 token="1" lemma="" pos="num" features="M=S" sentenca="19" />
+    <word_389 token="e" lemma="e" pos="conj-c" features="-" sentenca="19" />
+    <word_390 token="2" lemma="" pos="num" features="M=P" sentenca="19" />
+    <word_391 token="." lemma="." pos="." features="-" sentenca="19" />
+    <word_392 token="-" lemma="" pos="-" features="-" sentenca="20" />
+    <word_393 token="O" lemma="o" pos="art" features="M=S" sentenca="20" />
+    <word_394 token="tempo" lemma="tempo" pos="n" features="M=S" sentenca="20" />
+    <word_395 token="deve" lemma="dever" pos="v-fin" features="PR=3S=IND" sentenca="20" />
+    <word_396 token="ficar" lemma="ficar" pos="v-inf" features="-" sentenca="20" />
+    <word_397 token="firme" lemma="firme" pos="adj" features="M=S" sentenca="20" />
+    <word_398 token="somente" lemma="somente" pos="adv" features="-" sentenca="20" />
+    <word_399 token="a_partir_de" lemma="" pos="prp" features="-" sentenca="20" />
+    <word_400 token="quinta-feira" lemma="quinta-feira" pos="n" features="F=S" sentenca="20" />
+    <word_401 token="-" lemma="" pos="-" features="-" sentenca="20" />
+    <word_402 token="diz" lemma="dizer" pos="v-fin" features="PR=3S=IND" sentenca="20" />
+    <word_403 token="Alexandre_Nascimento" lemma="" pos="prop" features="M=S" sentenca="20" />
+    <word_404 token="," lemma="" pos="," features="-" sentenca="20" />
+    <word_405 token="de" lemma="de" pos="prp" features="-" sentenca="20" />
+    <word_406 token="a" lemma="o" pos="art" features="F=S" sentenca="20" />
+    <word_407 token="Climatempo" lemma="" pos="prop" features="M=S" sentenca="20" />
+    <word_408 token="." lemma="." pos="." features="-" sentenca="20" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_1>
+      <sn id="2" tokens="12...14" nucleo="capital" sintagma="a capital paulista" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_12 token="a" lemma="o" pos="art" features="F=S" />
+        <word_13 token="capital" lemma="capital" pos="n" features="F=S" />
+        <word_14 token="paulista" lemma="" pos="adj" features="F=S" />
+      </sn>
+      <sn id="11" tokens="45...46" nucleo="cidade" sintagma="a cidade" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_45 token="a" lemma="o" pos="art" features="F=S" />
+        <word_46 token="cidade" lemma="cidade" pos="n" features="F=S" />
+      </sn>
+      <sn id="48" tokens="193...194" nucleo="cidade" sintagma="a cidade" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="10">
+        <word_193 token="a" lemma="o" pos="art" features="F=S" />
+        <word_194 token="cidade" lemma="cidade" pos="n" features="F=S" />
+      </sn>
+      <sn id="96" tokens="374...375" nucleo="cidade" sintagma="a cidade" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="19">
+        <word_374 token="a" lemma="o" pos="art" features="F=S" />
+        <word_375 token="cidade" lemma="cidade" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_1>
+    <Cadeia_13>
+      <sn id="20" tokens="71...72" nucleo="temperatura" sintagma="A temperatura" Categoria="ABSTRAÇÃO" sentenca="4">
+        <word_71 token="A" lemma="o" pos="art" features="F=S" />
+        <word_72 token="temperatura" lemma="temperatura" pos="n" features="F=S" />
+      </sn>
+      <sn id="28" tokens="99...100" nucleo="termômetros" sintagma="os termômetros" Categoria="ABSTRAÇÃO" sentenca="5">
+        <word_99 token="os" lemma="o" pos="art" features="M=P" />
+        <word_100 token="termômetros" lemma="termômetro" pos="n" features="M=P" />
+      </sn>
+      <sn id="30" tokens="110...112" nucleo="temperatura" sintagma="a temperatura máxima" Categoria="ABSTRAÇÃO" sentenca="6">
+        <word_110 token="a" lemma="o" pos="art" features="F=S" />
+        <word_111 token="temperatura" lemma="temperatura" pos="n" features="F=S" />
+        <word_112 token="máxima" lemma="máximo" pos="adj" features="F=S" />
+      </sn>
+      <sn id="45" tokens="181...182" nucleo="temperatura" sintagma="a temperatura" Categoria="ABSTRAÇÃO" sentenca="10">
+        <word_181 token="a" lemma="o" pos="art" features="F=S" />
+        <word_182 token="temperatura" lemma="temperatura" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_13>
+    <Cadeia_2>
+      <sn id="3" tokens="17...18" nucleo="Centro_de_Gerenciamento_de_Emergências" sintagma="o Centro de Gerenciamento de Emergências" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_17 token="o" lemma="o" pos="art" features="M=S" />
+        <word_18 token="Centro_de_Gerenciamento_de_Emergências" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="4" tokens="20...20" nucleo="CGE" sintagma="CGE" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_20 token="CGE" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_2>
+    <Cadeia_3>
+      <sn id="10" tokens="41...42" nucleo="que" sintagma="a que" Categoria="NATUREZA" sentenca="2">
+        <word_41 token="a" lemma="o" pos="art" features="F=S" />
+        <word_42 token="que" lemma="que" pos="pron-indp" features="F=S" />
+      </sn>
+      <sn id="38" tokens="157...158" nucleo="chuva" sintagma="A chuva" Categoria="NATUREZA" sentenca="9">
+        <word_157 token="A" lemma="o" pos="art" features="F=S" />
+        <word_158 token="chuva" lemma="chuva" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_3>
+    <Cadeia_67>
+      <sn id="95" tokens="371...371" nucleo="veículos" sintagma="veículos" Categoria="OUTRO" sentenca="19">
+        <word_371 token="veículos" lemma="veículo" pos="n" features="M=P" />
+      </sn>
+      <sn id="99" tokens="383...384" nucleo="carros" sintagma="os carros" Categoria="OUTRO" sentenca="19">
+        <word_383 token="os" lemma="o" pos="art" features="M=P" />
+        <word_384 token="carros" lemma="carro" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_67>
+    <Cadeia_69>
+      <sn id="12" tokens="48...49" nucleo="noite" sintagma="a noite" Categoria="ABSTRAÇÃO" sentenca="2">
+        <word_48 token="a" lemma="o" pos="art" features="F=S" />
+        <word_49 token="noite" lemma="noite" pos="n" features="F=S" />
+      </sn>
+      <sn id="39" tokens="161...162" nucleo="noite" sintagma="a noite" Categoria="ABSTRAÇÃO" sentenca="9">
+        <word_161 token="a" lemma="o" pos="art" features="F=S" />
+        <word_162 token="noite" lemma="noite" pos="n" features="F=S" />
+      </sn>
+      <sn id="64" tokens="257...258" nucleo="noite" sintagma="a noite" Categoria="ABSTRAÇÃO" sentenca="13">
+        <word_257 token="a" lemma="o" pos="art" features="F=S" />
+        <word_258 token="noite" lemma="noite" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_69>
+    <Cadeia_70>
+      <sn id="51" tokens="204...208" nucleo="congestionamento" sintagma="mais lento e o congestionamento" Categoria="ABSTRAÇÃO" sentenca="11">
+        <word_204 token="mais" lemma="mais" pos="adv" features="-" />
+        <word_205 token="lento" lemma="lento" pos="adj" features="M=S" />
+        <word_206 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_207 token="o" lemma="o" pos="art" features="M=S" />
+        <word_208 token="congestionamento" lemma="congestionar" pos="n" features="M=S" />
+      </sn>
+      <sn id="77" tokens="309...312" nucleo="índice" sintagma="o índice de congestionamento" Categoria="ABSTRAÇÃO" sentenca="16">
+        <word_309 token="o" lemma="o" pos="art" features="M=S" />
+        <word_310 token="índice" lemma="índice" pos="n" features="M=S" />
+        <word_311 token="de" lemma="de" pos="prp" features="-" />
+        <word_312 token="congestionamento" lemma="congestionar" pos="n" features="M=S" />
+      </sn>
+      <sn id="78" tokens="312...312" nucleo="congestionamento" sintagma="congestionamento" Categoria="ABSTRAÇÃO" sentenca="16">
+        <word_312 token="congestionamento" lemma="congestionar" pos="n" features="M=S" />
+      </sn>
+      <sn id="87" tokens="343...346" nucleo="pico" sintagma="O pico de lentidão" Categoria="ABSTRAÇÃO" sentenca="18">
+        <word_343 token="O" lemma="o" pos="art" features="M=S" />
+        <word_344 token="pico" lemma="pico" pos="n" features="M=S" />
+        <word_345 token="de" lemma="de" pos="prp" features="-" />
+        <word_346 token="lentidão" lemma="lentidão" pos="n" features="F=S" />
+      </sn>
+      <sn id="88" tokens="346...346" nucleo="lentidão" sintagma="lentidão" Categoria="ABSTRAÇÃO" sentenca="18">
+        <word_346 token="lentidão" lemma="lentidão" pos="n" features="F=S" />
+      </sn>
+      <sn id="91" tokens="357...357" nucleo="lentidão" sintagma="lentidão" Categoria="ABSTRAÇÃO" sentenca="18">
+        <word_357 token="lentidão" lemma="lentidão" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_70>
+    <Cadeia_73>
+      <sn id="21" tokens="79...80" nucleo="massa" sintagma="a massa" Categoria="NATUREZA" sentenca="4">
+        <word_79 token="a" lemma="o" pos="art" features="F=S" />
+        <word_80 token="massa" lemma="massa" pos="n" features="F=S" />
+      </sn>
+      <sn id="22" tokens="82...83" nucleo="ar" sintagma="ar polar" Categoria="NATUREZA" sentenca="4">
+        <word_82 token="ar" lemma="ar" pos="n" features="M=S" />
+        <word_83 token="polar" lemma="polar" pos="adj" features="M=S" />
+      </sn>
+      <sn id="24" tokens="84...84" nucleo="que" sintagma="que" Categoria="NATUREZA" sentenca="4">
+        <word_84 token="que" lemma="que" pos="pron-indp" features="M=S" />
+      </sn>
+    </Cadeia_73>
+    <Cadeia_74>
+      <sn id="23" tokens="86...88" nucleo="frente" sintagma="a frente fria" Categoria="NATUREZA" sentenca="4">
+        <word_86 token="a" lemma="o" pos="art" features="F=S" />
+        <word_87 token="frente" lemma="frente" pos="n" features="F=S" />
+        <word_88 token="fria" lemma="frio" pos="adj" features="F=S" />
+      </sn>
+      <sn id="25" tokens="89...89" nucleo="que" sintagma="que" Categoria="NATUREZA" sentenca="4">
+        <word_89 token="que" lemma="que" pos="pron-indp" features="F=S" />
+      </sn>
+    </Cadeia_74>
+    <Cadeia_76>
+      <sn id="27" tokens="96...97" nucleo="esta" sintagma="esta segunda-feira" Categoria="ABSTRAÇÃO" sentenca="5">
+        <word_96 token="esta" lemma="este" pos="pron-det" features="F=S" />
+        <word_97 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" />
+      </sn>
+      <sn id="35" tokens="134...135" nucleo="esta" sintagma="esta segunda" Categoria="ABSTRAÇÃO" sentenca="7">
+        <word_134 token="esta" lemma="este" pos="pron-det" features="F=S" />
+        <word_135 token="segunda" lemma="segundo" pos="n" features="F=S" />
+      </sn>
+      <sn id="43" tokens="174...175" nucleo="esta" sintagma="esta segunda" Categoria="ABSTRAÇÃO" sentenca="9">
+        <word_174 token="esta" lemma="este" pos="pron-det" features="F=S" />
+        <word_175 token="segunda" lemma="segundo" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_76>
+    <Cadeia_77>
+      <sn id="19" tokens="69...69" nucleo="quarta" sintagma="quarta" Categoria="ABSTRAÇÃO" sentenca="3">
+        <word_69 token="quarta" lemma="quarta" pos="n" features="F=S" />
+      </sn>
+      <sn id="32" tokens="121...123" nucleo="volta" sintagma="a quarta volta" Categoria="ABSTRAÇÃO" sentenca="6">
+        <word_121 token="a" lemma="o" pos="art" features="F=S" />
+        <word_122 token="quarta" lemma="" pos="adj" features="F=S" />
+        <word_123 token="volta" lemma="volta" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_77>
+    <Cadeia_79>
+      <sn id="54" tokens="220...233" nucleo="pontos" sintagma="oito pontos de alagamento , dois de eles intransitáveis - em a Marginal Pinheiros" Categoria="OUTRO" sentenca="12">
+        <word_220 token="oito" lemma="oito" pos="num" features="M=P" />
+        <word_221 token="pontos" lemma="ponto" pos="n" features="M=P" />
+        <word_222 token="de" lemma="de" pos="prp" features="-" />
+        <word_223 token="alagamento" lemma="alagar" pos="n" features="M=S" />
+        <word_224 token="," lemma="" pos="," features="-" />
+        <word_225 token="dois" lemma="dois" pos="num" features="M=P" />
+        <word_226 token="de" lemma="de" pos="prp" features="-" />
+        <word_227 token="eles" lemma="ele" pos="pron-pers" features="M=3P=NOM" />
+        <word_228 token="intransitáveis" lemma="intransitável" pos="adj" features="M=P" />
+        <word_229 token="-" lemma="" pos="-" features="-" />
+        <word_230 token="em" lemma="em" pos="prp" features="-" />
+        <word_231 token="a" lemma="o" pos="art" features="F=S" />
+        <word_232 token="Marginal_Pinheiros" lemma="" pos="prop" features="F=S" />
+        <word_233 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="56" tokens="227...227" nucleo="eles" sintagma="eles" Categoria="OUTRO" sentenca="12">
+        <word_227 token="eles" lemma="ele" pos="pron-pers" features="M=3P=NOM" />
+      </sn>
+      <sn id="57" tokens="231...232" nucleo="Marginal_Pinheiros" sintagma="a Marginal Pinheiros" Categoria="OUTRO" sentenca="12">
+        <word_231 token="a" lemma="o" pos="art" features="F=S" />
+        <word_232 token="Marginal_Pinheiros" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="58" tokens="235...236" nucleo="altura" sintagma="a altura" Categoria="OUTRO" sentenca="12">
+        <word_235 token="a" lemma="o" pos="art" features="F=S" />
+        <word_236 token="altura" lemma="altura" pos="n" features="F=S" />
+      </sn>
+      <sn id="59" tokens="238...239" nucleo="Ponte_João_Dias" sintagma="a Ponte João Dias" Categoria="OUTRO" sentenca="12">
+        <word_238 token="a" lemma="o" pos="art" features="F=S" />
+        <word_239 token="Ponte_João_Dias" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="60" tokens="243...244" nucleo="Marginal_Tietê" sintagma="a Marginal Tietê" Categoria="OUTRO" sentenca="12">
+        <word_243 token="a" lemma="o" pos="art" features="F=S" />
+        <word_244 token="Marginal_Tietê" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="61" tokens="247...248" nucleo="acesso" sintagma="o acesso" Categoria="OUTRO" sentenca="12">
+        <word_247 token="o" lemma="o" pos="art" features="M=S" />
+        <word_248 token="acesso" lemma="acesso" pos="n" features="M=S" />
+      </sn>
+      <sn id="62" tokens="250...251" nucleo="Rodovia" sintagma="a Rodovia" Categoria="OUTRO" sentenca="12">
+        <word_250 token="a" lemma="o" pos="art" features="F=S" />
+        <word_251 token="Rodovia" lemma="rodovia" pos="n" features="F=S" />
+      </sn>
+      <sn id="63" tokens="253...254" nucleo="Bandeirantes" sintagma="os Bandeirantes" Categoria="OUTRO" sentenca="12">
+        <word_253 token="os" lemma="o" pos="art" features="M=P" />
+        <word_254 token="Bandeirantes" lemma="Bandeirantes" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_79>
+    <Cadeia_8>
+      <sn id="13" tokens="51...51" nucleo="domingo" sintagma="domingo" Categoria="ABSTRAÇÃO" sentenca="2">
+        <word_51 token="domingo" lemma="domingo" pos="n" features="M=S" />
+      </sn>
+      <sn id="40" tokens="164...164" nucleo="domingo" sintagma="domingo" Categoria="ABSTRAÇÃO" sentenca="9">
+        <word_164 token="domingo" lemma="domingo" pos="n" features="M=S" />
+      </sn>
+      <sn id="65" tokens="260...260" nucleo="domingo" sintagma="domingo" Categoria="ABSTRAÇÃO" sentenca="13">
+        <word_260 token="domingo" lemma="domingo" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_8>
+    <Cadeia_81>
+      <sn id="67" tokens="266...267" nucleo="capotamentos" sintagma="dois capotamentos" Categoria="EVENTO" sentenca="13">
+        <word_266 token="dois" lemma="dois" pos="num" features="M=P" />
+        <word_267 token="capotamentos" lemma="" pos="n" features="M=P" />
+      </sn>
+      <sn id="68" tokens="269...271" nucleo="eles" sintagma="Um de eles" Categoria="EVENTO" sentenca="14">
+        <word_269 token="Um" lemma="um" pos="num" features="M=S" />
+        <word_270 token="de" lemma="de" pos="prp" features="-" />
+        <word_271 token="eles" lemma="ele" pos="pron-pers" features="M=3P=NOM" />
+      </sn>
+      <sn id="72" tokens="287...288" nucleo="outro" sintagma="O outro" Categoria="EVENTO" sentenca="15">
+        <word_287 token="O" lemma="o" pos="art" features="M=S" />
+        <word_288 token="outro" lemma="outro" pos="pron-det" features="M=S" />
+      </sn>
+    </Cadeia_81>
+    <Cadeia_83>
+      <sn id="50" tokens="201...202" nucleo="trânsito" sintagma="o trânsito" Categoria="OUTRO" sentenca="11">
+        <word_201 token="o" lemma="o" pos="art" features="M=S" />
+        <word_202 token="trânsito" lemma="trânsito" pos="n" features="M=S" />
+      </sn>
+      <sn id="98" tokens="381...381" nucleo="circulação" sintagma="circulação" Categoria="OUTRO" sentenca="19">
+        <word_381 token="circulação" lemma="circular" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_83>
+    <Cadeia_84>
+      <sn id="94" tokens="368...371" nucleo="rodízio" sintagma="O rodízio de veículos" Categoria="OUTRO" sentenca="19">
+        <word_368 token="O" lemma="o" pos="art" features="M=S" />
+        <word_369 token="rodízio" lemma="rodízio" pos="n" features="M=S" />
+        <word_370 token="de" lemma="de" pos="prp" features="-" />
+        <word_371 token="veículos" lemma="veículo" pos="n" features="M=P" />
+      </sn>
+      <sn id="97" tokens="379...381" nucleo="restrição" sintagma="restrição de circulação" Categoria="OUTRO" sentenca="19">
+        <word_379 token="restrição" lemma="restrição" pos="n" features="F=S" />
+        <word_380 token="de" lemma="de" pos="prp" features="-" />
+        <word_381 token="circulação" lemma="circular" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_84>
+    <Cadeia_86>
+      <sn id="89" tokens="350...351" nucleo="9h" sintagma="as 9h" Categoria="ABSTRAÇÃO" sentenca="18">
+        <word_350 token="as" lemma="o" pos="art" features="F=P" />
+        <word_351 token="9h" lemma="" pos="n" features="F=P" />
+      </sn>
+      <sn id="93" tokens="365...366" nucleo="este" sintagma="este horário" Categoria="ABSTRAÇÃO" sentenca="18">
+        <word_365 token="este" lemma="este" pos="pron-det" features="M=S" />
+        <word_366 token="horário" lemma="horário" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_86>
+    <Cadeia_88>
+      <sn id="80" tokens="318...319" nucleo="8h" sintagma="as 8h" Categoria="ABSTRAÇÃO" sentenca="16">
+        <word_318 token="as" lemma="o" pos="art" features="F=P" />
+        <word_319 token="8h" lemma="" pos="n" features="F=P" />
+      </sn>
+      <sn id="86" tokens="340...341" nucleo="horário" sintagma="o horário" Categoria="ABSTRAÇÃO" sentenca="17">
+        <word_340 token="o" lemma="o" pos="art" features="M=S" />
+        <word_341 token="horário" lemma="horário" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_88>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="1" tokens="5...6" nucleo="tempo" sintagma="tempo seco" Categoria="--" sentenca="1">
+      <word_5 token="tempo" lemma="tempo" pos="n" features="M=S" />
+      <word_6 token="seco" lemma="seco" pos="adj" features="M=S" />
+    </sn>
+    <sn id="5" tokens="23...25" nucleo="chuva" sintagma="a última chuva" Categoria="--" sentenca="2">
+      <word_23 token="a" lemma="o" pos="art" features="F=S" />
+      <word_24 token="última" lemma="último" pos="adj" features="F=S" />
+      <word_25 token="chuva" lemma="chuva" pos="n" features="F=S" />
+    </sn>
+    <sn id="6" tokens="29...31" nucleo="dia" sintagma="o dia 29" Categoria="--" sentenca="2">
+      <word_29 token="o" lemma="o" pos="art" features="M=S" />
+      <word_30 token="dia" lemma="dia" pos="n" features="M=S" />
+      <word_31 token="29" lemma="" pos="num" features="M=P" />
+    </sn>
+    <sn id="7" tokens="33...33" nucleo="junho" sintagma="junho" Categoria="--" sentenca="2">
+      <word_33 token="junho" lemma="junho" pos="n" features="M=S" />
+    </sn>
+    <sn id="8" tokens="36...37" nucleo="intensidade" sintagma="intensidade menor" Categoria="--" sentenca="2">
+      <word_36 token="intensidade" lemma="intensidade, intenso" pos="n" features="F=S" />
+      <word_37 token="menor" lemma="menor" pos="adj" features="F=S" />
+    </sn>
+    <sn id="9" tokens="40...40" nucleo="que" sintagma="que" Categoria="--" sentenca="2">
+      <word_40 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="14" tokens="53...54" nucleo="previsão" sintagma="A previsão" Categoria="--" sentenca="3">
+      <word_53 token="A" lemma="o" pos="art" features="F=S" />
+      <word_54 token="previsão" lemma="previsão" pos="n" features="F=S" />
+    </sn>
+    <sn id="15" tokens="58...69" nucleo="pancadas" sintagma="novas pancadas entre a noite de terça e a manhã de quarta" Categoria="--" sentenca="3">
+      <word_58 token="novas" lemma="novo" pos="adj" features="F=P" />
+      <word_59 token="pancadas" lemma="pancada" pos="n" features="F=P" />
+      <word_60 token="entre" lemma="entre" pos="prp" features="-" />
+      <word_61 token="a" lemma="o" pos="art" features="F=S" />
+      <word_62 token="noite" lemma="noite" pos="n" features="F=S" />
+      <word_63 token="de" lemma="de" pos="prp" features="-" />
+      <word_64 token="terça" lemma="terça" pos="n" features="F=S" />
+      <word_65 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_66 token="a" lemma="o" pos="art" features="F=S" />
+      <word_67 token="manhã" lemma="manhã" pos="n" features="F=S" />
+      <word_68 token="de" lemma="de" pos="prp" features="-" />
+      <word_69 token="quarta" lemma="quarta" pos="n" features="F=S" />
+    </sn>
+    <sn id="16" tokens="61...62" nucleo="noite" sintagma="a noite" Categoria="--" sentenca="3">
+      <word_61 token="a" lemma="o" pos="art" features="F=S" />
+      <word_62 token="noite" lemma="noite" pos="n" features="F=S" />
+    </sn>
+    <sn id="17" tokens="64...64" nucleo="terça" sintagma="terça" Categoria="--" sentenca="3">
+      <word_64 token="terça" lemma="terça" pos="n" features="F=S" />
+    </sn>
+    <sn id="18" tokens="66...67" nucleo="manhã" sintagma="a manhã" Categoria="--" sentenca="3">
+      <word_66 token="a" lemma="o" pos="art" features="F=S" />
+      <word_67 token="manhã" lemma="manhã" pos="n" features="F=S" />
+    </sn>
+    <sn id="26" tokens="92...93" nucleo="estado" sintagma="o estado" Categoria="--" sentenca="4">
+      <word_92 token="o" lemma="o" pos="art" features="M=S" />
+      <word_93 token="estado" lemma="estado" pos="n" features="M=S" />
+    </sn>
+    <sn id="33" tokens="127...130" nucleo="Aeroporto" sintagma="O Aeroporto de Congonhas" Categoria="--" sentenca="7">
+      <word_127 token="O" lemma="o" pos="art" features="M=S" />
+      <word_128 token="Aeroporto" lemma="aeroporto" pos="n" features="M=S" />
+      <word_129 token="de" lemma="de" pos="prp" features="-" />
+      <word_130 token="Congonhas" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="34" tokens="130...130" nucleo="Congonhas" sintagma="Congonhas" Categoria="--" sentenca="7">
+      <word_130 token="Congonhas" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="36" tokens="139...140" nucleo="Infraero" sintagma="a Infraero" Categoria="--" sentenca="8">
+      <word_139 token="a" lemma="o" pos="art" features="F=S" />
+      <word_140 token="Infraero" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="37" tokens="147...150" nucleo="vôos" sintagma="os 42 vôos programados" Categoria="--" sentenca="8">
+      <word_147 token="os" lemma="o" pos="art" features="M=P" />
+      <word_148 token="42" lemma="" pos="num" features="M=P" />
+      <word_149 token="vôos" lemma="" pos="n" features="M=P" />
+      <word_150 token="programados" lemma="programar" pos="v-pcp" features="M=P" />
+    </sn>
+    <sn id="41" tokens="167...175" nucleo="6h" sintagma="mais forte entre 6h e 7h30m de esta segunda" Categoria="--" sentenca="9">
+      <word_167 token="mais" lemma="mais" pos="adv" features="-" />
+      <word_168 token="forte" lemma="forte" pos="adj" features="F=S" />
+      <word_169 token="entre" lemma="entre" pos="prp" features="-" />
+      <word_170 token="6h" lemma="" pos="n" features="M=S" />
+      <word_171 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_172 token="7h30m" lemma="" pos="n" features="M=S" />
+      <word_173 token="de" lemma="de" pos="prp" features="-" />
+      <word_174 token="esta" lemma="este" pos="pron-det" features="F=S" />
+      <word_175 token="segunda" lemma="segundo" pos="n" features="F=S" />
+    </sn>
+    <sn id="42" tokens="172...172" nucleo="7h30m" sintagma="7h30m" Categoria="--" sentenca="9">
+      <word_172 token="7h30m" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="44" tokens="178...179" nucleo="madrugada" sintagma="a madrugada" Categoria="--" sentenca="10">
+      <word_178 token="a" lemma="o" pos="art" features="F=S" />
+      <word_179 token="madrugada" lemma="madrugada" pos="n" features="F=S" />
+    </sn>
+    <sn id="46" tokens="184...186" nucleo="graus" sintagma="12 graus" Categoria="--" sentenca="10">
+      <word_184 token="de" lemma="de" pos="prp" features="-" />
+      <word_185 token="12" lemma="" pos="num" features="M=P" />
+      <word_186 token="graus" lemma="grau" pos="n" features="M=P" />
+    </sn>
+    <sn id="47" tokens="188...191" nucleo="lugares" sintagma="os lugares mais frios" Categoria="--" sentenca="10">
+      <word_188 token="os" lemma="o" pos="art" features="M=P" />
+      <word_189 token="lugares" lemma="lugar" pos="n" features="M=P" />
+      <word_190 token="mais" lemma="mais" pos="adv" features="-" />
+      <word_191 token="frios" lemma="frio" pos="adj" features="M=P" />
+    </sn>
+    <sn id="49" tokens="197...199" nucleo="asfalto" sintagma="o asfalto molhado" Categoria="--" sentenca="11">
+      <word_197 token="o" lemma="o" pos="art" features="M=S" />
+      <word_198 token="asfalto" lemma="asfalto" pos="n" features="M=S" />
+      <word_199 token="molhado" lemma="molhar" pos="v-pcp" features="M=S" />
+    </sn>
+    <sn id="52" tokens="210...214" nucleo="dobro" sintagma="o dobro de a média" Categoria="--" sentenca="11">
+      <word_210 token="o" lemma="o" pos="art" features="M=S" />
+      <word_211 token="dobro" lemma="" pos="n" features="M=S" />
+      <word_212 token="de" lemma="de" pos="prp" features="-" />
+      <word_213 token="a" lemma="o" pos="art" features="F=S" />
+      <word_214 token="média" lemma="média, médio" pos="n" features="F=S" />
+    </sn>
+    <sn id="53" tokens="213...214" nucleo="média" sintagma="a média" Categoria="--" sentenca="11">
+      <word_213 token="a" lemma="o" pos="art" features="F=S" />
+      <word_214 token="média" lemma="média, médio" pos="n" features="F=S" />
+    </sn>
+    <sn id="55" tokens="223...223" nucleo="alagamento" sintagma="alagamento" Categoria="--" sentenca="12">
+      <word_223 token="alagamento" lemma="alagar" pos="n" features="M=S" />
+    </sn>
+    <sn id="66" tokens="262...264" nucleo="pista" sintagma="a pista molhada" Categoria="--" sentenca="13">
+      <word_262 token="a" lemma="o" pos="art" features="F=S" />
+      <word_263 token="pista" lemma="pista" pos="n" features="F=S" />
+      <word_264 token="molhada" lemma="molhar" pos="v-pcp" features="F=S" />
+    </sn>
+    <sn id="69" tokens="274...275" nucleo="começo" sintagma="o começo" Categoria="--" sentenca="14">
+      <word_274 token="o" lemma="o" pos="art" features="M=S" />
+      <word_275 token="começo" lemma="começo" pos="n" features="M=S" />
+    </sn>
+    <sn id="70" tokens="277...278" nucleo="Rodovia" sintagma="a Rodovia" Categoria="--" sentenca="14">
+      <word_277 token="a" lemma="o" pos="art" features="F=S" />
+      <word_278 token="Rodovia" lemma="rodovia" pos="n" features="F=S" />
+    </sn>
+    <sn id="71" tokens="280...281" nucleo="Imigrantes" sintagma="os Imigrantes" Categoria="--" sentenca="14">
+      <word_280 token="os" lemma="o" pos="art" features="M=P" />
+      <word_281 token="Imigrantes" lemma="" pos="prop" features="M=P" />
+    </sn>
+    <sn id="73" tokens="291...293" nucleo="Avenida" sintagma="a Avenida 23" Categoria="--" sentenca="15">
+      <word_291 token="a" lemma="o" pos="art" features="F=S" />
+      <word_292 token="Avenida" lemma="" pos="prop" features="F=S" />
+      <word_293 token="23" lemma="" pos="num" features="F=P" />
+    </sn>
+    <sn id="74" tokens="295...295" nucleo="Maio" sintagma="Maio" Categoria="--" sentenca="15">
+      <word_295 token="Maio" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="75" tokens="298...299" nucleo="Viaduto_Pedroso" sintagma="o Viaduto Pedroso" Categoria="--" sentenca="15">
+      <word_298 token="o" lemma="o" pos="art" features="M=S" />
+      <word_299 token="Viaduto_Pedroso" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="76" tokens="306...307" nucleo="CET" sintagma="a CET" Categoria="--" sentenca="16">
+      <word_306 token="a" lemma="o" pos="art" features="F=S" />
+      <word_307 token="CET" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="79" tokens="314...319" nucleo="quilômetros" sintagma="54 quilômetros a as 8h" Categoria="--" sentenca="16">
+      <word_314 token="de" lemma="de" pos="prp" features="-" />
+      <word_315 token="54" lemma="" pos="num" features="M=P" />
+      <word_316 token="quilômetros" lemma="quilômetro" pos="n" features="M=P" />
+      <word_317 token="a" lemma="a" pos="prp" features="-" />
+      <word_318 token="as" lemma="o" pos="art" features="F=P" />
+      <word_319 token="8h" lemma="" pos="n" features="F=P" />
+    </sn>
+    <sn id="81" tokens="323...324" nucleo="média" sintagma="a média" Categoria="--" sentenca="16">
+      <word_323 token="a" lemma="o" pos="art" features="F=S" />
+      <word_324 token="média" lemma="média, médio" pos="n" features="F=S" />
+    </sn>
+    <sn id="82" tokens="327...327" nucleo="julho" sintagma="julho" Categoria="--" sentenca="17">
+      <word_327 token="julho" lemma="julho" pos="n" features="M=S" />
+    </sn>
+    <sn id="83" tokens="329...331" nucleo="ano" sintagma="o ano passado" Categoria="--" sentenca="17">
+      <word_329 token="o" lemma="o" pos="art" features="M=S" />
+      <word_330 token="ano" lemma="ano" pos="n" features="M=S" />
+      <word_331 token="passado" lemma="passar" pos="v-pcp" features="M=S" />
+    </sn>
+    <sn id="84" tokens="333...334" nucleo="média" sintagma="a média" Categoria="--" sentenca="17">
+      <word_333 token="a" lemma="o" pos="art" features="F=S" />
+      <word_334 token="média" lemma="média, médio" pos="n" features="F=S" />
+    </sn>
+    <sn id="85" tokens="336...341" nucleo="km" sintagma="36 km em o horário" Categoria="--" sentenca="17">
+      <word_336 token="de" lemma="de" pos="prp" features="-" />
+      <word_337 token="36" lemma="" pos="num" features="M=P" />
+      <word_338 token="km" lemma="quilômetro" pos="n" features="M=P" />
+      <word_339 token="em" lemma="em" pos="prp" features="-" />
+      <word_340 token="o" lemma="o" pos="art" features="M=S" />
+      <word_341 token="horário" lemma="horário" pos="n" features="M=S" />
+    </sn>
+    <sn id="92" tokens="359...363" nucleo="dobro" sintagma="o dobro de o registrado" Categoria="--" sentenca="18">
+      <word_359 token="o" lemma="o" pos="art" features="M=S" />
+      <word_360 token="dobro" lemma="" pos="n" features="M=S" />
+      <word_361 token="de" lemma="de" pos="prp" features="-" />
+      <word_362 token="o" lemma="o" pos="art" features="M=S" />
+      <word_363 token="registrado" lemma="" pos="v-pcp" features="M=S" />
+    </sn>
+    <sn id="100" tokens="386...387" nucleo="placas" sintagma="placas final" Categoria="--" sentenca="19">
+      <word_386 token="placas" lemma="placa" pos="n" features="F=P" />
+      <word_387 token="final" lemma="final" pos="adj" features="M=S" />
+    </sn>
+    <sn id="101" tokens="393...394" nucleo="tempo" sintagma="O tempo" Categoria="--" sentenca="20">
+      <word_393 token="O" lemma="o" pos="art" features="M=S" />
+      <word_394 token="tempo" lemma="tempo" pos="n" features="M=S" />
+    </sn>
+    <sn id="102" tokens="397...400" nucleo="quinta-feira" sintagma="firme somente a partir de quinta-feira" Categoria="--" sentenca="20">
+      <word_397 token="firme" lemma="firme" pos="adj" features="M=S" />
+      <word_398 token="somente" lemma="somente" pos="adv" features="-" />
+      <word_399 token="a_partir_de" lemma="" pos="prp" features="-" />
+      <word_400 token="quinta-feira" lemma="quinta-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="103" tokens="403...407" nucleo="Alexandre_Nascimento" sintagma="Alexandre Nascimento , de a Climatempo" Categoria="--" sentenca="20">
+      <word_403 token="Alexandre_Nascimento" lemma="" pos="prop" features="M=S" />
+      <word_404 token="," lemma="" pos="," features="-" />
+      <word_405 token="de" lemma="de" pos="prp" features="-" />
+      <word_406 token="a" lemma="o" pos="art" features="F=S" />
+      <word_407 token="Climatempo" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="104" tokens="406...407" nucleo="Climatempo" sintagma="a Climatempo" Categoria="--" sentenca="20">
+      <word_406 token="a" lemma="o" pos="art" features="F=S" />
+      <word_407 token="Climatempo" lemma="" pos="prop" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

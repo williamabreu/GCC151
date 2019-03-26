@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="A Receita_Federal intensificou a fiscalização sobre as declarações de as pessoas físicas em este ano . O cruzamento de informações e a análise de dados de os anos anteriores dobraram o número de contribuintes que tiveram a vida fiscal analisada com maior minúcia , a chamada malha fina . Entre janeiro e julho , os auditores fiscais identificaram 208.471 declarações que precisaram ser revisadas , um crescimento de 104,5 % em a comparação com o mesmo período de o ano passado . O Leão está mais atento . Guloso , não . Está cumprindo suas prerrogativas constitucionais , afirmou Paulo_Ricardo_de_Souza_Cardoso , secretário-adjunto de a Receita_Federal . Para saber se caiu em a malha fina , o contribuinte deve acessar o site www.receita .fazenda .gov.br . Até o ano passado , o trabalho de fiscalização sobre as declarações suspeitas era mais burocrático e demorado . Um de os motivos é que cada parâmetro era analisado isoladamente , como por exemplo os dados referentes a rendimentos imobiliários . A_partir_deste este ano , o foco passou a ser o contribuinte e todos os parâmetros disponíveis sobre ele são cruzados . Além_disso isso , a declaração de este ano é comparada com a de anos anteriores . Cardoso afirmou ainda que a intenção é manter esse crescimento em o número de pessoas em a malha final até o final de o ano , ou_seja , o total pode ultrapassar as 400 mil pessoas . em o ano passado , tiveram suas declarações revistas 209.364 contribuintes . Por_conta de o maior número de dados disponíveis , também subiu o valor de o quanto esses contribuintes podem ter deixado de recolher a a Receita . em os sete primeiros meses de o ano foi R$ 1,339 bilhão , um aumento de 316,5 % . O valor não significa que essas pessoas físicas precisam fazer o pagamento de forma imediata . Elas podem recorrer administrativamente em a própria administração tributária ou em a Justiça . O motivo que mais leva os contribuintes a a malha fina é a omissão de renda própria ou de dependentes . Segundo Cardoso , esta omissão representa cerca_de dois terços de as declarações que estão em revisão . Os outros motivos mais constantes são a omissão de rendimentos imobiliários e despesas médicas incompatíveis . a o fazer a consulta , o contribuinte pode checar qual a pendência detectada por os técnicos de a Receita e , se for o caso , fazer uma declaração retificadora para regularizar a situação . Para fazer a consulta , basta entrar em o site e clicar em a seção IRPF - Extrato_Simplificado de o Processamento . em a página , então informar o CPF , o número de o recibo de entrega ( os dez números que aparecem em a primeira página de a declaração ) e o código de segurança pedido ( quatro caracteres ) ." />
+  <Sentencas>
+    <sentenca_1 conteudo="A Receita Federal intensificou a fiscalização sobre as declarações de as pessoas físicas em ente ano." />
+    <sentenca_2 conteudo="O cruzamento de informações e a análise de dados de os anos anteriores dobraram o número de contribuintes que tiveram a vida fiscal analisada com maior minúcia, a chamada malha fina." />
+    <sentenca_3 conteudo="Entre janeiro e julho, os auditores fiscais identificaram 208.471 declarações que precisaram ser revisadas, um crescimento de 104,5% em a comparação com o mesmo período de o ano passado." />
+    <sentenca_4 conteudo="O Leão está mais atento." />
+    <sentenca_5 conteudo="Guloso, não." />
+    <sentenca_6 conteudo="Está cumprindo suas prerrogativas constitucionais, afirmou Paulo Ricardo de Souza Cardoso, secretário-adjunto de a Receita Federal." />
+    <sentenca_7 conteudo="Para saber se caiu em a malha fina, o contribuinte deve acessar o site www.receita.fazenda.gov.br." />
+    <sentenca_8 conteudo="Até o ano passado, o trabalho de fiscalização sobre as declarações suspeitas era mais burocrático e demorado." />
+    <sentenca_9 conteudo="Um de os motivos é que cada parâmetro era analisado isoladamente, como por exemplo os dados referentes a rendimentos imobiliários." />
+    <sentenca_10 conteudo="A partir deste ano, o foco passou a ser o contribuinte e todos os parâmetros disponíveis sobre ele são cruzados." />
+    <sentenca_11 conteudo="Além disso, a declaração deste ano é comparada com a de anos anteriores." />
+    <sentenca_12 conteudo="Cardoso afirmou ainda que a intenção é manter esse crescimento em o número de pessoas em a malha final até o final de o ano, ou seja, o total pode ultrapassar as 400 mil pessoas." />
+    <sentenca_13 conteudo="No ano passado, tiveram suas declarações revistas 209.364 contribuintes." />
+    <sentenca_14 conteudo="Por conta de o maior número de dados disponíveis, também subiu o valor de o quanto esses contribuintes podem ter deixado de recolher aa Receita." />
+    <sentenca_15 conteudo="Nos sete primeiros meses de o ano foi R$ 1,339 bilhão, um aumento de 316,5%." />
+    <sentenca_16 conteudo="O valor não significa que essas pessoas físicas precisam fazer o pagamento de forma imediata." />
+    <sentenca_17 conteudo="Elas podem recorrer administrativamente em a própria administração tributária ou em a Justiça." />
+    <sentenca_18 conteudo="O motivo que mais leva os contribuintes aa malha fina é a omissão de renda própria ou de dependentes." />
+    <sentenca_19 conteudo="Segundo Cardoso, esta omissão representa cerca de dois terços de as declarações que estão em revisão." />
+    <sentenca_20 conteudo="Os outros motivos mais constantes são a omissão de rendimentos imobiliários e despesas médicas incompatíveis." />
+    <sentenca_21 conteudo="Ao fazer a consulta, o contribuinte pode checar qual a pendência detectada por os técnicos de a Receita e, se for o caso, fazer uma declaração retificadora para regularizar a situação." />
+    <sentenca_22 conteudo="Para fazer a consulta, basta entrar em o site e clicar em a seção IRPF - Extrato Simplificado de o Processamento." />
+    <sentenca_23 conteudo="Na página, então informar o CPF, o número de o recibo de entrega (os dez números que aparecem em a primeira página de a declaração) e o código de segurança pedido (quatro caracteres)." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="A" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_1 token="Receita_Federal" lemma="" pos="prop" features="F=S" sentenca="1" />
+    <word_2 token="intensificou" lemma="intensificar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_3 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_4 token="fiscalização" lemma="fiscalizar" pos="n" features="F=S" sentenca="1" />
+    <word_5 token="sobre" lemma="sobre" pos="prp" features="-" sentenca="1" />
+    <word_6 token="as" lemma="o" pos="art" features="F=P" sentenca="1" />
+    <word_7 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" sentenca="1" />
+    <word_8 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_9 token="as" lemma="o" pos="art" features="F=P" sentenca="1" />
+    <word_10 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="1" />
+    <word_11 token="físicas" lemma="físico" pos="adj" features="F=P" sentenca="1" />
+    <word_12 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_13 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="1" />
+    <word_14 token="ano" lemma="ano" pos="n" features="M=S" sentenca="1" />
+    <word_15 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_16 token="O" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_17 token="cruzamento" lemma="cruzar" pos="n" features="M=S" sentenca="2" />
+    <word_18 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_19 token="informações" lemma="informar" pos="n" features="F=P" sentenca="2" />
+    <word_20 token="e" lemma="e" pos="conj-c" features="-" sentenca="2" />
+    <word_21 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_22 token="análise" lemma="análise" pos="n" features="F=S" sentenca="2" />
+    <word_23 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_24 token="dados" lemma="dado" pos="n" features="M=P" sentenca="2" />
+    <word_25 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_26 token="os" lemma="o" pos="art" features="M=P" sentenca="2" />
+    <word_27 token="anos" lemma="ano" pos="n" features="M=P" sentenca="2" />
+    <word_28 token="anteriores" lemma="anterior" pos="adj" features="M=P" sentenca="2" />
+    <word_29 token="dobraram" lemma="dobrar" pos="v-fin" features="PS=3P=IND" sentenca="2" />
+    <word_30 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_31 token="número" lemma="número" pos="n" features="M=S" sentenca="2" />
+    <word_32 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_33 token="contribuintes" lemma="contribuinte" pos="n" features="M=P" sentenca="2" />
+    <word_34 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="2" />
+    <word_35 token="tiveram" lemma="ter" pos="v-fin" features="PS=3P=IND" sentenca="2" />
+    <word_36 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_37 token="vida" lemma="vida" pos="n" features="F=S" sentenca="2" />
+    <word_38 token="fiscal" lemma="fiscal" pos="adj" features="F=S" sentenca="2" />
+    <word_39 token="analisada" lemma="analisar" pos="v-pcp" features="F=S" sentenca="2" />
+    <word_40 token="com" lemma="com" pos="prp" features="-" sentenca="2" />
+    <word_41 token="maior" lemma="maior" pos="adj" features="F=S" sentenca="2" />
+    <word_42 token="minúcia" lemma="minúcia" pos="n" features="F=S" sentenca="2" />
+    <word_43 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_44 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_45 token="chamada" lemma="" pos="adj" features="F=S" sentenca="2" />
+    <word_46 token="malha" lemma="malha" pos="n" features="F=S" sentenca="2" />
+    <word_47 token="fina" lemma="fino" pos="adj" features="F=S" sentenca="2" />
+    <word_48 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_49 token="Entre" lemma="entre" pos="prp" features="-" sentenca="3" />
+    <word_50 token="janeiro" lemma="janeiro" pos="n" features="M=S" sentenca="3" />
+    <word_51 token="e" lemma="e" pos="conj-c" features="-" sentenca="3" />
+    <word_52 token="julho" lemma="julho" pos="n" features="M=S" sentenca="3" />
+    <word_53 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_54 token="os" lemma="o" pos="art" features="M=P" sentenca="3" />
+    <word_55 token="auditores" lemma="auditor" pos="n" features="M=P" sentenca="3" />
+    <word_56 token="fiscais" lemma="fiscal" pos="adj" features="M=P" sentenca="3" />
+    <word_57 token="identificaram" lemma="identificar" pos="v-fin" features="MQP=3P=IND" sentenca="3" />
+    <word_58 token="208.471" lemma="" pos="adj" features="F=P" sentenca="3" />
+    <word_59 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" sentenca="3" />
+    <word_60 token="que" lemma="que" pos="pron-indp" features="F=P" sentenca="3" />
+    <word_61 token="precisaram" lemma="precisar" pos="v-fin" features="MQP=3P=IND" sentenca="3" />
+    <word_62 token="ser" lemma="ser" pos="v-inf" features="-" sentenca="3" />
+    <word_63 token="revisadas" lemma="revisar" pos="v-pcp" features="F=P" sentenca="3" />
+    <word_64 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_65 token="um" lemma="um" pos="art" features="M=S" sentenca="3" />
+    <word_66 token="crescimento" lemma="crescer" pos="n" features="M=S" sentenca="3" />
+    <word_67 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_68 token="104,5" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_69 token="%" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_70 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_71 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_72 token="comparação" lemma="comparação, comparar" pos="n" features="F=S" sentenca="3" />
+    <word_73 token="com" lemma="com" pos="prp" features="-" sentenca="3" />
+    <word_74 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_75 token="mesmo" lemma="mesmo" pos="pron-det" features="M=S" sentenca="3" />
+    <word_76 token="período" lemma="período" pos="n" features="M=S" sentenca="3" />
+    <word_77 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_78 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_79 token="ano" lemma="ano" pos="n" features="M=S" sentenca="3" />
+    <word_80 token="passado" lemma="passar" pos="v-pcp" features="M=S" sentenca="3" />
+    <word_81 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_82 token="O" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_83 token="Leão" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_84 token="está" lemma="estar" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_85 token="mais" lemma="mais" pos="adv" features="-" sentenca="4" />
+    <word_86 token="atento" lemma="atento" pos="adj" features="M=S" sentenca="4" />
+    <word_87 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_88 token="Guloso" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_89 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_90 token="não" lemma="não" pos="adv" features="-" sentenca="5" />
+    <word_91 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_92 token="Está" lemma="estar" pos="v-fin" features="PR=3S=IND" sentenca="6" />
+    <word_93 token="cumprindo" lemma="cumprir" pos="v-ger" features="-" sentenca="6" />
+    <word_94 token="suas" lemma="sua" pos="pron-det" features="F=P" sentenca="6" />
+    <word_95 token="prerrogativas" lemma="prerrogativa" pos="n" features="F=P" sentenca="6" />
+    <word_96 token="constitucionais" lemma="constitucional" pos="adj" features="F=P" sentenca="6" />
+    <word_97 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_98 token="afirmou" lemma="afirmar" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_99 token="Paulo_Ricardo_de_Souza_Cardoso" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_100 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_101 token="secretário-adjunto" lemma="" pos="n" features="M=S" sentenca="6" />
+    <word_102 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_103 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_104 token="Receita_Federal" lemma="" pos="prop" features="F=S" sentenca="6" />
+    <word_105 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_106 token="Para" lemma="para" pos="prp" features="-" sentenca="7" />
+    <word_107 token="saber" lemma="saber" pos="v-inf" features="-" sentenca="7" />
+    <word_108 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" sentenca="7" />
+    <word_109 token="caiu" lemma="cair" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_110 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_111 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_112 token="malha" lemma="malha" pos="n" features="F=S" sentenca="7" />
+    <word_113 token="fina" lemma="fino" pos="adj" features="F=S" sentenca="7" />
+    <word_114 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_115 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_116 token="contribuinte" lemma="contribuinte" pos="n" features="M=S" sentenca="7" />
+    <word_117 token="deve" lemma="dever" pos="v-fin" features="PR=3S=IND" sentenca="7" />
+    <word_118 token="acessar" lemma="" pos="v-inf" features="-" sentenca="7" />
+    <word_119 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_120 token="site" lemma="site" pos="n" features="M=S" sentenca="7" />
+    <word_121 token="www.receita" lemma="" pos="v-fin" features="PR=3S=IND" sentenca="7" />
+    <word_122 token=".fazenda" lemma="" pos="n" features="F=S" sentenca="7" />
+    <word_123 token=".gov.br" lemma="" pos="adj" features="F=S" sentenca="7" />
+    <word_124 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_125 token="Até" lemma="até" pos="prp" features="-" sentenca="8" />
+    <word_126 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_127 token="ano" lemma="ano" pos="n" features="M=S" sentenca="8" />
+    <word_128 token="passado" lemma="passar" pos="v-pcp" features="M=S" sentenca="8" />
+    <word_129 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_130 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_131 token="trabalho" lemma="trabalho" pos="n" features="M=S" sentenca="8" />
+    <word_132 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_133 token="fiscalização" lemma="fiscalizar" pos="n" features="F=S" sentenca="8" />
+    <word_134 token="sobre" lemma="sobre" pos="prp" features="-" sentenca="8" />
+    <word_135 token="as" lemma="o" pos="art" features="F=P" sentenca="8" />
+    <word_136 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" sentenca="8" />
+    <word_137 token="suspeitas" lemma="suspeito" pos="adj" features="F=P" sentenca="8" />
+    <word_138 token="era" lemma="ser" pos="v-fin" features="IMPF=3S=IND" sentenca="8" />
+    <word_139 token="mais" lemma="mais" pos="adv" features="-" sentenca="8" />
+    <word_140 token="burocrático" lemma="burocrático, burocracia" pos="adj" features="M=S" sentenca="8" />
+    <word_141 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_142 token="demorado" lemma="demorar" pos="v-pcp" features="M=S" sentenca="8" />
+    <word_143 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_144 token="Um" lemma="um" pos="num" features="M=S" sentenca="9" />
+    <word_145 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_146 token="os" lemma="o" pos="art" features="M=P" sentenca="9" />
+    <word_147 token="motivos" lemma="motivo" pos="n" features="M=P" sentenca="9" />
+    <word_148 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="9" />
+    <word_149 token="que" lemma="que" pos="conj-s" features="-" sentenca="9" />
+    <word_150 token="cada" lemma="cada" pos="pron-det" features="M=S" sentenca="9" />
+    <word_151 token="parâmetro" lemma="parâmetro" pos="n" features="M=S" sentenca="9" />
+    <word_152 token="era" lemma="ser" pos="v-fin" features="IMPF=3S=IND" sentenca="9" />
+    <word_153 token="analisado" lemma="analisar" pos="v-pcp" features="M=S" sentenca="9" />
+    <word_154 token="isoladamente" lemma="isoladamente" pos="adv" features="-" sentenca="9" />
+    <word_155 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_156 token="como" lemma="como" pos="adv" features="-" sentenca="9" />
+    <word_157 token="por" lemma="por" pos="prp" features="-" sentenca="9" />
+    <word_158 token="exemplo" lemma="exemplo" pos="n" features="M=S" sentenca="9" />
+    <word_159 token="os" lemma="o" pos="art" features="M=P" sentenca="9" />
+    <word_160 token="dados" lemma="dado" pos="n" features="M=P" sentenca="9" />
+    <word_161 token="referentes" lemma="referente" pos="adj" features="M=P" sentenca="9" />
+    <word_162 token="a" lemma="a" pos="prp" features="-" sentenca="9" />
+    <word_163 token="rendimentos" lemma="render" pos="n" features="M=P" sentenca="9" />
+    <word_164 token="imobiliários" lemma="imobiliário, imobiliário" pos="adj" features="M=P" sentenca="9" />
+    <word_165 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_166 token="A_partir_deste" lemma="" pos="prp" features="-" sentenca="10" />
+    <word_167 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="10" />
+    <word_168 token="ano" lemma="ano" pos="n" features="M=S" sentenca="10" />
+    <word_169 token="," lemma="" pos="," features="-" sentenca="10" />
+    <word_170 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_171 token="foco" lemma="foco" pos="n" features="M=S" sentenca="10" />
+    <word_172 token="passou" lemma="passar" pos="v-fin" features="PS=3S=IND" sentenca="10" />
+    <word_173 token="a" lemma="a" pos="prp" features="-" sentenca="10" />
+    <word_174 token="ser" lemma="ser" pos="v-inf" features="-" sentenca="10" />
+    <word_175 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_176 token="contribuinte" lemma="contribuinte" pos="n" features="M=S" sentenca="10" />
+    <word_177 token="e" lemma="e" pos="conj-c" features="-" sentenca="10" />
+    <word_178 token="todos" lemma="todo" pos="pron-det" features="M=P" sentenca="10" />
+    <word_179 token="os" lemma="o" pos="art" features="M=P" sentenca="10" />
+    <word_180 token="parâmetros" lemma="parâmetro" pos="n" features="M=P" sentenca="10" />
+    <word_181 token="disponíveis" lemma="disponível" pos="adj" features="M=P" sentenca="10" />
+    <word_182 token="sobre" lemma="sobre" pos="prp" features="-" sentenca="10" />
+    <word_183 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="10" />
+    <word_184 token="são" lemma="ser" pos="v-fin" features="PR=3P=IND" sentenca="10" />
+    <word_185 token="cruzados" lemma="cruzar" pos="v-pcp" features="M=P" sentenca="10" />
+    <word_186 token="." lemma="." pos="." features="-" sentenca="10" />
+    <word_187 token="Além_disso" lemma="" pos="prp" features="-" sentenca="11" />
+    <word_188 token="isso" lemma="isso" pos="pron-indp" features="M=S" sentenca="11" />
+    <word_189 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_190 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_191 token="declaração" lemma="declaração, declarar" pos="n" features="F=S" sentenca="11" />
+    <word_192 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_193 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="11" />
+    <word_194 token="ano" lemma="ano" pos="n" features="M=S" sentenca="11" />
+    <word_195 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="11" />
+    <word_196 token="comparada" lemma="comparar" pos="v-pcp" features="F=S" sentenca="11" />
+    <word_197 token="com" lemma="com" pos="prp" features="-" sentenca="11" />
+    <word_198 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_199 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_200 token="anos" lemma="ano" pos="n" features="M=P" sentenca="11" />
+    <word_201 token="anteriores" lemma="anterior" pos="adj" features="M=P" sentenca="11" />
+    <word_202 token="." lemma="." pos="." features="-" sentenca="11" />
+    <word_203 token="Cardoso" lemma="Cardoso" pos="prop" features="-" sentenca="12" />
+    <word_204 token="afirmou" lemma="afirmar" pos="v-fin" features="PS=3S=IND" sentenca="12" />
+    <word_205 token="ainda" lemma="ainda" pos="adv" features="-" sentenca="12" />
+    <word_206 token="que" lemma="que" pos="conj-s" features="-" sentenca="12" />
+    <word_207 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_208 token="intenção" lemma="intenção" pos="n" features="F=S" sentenca="12" />
+    <word_209 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="12" />
+    <word_210 token="manter" lemma="manter" pos="v-inf" features="-" sentenca="12" />
+    <word_211 token="esse" lemma="esse" pos="pron-det" features="M=S" sentenca="12" />
+    <word_212 token="crescimento" lemma="crescer" pos="n" features="M=S" sentenca="12" />
+    <word_213 token="em" lemma="em" pos="prp" features="-" sentenca="12" />
+    <word_214 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_215 token="número" lemma="número" pos="n" features="M=S" sentenca="12" />
+    <word_216 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_217 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="12" />
+    <word_218 token="em" lemma="em" pos="prp" features="-" sentenca="12" />
+    <word_219 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_220 token="malha" lemma="malha" pos="n" features="F=S" sentenca="12" />
+    <word_221 token="final" lemma="final" pos="adj" features="F=S" sentenca="12" />
+    <word_222 token="até" lemma="até" pos="prp" features="-" sentenca="12" />
+    <word_223 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_224 token="final" lemma="final" pos="n" features="M=S" sentenca="12" />
+    <word_225 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_226 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_227 token="ano" lemma="ano" pos="n" features="M=S" sentenca="12" />
+    <word_228 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_229 token="ou_seja" lemma="" pos="adv" features="-" sentenca="12" />
+    <word_230 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_231 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_232 token="total" lemma="total" pos="n" features="M=S" sentenca="12" />
+    <word_233 token="pode" lemma="poder, podar" pos="v-fin" features="PR=3S=IND" sentenca="12" />
+    <word_234 token="ultrapassar" lemma="ultrapassar" pos="v-inf" features="-" sentenca="12" />
+    <word_235 token="as" lemma="o" pos="art" features="F=P" sentenca="12" />
+    <word_236 token="400" lemma="" pos="num" features="F=P" sentenca="12" />
+    <word_237 token="mil" lemma="" pos="n" features="F=P" sentenca="12" />
+    <word_238 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="12" />
+    <word_239 token="." lemma="." pos="." features="-" sentenca="12" />
+    <word_240 token="em" lemma="em" pos="prp" features="-" sentenca="13" />
+    <word_241 token="o" lemma="o" pos="art" features="M=S" sentenca="13" />
+    <word_242 token="ano" lemma="ano" pos="n" features="M=S" sentenca="13" />
+    <word_243 token="passado" lemma="passar" pos="v-pcp" features="M=S" sentenca="13" />
+    <word_244 token="," lemma="" pos="," features="-" sentenca="13" />
+    <word_245 token="tiveram" lemma="ter" pos="v-fin" features="MQP=3P=IND" sentenca="13" />
+    <word_246 token="suas" lemma="sua" pos="pron-det" features="F=P" sentenca="13" />
+    <word_247 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" sentenca="13" />
+    <word_248 token="revistas" lemma="rever" pos="v-pcp" features="F=P" sentenca="13" />
+    <word_249 token="209.364" lemma="" pos="num" features="F=P" sentenca="13" />
+    <word_250 token="contribuintes" lemma="contribuinte" pos="n" features="F=P" sentenca="13" />
+    <word_251 token="." lemma="." pos="." features="-" sentenca="13" />
+    <word_252 token="Por_conta" lemma="" pos="adv" features="-" sentenca="14" />
+    <word_253 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_254 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_255 token="maior" lemma="maior" pos="adj" features="M=S" sentenca="14" />
+    <word_256 token="número" lemma="número" pos="n" features="M=S" sentenca="14" />
+    <word_257 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_258 token="dados" lemma="dado" pos="n" features="M=P" sentenca="14" />
+    <word_259 token="disponíveis" lemma="disponível" pos="adj" features="M=P" sentenca="14" />
+    <word_260 token="," lemma="" pos="," features="-" sentenca="14" />
+    <word_261 token="também" lemma="também" pos="adv" features="-" sentenca="14" />
+    <word_262 token="subiu" lemma="subir" pos="v-fin" features="PS=3S=IND" sentenca="14" />
+    <word_263 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_264 token="valor" lemma="valor" pos="n" features="M=S" sentenca="14" />
+    <word_265 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_266 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_267 token="quanto" lemma="quanto" pos="pron-det" features="M=S" sentenca="14" />
+    <word_268 token="esses" lemma="esse" pos="pron-det" features="M=P" sentenca="14" />
+    <word_269 token="contribuintes" lemma="contribuinte" pos="n" features="M=P" sentenca="14" />
+    <word_270 token="podem" lemma="poder, podar" pos="v-fin" features="PR=3P=IND" sentenca="14" />
+    <word_271 token="ter" lemma="ter" pos="v-inf" features="-" sentenca="14" />
+    <word_272 token="deixado" lemma="deixar" pos="v-pcp" features="M=S" sentenca="14" />
+    <word_273 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_274 token="recolher" lemma="recolher" pos="v-inf" features="-" sentenca="14" />
+    <word_275 token="a" lemma="a" pos="prp" features="-" sentenca="14" />
+    <word_276 token="a" lemma="o" pos="art" features="F=S" sentenca="14" />
+    <word_277 token="Receita" lemma="" pos="prop" features="F=S" sentenca="14" />
+    <word_278 token="." lemma="." pos="." features="-" sentenca="14" />
+    <word_279 token="em" lemma="em" pos="prp" features="-" sentenca="15" />
+    <word_280 token="os" lemma="o" pos="art" features="M=P" sentenca="15" />
+    <word_281 token="sete" lemma="sete" pos="num" features="M=P" sentenca="15" />
+    <word_282 token="primeiros" lemma="" pos="adj" features="M=P" sentenca="15" />
+    <word_283 token="meses" lemma="mês" pos="n" features="M=P" sentenca="15" />
+    <word_284 token="de" lemma="de" pos="prp" features="-" sentenca="15" />
+    <word_285 token="o" lemma="o" pos="art" features="M=S" sentenca="15" />
+    <word_286 token="ano" lemma="ano" pos="n" features="M=S" sentenca="15" />
+    <word_287 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="15" />
+    <word_288 token="R$" lemma="" pos="n" features="M=P" sentenca="15" />
+    <word_289 token="1,339" lemma="" pos="num" features="M=P" sentenca="15" />
+    <word_290 token="bilhão" lemma="" pos="n" features="M=S" sentenca="15" />
+    <word_291 token="," lemma="" pos="," features="-" sentenca="15" />
+    <word_292 token="um" lemma="um" pos="art" features="M=S" sentenca="15" />
+    <word_293 token="aumento" lemma="aumento" pos="n" features="M=S" sentenca="15" />
+    <word_294 token="de" lemma="de" pos="prp" features="-" sentenca="15" />
+    <word_295 token="316,5" lemma="" pos="num" features="M=P" sentenca="15" />
+    <word_296 token="%" lemma="" pos="n" features="M=P" sentenca="15" />
+    <word_297 token="." lemma="." pos="." features="-" sentenca="15" />
+    <word_298 token="O" lemma="o" pos="art" features="M=S" sentenca="16" />
+    <word_299 token="valor" lemma="valor" pos="n" features="M=S" sentenca="16" />
+    <word_300 token="não" lemma="não" pos="adv" features="-" sentenca="16" />
+    <word_301 token="significa" lemma="significar" pos="v-fin" features="PR=3S=IND" sentenca="16" />
+    <word_302 token="que" lemma="que" pos="conj-s" features="-" sentenca="16" />
+    <word_303 token="essas" lemma="esse" pos="pron-det" features="F=P" sentenca="16" />
+    <word_304 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="16" />
+    <word_305 token="físicas" lemma="físico" pos="adj" features="F=P" sentenca="16" />
+    <word_306 token="precisam" lemma="precisar" pos="v-fin" features="PR=3P=IND" sentenca="16" />
+    <word_307 token="fazer" lemma="fazer" pos="v-inf" features="-" sentenca="16" />
+    <word_308 token="o" lemma="o" pos="art" features="M=S" sentenca="16" />
+    <word_309 token="pagamento" lemma="pagar" pos="n" features="M=S" sentenca="16" />
+    <word_310 token="de" lemma="de" pos="prp" features="-" sentenca="16" />
+    <word_311 token="forma" lemma="forma" pos="n" features="F=S" sentenca="16" />
+    <word_312 token="imediata" lemma="imediato" pos="adj" features="F=S" sentenca="16" />
+    <word_313 token="." lemma="." pos="." features="-" sentenca="16" />
+    <word_314 token="Elas" lemma="ele" pos="pron-pers" features="F=3P=NOM" sentenca="17" />
+    <word_315 token="podem" lemma="poder, podar" pos="v-fin" features="PR=3P=IND" sentenca="17" />
+    <word_316 token="recorrer" lemma="recorrer" pos="v-inf" features="-" sentenca="17" />
+    <word_317 token="administrativamente" lemma="administrativo" pos="adv" features="-" sentenca="17" />
+    <word_318 token="em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_319 token="a" lemma="o" pos="art" features="F=S" sentenca="17" />
+    <word_320 token="própria" lemma="próprio" pos="adj" features="F=S" sentenca="17" />
+    <word_321 token="administração" lemma="administrar" pos="n" features="F=S" sentenca="17" />
+    <word_322 token="tributária" lemma="tributário" pos="adj" features="F=S" sentenca="17" />
+    <word_323 token="ou" lemma="ou" pos="conj-c" features="-" sentenca="17" />
+    <word_324 token="em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_325 token="a" lemma="o" pos="art" features="F=S" sentenca="17" />
+    <word_326 token="Justiça" lemma="justiça" pos="n" features="F=S" sentenca="17" />
+    <word_327 token="." lemma="." pos="." features="-" sentenca="17" />
+    <word_328 token="O" lemma="o" pos="art" features="M=S" sentenca="18" />
+    <word_329 token="motivo" lemma="motivo" pos="n" features="M=S" sentenca="18" />
+    <word_330 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="18" />
+    <word_331 token="mais" lemma="mais" pos="adv" features="-" sentenca="18" />
+    <word_332 token="leva" lemma="levar" pos="v-fin" features="PR=3S=IND" sentenca="18" />
+    <word_333 token="os" lemma="o" pos="art" features="M=P" sentenca="18" />
+    <word_334 token="contribuintes" lemma="contribuinte" pos="n" features="M=P" sentenca="18" />
+    <word_335 token="a" lemma="a" pos="prp" features="-" sentenca="18" />
+    <word_336 token="a" lemma="o" pos="art" features="F=S" sentenca="18" />
+    <word_337 token="malha" lemma="malha" pos="n" features="F=S" sentenca="18" />
+    <word_338 token="fina" lemma="fino" pos="adj" features="F=S" sentenca="18" />
+    <word_339 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="18" />
+    <word_340 token="a" lemma="o" pos="art" features="F=S" sentenca="18" />
+    <word_341 token="omissão" lemma="omissão" pos="n" features="F=S" sentenca="18" />
+    <word_342 token="de" lemma="de" pos="prp" features="-" sentenca="18" />
+    <word_343 token="renda" lemma="renda" pos="n" features="F=S" sentenca="18" />
+    <word_344 token="própria" lemma="próprio" pos="adj" features="F=S" sentenca="18" />
+    <word_345 token="ou" lemma="ou" pos="conj-c" features="-" sentenca="18" />
+    <word_346 token="de" lemma="de" pos="prp" features="-" sentenca="18" />
+    <word_347 token="dependentes" lemma="depender" pos="adj" features="M=P" sentenca="18" />
+    <word_348 token="." lemma="." pos="." features="-" sentenca="18" />
+    <word_349 token="Segundo" lemma="segundo" pos="prp" features="-" sentenca="19" />
+    <word_350 token="Cardoso" lemma="Cardoso" pos="prop" features="-" sentenca="19" />
+    <word_351 token="," lemma="" pos="," features="-" sentenca="19" />
+    <word_352 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="19" />
+    <word_353 token="omissão" lemma="omissão" pos="n" features="F=S" sentenca="19" />
+    <word_354 token="representa" lemma="representar" pos="v-fin" features="PR=3S=IND" sentenca="19" />
+    <word_355 token="cerca_de" lemma="" pos="adv" features="-" sentenca="19" />
+    <word_356 token="dois" lemma="dois" pos="num" features="M=P" sentenca="19" />
+    <word_357 token="terços" lemma="terço" pos="n" features="M=P" sentenca="19" />
+    <word_358 token="de" lemma="de" pos="prp" features="-" sentenca="19" />
+    <word_359 token="as" lemma="o" pos="art" features="F=P" sentenca="19" />
+    <word_360 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" sentenca="19" />
+    <word_361 token="que" lemma="que" pos="pron-indp" features="F=P" sentenca="19" />
+    <word_362 token="estão" lemma="estar" pos="v-fin" features="PR=3P=IND" sentenca="19" />
+    <word_363 token="em" lemma="em" pos="prp" features="-" sentenca="19" />
+    <word_364 token="revisão" lemma="revisão" pos="n" features="F=S" sentenca="19" />
+    <word_365 token="." lemma="." pos="." features="-" sentenca="19" />
+    <word_366 token="Os" lemma="o" pos="art" features="M=P" sentenca="20" />
+    <word_367 token="outros" lemma="outro" pos="pron-det" features="M=P" sentenca="20" />
+    <word_368 token="motivos" lemma="motivo" pos="n" features="M=P" sentenca="20" />
+    <word_369 token="mais" lemma="mais" pos="adv" features="-" sentenca="20" />
+    <word_370 token="constantes" lemma="constante, constar" pos="adj" features="M=P" sentenca="20" />
+    <word_371 token="são" lemma="ser" pos="v-fin" features="PR=3P=IND" sentenca="20" />
+    <word_372 token="a" lemma="o" pos="art" features="F=S" sentenca="20" />
+    <word_373 token="omissão" lemma="omissão" pos="n" features="F=S" sentenca="20" />
+    <word_374 token="de" lemma="de" pos="prp" features="-" sentenca="20" />
+    <word_375 token="rendimentos" lemma="render" pos="n" features="M=P" sentenca="20" />
+    <word_376 token="imobiliários" lemma="imobiliário, imobiliário" pos="adj" features="M=P" sentenca="20" />
+    <word_377 token="e" lemma="e" pos="conj-c" features="-" sentenca="20" />
+    <word_378 token="despesas" lemma="despesa" pos="n" features="F=P" sentenca="20" />
+    <word_379 token="médicas" lemma="médico" pos="adj" features="F=P" sentenca="20" />
+    <word_380 token="incompatíveis" lemma="incompatível" pos="adj" features="F=P" sentenca="20" />
+    <word_381 token="." lemma="." pos="." features="-" sentenca="20" />
+    <word_382 token="a" lemma="a" pos="prp" features="-" sentenca="21" />
+    <word_383 token="o" lemma="o" pos="art" features="M=S" sentenca="21" />
+    <word_384 token="fazer" lemma="fazer" pos="v-inf" features="-" sentenca="21" />
+    <word_385 token="a" lemma="o" pos="art" features="F=S" sentenca="21" />
+    <word_386 token="consulta" lemma="consulta" pos="n" features="F=S" sentenca="21" />
+    <word_387 token="," lemma="" pos="," features="-" sentenca="21" />
+    <word_388 token="o" lemma="o" pos="art" features="M=S" sentenca="21" />
+    <word_389 token="contribuinte" lemma="contribuinte" pos="n" features="M=S" sentenca="21" />
+    <word_390 token="pode" lemma="poder, podar" pos="v-fin" features="PR=3S=IND" sentenca="21" />
+    <word_391 token="checar" lemma="" pos="v-inf" features="-" sentenca="21" />
+    <word_392 token="qual" lemma="qual" pos="pron-det" features="F=S" sentenca="21" />
+    <word_393 token="a" lemma="o" pos="art" features="F=S" sentenca="21" />
+    <word_394 token="pendência" lemma="pendência" pos="n" features="F=S" sentenca="21" />
+    <word_395 token="detectada" lemma="" pos="v-pcp" features="F=S" sentenca="21" />
+    <word_396 token="por" lemma="por" pos="prp" features="-" sentenca="21" />
+    <word_397 token="os" lemma="o" pos="art" features="M=P" sentenca="21" />
+    <word_398 token="técnicos" lemma="técnico" pos="n" features="M=P" sentenca="21" />
+    <word_399 token="de" lemma="de" pos="prp" features="-" sentenca="21" />
+    <word_400 token="a" lemma="o" pos="art" features="F=S" sentenca="21" />
+    <word_401 token="Receita" lemma="" pos="prop" features="F=S" sentenca="21" />
+    <word_402 token="e" lemma="e" pos="conj-c" features="-" sentenca="21" />
+    <word_403 token="," lemma="" pos="," features="-" sentenca="21" />
+    <word_404 token="se" lemma="se" pos="conj-s" features="-" sentenca="21" />
+    <word_405 token="for" lemma="ir, ser" pos="v-fin" features="FUT=3S=SUBJ" sentenca="21" />
+    <word_406 token="o" lemma="o" pos="art" features="M=S" sentenca="21" />
+    <word_407 token="caso" lemma="caso" pos="n" features="M=S" sentenca="21" />
+    <word_408 token="," lemma="" pos="," features="-" sentenca="21" />
+    <word_409 token="fazer" lemma="fazer" pos="v-inf" features="-" sentenca="21" />
+    <word_410 token="uma" lemma="um" pos="art" features="F=S" sentenca="21" />
+    <word_411 token="declaração" lemma="declaração, declarar" pos="n" features="F=S" sentenca="21" />
+    <word_412 token="retificadora" lemma="retificar" pos="adj" features="F=S" sentenca="21" />
+    <word_413 token="para" lemma="para" pos="prp" features="-" sentenca="21" />
+    <word_414 token="regularizar" lemma="regularizar" pos="v-inf" features="-" sentenca="21" />
+    <word_415 token="a" lemma="o" pos="art" features="F=S" sentenca="21" />
+    <word_416 token="situação" lemma="situação, situar" pos="n" features="F=S" sentenca="21" />
+    <word_417 token="." lemma="." pos="." features="-" sentenca="21" />
+    <word_418 token="Para" lemma="para" pos="prp" features="-" sentenca="22" />
+    <word_419 token="fazer" lemma="fazer" pos="v-inf" features="-" sentenca="22" />
+    <word_420 token="a" lemma="o" pos="art" features="F=S" sentenca="22" />
+    <word_421 token="consulta" lemma="consulta" pos="n" features="F=S" sentenca="22" />
+    <word_422 token="," lemma="" pos="," features="-" sentenca="22" />
+    <word_423 token="basta" lemma="bastar" pos="v-fin" features="PR=3S=IND" sentenca="22" />
+    <word_424 token="entrar" lemma="entrar" pos="v-inf" features="-" sentenca="22" />
+    <word_425 token="em" lemma="em" pos="prp" features="-" sentenca="22" />
+    <word_426 token="o" lemma="o" pos="art" features="M=S" sentenca="22" />
+    <word_427 token="site" lemma="site" pos="n" features="M=S" sentenca="22" />
+    <word_428 token="e" lemma="e" pos="conj-c" features="-" sentenca="22" />
+    <word_429 token="clicar" lemma="clicar" pos="v-inf" features="-" sentenca="22" />
+    <word_430 token="em" lemma="em" pos="prp" features="-" sentenca="22" />
+    <word_431 token="a" lemma="o" pos="art" features="F=S" sentenca="22" />
+    <word_432 token="seção" lemma="" pos="n" features="F=S" sentenca="22" />
+    <word_433 token="IRPF" lemma="" pos="prop" features="F=S" sentenca="22" />
+    <word_434 token="-" lemma="" pos="-" features="-" sentenca="22" />
+    <word_435 token="Extrato_Simplificado" lemma="" pos="prop" features="M=S" sentenca="22" />
+    <word_436 token="de" lemma="de" pos="prp" features="-" sentenca="22" />
+    <word_437 token="o" lemma="o" pos="art" features="M=S" sentenca="22" />
+    <word_438 token="Processamento" lemma="processamento, processar" pos="n" features="M=S" sentenca="22" />
+    <word_439 token="." lemma="." pos="." features="-" sentenca="22" />
+    <word_440 token="em" lemma="em" pos="prp" features="-" sentenca="23" />
+    <word_441 token="a" lemma="o" pos="art" features="F=S" sentenca="23" />
+    <word_442 token="página" lemma="página" pos="n" features="F=S" sentenca="23" />
+    <word_443 token="," lemma="" pos="," features="-" sentenca="23" />
+    <word_444 token="então" lemma="então" pos="adv" features="-" sentenca="23" />
+    <word_445 token="informar" lemma="informar" pos="v-inf" features="-" sentenca="23" />
+    <word_446 token="o" lemma="o" pos="art" features="M=S" sentenca="23" />
+    <word_447 token="CPF" lemma="" pos="n" features="M=S" sentenca="23" />
+    <word_448 token="," lemma="" pos="," features="-" sentenca="23" />
+    <word_449 token="o" lemma="o" pos="art" features="M=S" sentenca="23" />
+    <word_450 token="número" lemma="número" pos="n" features="M=S" sentenca="23" />
+    <word_451 token="de" lemma="de" pos="prp" features="-" sentenca="23" />
+    <word_452 token="o" lemma="o" pos="art" features="M=S" sentenca="23" />
+    <word_453 token="recibo" lemma="recibo" pos="n" features="M=S" sentenca="23" />
+    <word_454 token="de" lemma="de" pos="prp" features="-" sentenca="23" />
+    <word_455 token="entrega" lemma="entrega" pos="n" features="F=S" sentenca="23" />
+    <word_456 token="(" lemma="(" pos="(" features="-" sentenca="23" />
+    <word_457 token="os" lemma="o" pos="art" features="M=P" sentenca="23" />
+    <word_458 token="dez" lemma="dez" pos="num" features="M=P" sentenca="23" />
+    <word_459 token="números" lemma="número" pos="n" features="M=P" sentenca="23" />
+    <word_460 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="23" />
+    <word_461 token="aparecem" lemma="aparecer" pos="v-fin" features="PR=3P=IND" sentenca="23" />
+    <word_462 token="em" lemma="em" pos="prp" features="-" sentenca="23" />
+    <word_463 token="a" lemma="o" pos="art" features="F=S" sentenca="23" />
+    <word_464 token="primeira" lemma="" pos="adj" features="F=S" sentenca="23" />
+    <word_465 token="página" lemma="página" pos="n" features="F=S" sentenca="23" />
+    <word_466 token="de" lemma="de" pos="prp" features="-" sentenca="23" />
+    <word_467 token="a" lemma="o" pos="art" features="F=S" sentenca="23" />
+    <word_468 token="declaração" lemma="declaração, declarar" pos="n" features="F=S" sentenca="23" />
+    <word_469 token=")" lemma=")" pos=")" features="-" sentenca="23" />
+    <word_470 token="e" lemma="e" pos="conj-c" features="-" sentenca="23" />
+    <word_471 token="o" lemma="o" pos="art" features="M=S" sentenca="23" />
+    <word_472 token="código" lemma="código" pos="n" features="M=S" sentenca="23" />
+    <word_473 token="de" lemma="de" pos="prp" features="-" sentenca="23" />
+    <word_474 token="segurança" lemma="segurança" pos="n" features="F=S" sentenca="23" />
+    <word_475 token="pedido" lemma="pedir" pos="v-pcp" features="M=S" sentenca="23" />
+    <word_476 token="(" lemma="(" pos="(" features="-" sentenca="23" />
+    <word_477 token="quatro" lemma="quatro" pos="num" features="M=P" sentenca="23" />
+    <word_478 token="caracteres" lemma="carácter" pos="n" features="M=P" sentenca="23" />
+    <word_479 token=")" lemma=")" pos=")" features="-" sentenca="23" />
+    <word_480 token="." lemma="." pos="." features="-" sentenca="23" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="0...1" nucleo="Receita_Federal" sintagma="A Receita Federal" Categoria="OUTRO" sentenca="1">
+        <word_0 token="A" lemma="o" pos="art" features="F=S" />
+        <word_1 token="Receita_Federal" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="31" tokens="103...104" nucleo="Receita_Federal" sintagma="a Receita Federal" Categoria="OUTRO" sentenca="6">
+        <word_103 token="a" lemma="o" pos="art" features="F=S" />
+        <word_104 token="Receita_Federal" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="72" tokens="276...277" nucleo="Receita" sintagma="a Receita" Categoria="OUTRO" sentenca="14">
+        <word_276 token="a" lemma="o" pos="art" features="F=S" />
+        <word_277 token="Receita" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="106" tokens="400...401" nucleo="Receita" sintagma="a Receita" Categoria="OUTRO" sentenca="21">
+        <word_400 token="a" lemma="o" pos="art" features="F=S" />
+        <word_401 token="Receita" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_1>
+      <sn id="1" tokens="3...11" nucleo="fiscalização" sintagma="a fiscalização sobre as declarações de as pessoas físicas" Categoria="OUTRO" sentenca="1">
+        <word_3 token="a" lemma="o" pos="art" features="F=S" />
+        <word_4 token="fiscalização" lemma="fiscalizar" pos="n" features="F=S" />
+        <word_5 token="sobre" lemma="sobre" pos="prp" features="-" />
+        <word_6 token="as" lemma="o" pos="art" features="F=P" />
+        <word_7 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" />
+        <word_8 token="de" lemma="de" pos="prp" features="-" />
+        <word_9 token="as" lemma="o" pos="art" features="F=P" />
+        <word_10 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+        <word_11 token="físicas" lemma="físico" pos="adj" features="F=P" />
+      </sn>
+      <sn id="39" tokens="133...133" nucleo="fiscalização" sintagma="fiscalização" Categoria="OUTRO" sentenca="8">
+        <word_133 token="fiscalização" lemma="fiscalizar" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_1>
+    <Cadeia_10>
+      <sn id="10" tokens="30...33" nucleo="número" sintagma="o número de contribuintes" Categoria="COMUNICAÇÃO/PRDIC" sentenca="2">
+        <word_30 token="o" lemma="o" pos="art" features="M=S" />
+        <word_31 token="número" lemma="número" pos="n" features="M=S" />
+        <word_32 token="de" lemma="de" pos="prp" features="-" />
+        <word_33 token="contribuintes" lemma="contribuinte" pos="n" features="M=P" />
+      </sn>
+      <sn id="58" tokens="214...215" nucleo="número" sintagma="o número" Categoria="COMUNICAÇÃO/PRDIC" sentenca="12">
+        <word_214 token="o" lemma="o" pos="art" features="M=S" />
+        <word_215 token="número" lemma="número" pos="n" features="M=S" />
+      </sn>
+      <sn id="63" tokens="231...232" nucleo="total" sintagma="o total" Categoria="ORGANIZAÇÃO|LOCAL/EMPR" sentenca="12">
+        <word_231 token="o" lemma="o" pos="art" features="M=S" />
+        <word_232 token="total" lemma="total" pos="n" features="M=S" />
+      </sn>
+      <sn id="118" tokens="449...450" nucleo="número" sintagma="o número" Categoria="COMUNICAÇÃO/PRDIC" sentenca="23">
+        <word_449 token="o" lemma="o" pos="art" features="M=S" />
+        <word_450 token="número" lemma="número" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_10>
+    <Cadeia_11>
+      <sn id="11" tokens="33...33" nucleo="contribuintes" sintagma="contribuintes" Categoria="OUTRO" sentenca="2">
+        <word_33 token="contribuintes" lemma="contribuinte" pos="n" features="M=P" />
+      </sn>
+      <sn id="34" tokens="115...116" nucleo="contribuinte" sintagma="o contribuinte" Categoria="OUTRO" sentenca="7">
+        <word_115 token="o" lemma="o" pos="art" features="M=S" />
+        <word_116 token="contribuinte" lemma="contribuinte" pos="n" features="M=S" />
+      </sn>
+      <sn id="48" tokens="175...176" nucleo="contribuinte" sintagma="o contribuinte" Categoria="OUTRO" sentenca="10">
+        <word_175 token="o" lemma="o" pos="art" features="M=S" />
+        <word_176 token="contribuinte" lemma="contribuinte" pos="n" features="M=S" />
+      </sn>
+      <sn id="103" tokens="388...389" nucleo="contribuinte" sintagma="o contribuinte" Categoria="OUTRO" sentenca="21">
+        <word_388 token="o" lemma="o" pos="art" features="M=S" />
+        <word_389 token="contribuinte" lemma="contribuinte" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_11>
+    <Cadeia_15>
+      <sn id="15" tokens="44...47" nucleo="malha" sintagma="a chamada malha fina" Categoria="ABSTRAÇÃO/DISC" sentenca="2">
+        <word_44 token="a" lemma="o" pos="art" features="F=S" />
+        <word_45 token="chamada" lemma="" pos="adj" features="F=S" />
+        <word_46 token="malha" lemma="malha" pos="n" features="F=S" />
+        <word_47 token="fina" lemma="fino" pos="adj" features="F=S" />
+      </sn>
+      <sn id="33" tokens="111...113" nucleo="malha" sintagma="a malha fina" Categoria="ABSTRAÇÃO/DISC" sentenca="7">
+        <word_111 token="a" lemma="o" pos="art" features="F=S" />
+        <word_112 token="malha" lemma="malha" pos="n" features="F=S" />
+        <word_113 token="fina" lemma="fino" pos="adj" features="F=S" />
+      </sn>
+      <sn id="89" tokens="336...338" nucleo="malha" sintagma="a malha fina" Categoria="ABSTRAÇÃO/DISC" sentenca="18">
+        <word_336 token="a" lemma="o" pos="art" features="F=S" />
+        <word_337 token="malha" lemma="malha" pos="n" features="F=S" />
+        <word_338 token="fina" lemma="fino" pos="adj" features="F=S" />
+      </sn>
+    </Cadeia_15>
+    <Cadeia_2>
+      <sn id="2" tokens="6...7" nucleo="declarações" sintagma="as declarações" Categoria="OUTRO" sentenca="1">
+        <word_6 token="as" lemma="o" pos="art" features="F=P" />
+        <word_7 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" />
+      </sn>
+      <sn id="95" tokens="359...360" nucleo="declarações" sintagma="as declarações" Categoria="OUTRO" sentenca="19">
+        <word_359 token="as" lemma="o" pos="art" features="F=P" />
+        <word_360 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_2>
+    <Cadeia_24>
+      <sn id="25" tokens="78...80" nucleo="ano" sintagma="o ano passado" Categoria="OUTRO/UNID" sentenca="3">
+        <word_78 token="o" lemma="o" pos="art" features="M=S" />
+        <word_79 token="ano" lemma="ano" pos="n" features="M=S" />
+        <word_80 token="passado" lemma="passar" pos="v-pcp" features="M=S" />
+      </sn>
+      <sn id="37" tokens="126...128" nucleo="ano" sintagma="o ano passado" Categoria="OUTRO/UNID" sentenca="8">
+        <word_126 token="o" lemma="o" pos="art" features="M=S" />
+        <word_127 token="ano" lemma="ano" pos="n" features="M=S" />
+        <word_128 token="passado" lemma="passar" pos="v-pcp" features="M=S" />
+      </sn>
+      <sn id="62" tokens="226...227" nucleo="ano" sintagma="o ano" Categoria="OUTRO/UNID" sentenca="12">
+        <word_226 token="o" lemma="o" pos="art" features="M=S" />
+        <word_227 token="ano" lemma="ano" pos="n" features="M=S" />
+      </sn>
+      <sn id="65" tokens="241...243" nucleo="ano" sintagma="o ano passado" Categoria="OUTRO/UNID" sentenca="13">
+        <word_241 token="o" lemma="o" pos="art" features="M=S" />
+        <word_242 token="ano" lemma="ano" pos="n" features="M=S" />
+        <word_243 token="passado" lemma="passar" pos="v-pcp" features="M=S" />
+      </sn>
+      <sn id="74" tokens="285...286" nucleo="ano" sintagma="o ano" Categoria="OUTRO/UNID" sentenca="15">
+        <word_285 token="o" lemma="o" pos="art" features="M=S" />
+        <word_286 token="ano" lemma="ano" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_24>
+    <Cadeia_28>
+      <sn id="29" tokens="99...104" nucleo="Paulo_Ricardo_de_Souza_Cardoso" sintagma="Paulo Ricardo de Souza Cardoso , secretário-adjunto de a Receita Federal" Categoria="PESSOA" sentenca="6">
+        <word_99 token="Paulo_Ricardo_de_Souza_Cardoso" lemma="" pos="prop" features="M=S" />
+        <word_100 token="," lemma="" pos="," features="-" />
+        <word_101 token="secretário-adjunto" lemma="" pos="n" features="M=S" />
+        <word_102 token="de" lemma="de" pos="prp" features="-" />
+        <word_103 token="a" lemma="o" pos="art" features="F=S" />
+        <word_104 token="Receita_Federal" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="55" tokens="203...203" nucleo="Cardoso" sintagma="Cardoso" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="12">
+        <word_203 token="Cardoso" lemma="Cardoso" pos="prop" features="-" />
+      </sn>
+      <sn id="92" tokens="350...350" nucleo="Cardoso" sintagma="Cardoso" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="19">
+        <word_350 token="Cardoso" lemma="Cardoso" pos="prop" features="-" />
+      </sn>
+    </Cadeia_28>
+    <Cadeia_3>
+      <sn id="3" tokens="9...11" nucleo="pessoas" sintagma="as pessoas físicas" Categoria="PESSOA" sentenca="1">
+        <word_9 token="as" lemma="o" pos="art" features="F=P" />
+        <word_10 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+        <word_11 token="físicas" lemma="físico" pos="adj" features="F=P" />
+      </sn>
+      <sn id="59" tokens="217...217" nucleo="pessoas" sintagma="pessoas" Categoria="PESSOA" sentenca="12">
+        <word_217 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_3>
+    <Cadeia_31>
+      <sn id="35" tokens="119...120" nucleo="site" sintagma="o site" Categoria="OUTRO" sentenca="7">
+        <word_119 token="o" lemma="o" pos="art" features="M=S" />
+        <word_120 token="site" lemma="site" pos="n" features="M=S" />
+      </sn>
+      <sn id="111" tokens="426...427" nucleo="site" sintagma="o site" Categoria="OUTRO" sentenca="22">
+        <word_426 token="o" lemma="o" pos="art" features="M=S" />
+        <word_427 token="site" lemma="site" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_31>
+    <Cadeia_35>
+      <sn id="41" tokens="144...147" nucleo="motivos" sintagma="Um de os motivos" Categoria="COMUNICAÇÃO/FILMVID" sentenca="9">
+        <word_144 token="Um" lemma="um" pos="num" features="M=S" />
+        <word_145 token="de" lemma="de" pos="prp" features="-" />
+        <word_146 token="os" lemma="o" pos="art" features="M=P" />
+        <word_147 token="motivos" lemma="motivo" pos="n" features="M=P" />
+      </sn>
+      <sn id="107" tokens="406...407" nucleo="caso" sintagma="o caso" Categoria="OUTRO" sentenca="21">
+        <word_406 token="o" lemma="o" pos="art" features="M=S" />
+        <word_407 token="caso" lemma="caso" pos="n" features="M=S" />
+      </sn>
+      <sn id="109" tokens="415...416" nucleo="situação" sintagma="a situação" Categoria="OUTRO" sentenca="21">
+        <word_415 token="a" lemma="o" pos="art" features="F=S" />
+        <word_416 token="situação" lemma="situação, situar" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_35>
+    <Cadeia_39>
+      <sn id="45" tokens="163...164" nucleo="rendimentos" sintagma="rendimentos imobiliários" Categoria="OUTRO" sentenca="9">
+        <word_163 token="rendimentos" lemma="render" pos="n" features="M=P" />
+        <word_164 token="imobiliários" lemma="imobiliário, imobiliário" pos="adj" features="M=P" />
+      </sn>
+      <sn id="100" tokens="375...376" nucleo="rendimentos" sintagma="rendimentos imobiliários" Categoria="OUTRO" sentenca="20">
+        <word_375 token="rendimentos" lemma="render" pos="n" features="M=P" />
+        <word_376 token="imobiliários" lemma="imobiliário, imobiliário" pos="adj" features="M=P" />
+      </sn>
+    </Cadeia_39>
+    <Cadeia_40>
+      <sn id="46" tokens="167...168" nucleo="este" sintagma="este ano" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="10">
+        <word_167 token="este" lemma="este" pos="pron-det" features="M=S" />
+        <word_168 token="ano" lemma="ano" pos="n" features="M=S" />
+      </sn>
+      <sn id="47" tokens="170...171" nucleo="foco" sintagma="o foco" Categoria="OUTRO" sentenca="10">
+        <word_170 token="o" lemma="o" pos="art" features="M=S" />
+        <word_171 token="foco" lemma="foco" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_40>
+    <Cadeia_44>
+      <sn id="52" tokens="190...194" nucleo="declaração" sintagma="a declaração de este ano" Categoria="OUTRO" sentenca="11">
+        <word_190 token="a" lemma="o" pos="art" features="F=S" />
+        <word_191 token="declaração" lemma="declaração, declarar" pos="n" features="F=S" />
+        <word_192 token="de" lemma="de" pos="prp" features="-" />
+        <word_193 token="este" lemma="este" pos="pron-det" features="M=S" />
+        <word_194 token="ano" lemma="ano" pos="n" features="M=S" />
+      </sn>
+      <sn id="124" tokens="467...468" nucleo="declaração" sintagma="a declaração" Categoria="OUTRO" sentenca="23">
+        <word_467 token="a" lemma="o" pos="art" features="F=S" />
+        <word_468 token="declaração" lemma="declaração, declarar" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_44>
+    <Cadeia_54>
+      <sn id="70" tokens="263...269" nucleo="valor" sintagma="o valor de o quanto esses contribuintes" Categoria="PRODUTOS/MARC" sentenca="14">
+        <word_263 token="o" lemma="o" pos="art" features="M=S" />
+        <word_264 token="valor" lemma="valor" pos="n" features="M=S" />
+        <word_265 token="de" lemma="de" pos="prp" features="-" />
+        <word_266 token="o" lemma="o" pos="art" features="M=S" />
+        <word_267 token="quanto" lemma="quanto" pos="pron-det" features="M=S" />
+        <word_268 token="esses" lemma="esse" pos="pron-det" features="M=P" />
+        <word_269 token="contribuintes" lemma="contribuinte" pos="n" features="M=P" />
+      </sn>
+      <sn id="77" tokens="292...293" nucleo="aumento" sintagma="um aumento" Categoria="OUTRO" sentenca="15">
+        <word_292 token="um" lemma="um" pos="art" features="M=S" />
+        <word_293 token="aumento" lemma="aumento" pos="n" features="M=S" />
+      </sn>
+      <sn id="79" tokens="298...299" nucleo="valor" sintagma="O valor" Categoria="PRODUTOS/MARC" sentenca="16">
+        <word_298 token="O" lemma="o" pos="art" features="M=S" />
+        <word_299 token="valor" lemma="valor" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_54>
+    <Cadeia_60>
+      <sn id="82" tokens="311...312" nucleo="forma" sintagma="forma imediata" Categoria="OUTRO" sentenca="16">
+        <word_311 token="forma" lemma="forma" pos="n" features="F=S" />
+        <word_312 token="imediata" lemma="imediato" pos="adj" features="F=S" />
+      </sn>
+      <sn id="127" tokens="477...478" nucleo="caracteres" sintagma="quatro caracteres" Categoria="OUTRO" sentenca="23">
+        <word_477 token="quatro" lemma="quatro" pos="num" features="M=P" />
+        <word_478 token="caracteres" lemma="carácter" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_60>
+    <Cadeia_75>
+      <sn id="102" tokens="385...386" nucleo="consulta" sintagma="a consulta" Categoria="OUTRO" sentenca="21">
+        <word_385 token="a" lemma="o" pos="art" features="F=S" />
+        <word_386 token="consulta" lemma="consulta" pos="n" features="F=S" />
+      </sn>
+      <sn id="110" tokens="420...421" nucleo="consulta" sintagma="a consulta" Categoria="OUTRO" sentenca="22">
+        <word_420 token="a" lemma="o" pos="art" features="F=S" />
+        <word_421 token="consulta" lemma="consulta" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_75>
+    <Cadeia_79>
+      <sn id="112" tokens="431...432" nucleo="seção" sintagma="a seção" Categoria="OUTRO" sentenca="22">
+        <word_431 token="a" lemma="o" pos="art" features="F=S" />
+        <word_432 token="seção" lemma="" pos="n" features="F=S" />
+      </sn>
+      <sn id="113" tokens="433...433" nucleo="IRPF" sintagma="IRPF" Categoria="OUTRO" sentenca="22">
+        <word_433 token="IRPF" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_79>
+    <Cadeia_85>
+      <sn id="120" tokens="455...455" nucleo="entrega" sintagma="entrega" Categoria="OUTRO" sentenca="23">
+        <word_455 token="entrega" lemma="entrega" pos="n" features="F=S" />
+      </sn>
+      <sn id="121" tokens="457...468" nucleo="números" sintagma=" os dez números que aparecem em a primeira página de a declaração " Categoria="OUTRO" sentenca="23">
+        <word_457 token="os" lemma="o" pos="art" features="M=P" />
+        <word_458 token="dez" lemma="dez" pos="num" features="M=P" />
+        <word_459 token="números" lemma="número" pos="n" features="M=P" />
+        <word_460 token="que" lemma="que" pos="pron-indp" features="M=P" />
+        <word_461 token="aparecem" lemma="aparecer" pos="v-fin" features="PR=3P=IND" />
+        <word_462 token="em" lemma="em" pos="prp" features="-" />
+        <word_463 token="a" lemma="o" pos="art" features="F=S" />
+        <word_464 token="primeira" lemma="" pos="adj" features="F=S" />
+        <word_465 token="página" lemma="página" pos="n" features="F=S" />
+        <word_466 token="de" lemma="de" pos="prp" features="-" />
+        <word_467 token="a" lemma="o" pos="art" features="F=S" />
+        <word_468 token="declaração" lemma="declaração, declarar" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_85>
+    <Cadeia_9>
+      <sn id="9" tokens="26...28" nucleo="anos" sintagma="os anos anteriores" Categoria="OUTRO" sentenca="2">
+        <word_26 token="os" lemma="o" pos="art" features="M=P" />
+        <word_27 token="anos" lemma="ano" pos="n" features="M=P" />
+        <word_28 token="anteriores" lemma="anterior" pos="adj" features="M=P" />
+      </sn>
+      <sn id="54" tokens="200...201" nucleo="anos" sintagma="anos anteriores" Categoria="OUTRO" sentenca="11">
+        <word_200 token="anos" lemma="ano" pos="n" features="M=P" />
+        <word_201 token="anteriores" lemma="anterior" pos="adj" features="M=P" />
+      </sn>
+    </Cadeia_9>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="5" tokens="16...28" nucleo="cruzamento" sintagma="O cruzamento de informações e a análise de dados de os anos anteriores" Categoria="OUTRO" sentenca="2">
+      <word_16 token="O" lemma="o" pos="art" features="M=S" />
+      <word_17 token="cruzamento" lemma="cruzar" pos="n" features="M=S" />
+      <word_18 token="de" lemma="de" pos="prp" features="-" />
+      <word_19 token="informações" lemma="informar" pos="n" features="F=P" />
+      <word_20 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_21 token="a" lemma="o" pos="art" features="F=S" />
+      <word_22 token="análise" lemma="análise" pos="n" features="F=S" />
+      <word_23 token="de" lemma="de" pos="prp" features="-" />
+      <word_24 token="dados" lemma="dado" pos="n" features="M=P" />
+      <word_25 token="de" lemma="de" pos="prp" features="-" />
+      <word_26 token="os" lemma="o" pos="art" features="M=P" />
+      <word_27 token="anos" lemma="ano" pos="n" features="M=P" />
+      <word_28 token="anteriores" lemma="anterior" pos="adj" features="M=P" />
+    </sn>
+    <sn id="6" tokens="19...19" nucleo="informações" sintagma="informações" Categoria="OUTRO" sentenca="2">
+      <word_19 token="informações" lemma="informar" pos="n" features="F=P" />
+    </sn>
+    <sn id="7" tokens="21...22" nucleo="análise" sintagma="a análise" Categoria="OUTRO" sentenca="2">
+      <word_21 token="a" lemma="o" pos="art" features="F=S" />
+      <word_22 token="análise" lemma="análise" pos="n" features="F=S" />
+    </sn>
+    <sn id="8" tokens="24...24" nucleo="dados" sintagma="dados" Categoria="OUTRO" sentenca="2">
+      <word_24 token="dados" lemma="dado" pos="n" features="M=P" />
+    </sn>
+    <sn id="12" tokens="34...34" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="2">
+      <word_34 token="que" lemma="que" pos="pron-indp" features="M=P" />
+    </sn>
+    <sn id="13" tokens="36...38" nucleo="vida" sintagma="a vida fiscal" Categoria="OUTRO" sentenca="2">
+      <word_36 token="a" lemma="o" pos="art" features="F=S" />
+      <word_37 token="vida" lemma="vida" pos="n" features="F=S" />
+      <word_38 token="fiscal" lemma="fiscal" pos="adj" features="F=S" />
+    </sn>
+    <sn id="14" tokens="41...42" nucleo="minúcia" sintagma="maior minúcia" Categoria="OUTRO" sentenca="2">
+      <word_41 token="maior" lemma="maior" pos="adj" features="F=S" />
+      <word_42 token="minúcia" lemma="minúcia" pos="n" features="F=S" />
+    </sn>
+    <sn id="16" tokens="50...50" nucleo="janeiro" sintagma="janeiro" Categoria="OUTROS SERES/MITLG" sentenca="3">
+      <word_50 token="janeiro" lemma="janeiro" pos="n" features="M=S" />
+    </sn>
+    <sn id="17" tokens="52...52" nucleo="julho" sintagma="julho" Categoria="OUTRO" sentenca="3">
+      <word_52 token="julho" lemma="julho" pos="n" features="M=S" />
+    </sn>
+    <sn id="18" tokens="54...56" nucleo="auditores" sintagma="os auditores fiscais" Categoria="OUTRO" sentenca="3">
+      <word_54 token="os" lemma="o" pos="art" features="M=P" />
+      <word_55 token="auditores" lemma="auditor" pos="n" features="M=P" />
+      <word_56 token="fiscais" lemma="fiscal" pos="adj" features="M=P" />
+    </sn>
+    <sn id="19" tokens="58...59" nucleo="declarações" sintagma="208.471 declarações" Categoria="OUTRO" sentenca="3">
+      <word_58 token="208.471" lemma="" pos="adj" features="F=P" />
+      <word_59 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" />
+    </sn>
+    <sn id="20" tokens="60...60" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="3">
+      <word_60 token="que" lemma="que" pos="pron-indp" features="F=P" />
+    </sn>
+    <sn id="21" tokens="65...80" nucleo="crescimento" sintagma="um crescimento de 104,5 % em a comparação com o mesmo período de o ano passado" Categoria="OUTRO" sentenca="3">
+      <word_65 token="um" lemma="um" pos="art" features="M=S" />
+      <word_66 token="crescimento" lemma="crescer" pos="n" features="M=S" />
+      <word_67 token="de" lemma="de" pos="prp" features="-" />
+      <word_68 token="104,5" lemma="" pos="num" features="M=P" />
+      <word_69 token="%" lemma="" pos="n" features="M=P" />
+      <word_70 token="em" lemma="em" pos="prp" features="-" />
+      <word_71 token="a" lemma="o" pos="art" features="F=S" />
+      <word_72 token="comparação" lemma="comparação, comparar" pos="n" features="F=S" />
+      <word_73 token="com" lemma="com" pos="prp" features="-" />
+      <word_74 token="o" lemma="o" pos="art" features="M=S" />
+      <word_75 token="mesmo" lemma="mesmo" pos="pron-det" features="M=S" />
+      <word_76 token="período" lemma="período" pos="n" features="M=S" />
+      <word_77 token="de" lemma="de" pos="prp" features="-" />
+      <word_78 token="o" lemma="o" pos="art" features="M=S" />
+      <word_79 token="ano" lemma="ano" pos="n" features="M=S" />
+      <word_80 token="passado" lemma="passar" pos="v-pcp" features="M=S" />
+    </sn>
+    <sn id="23" tokens="71...72" nucleo="comparação" sintagma="a comparação" Categoria="OUTRO" sentenca="3">
+      <word_71 token="a" lemma="o" pos="art" features="F=S" />
+      <word_72 token="comparação" lemma="comparação, comparar" pos="n" features="F=S" />
+    </sn>
+    <sn id="24" tokens="74...76" nucleo="mesmo" sintagma="o mesmo período" Categoria="OUTRO" sentenca="3">
+      <word_74 token="o" lemma="o" pos="art" features="M=S" />
+      <word_75 token="mesmo" lemma="mesmo" pos="pron-det" features="M=S" />
+      <word_76 token="período" lemma="período" pos="n" features="M=S" />
+    </sn>
+    <sn id="26" tokens="82...83" nucleo="Leão" sintagma="O Leão" Categoria="ORGANIZAÇÃO|LOCAL/COSMO" sentenca="4">
+      <word_82 token="O" lemma="o" pos="art" features="M=S" />
+      <word_83 token="Leão" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="27" tokens="88...88" nucleo="Guloso" sintagma="Guloso" Categoria="OUTRO" sentenca="5">
+      <word_88 token="Guloso" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="28" tokens="94...96" nucleo="suas" sintagma="suas prerrogativas constitucionais" Categoria="OUTRO" sentenca="6">
+      <word_94 token="suas" lemma="sua" pos="pron-det" features="F=P" />
+      <word_95 token="prerrogativas" lemma="prerrogativa" pos="n" features="F=P" />
+      <word_96 token="constitucionais" lemma="constitucional" pos="adj" features="F=P" />
+    </sn>
+    <sn id="30" tokens="101...101" nucleo="secretário-adjunto" sintagma="secretário-adjunto" Categoria="OUTRO" sentenca="6">
+      <word_101 token="secretário-adjunto" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="32" tokens="108...108" nucleo="se" sintagma="se" Categoria="OUTRO" sentenca="7">
+      <word_108 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" />
+    </sn>
+    <sn id="36" tokens="122...123" nucleo=".fazenda" sintagma=".fazenda .gov.br" Categoria="OUTRO" sentenca="7">
+      <word_122 token=".fazenda" lemma="" pos="n" features="F=S" />
+      <word_123 token=".gov.br" lemma="" pos="adj" features="F=S" />
+    </sn>
+    <sn id="38" tokens="130...137" nucleo="trabalho" sintagma="o trabalho de fiscalização sobre as declarações suspeitas" Categoria="OUTRO" sentenca="8">
+      <word_130 token="o" lemma="o" pos="art" features="M=S" />
+      <word_131 token="trabalho" lemma="trabalho" pos="n" features="M=S" />
+      <word_132 token="de" lemma="de" pos="prp" features="-" />
+      <word_133 token="fiscalização" lemma="fiscalizar" pos="n" features="F=S" />
+      <word_134 token="sobre" lemma="sobre" pos="prp" features="-" />
+      <word_135 token="as" lemma="o" pos="art" features="F=P" />
+      <word_136 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" />
+      <word_137 token="suspeitas" lemma="suspeito" pos="adj" features="F=P" />
+    </sn>
+    <sn id="40" tokens="135...137" nucleo="declarações" sintagma="as declarações suspeitas" Categoria="OUTRO" sentenca="8">
+      <word_135 token="as" lemma="o" pos="art" features="F=P" />
+      <word_136 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" />
+      <word_137 token="suspeitas" lemma="suspeito" pos="adj" features="F=P" />
+    </sn>
+    <sn id="42" tokens="150...151" nucleo="cada" sintagma="cada parâmetro" Categoria="OUTRO" sentenca="9">
+      <word_150 token="cada" lemma="cada" pos="pron-det" features="M=S" />
+      <word_151 token="parâmetro" lemma="parâmetro" pos="n" features="M=S" />
+    </sn>
+    <sn id="43" tokens="158...158" nucleo="exemplo" sintagma="exemplo" Categoria="OUTRO" sentenca="9">
+      <word_158 token="exemplo" lemma="exemplo" pos="n" features="M=S" />
+    </sn>
+    <sn id="44" tokens="159...164" nucleo="dados" sintagma="os dados referentes a rendimentos imobiliários" Categoria="OUTRO" sentenca="9">
+      <word_159 token="os" lemma="o" pos="art" features="M=P" />
+      <word_160 token="dados" lemma="dado" pos="n" features="M=P" />
+      <word_161 token="referentes" lemma="referente" pos="adj" features="M=P" />
+      <word_162 token="a" lemma="a" pos="prp" features="-" />
+      <word_163 token="rendimentos" lemma="render" pos="n" features="M=P" />
+      <word_164 token="imobiliários" lemma="imobiliário, imobiliário" pos="adj" features="M=P" />
+    </sn>
+    <sn id="49" tokens="178...183" nucleo="todos" sintagma="todos os parâmetros disponíveis sobre ele" Categoria="OUTRO" sentenca="10">
+      <word_178 token="todos" lemma="todo" pos="pron-det" features="M=P" />
+      <word_179 token="os" lemma="o" pos="art" features="M=P" />
+      <word_180 token="parâmetros" lemma="parâmetro" pos="n" features="M=P" />
+      <word_181 token="disponíveis" lemma="disponível" pos="adj" features="M=P" />
+      <word_182 token="sobre" lemma="sobre" pos="prp" features="-" />
+      <word_183 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+    </sn>
+    <sn id="50" tokens="183...183" nucleo="ele" sintagma="ele" Categoria="NATUREZA/FENAT" sentenca="10">
+      <word_183 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+    </sn>
+    <sn id="51" tokens="188...188" nucleo="isso" sintagma="isso" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="11">
+      <word_188 token="isso" lemma="isso" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="53" tokens="193...194" nucleo="este" sintagma="este ano" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="11">
+      <word_193 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_194 token="ano" lemma="ano" pos="n" features="M=S" />
+    </sn>
+    <sn id="56" tokens="207...208" nucleo="intenção" sintagma="a intenção" Categoria="OUTRO" sentenca="12">
+      <word_207 token="a" lemma="o" pos="art" features="F=S" />
+      <word_208 token="intenção" lemma="intenção" pos="n" features="F=S" />
+    </sn>
+    <sn id="57" tokens="211...212" nucleo="esse" sintagma="esse crescimento" Categoria="OUTRO" sentenca="12">
+      <word_211 token="esse" lemma="esse" pos="pron-det" features="M=S" />
+      <word_212 token="crescimento" lemma="crescer" pos="n" features="M=S" />
+    </sn>
+    <sn id="60" tokens="219...221" nucleo="malha" sintagma="a malha final" Categoria="ABSTRAÇÃO/DISC" sentenca="12">
+      <word_219 token="a" lemma="o" pos="art" features="F=S" />
+      <word_220 token="malha" lemma="malha" pos="n" features="F=S" />
+      <word_221 token="final" lemma="final" pos="adj" features="F=S" />
+    </sn>
+    <sn id="61" tokens="223...224" nucleo="final" sintagma="o final" Categoria="OUTROS SERES/GHUM" sentenca="12">
+      <word_223 token="o" lemma="o" pos="art" features="M=S" />
+      <word_224 token="final" lemma="final" pos="n" features="M=S" />
+    </sn>
+    <sn id="64" tokens="235...238" nucleo="mil" sintagma="as 400 mil pessoas" Categoria="OUTRO" sentenca="12">
+      <word_235 token="as" lemma="o" pos="art" features="F=P" />
+      <word_236 token="400" lemma="" pos="num" features="F=P" />
+      <word_237 token="mil" lemma="" pos="n" features="F=P" />
+      <word_238 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+    </sn>
+    <sn id="66" tokens="246...250" nucleo="suas" sintagma="suas declarações revistas 209.364 contribuintes" Categoria="OUTRO" sentenca="13">
+      <word_246 token="suas" lemma="sua" pos="pron-det" features="F=P" />
+      <word_247 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" />
+      <word_248 token="revistas" lemma="rever" pos="v-pcp" features="F=P" />
+      <word_249 token="209.364" lemma="" pos="num" features="F=P" />
+      <word_250 token="contribuintes" lemma="contribuinte" pos="n" features="F=P" />
+    </sn>
+    <sn id="68" tokens="254...256" nucleo="número" sintagma="o maior número" Categoria="COMUNICAÇÃO/PRDIC" sentenca="14">
+      <word_254 token="o" lemma="o" pos="art" features="M=S" />
+      <word_255 token="maior" lemma="maior" pos="adj" features="M=S" />
+      <word_256 token="número" lemma="número" pos="n" features="M=S" />
+    </sn>
+    <sn id="69" tokens="258...259" nucleo="dados" sintagma="dados disponíveis" Categoria="OUTRO" sentenca="14">
+      <word_258 token="dados" lemma="dado" pos="n" features="M=P" />
+      <word_259 token="disponíveis" lemma="disponível" pos="adj" features="M=P" />
+    </sn>
+    <sn id="71" tokens="266...269" nucleo="quanto" sintagma="o quanto esses contribuintes" Categoria="OUTRO" sentenca="14">
+      <word_266 token="o" lemma="o" pos="art" features="M=S" />
+      <word_267 token="quanto" lemma="quanto" pos="pron-det" features="M=S" />
+      <word_268 token="esses" lemma="esse" pos="pron-det" features="M=P" />
+      <word_269 token="contribuintes" lemma="contribuinte" pos="n" features="M=P" />
+    </sn>
+    <sn id="73" tokens="280...283" nucleo="meses" sintagma="os sete primeiros meses" Categoria="OUTRO" sentenca="15">
+      <word_280 token="os" lemma="o" pos="art" features="M=P" />
+      <word_281 token="sete" lemma="sete" pos="num" features="M=P" />
+      <word_282 token="primeiros" lemma="" pos="adj" features="M=P" />
+      <word_283 token="meses" lemma="mês" pos="n" features="M=P" />
+    </sn>
+    <sn id="75" tokens="288...296" nucleo="R$" sintagma="R$ 1,339 bilhão , um aumento de 316,5 %" Categoria="OUTRO/MOEDA" sentenca="15">
+      <word_288 token="R$" lemma="" pos="n" features="M=P" />
+      <word_289 token="1,339" lemma="" pos="num" features="M=P" />
+      <word_290 token="bilhão" lemma="" pos="n" features="M=S" />
+      <word_291 token="," lemma="" pos="," features="-" />
+      <word_292 token="um" lemma="um" pos="art" features="M=S" />
+      <word_293 token="aumento" lemma="aumento" pos="n" features="M=S" />
+      <word_294 token="de" lemma="de" pos="prp" features="-" />
+      <word_295 token="316,5" lemma="" pos="num" features="M=P" />
+      <word_296 token="%" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="80" tokens="303...305" nucleo="essas" sintagma="essas pessoas físicas" Categoria="OUTRO" sentenca="16">
+      <word_303 token="essas" lemma="esse" pos="pron-det" features="F=P" />
+      <word_304 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+      <word_305 token="físicas" lemma="físico" pos="adj" features="F=P" />
+    </sn>
+    <sn id="81" tokens="308...312" nucleo="pagamento" sintagma="o pagamento de forma imediata" Categoria="OUTRO" sentenca="16">
+      <word_308 token="o" lemma="o" pos="art" features="M=S" />
+      <word_309 token="pagamento" lemma="pagar" pos="n" features="M=S" />
+      <word_310 token="de" lemma="de" pos="prp" features="-" />
+      <word_311 token="forma" lemma="forma" pos="n" features="F=S" />
+      <word_312 token="imediata" lemma="imediato" pos="adj" features="F=S" />
+    </sn>
+    <sn id="83" tokens="314...314" nucleo="Elas" sintagma="Elas" Categoria="OUTRO" sentenca="17">
+      <word_314 token="Elas" lemma="ele" pos="pron-pers" features="F=3P=NOM" />
+    </sn>
+    <sn id="84" tokens="319...322" nucleo="administração" sintagma="a própria administração tributária" Categoria="OUTRO" sentenca="17">
+      <word_319 token="a" lemma="o" pos="art" features="F=S" />
+      <word_320 token="própria" lemma="próprio" pos="adj" features="F=S" />
+      <word_321 token="administração" lemma="administrar" pos="n" features="F=S" />
+      <word_322 token="tributária" lemma="tributário" pos="adj" features="F=S" />
+    </sn>
+    <sn id="85" tokens="325...326" nucleo="Justiça" sintagma="a Justiça" Categoria="OUTROS SERES/MITLG" sentenca="17">
+      <word_325 token="a" lemma="o" pos="art" features="F=S" />
+      <word_326 token="Justiça" lemma="justiça" pos="n" features="F=S" />
+    </sn>
+    <sn id="86" tokens="328...330" nucleo="motivo" sintagma="O motivo que" Categoria="OUTRO" sentenca="18">
+      <word_328 token="O" lemma="o" pos="art" features="M=S" />
+      <word_329 token="motivo" lemma="motivo" pos="n" features="M=S" />
+      <word_330 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="88" tokens="333...338" nucleo="contribuintes" sintagma="os contribuintes a a malha fina" Categoria="OUTRO" sentenca="18">
+      <word_333 token="os" lemma="o" pos="art" features="M=P" />
+      <word_334 token="contribuintes" lemma="contribuinte" pos="n" features="M=P" />
+      <word_335 token="a" lemma="a" pos="prp" features="-" />
+      <word_336 token="a" lemma="o" pos="art" features="F=S" />
+      <word_337 token="malha" lemma="malha" pos="n" features="F=S" />
+      <word_338 token="fina" lemma="fino" pos="adj" features="F=S" />
+    </sn>
+    <sn id="90" tokens="340...347" nucleo="omissão" sintagma="a omissão de renda própria ou de dependentes" Categoria="ABSTRAÇÃO/CRIM" sentenca="18">
+      <word_340 token="a" lemma="o" pos="art" features="F=S" />
+      <word_341 token="omissão" lemma="omissão" pos="n" features="F=S" />
+      <word_342 token="de" lemma="de" pos="prp" features="-" />
+      <word_343 token="renda" lemma="renda" pos="n" features="F=S" />
+      <word_344 token="própria" lemma="próprio" pos="adj" features="F=S" />
+      <word_345 token="ou" lemma="ou" pos="conj-c" features="-" />
+      <word_346 token="de" lemma="de" pos="prp" features="-" />
+      <word_347 token="dependentes" lemma="depender" pos="adj" features="M=P" />
+    </sn>
+    <sn id="91" tokens="343...344" nucleo="renda" sintagma="renda própria" Categoria="OUTRO" sentenca="18">
+      <word_343 token="renda" lemma="renda" pos="n" features="F=S" />
+      <word_344 token="própria" lemma="próprio" pos="adj" features="F=S" />
+    </sn>
+    <sn id="93" tokens="352...353" nucleo="esta" sintagma="esta omissão" Categoria="OUTRO" sentenca="19">
+      <word_352 token="esta" lemma="este" pos="pron-det" features="F=S" />
+      <word_353 token="omissão" lemma="omissão" pos="n" features="F=S" />
+    </sn>
+    <sn id="94" tokens="355...360" nucleo="terços" sintagma="cerca de dois terços de as declarações" Categoria="OUTRO" sentenca="19">
+      <word_355 token="cerca_de" lemma="" pos="adv" features="-" />
+      <word_356 token="dois" lemma="dois" pos="num" features="M=P" />
+      <word_357 token="terços" lemma="terço" pos="n" features="M=P" />
+      <word_358 token="de" lemma="de" pos="prp" features="-" />
+      <word_359 token="as" lemma="o" pos="art" features="F=P" />
+      <word_360 token="declarações" lemma="declaração, declarar" pos="n" features="F=P" />
+    </sn>
+    <sn id="96" tokens="361...361" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="19">
+      <word_361 token="que" lemma="que" pos="pron-indp" features="F=P" />
+    </sn>
+    <sn id="97" tokens="364...364" nucleo="revisão" sintagma="revisão" Categoria="OUTRO" sentenca="19">
+      <word_364 token="revisão" lemma="revisão" pos="n" features="F=S" />
+    </sn>
+    <sn id="98" tokens="366...370" nucleo="outros" sintagma="Os outros motivos mais constantes" Categoria="OUTRO" sentenca="20">
+      <word_366 token="Os" lemma="o" pos="art" features="M=P" />
+      <word_367 token="outros" lemma="outro" pos="pron-det" features="M=P" />
+      <word_368 token="motivos" lemma="motivo" pos="n" features="M=P" />
+      <word_369 token="mais" lemma="mais" pos="adv" features="-" />
+      <word_370 token="constantes" lemma="constante, constar" pos="adj" features="M=P" />
+    </sn>
+    <sn id="99" tokens="372...380" nucleo="omissão" sintagma="a omissão de rendimentos imobiliários e despesas médicas incompatíveis" Categoria="ABSTRAÇÃO/CRIM" sentenca="20">
+      <word_372 token="a" lemma="o" pos="art" features="F=S" />
+      <word_373 token="omissão" lemma="omissão" pos="n" features="F=S" />
+      <word_374 token="de" lemma="de" pos="prp" features="-" />
+      <word_375 token="rendimentos" lemma="render" pos="n" features="M=P" />
+      <word_376 token="imobiliários" lemma="imobiliário, imobiliário" pos="adj" features="M=P" />
+      <word_377 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_378 token="despesas" lemma="despesa" pos="n" features="F=P" />
+      <word_379 token="médicas" lemma="médico" pos="adj" features="F=P" />
+      <word_380 token="incompatíveis" lemma="incompatível" pos="adj" features="F=P" />
+    </sn>
+    <sn id="101" tokens="378...380" nucleo="despesas" sintagma="despesas médicas incompatíveis" Categoria="OUTRO" sentenca="20">
+      <word_378 token="despesas" lemma="despesa" pos="n" features="F=P" />
+      <word_379 token="médicas" lemma="médico" pos="adj" features="F=P" />
+      <word_380 token="incompatíveis" lemma="incompatível" pos="adj" features="F=P" />
+    </sn>
+    <sn id="104" tokens="392...394" nucleo="qual" sintagma="qual a pendência" Categoria="OUTRO" sentenca="21">
+      <word_392 token="qual" lemma="qual" pos="pron-det" features="F=S" />
+      <word_393 token="a" lemma="o" pos="art" features="F=S" />
+      <word_394 token="pendência" lemma="pendência" pos="n" features="F=S" />
+    </sn>
+    <sn id="105" tokens="397...398" nucleo="técnicos" sintagma="os técnicos" Categoria="PESSOA" sentenca="21">
+      <word_397 token="os" lemma="o" pos="art" features="M=P" />
+      <word_398 token="técnicos" lemma="técnico" pos="n" features="M=P" />
+    </sn>
+    <sn id="108" tokens="410...413" nucleo="declaração" sintagma="uma declaração retificadora para" Categoria="OUTRO" sentenca="21">
+      <word_410 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_411 token="declaração" lemma="declaração, declarar" pos="n" features="F=S" />
+      <word_412 token="retificadora" lemma="retificar" pos="adj" features="F=S" />
+      <word_413 token="para" lemma="para" pos="prp" features="-" />
+    </sn>
+    <sn id="114" tokens="435...435" nucleo="Extrato_Simplificado" sintagma="Extrato Simplificado" Categoria="OUTRO" sentenca="22">
+      <word_435 token="Extrato_Simplificado" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="115" tokens="437...438" nucleo="Processamento" sintagma="o Processamento" Categoria="OUTRO" sentenca="22">
+      <word_437 token="o" lemma="o" pos="art" features="M=S" />
+      <word_438 token="Processamento" lemma="processamento, processar" pos="n" features="M=S" />
+    </sn>
+    <sn id="116" tokens="441...442" nucleo="página" sintagma="a página" Categoria="OUTRO" sentenca="23">
+      <word_441 token="a" lemma="o" pos="art" features="F=S" />
+      <word_442 token="página" lemma="página" pos="n" features="F=S" />
+    </sn>
+    <sn id="117" tokens="446...459" nucleo="CPF" sintagma="o CPF , o número de o recibo de entrega  os dez números" Categoria="OUTRO" sentenca="23">
+      <word_446 token="o" lemma="o" pos="art" features="M=S" />
+      <word_447 token="CPF" lemma="" pos="n" features="M=S" />
+      <word_448 token="," lemma="" pos="," features="-" />
+      <word_449 token="o" lemma="o" pos="art" features="M=S" />
+      <word_450 token="número" lemma="número" pos="n" features="M=S" />
+      <word_451 token="de" lemma="de" pos="prp" features="-" />
+      <word_452 token="o" lemma="o" pos="art" features="M=S" />
+      <word_453 token="recibo" lemma="recibo" pos="n" features="M=S" />
+      <word_454 token="de" lemma="de" pos="prp" features="-" />
+      <word_455 token="entrega" lemma="entrega" pos="n" features="F=S" />
+      <word_456 token="(" lemma="(" pos="(" features="-" />
+      <word_457 token="os" lemma="o" pos="art" features="M=P" />
+      <word_458 token="dez" lemma="dez" pos="num" features="M=P" />
+      <word_459 token="números" lemma="número" pos="n" features="M=P" />
+    </sn>
+    <sn id="119" tokens="452...453" nucleo="recibo" sintagma="o recibo" Categoria="OUTRO" sentenca="23">
+      <word_452 token="o" lemma="o" pos="art" features="M=S" />
+      <word_453 token="recibo" lemma="recibo" pos="n" features="M=S" />
+    </sn>
+    <sn id="122" tokens="460...460" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="23">
+      <word_460 token="que" lemma="que" pos="pron-indp" features="M=P" />
+    </sn>
+    <sn id="123" tokens="463...465" nucleo="página" sintagma="a primeira página" Categoria="OUTRO" sentenca="23">
+      <word_463 token="a" lemma="o" pos="art" features="F=S" />
+      <word_464 token="primeira" lemma="" pos="adj" features="F=S" />
+      <word_465 token="página" lemma="página" pos="n" features="F=S" />
+    </sn>
+    <sn id="125" tokens="471...479" nucleo="código" sintagma="o código de segurança pedido ( quatro caracteres )" Categoria="OUTRO" sentenca="23">
+      <word_471 token="o" lemma="o" pos="art" features="M=S" />
+      <word_472 token="código" lemma="código" pos="n" features="M=S" />
+      <word_473 token="de" lemma="de" pos="prp" features="-" />
+      <word_474 token="segurança" lemma="segurança" pos="n" features="F=S" />
+      <word_475 token="pedido" lemma="pedir" pos="v-pcp" features="M=S" />
+      <word_476 token="(" lemma="(" pos="(" features="-" />
+      <word_477 token="quatro" lemma="quatro" pos="num" features="M=P" />
+      <word_478 token="caracteres" lemma="carácter" pos="n" features="M=P" />
+      <word_479 token=")" lemma=")" pos=")" features="-" />
+    </sn>
+    <sn id="126" tokens="474...475" nucleo="segurança" sintagma="segurança pedido" Categoria="COMUNICAÇÃO/PRDIC" sentenca="23">
+      <word_474 token="segurança" lemma="segurança" pos="n" features="F=S" />
+      <word_475 token="pedido" lemma="pedir" pos="v-pcp" features="M=S" />
+    </sn>
+    <sn id="4" tokens="13...14" nucleo="este" sintagma="este ano" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="1">
+      <word_13 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_14 token="ano" lemma="ano" pos="n" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

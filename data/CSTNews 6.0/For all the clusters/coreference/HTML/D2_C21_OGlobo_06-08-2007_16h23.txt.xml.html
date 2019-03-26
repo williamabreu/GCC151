@@ -1,0 +1,2203 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="iso8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CORP</title>
+
+<style type="text/css">
+	@charset "iso8859-1";
+.container {
+	background-color: #FFFFFF;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.row {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	display: inline-block
+}
+.row.blockDisplay {
+	display: block;
+}
+.column_half {
+	width: 50%;
+	float: left;
+	margin-top: 0px;
+}
+.columns {
+	width: 25%;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #A5A5A5;
+	line-height: 24px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: justify;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.row .columns p {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.container .columns h4 {
+	text-align: center;
+	color: #01B2D1;
+}
+.primary_header {
+	width: 100%;
+	background-color: lightblue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	clear: left;
+	border-bottom: 2px solid #2C9AB7;
+}
+.secondary_header {
+	
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #B3B3B3;
+	clear: left;
+}
+.container .secondary_header ul {
+	margin-top: 0%;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	width: 100%;
+	
+}
+.secondary_header ul li {
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-top: 0px;
+	font-family: "Source Sans Pro";
+	font-weight: normal;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	margin-left: auto;
+	text-align: center;
+	width: 25%;
+	transition: all 0.3s linear;
+}
+.secondary_header ul li:hover {
+	color: #717070;
+	cursor: pointer;
+}
+.left_article {
+	background-color: #FFFFFF;
+	width: 70%;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #343434;
+	padding-bottom: 15px;
+}
+.noDisplay {
+	display: none;
+}
+.container .left_article h3 {
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 5%;
+	color: #717070;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.container .left_article p {
+	overflow-y: auto;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+	line-height: 24px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	color: #B3B3B3;
+}
+/*lado direito pag*/
+.right_article {
+	margin-top: 1px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+	width: 30%;
+	/*width: 600px; */
+	height: 1000px; 
+	overflow-y: auto;
+	/*width: 40%;*/
+	float: center;
+	background-color: white;
+	/*background-color: #F6F6F6;*/
+	
+}
+.container .right_article ul {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	
+}
+.right_article ul li {
+	font-family: "Source Sans Pro";
+	list-style: none;
+	text-align: center;
+	background-color: #B3B3B3;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #FFFFFF;
+	font-weight: bold;
+	border-radius: 0px;
+	transition: all 0.3s linear;
+	border-left: 5px solid #717070;
+}
+.right_article ul li:hover {
+	background-color: #717070;
+	cursor: pointer;
+}
+.footer {
+	background-color: #717070;
+}
+.title {
+	font-weight: bold;
+	font-style: normal;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+}
+.placeholder {
+	/* [disabled]max-width: 400px;
+*/
+	/* [disabled]max-height: 200px;
+*/
+	width: 100%;
+	padding-top: 30px;
+	/* [disabled]padding-left: 19px;
+*/
+	padding-bottom: 30px;
+	height: 100%;
+}
+.left_half {
+	background-color: lightblue;
+}
+.container .column_half.left_half h2 {
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+}
+.right_half {
+	background-color: #01B2D1;
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	font-weight: bold;text-shadow: 0px 2px 3px #666;
+}
+.column_title {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.copyright {
+	text-align: center;
+	background-color: #717070;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+	font-family: "Source Sans Pro";
+}
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+@media (max-width: 320px) {
+.secondary_header ul li {
+	float: none;
+	margin-top: 28px;
+	margin-left: 0px;
+	width: 100%;
+}
+.container .secondary_header ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	height: auto;
+	width: 100%;
+	text-align: center;
+}
+.secondary_header {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 1px;
+	padding-bottom: 40px;
+}
+.left_article {
+	width: 98%;
+	height: auto;
+}
+.right_article {
+	width: 100%;
+	height: auto;
+}
+.placeholder {
+	width: 100%;
+	margin-top: 22PX;
+	margin-right: 0px;
+	margin-bottom: 22PX;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	max-width: 400px;
+	max-height: 200px;
+	height: auto;
+}
+.columns {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0PX;
+	padding-right: 0PX;
+	padding-bottom: 0PX;
+	padding-left: 0PX;
+}
+.columns p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.column_half.left_half {
+	width: 100%;
+}
+.column_half.right_half {
+	width: 100%;
+}
+.copyright {
+	padding-top: 25px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.container .left_article h3 {
+	margin-top: 30px;
+}
+.social .social_icon img {
+	width: 80%;
+}
+.container .secondary_header {
+}
+}
+
+@media (min-width: 321px) and (max-width: 768px) {
+.secondary_header ul li {
+	float: none;
+	margin-top: 28px;
+	margin-left: 0px;
+	width: 100%;
+}
+.container .secondary_header ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	height: auto;
+	width: 100%;
+	text-align: center;
+}
+.secondary_header {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 1px;
+	padding-bottom: 40px;
+}
+.left_article {
+	width: 100%;
+	height: auto;
+}
+.right_article {
+	width: 100%;
+	height: auto;
+	padding-bottom: 25px;
+}
+.placeholder {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+	max-height: 100%;
+}
+.columns {
+	width: 100%;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 6px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.columns p {
+	padding-left: 14px;
+	padding-right: 14px;
+}
+.column_half.left_half {
+	width: 100%;
+}
+.column_half.right_half {
+	width: 100%;
+}
+}
+
+@media (min-width: 769px) and (max-width: 1000px) {
+.secondary_header {
+	overflow: auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.secondary_header ul li {
+	margin-top: 10px;
+	margin-right: 7%;
+	margin-bottom: 10px;
+	margin-left: 7%;
+}
+.left_article {
+	height: auto;
+}
+.right_article {
+	height: auto;
+	padding-bottom: 27px;
+}
+.placeholder {
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.columns {
+	width: 50%;
+	float: left;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.container .columns p {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+}
+
+@media (min-width: 1001px) {
+}
+.thumbnail {
+	width: 100px;
+	border-radius: 200px;
+	height: 100px;
+	margin-left: auto;
+}
+.thumbnail_align {
+	text-align: center;
+}
+.social {
+	text-align: center;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	background-color: #414141;
+	clear: both;
+	overflow: auto;
+}
+.social_icon {
+	width: 25%;
+	text-align: center;
+	float: left;
+	transition: all 0.3s linear;
+	line-height: 0px;
+	padding-top: 7px;
+}
+.container .social .social_icon:hover {
+	cursor: pointer;
+	opacity: 0.5;
+}
+#menu {
+}
+
+
+body{font-family:Calibri, Tahoma, Arial}
+	.TabControl{ width:100%; overflow-y: auto;  height:auto}
+	.TabControl #header{ width:90%; border: hidden 0px; text-align:right; overflow:hidden; cursor: pointer}
+	.TabControl #content{ width:100%; border: solid 0px;overflow:hidden; text-align:right; height:100%; }
+	/*.TabControl .abas{display:inline;}*/
+	.TabControl .abas{display:inline; text-align:center;  text-shadow: 0px 2px 3px #400; font-stretch: ultra-condensed; line-height: 210%; }
+	.TabControl .abas li{list-style-type:none; float:left}
+	.aba{width:295px; height:20px; border:solid 1px; border-radius:5px 5px 0 0;
+		text-align:center; padding-top:5px; background:white}
+	.ativa{width:295px; height:20px; border:solid 1 px; border-radius:5px 5px 0 0;
+		text-align:center; padding-top:5px; background:lightblue;}
+	.ativa span, .selected span{color:#fff}
+	.TabControl #content{background:white}
+	.TabControl .conteudo{margin-top: 50px; width:99%; overflow-y: auto;  background:white; display:none; height:auto;color:gray;
+	
+	text-align: justify;
+	line-height: 24px;
+	color: #333333;
+	border-radius:5px 5px 0 0;
+
+	
+	
+	
+	}
+	.selected{width:295px; height:20px; border:solid 1 px; border-radius:5px 5px 0 0;
+		text-align:center; padding-top:5px; background:#27408B
+		
+	
+	
+	
+		
+		}
+		
+		/*padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+	line-height: 24px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	color: #B3B3B3;*/
+		
+		
+</style>
+
+
+</head>
+<body>
+<div class="container">
+  <header>
+    <div class="primary_header">
+      <h1> <center> CORP - Coreference Resolution for Portuguese </center> </h1>
+
+ 
+    </div>
+    <nav class="secondary_header" id="menu">
+      <ul>
+         <li> <a href="http://ontolp.inf.pucrs.br/corref/">HOME</a></li>
+        <li> <a href="http://www.inf.pucrs.br/linatural/index.html">PLN-PUCRS</a></li> 
+         <li> <a href="http://ontolp.inf.pucrs.br/corref/publicacoes.html">PUBLICA&Ccedil;&Otilde;ES</a></li>
+        <li> <a href="mailto:metalmorphy@gmail.com">CONTATO</a></li>
+	   </ul>
+    </nav>
+  </header>
+  <section>
+    <h2 class="noDisplay">Main Content</h2>
+    <article class="left_article">
+    
+      
+      
+      
+      
+<div class="TabControl">
+	<div id="header">
+		<ul class="abas">
+	
+     <span id="tag" class="wrd tagcloud" onclick="Mudarestado('109')"><b><FONT style="font-size: 20px" COLOR="#8B2500">O ministro Nelson...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('104')"><b><FONT style="font-size: 23px" COLOR="#009ACD">o Aeroporto de Gu...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('100')"><b><FONT style="font-size: 23px" COLOR="#00CD66">os vôos  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('96')"><b><FONT style="font-size: 23px" COLOR="#FF8C00">a primeira etapa  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('92')"><b><FONT style="font-size: 26px" COLOR="#FF6A6A">a pista  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('69')"><b><FONT style="font-size: 20px" COLOR="#0000CD">o acidente  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('34')"><b><FONT style="font-size: 20px" COLOR="#98FB98">decolagens  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('26')"><b><FONT style="font-size: 29px" COLOR="#00688B">que  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('6')"><b><FONT style="font-size: 44px" COLOR="#00C5CD">uma de as pistas ...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('2')"><b><FONT style="font-size: 23px" COLOR="#CD0000">março  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('0')"><b><FONT style="font-size: 26px" COLOR="#8B1C62">O Ministério de a...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('3')"><b><FONT style="font-size: 20px" COLOR="#FFA54F">o ano  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('8')"><b><FONT style="font-size: 56px" COLOR="#C71585">reformas  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('32')"><b><FONT style="font-size: 23px" COLOR="#EE7942">Cumbica  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('50')"><b><FONT style="font-size: 26px" COLOR="#0000CD">vôos nacionais e ...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('76')"><b><FONT style="font-size: 20px" COLOR="#CD5C5C">a Agência Naciona...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('94')"><b><FONT style="font-size: 20px" COLOR="#8B3E2F">esta segunda-feira  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('98')"><b><FONT style="font-size: 20px" COLOR="#FF0000">um terço de a pis...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('102')"><b><FONT style="font-size: 23px" COLOR="#9400D3">o Aeroporto de Vi...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('106')"><b><FONT style="font-size: 20px" COLOR="#EE8262">O cronograma de a...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud1" onclick="Mudarestado('TodasCadeias')">Todas as Cadeias  </span>
+ 
+
+<style type="text/css"><!-- #htmltagcloud{
+
+/******************************************
+ * CUSTOMIZE CLOUD CSS BELOW (optional)
+ */
+	font-size: 100%;
+	width: auto;		/* auto or fixed width, e.g. 500px   */
+	font-family:'lucida grande','trebuchet ms',arial,helvetica,sans-serif;
+	background-color:#fff;
+	margin:1em 1em 0 1em;
+	border:2px dotted #ddd;
+	padding:2em; 
+/******************************************
+ * END CUSTOMIZE
+ */
+
+}#htmltagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}#htmltagcloud a:link{text-decoration:none}#htmltagcloud a:visited{text-decoration:none}#htmltagcloud a:hover{color:white;background-color:#05f}#htmltagcloud a:active{color:white;background-color:#03d}.wrd{padding:0;position:relative}.wrd a{text-decoration:none}.tagcloud0{font-size:1.0em;color:#ACC1F3;z-index:10}.tagcloud0 a{color:#ACC1F3}.tagcloud1{font-size:1.4em;color:#ACC1F3;z-index:9}.tagcloud1 a{color:#ACC1F3}.tagcloud2{font-size:1.8em;color:#86A0DC;z-index:8}.tagcloud2 a{color:#86A0DC}.tagcloud3{font-size:2.2em;color:#86A0DC;z-index:7}.tagcloud3 a{color:#86A0DC}.tagcloud4{font-size:2.6em;color:#607EC5;z-index:6}.tagcloud4 a{color:#607EC5}.tagcloud5{font-size:3.0em;color:#607EC5;z-index:5}.tagcloud5 a{color:#607EC5}.tagcloud6{font-size:3.3em;color:#4C6DB9;z-index:4}.tagcloud6 a{color:#4C6DB9}.tagcloud7{font-size:3.6em;color:#395CAE;z-index:3}.tagcloud7 a{color:#395CAE}.tagcloud8{font-size:3.9em;color:#264CA2;z-index:2}.tagcloud8 a{color:#264CA2}.tagcloud9{font-size:4.2em;color:#133B97;z-index:1}.tagcloud9 a{color:#133B97}.tagcloud10{font-size:4.5em;color:#002A8B;z-index:0}.tagcloud10 a{color:#002A8B}.freq{font-size:10pt !important;color:#bbb}#credit{text-align:center;color:#333;margin-bottom:0.6em;font:0.7em 'lucida grande',trebuchet,'trebuchet ms',verdana,arial,helvetica,sans-serif}#credit a:link{color:#777;text-decoration:none}#credit a:visited{color:#777;text-decoration:none}#credit a:hover{color:white;background-color:#05f}#credit a:active{text-decoration:underline}
+</style>
+
+<script>
+function Mudarestado(el) {
+
+	ocultar_conteudo();
+    var display = document.getElementById(el).style.display;
+    if(display == "none")
+        document.getElementById(el).style.display = 'block';
+    else
+        document.getElementById(el).style.display = 'none';
+}
+</script>
+<script>
+ function ocultar_conteudo() { 
+  document.getElementById('TodasCadeias').style.display="none";	document.getElementById('8').style.display="none"; 
+document.getElementById('6').style.display="none"; 
+document.getElementById('26').style.display="none"; 
+document.getElementById('0').style.display="none"; 
+document.getElementById('50').style.display="none"; 
+document.getElementById('92').style.display="none"; 
+document.getElementById('2').style.display="none"; 
+document.getElementById('32').style.display="none"; 
+document.getElementById('96').style.display="none"; 
+document.getElementById('100').style.display="none"; 
+document.getElementById('102').style.display="none"; 
+document.getElementById('104').style.display="none"; 
+document.getElementById('3').style.display="none"; 
+document.getElementById('34').style.display="none"; 
+document.getElementById('69').style.display="none"; 
+document.getElementById('76').style.display="none"; 
+document.getElementById('94').style.display="none"; 
+document.getElementById('98').style.display="none"; 
+document.getElementById('106').style.display="none"; 
+document.getElementById('109').style.display="none"; 
+} 
+ </script>
+        
+            	
+		</ul>
+	</div>
+	<div id="content">
+	
+     <div class="conteudo" id="TodasCadeias" ><b><FONT style="font-size: 18px" COLOR="#8B1C62">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">Ministério_da_Defesa [0]]<FONT style="font-size: 13px"></FONT></FONT></b> anunciou em <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[esta<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">segunda-feira [94]]<FONT style="font-size: 13px"></FONT></FONT></b> ( 6 ) que em <b><FONT style="font-size: 18px" COLOR="#CD0000">[março [2]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#FFA54F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FFA54F">ano [3]]<FONT style="font-size: 13px"></FONT></FONT></b> que vem <b><FONT style="font-size: 18px" COLOR="#00C5CD">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pistas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD"><b><FONT style="font-size: 18px" COLOR="#00C5CD">o<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD">Aeroporto_de_Guarulhos<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#009ACD"> [104]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD">  [6]]<FONT style="font-size: 13px"></FONT></FONT> </b> será fechada para <b><FONT style="font-size: 18px" COLOR="#C71585">[reformas [8]]<FONT style="font-size: 13px"></FONT></FONT></b> de seu trecho central . Enquanto durarem <b><FONT style="font-size: 18px" COLOR="#C71585">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obras [8]]<FONT style="font-size: 13px"></FONT></FONT></b> , <b><FONT style="font-size: 18px" COLOR="#00CD66">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">vôos [100]]<FONT style="font-size: 13px"></FONT></FONT></b> serão transferidos para <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Aeroporto_de_Viracopos [102]]<FONT style="font-size: 13px"></FONT></FONT></b> , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">reforma [8]]<FONT style="font-size: 13px"></FONT></FONT></b> , <b><FONT style="font-size: 18px" COLOR="#00688B">[que [26]]<FONT style="font-size: 13px"></FONT></FONT></b> terá três fases . <b><FONT style="font-size: 18px" COLOR="#8B1C62">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">Ministério_da_Defesa [0]]<FONT style="font-size: 13px"></FONT></FONT></b> não soube informar por quanto tempo <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> permanecerá fechada . <b><FONT style="font-size: 18px" COLOR="#C71585">[As<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obras<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD"><b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD">pista<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#C71585"> [8]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD">  [6]]<FONT style="font-size: 13px"></FONT></FONT> </b> também ainda não têm previsão para começar . <b><FONT style="font-size: 18px" COLOR="#EE8262">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">cronograma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#EE8262"><b><FONT style="font-size: 18px" COLOR="#EE8262">a<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#EE8262">obra<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#C71585"> [8]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#EE8262">  [106]]<FONT style="font-size: 13px"></FONT></FONT> </b> depende de estudos finais de <b><FONT style="font-size: 18px" COLOR="#00688B">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">Infraero [26]]<FONT style="font-size: 13px"></FONT></FONT></b> . <b><FONT style="font-size: 18px" COLOR="#8B2500">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">ministro<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">Nelson_Jobim<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">que [109]]<FONT style="font-size: 13px"></FONT></FONT></b> em a semana passada havia anunciado reparos emergenciais em <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> , recuou de essa decisão e definiu que <b><FONT style="font-size: 18px" COLOR="#C71585">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obras [8]]<FONT style="font-size: 13px"></FONT></FONT></b> serão definitivas . <b><FONT style="font-size: 18px" COLOR="#EE7942">[Cumbica [32]]<FONT style="font-size: 13px"></FONT></FONT></b> possui duas pistas para pousos e <b><FONT style="font-size: 18px" COLOR="#98FB98">[decolagens [34]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#0000CD">[vôos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">nacionais<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">e<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">internacionais [50]]<FONT style="font-size: 13px"></FONT></FONT></b> . A assessoria de imprensa de <b><FONT style="font-size: 18px" COLOR="#00688B">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">Infraero [26]]<FONT style="font-size: 13px"></FONT></FONT></b> em <b><FONT style="font-size: 18px" COLOR="#EE7942">[Cumbica [32]]<FONT style="font-size: 13px"></FONT></FONT></b> informou apenas que as obras de <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">pista [92]]<FONT style="font-size: 13px"></FONT></FONT></b> de 3,7 km não começam em <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[esta<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">segunda-feira [94]]<FONT style="font-size: 13px"></FONT></FONT></b> ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a <b><FONT style="font-size: 18px" COLOR="#00688B">[Infraero [26]]<FONT style="font-size: 13px"></FONT></FONT></b> realiza o desemborrachamento de <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">pista [92]]<FONT style="font-size: 13px"></FONT></FONT></b> de 3,7 km para retirar de <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">pista [92]]<FONT style="font-size: 13px"></FONT></FONT></b> o excesso de borracha de os pneus de <b><FONT style="font-size: 18px" COLOR="#0000CD">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">aeronaves [50]]<FONT style="font-size: 13px"></FONT></FONT></b> e assim melhorar o atrito . De_acordo com <b><FONT style="font-size: 18px" COLOR="#8B1C62">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">Ministério_da_Defesa [0]]<FONT style="font-size: 13px"></FONT></FONT></b> , em <b><FONT style="font-size: 18px" COLOR="#FF8C00">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">primeira<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">etapa [96]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#C71585">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obras [8]]<FONT style="font-size: 13px"></FONT></FONT></b> , será reformado <b><FONT style="font-size: 18px" COLOR="#FF0000">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">terço<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000"><b><FONT style="font-size: 18px" COLOR="#FF0000">a<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000">pista<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD"> [6]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000"> <FONT style="font-size: 13px"></FONT></FONT> </b> <b><FONT style="font-size: 18px" COLOR="#FF0000">em<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">cabeceiras<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">-<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">restante<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">ela [98]]<FONT style="font-size: 13px"></FONT></FONT></b> ficará disponível para pousos e <b><FONT style="font-size: 18px" COLOR="#98FB98">[decolagens [34]]<FONT style="font-size: 13px"></FONT></FONT></b> . Quando for concluída <b><FONT style="font-size: 18px" COLOR="#FF8C00">[esta<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">fase [96]]<FONT style="font-size: 13px"></FONT></FONT></b> , <b><FONT style="font-size: 18px" COLOR="#FF0000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">trecho [98]]<FONT style="font-size: 13px"></FONT></FONT></b> será reaberto e <b><FONT style="font-size: 18px" COLOR="#C71585">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">reformas [8]]<FONT style="font-size: 13px"></FONT></FONT></b> passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obra [8]]<FONT style="font-size: 13px"></FONT></FONT></b> , não será necessário o fechamento de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> . A_partir_de <b><FONT style="font-size: 18px" COLOR="#CD0000">[março [2]]<FONT style="font-size: 13px"></FONT></FONT></b> , <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obra [8]]<FONT style="font-size: 13px"></FONT></FONT></b> será finalizada com <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">reforma [8]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#FF8C00">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">trecho<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">central [96]]<FONT style="font-size: 13px"></FONT></FONT></b> . Para receber <b><FONT style="font-size: 18px" COLOR="#00CD66">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">vôos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66">Cumbica<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#EE7942"> [32]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"> [100]]<FONT style="font-size: 13px"></FONT></FONT> </b> , <b><FONT style="font-size: 18px" COLOR="#9400D3">[Viracopos [102]]<FONT style="font-size: 13px"></FONT></FONT></b> precisará ser ampliado , sobretudo <b><FONT style="font-size: 18px" COLOR="#00CD66">[seu<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">terminal<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">passageiros [100]]<FONT style="font-size: 13px"></FONT></FONT></b> , segundo <b><FONT style="font-size: 18px" COLOR="#9400D3">[nota [102]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#8B1C62">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">Ministério_da_Defesa [0]]<FONT style="font-size: 13px"></FONT></FONT></b> . <b><FONT style="font-size: 18px" COLOR="#009ACD">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">previsão [104]]<FONT style="font-size: 13px"></FONT></FONT></b> é que essa ampliação seja concluída até <b><FONT style="font-size: 18px" COLOR="#CD0000">[março [2]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#FFA54F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FFA54F">ano [3]]<FONT style="font-size: 13px"></FONT></FONT></b> que vem , sendo realizada simultaneamente a <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">reforma [8]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#009ACD">[Guarulhos [104]]<FONT style="font-size: 13px"></FONT></FONT></b> . Antes de <b><FONT style="font-size: 18px" COLOR="#0000CD">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">acidente [69]]<FONT style="font-size: 13px"></FONT></FONT></b> de o Airbus de a TAM , em o dia 17 de julho , <b><FONT style="font-size: 18px" COLOR="#EE8262">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">cronograma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#EE8262"><b><FONT style="font-size: 18px" COLOR="#EE8262">a<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#EE8262">Infraero<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00688B"> [26]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#EE8262">  [106]]<FONT style="font-size: 13px"></FONT></FONT> </b> previa que a revitalização de <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">pista [92]]<FONT style="font-size: 13px"></FONT></FONT></b> de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">Agência_Nacional_de_Aviação_Civil<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">( [76]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[Anac [76]]<FONT style="font-size: 13px"></FONT></FONT></b> ) realizaria audiência pública para discutir <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obra [8]]<FONT style="font-size: 13px"></FONT></FONT></b> . A reunião estava marcada para o dia 18 de julho , um dia depois de <b><FONT style="font-size: 18px" COLOR="#0000CD">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">acidente [69]]<FONT style="font-size: 13px"></FONT></FONT></b> , e acabou sendo suspensa . <b><FONT style="font-size: 18px" COLOR="#C71585">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obra<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">que [8]]<FONT style="font-size: 13px"></FONT></FONT></b> tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para <b><FONT style="font-size: 18px" COLOR="#0000CD">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">aeronaves [50]]<FONT style="font-size: 13px"></FONT></FONT></b> deixarem <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> e chegarem a o terminal . A vantagem é a desocupação mais rápida de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> por <b><FONT style="font-size: 18px" COLOR="#0000CD">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">aviões [50]]<FONT style="font-size: 13px"></FONT></FONT></b> . Entretanto , não se sabe se as obras definitivas anunciadas agora por <b><FONT style="font-size: 18px" COLOR="#8B2500">[Nelson_Jobim [109]]<FONT style="font-size: 13px"></FONT></FONT></b> terão as mesmas características . </div><div class="conteudo" id="8" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para <b><FONT style="font-size: 18px" COLOR="#C71585">[reformas [8]]<FONT style="font-size: 13px"></FONT></FONT></b> de seu trecho central . Enquanto durarem <b><FONT style="font-size: 18px" COLOR="#C71585">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obras [8]]<FONT style="font-size: 13px"></FONT></FONT></b> , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">reforma [8]]<FONT style="font-size: 13px"></FONT></FONT></b> , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . <b><FONT style="font-size: 18px" COLOR="#C71585">[As<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obras<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">pista [8]]<FONT style="font-size: 13px"></FONT></FONT></b> também ainda não têm previsão para começar . O cronograma de <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obra [8]]<FONT style="font-size: 13px"></FONT></FONT></b> depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que <b><FONT style="font-size: 18px" COLOR="#C71585">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obras [8]]<FONT style="font-size: 13px"></FONT></FONT></b> serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de <b><FONT style="font-size: 18px" COLOR="#C71585">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obras [8]]<FONT style="font-size: 13px"></FONT></FONT></b> , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e <b><FONT style="font-size: 18px" COLOR="#C71585">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">reformas [8]]<FONT style="font-size: 13px"></FONT></FONT></b> passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obra [8]]<FONT style="font-size: 13px"></FONT></FONT></b> , não será necessário o fechamento de a pista . A_partir_de março , <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obra [8]]<FONT style="font-size: 13px"></FONT></FONT></b> será finalizada com <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">reforma [8]]<FONT style="font-size: 13px"></FONT></FONT></b> de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">reforma [8]]<FONT style="font-size: 13px"></FONT></FONT></b> de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir <b><FONT style="font-size: 18px" COLOR="#C71585">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obra [8]]<FONT style="font-size: 13px"></FONT></FONT></b> . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . <b><FONT style="font-size: 18px" COLOR="#C71585">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">obra<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">que [8]]<FONT style="font-size: 13px"></FONT></FONT></b> tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="6" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem <b><FONT style="font-size: 18px" COLOR="#00C5CD">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pistas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">Aeroporto_de_Guarulhos [6]]<FONT style="font-size: 13px"></FONT></FONT></b> será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> permanecerá fechada . As obras de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> e chegarem a o terminal . A vantagem é a desocupação mais rápida de <b><FONT style="font-size: 18px" COLOR="#00C5CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pista [6]]<FONT style="font-size: 13px"></FONT></FONT></b> por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="26" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , <b><FONT style="font-size: 18px" COLOR="#00688B">[que [26]]<FONT style="font-size: 13px"></FONT></FONT></b> terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de <b><FONT style="font-size: 18px" COLOR="#00688B">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">Infraero [26]]<FONT style="font-size: 13px"></FONT></FONT></b> . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de <b><FONT style="font-size: 18px" COLOR="#00688B">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">Infraero [26]]<FONT style="font-size: 13px"></FONT></FONT></b> em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a <b><FONT style="font-size: 18px" COLOR="#00688B">[Infraero [26]]<FONT style="font-size: 13px"></FONT></FONT></b> realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de <b><FONT style="font-size: 18px" COLOR="#00688B">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">Infraero [26]]<FONT style="font-size: 13px"></FONT></FONT></b> previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="0" ><b><FONT style="font-size: 18px" COLOR="#8B1C62">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">Ministério_da_Defesa [0]]<FONT style="font-size: 13px"></FONT></FONT></b> anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . <b><FONT style="font-size: 18px" COLOR="#8B1C62">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">Ministério_da_Defesa [0]]<FONT style="font-size: 13px"></FONT></FONT></b> não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com <b><FONT style="font-size: 18px" COLOR="#8B1C62">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">Ministério_da_Defesa [0]]<FONT style="font-size: 13px"></FONT></FONT></b> , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de <b><FONT style="font-size: 18px" COLOR="#8B1C62">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">Ministério_da_Defesa [0]]<FONT style="font-size: 13px"></FONT></FONT></b> . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="50" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de <b><FONT style="font-size: 18px" COLOR="#0000CD">[vôos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">nacionais<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">e<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">internacionais [50]]<FONT style="font-size: 13px"></FONT></FONT></b> . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de <b><FONT style="font-size: 18px" COLOR="#0000CD">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">aeronaves [50]]<FONT style="font-size: 13px"></FONT></FONT></b> e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para <b><FONT style="font-size: 18px" COLOR="#0000CD">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">aeronaves [50]]<FONT style="font-size: 13px"></FONT></FONT></b> deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por <b><FONT style="font-size: 18px" COLOR="#0000CD">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">aviões [50]]<FONT style="font-size: 13px"></FONT></FONT></b> . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="92" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">pista [92]]<FONT style="font-size: 13px"></FONT></FONT></b> de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">pista [92]]<FONT style="font-size: 13px"></FONT></FONT></b> de 3,7 km para retirar de <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">pista [92]]<FONT style="font-size: 13px"></FONT></FONT></b> o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">pista [92]]<FONT style="font-size: 13px"></FONT></FONT></b> de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="2" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em <b><FONT style="font-size: 18px" COLOR="#CD0000">[março [2]]<FONT style="font-size: 13px"></FONT></FONT></b> de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de <b><FONT style="font-size: 18px" COLOR="#CD0000">[março [2]]<FONT style="font-size: 13px"></FONT></FONT></b> , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até <b><FONT style="font-size: 18px" COLOR="#CD0000">[março [2]]<FONT style="font-size: 13px"></FONT></FONT></b> de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="32" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . <b><FONT style="font-size: 18px" COLOR="#EE7942">[Cumbica [32]]<FONT style="font-size: 13px"></FONT></FONT></b> possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em <b><FONT style="font-size: 18px" COLOR="#EE7942">[Cumbica [32]]<FONT style="font-size: 13px"></FONT></FONT></b> informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de <b><FONT style="font-size: 18px" COLOR="#EE7942">[Cumbica [32]]<FONT style="font-size: 13px"></FONT></FONT></b> , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="96" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em <b><FONT style="font-size: 18px" COLOR="#FF8C00">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">primeira<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">etapa [96]]<FONT style="font-size: 13px"></FONT></FONT></b> de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída <b><FONT style="font-size: 18px" COLOR="#FF8C00">[esta<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">fase [96]]<FONT style="font-size: 13px"></FONT></FONT></b> , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de <b><FONT style="font-size: 18px" COLOR="#FF8C00">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">trecho<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">central [96]]<FONT style="font-size: 13px"></FONT></FONT></b> . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="100" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , <b><FONT style="font-size: 18px" COLOR="#00CD66">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">vôos [100]]<FONT style="font-size: 13px"></FONT></FONT></b> serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber <b><FONT style="font-size: 18px" COLOR="#00CD66">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">vôos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">Cumbica [100]]<FONT style="font-size: 13px"></FONT></FONT></b> , Viracopos precisará ser ampliado , sobretudo <b><FONT style="font-size: 18px" COLOR="#00CD66">[seu<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">terminal<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">passageiros [100]]<FONT style="font-size: 13px"></FONT></FONT></b> , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="102" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Aeroporto_de_Viracopos [102]]<FONT style="font-size: 13px"></FONT></FONT></b> , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , <b><FONT style="font-size: 18px" COLOR="#9400D3">[Viracopos [102]]<FONT style="font-size: 13px"></FONT></FONT></b> precisará ser ampliado , sobretudo seu terminal de passageiros , segundo <b><FONT style="font-size: 18px" COLOR="#9400D3">[nota [102]]<FONT style="font-size: 13px"></FONT></FONT></b> de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="104" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de <b><FONT style="font-size: 18px" COLOR="#009ACD">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">Aeroporto_de_Guarulhos [104]]<FONT style="font-size: 13px"></FONT></FONT></b> será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . <b><FONT style="font-size: 18px" COLOR="#009ACD">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">previsão [104]]<FONT style="font-size: 13px"></FONT></FONT></b> é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de <b><FONT style="font-size: 18px" COLOR="#009ACD">[Guarulhos [104]]<FONT style="font-size: 13px"></FONT></FONT></b> . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="3" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de <b><FONT style="font-size: 18px" COLOR="#FFA54F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FFA54F">ano [3]]<FONT style="font-size: 13px"></FONT></FONT></b> que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de <b><FONT style="font-size: 18px" COLOR="#FFA54F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FFA54F">ano [3]]<FONT style="font-size: 13px"></FONT></FONT></b> que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="34" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e <b><FONT style="font-size: 18px" COLOR="#98FB98">[decolagens [34]]<FONT style="font-size: 13px"></FONT></FONT></b> de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e <b><FONT style="font-size: 18px" COLOR="#98FB98">[decolagens [34]]<FONT style="font-size: 13px"></FONT></FONT></b> . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="69" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de <b><FONT style="font-size: 18px" COLOR="#0000CD">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">acidente [69]]<FONT style="font-size: 13px"></FONT></FONT></b> de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de <b><FONT style="font-size: 18px" COLOR="#0000CD">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">acidente [69]]<FONT style="font-size: 13px"></FONT></FONT></b> , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="76" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">Agência_Nacional_de_Aviação_Civil<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">( [76]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[Anac [76]]<FONT style="font-size: 13px"></FONT></FONT></b> ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="94" >O Ministério_da_Defesa anunciou em <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[esta<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">segunda-feira [94]]<FONT style="font-size: 13px"></FONT></FONT></b> ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[esta<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">segunda-feira [94]]<FONT style="font-size: 13px"></FONT></FONT></b> ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="98" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado <b><FONT style="font-size: 18px" COLOR="#FF0000">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">terço<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">pista<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">em<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">cabeceiras<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">-<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">restante<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">ela [98]]<FONT style="font-size: 13px"></FONT></FONT></b> ficará disponível para pousos e decolagens . Quando for concluída esta fase , <b><FONT style="font-size: 18px" COLOR="#FF0000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">trecho [98]]<FONT style="font-size: 13px"></FONT></FONT></b> será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="106" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . <b><FONT style="font-size: 18px" COLOR="#EE8262">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">cronograma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">obra [106]]<FONT style="font-size: 13px"></FONT></FONT></b> depende de estudos finais de a Infraero . O ministro Nelson_Jobim , que em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , <b><FONT style="font-size: 18px" COLOR="#EE8262">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">cronograma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">Infraero [106]]<FONT style="font-size: 13px"></FONT></FONT></b> previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por Nelson_Jobim terão as mesmas características . </div>
+ <div class="conteudo" id="109" >O Ministério_da_Defesa anunciou em esta segunda-feira ( 6 ) que em março de o ano que vem uma de as pistas de o Aeroporto_de_Guarulhos será fechada para reformas de seu trecho central . Enquanto durarem as obras , os vôos serão transferidos para o Aeroporto_de_Viracopos , em Campinas , a 95 km de a Capital , segundo informa o ministério de Nelson_Jobim para o meio de nota . O fechamento de a pista , que têm 3,7 km de extensão , está previsto para ocorrer em a terceira e última etapa de a reforma , que terá três fases . O Ministério_da_Defesa não soube informar por quanto tempo a pista permanecerá fechada . As obras de a pista também ainda não têm previsão para começar . O cronograma de a obra depende de estudos finais de a Infraero . <b><FONT style="font-size: 18px" COLOR="#8B2500">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">ministro<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">Nelson_Jobim<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">que [109]]<FONT style="font-size: 13px"></FONT></FONT></b> em a semana passada havia anunciado reparos emergenciais em a pista , recuou de essa decisão e definiu que as obras serão definitivas . Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais . A assessoria de imprensa de a Infraero em Cumbica informou apenas que as obras de a pista de 3,7 km não começam em esta segunda-feira ( 6 ) , mesma data em que toma posse em Brasília o novo presidente de a estatal , Sérgio_Gaudenzi . Desde segunda-feira passada ( 30 ) , a Infraero realiza o desemborrachamento de a pista de 3,7 km para retirar de a pista o excesso de borracha de os pneus de as aeronaves e assim melhorar o atrito . De_acordo com o Ministério_da_Defesa , em a primeira etapa de as obras , será reformado um terço de a pista em uma de as cabeceiras - o restante de ela ficará disponível para pousos e decolagens . Quando for concluída esta fase , o trecho será reaberto e as reformas passarão a ser feitas em a outra cabeceira . em as duas primeiras etapas de a obra , não será necessário o fechamento de a pista . A_partir_de março , a obra será finalizada com a reforma de o trecho central . Para receber os vôos de Cumbica , Viracopos precisará ser ampliado , sobretudo seu terminal de passageiros , segundo nota de o Ministério_da_Defesa . A previsão é que essa ampliação seja concluída até março de o ano que vem , sendo realizada simultaneamente a a reforma de Guarulhos . Antes de o acidente de o Airbus de a TAM , em o dia 17 de julho , o cronograma de a Infraero previa que a revitalização de a pista de 3,7 km de Cumbica teria início em o dia 23 de julho . Para ser realizada , a Agência_Nacional_de_Aviação_Civil ( Anac ) realizaria audiência pública para discutir a obra . A reunião estava marcada para o dia 18 de julho , um dia depois de o acidente , e acabou sendo suspensa . A obra , que tinha previsão de durar cinco meses , envolveria a revitalização de o pavimento de a pista e também seu alongamento . Além_disso isso , acrescentaria em a pista as chamadas ?saídas rápidas ? , atalhos para as aeronaves deixarem a pista e chegarem a o terminal . A vantagem é a desocupação mais rápida de a pista por os aviões . Entretanto , não se sabe se as obras definitivas anunciadas agora por <b><FONT style="font-size: 18px" COLOR="#8B2500">[Nelson_Jobim [109]]<FONT style="font-size: 13px"></FONT></FONT></b> terão as mesmas características . </div>
+ 
+
+</div>
+
+      
+      
+      <!-- <p>###CHAINS-HEREold###</p> -->
+           
+
+    </article>
+    <aside class="right_article"> 
+    
+     <ul>
+       
+       
+       
+        <!-- <a href="###LINK###">   <li> ###HEAD_CADEIA###</li></a> -->
+        
+        <html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="">
+<title>Relatorio Correferencia: </title>
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h2
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=PT-BR style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:13.5pt'>Cadeias de Correfer&ecirc;ncia</span></b><o:p></o:p></p>
+  </td>
+ </tr>
+</table>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#C71585;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [8]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>reformas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as obras</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a reforma</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>As obras de a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a obra</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as obras</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as obras</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as reformas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a obra</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a obra</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a reforma</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a reforma</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a obra</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A obra , que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00C5CD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [6]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma de as pistas de o Aeroporto de Guarulhos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00688B;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [26]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a Infraero</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a Infraero</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Infraero</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a Infraero</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B1C62;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [0]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O Ministério de a Defesa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O Ministério de a Defesa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Ministério de a Defesa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Ministério de a Defesa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#0000CD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [50]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>vôos nacionais e internacionais</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as aeronaves</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as aeronaves</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os aviões</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FF6A6A;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [92]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#CD0000;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [2]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>março</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>março</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>março</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#EE7942;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [32]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Cumbica</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Cumbica</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Cumbica</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FF8C00;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [96]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a primeira etapa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>esta fase</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o trecho central</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00CD66;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [100]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os vôos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os vôos de Cumbica</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>seu terminal de passageiros</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#9400D3;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [102]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Aeroporto de Viracopos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Viracopos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>nota</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#009ACD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [104]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Aeroporto de Guarulhos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A previsão</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Guarulhos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FFA54F;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [3]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o ano</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o ano</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#98FB98;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [34]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>decolagens</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>decolagens</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#0000CD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [69]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o acidente</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o acidente</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#CD5C5C;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [76]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a Agência Nacional de Aviação Civil </span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Anac</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B3E2F;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [94]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>esta segunda-feira</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>esta segunda-feira</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FF0000;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [98]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>um terço de a pista em uma de as cabeceiras - o restante de ela</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o trecho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#EE8262;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [106]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O cronograma de a obra</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o cronograma de a Infraero</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B2500;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [109]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O ministro Nelson Jobim , que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Nelson Jobim</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+
+        
+        <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:lime;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>Menções únicas :</span></span><span
+  style='font-size:13.5pt'> </span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>seu trecho central</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Campinas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a Capital</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o ministério de Nelson Jobim para o meio de nota</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o meio</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>nota</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O fechamento de a pista , que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>extensão</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a terceira e última etapa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>três fases</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>quanto </span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>previsão para</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>estudos finais</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Nelson Jobim</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a semana passada</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>reparos emergenciais</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>essa decisão</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>duas pistas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>pousos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A assessoria de imprensa de a Infraero em Cumbica</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>imprensa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as obras de a pista de 3,7 km</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>mesma data em que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>posse</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Brasília</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o novo presidente de a estatal , Sérgio Gaudenzi</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>segunda-feira passada</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o desemborrachamento de a pista de 3,7 km</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o excesso de borracha de os pneus de as aeronaves</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>borracha</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os pneus</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o atrito</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as cabeceiras</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>ela</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>disponível para pousos e decolagens</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a outra cabeceira</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as duas primeiras etapas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o fechamento de a pista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>passageiros</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>essa ampliação</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Airbus</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a TAM</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o dia 17</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>julho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a revitalização de a pista de 3,7 km de Cumbica</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Cumbica</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>início</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o dia 23</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>julho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>audiência pública</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A reunião</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o dia 18</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>julho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>um dia</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>previsão de</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>cinco meses</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a revitalização de o pavimento de a pista e também seu alongamento</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o pavimento</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>também seu alongamento</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>isso</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as chamadas ?saídas rápidas ? , atalhos para as aeronaves</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>atalhos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o terminal</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A vantagem</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a desocupação mais rápida de a pista por os aviões</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>se</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as obras definitivas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as mesmas características</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+
+        
+      </ul>
+    
+    </aside>
+  </section>
+  <div class="row">
+  <center>
+  
+  <!-- ###TABELACORREF### -->
+  
+  
+  
+  </center>
+   </div>
+  
+   
+  </footer>
+</div>
+</body>
+</html>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+ <script type="text/javascript">
+ 	$(document).ready(function(){
+ 		$("#content div:nth-child(1)").show();
+ 		$(".abas li:first div").addClass("selected");		
+ 		$(".aba").click(function(){
+ 			$(".aba").removeClass("selected");
+ 			$(this).addClass("selected");
+ 			var indice = $(this).parent().index();
+ 			indice++;
+ 			$("#content div").hide();
+ 			$("#content div:nth-child("+indice+")").show();
+ 		});
+ 		
+ 		$(".aba").hover(
+ 			function(){$(this).addClass("ativa")},
+ 			function(){$(this).removeClass("ativa")}
+ 		);				
+ 	});
+ </script>
+ 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83422958-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

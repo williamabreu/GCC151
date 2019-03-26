@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="Já está em 549 mortos e 295 desaparecidas com as inundações que afetaram a Coréia_do_Norte , informou hoje um jornal pró norte-coreano publicado em o Japão , que citou fontes oficiais de Pyongyang . Segundo o jornal Choson_Sinbo , publicado por a Associação de Residentes_Coreanos em o Japão , que é próxima a o regime comunista de a Coréia_do_Norte , as fortes chuvas que alagaram grande parte de esse país em a segunda metade de julho provocaram muitos danos . em o entanto , a publicação , que cita autoridades norte-coreanas , desmentiu o número de até 10 mil mortos por as inundações , calculado por algumas ONGs que trabalham em a Coréia_do_Norte . Além_do o número de mortos e desaparecidos , o Choson_Sinbo acrescenta um total de 3.043 feridos . A Federação_Internacional_da_Cruz_Vermelha indicou em a sexta-feira que cerca_de 17 mil famílias ficaram desabrigadas por_causa_das as inundações . Apesar_de o Governo norte-coreano ter rejeitado o envio de ajuda estrangeira para atenuar os danos causados por as chuvas torrenciais , a emissora de TV oficial de o país começou a transmitir em os últimos dias notícias sobre a iminente chegada de comida e bens de primeira necessidade de o exterior . A agência sul-coreana Yonhap disse em a sexta-feira que um alto funcionário de Pyongyang pediu o envio urgente de alimentos para seu país . As inundações destruíram grande parte de os cultivos de cereais em a Coréia_do_Norte , que já sofre com um forte racionamento . Analistas indicaram em os últimos dias que o país pode passar por outra crise com a falta de alimentos , que em os anos 90 matou de fome entre um milhão e 2,5 milhões de pessoas , segundo diferentes dados . A Coréia_do_Sul interrompeu em julho o envio de alimentos a o vizinho de o norte depois de o regime comunista disparar sete mísseis balísticos em um gesto de desafio . em o entanto , depois de conhecer a dimensão de as inundações , o Governo de Seul manifestou sua predisposição em oferecer ajuda a a Coréia_do_Norte caso aconteça uma nova crise alimentícia ." />
+  <Sentencas>
+    <sentenca_1 conteudo="Já está em 549 mortos e 295 desaparecidas com as inundações que afetaram a Coréia de o Norte, informou hoje um jornal pró norte-coreano publicado em o Japão, que citou fontes oficiais de Pyongyang." />
+    <sentenca_2 conteudo="Segundo o jornal Choson Sinbo, publicado por a Associação de Residentes Coreanos em o Japão, que é próxima ao regime comunista de a Coréia de o Norte, as fortes chuvas que alagaram grande parte desse país em a segunda metade de julho provocaram muitos danos." />
+    <sentenca_3 conteudo="No entanto, a publicação, que cita autoridades norte-coreanas, desmentiu o número de até 10 mil mortos por as inundações, calculado por algumas ONGs que trabalham em a Coréia de o Norte." />
+    <sentenca_4 conteudo="Além de o número de mortos e desaparecidos, o Choson Sinbo acrescenta um total de 3.043 feridos." />
+    <sentenca_5 conteudo="A Federação Internacional de a Cruz Vermelha indicou em a sexta-feira que cerca de 17 mil famílias ficaram desabrigadas por causa de as inundações." />
+    <sentenca_6 conteudo="Apesar de o Governo norte-coreano ter rejeitado o envio de ajuda estrangeira para atenuar os danos causados por as chuvas torrenciais, a emissora de TV oficial de o país começou a transmitir em os últimos dias notícias sobre a iminente chegada de comida e bens de primeira necessidade de o exterior." />
+    <sentenca_7 conteudo="A agência sul-coreana Yonhap disse em a sexta-feira que um alto funcionário de Pyongyang pediu o envio urgente de alimentos para seu país." />
+    <sentenca_8 conteudo="As inundações destruíram grande parte de os cultivos de cereais em a Coréia de o Norte, que já sofre com um forte racionamento." />
+    <sentenca_9 conteudo="Analistas indicaram em os últimos dias que o país pode passar por outra crise com a falta de alimentos, que em os anos 90 matou de fome entre um milhão e 2,5 milhões de pessoas, segundo diferentes dados." />
+    <sentenca_10 conteudo="A Coréia de o Sul interrompeu em julho o envio de alimentos ao vizinho de o norte depois de o regime comunista disparar sete mísseis balísticos em um gesto de desafio." />
+    <sentenca_11 conteudo="No entanto, depois de conhecer a dimensão de as inundações, o Governo de Seul manifestou sua predisposição em oferecer ajuda aa Coréia de o Norte caso aconteça uma nova crise alimentícia." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="Já" lemma="já" pos="adv" features="-" sentenca="1" />
+    <word_1 token="está" lemma="estar" pos="v-fin" features="PR=3S=IND" sentenca="1" />
+    <word_2 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_3 token="549" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_4 token="mortos" lemma="morto" pos="n-adj" features="M=P" sentenca="1" />
+    <word_5 token="e" lemma="e" pos="conj-c" features="-" sentenca="1" />
+    <word_6 token="295" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_7 token="desaparecidas" lemma="desaparecer" pos="v-pcp" features="F=S" sentenca="1" />
+    <word_8 token="com" lemma="com" pos="prp" features="-" sentenca="1" />
+    <word_9 token="as" lemma="o" pos="art" features="F=P" sentenca="1" />
+    <word_10 token="inundações" lemma="inundar" pos="n" features="F=P" sentenca="1" />
+    <word_11 token="que" lemma="que" pos="pron-indp" features="F=P" sentenca="1" />
+    <word_12 token="afetaram" lemma="afetar" pos="v-fin" features="PS=3P=IND" sentenca="1" />
+    <word_13 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_14 token="Coréia_do_Norte" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_15 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_16 token="informou" lemma="informar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_17 token="hoje" lemma="hoje" pos="adv" features="-" sentenca="1" />
+    <word_18 token="um" lemma="um" pos="art" features="M=S" sentenca="1" />
+    <word_19 token="jornal" lemma="jornal" pos="n" features="M=S" sentenca="1" />
+    <word_20 token="pró" lemma="pró" pos="adv" features="-" sentenca="1" />
+    <word_21 token="norte-coreano" lemma="" pos="n" features="M=S" sentenca="1" />
+    <word_22 token="publicado" lemma="publicar" pos="v-pcp" features="M=S" sentenca="1" />
+    <word_23 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_24 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_25 token="Japão" lemma="Japão" pos="prop" features="M=S" sentenca="1" />
+    <word_26 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_27 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="1" />
+    <word_28 token="citou" lemma="citar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_29 token="fontes" lemma="fonte" pos="n" features="F=P" sentenca="1" />
+    <word_30 token="oficiais" lemma="oficial" pos="adj" features="F=P" sentenca="1" />
+    <word_31 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_32 token="Pyongyang" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_33 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_34 token="Segundo" lemma="segundo" pos="prp" features="-" sentenca="2" />
+    <word_35 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_36 token="jornal" lemma="jornal" pos="n" features="M=S" sentenca="2" />
+    <word_37 token="Choson_Sinbo" lemma="" pos="adj" features="M=S" sentenca="2" />
+    <word_38 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_39 token="publicado" lemma="publicar" pos="v-pcp" features="M=S" sentenca="2" />
+    <word_40 token="por" lemma="por" pos="prp" features="-" sentenca="2" />
+    <word_41 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_42 token="Associação" lemma="associação, associar" pos="n" features="F=S" sentenca="2" />
+    <word_43 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_44 token="Residentes_Coreanos" lemma="" pos="n" features="M=P" sentenca="2" />
+    <word_45 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_46 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_47 token="Japão" lemma="Japão" pos="prop" features="M=S" sentenca="2" />
+    <word_48 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_49 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="2" />
+    <word_50 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_51 token="próxima" lemma="próximo" pos="adj" features="F=S" sentenca="2" />
+    <word_52 token="a" lemma="a" pos="prp" features="-" sentenca="2" />
+    <word_53 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_54 token="regime" lemma="regime" pos="n" features="M=S" sentenca="2" />
+    <word_55 token="comunista" lemma="comunista, comuna" pos="adj" features="M=S" sentenca="2" />
+    <word_56 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_57 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_58 token="Coréia_do_Norte" lemma="" pos="prop" features="F=S" sentenca="2" />
+    <word_59 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_60 token="as" lemma="o" pos="art" features="F=P" sentenca="2" />
+    <word_61 token="fortes" lemma="forte" pos="adj" features="F=P" sentenca="2" />
+    <word_62 token="chuvas" lemma="chuva" pos="n" features="F=P" sentenca="2" />
+    <word_63 token="que" lemma="que" pos="pron-indp" features="F=P" sentenca="2" />
+    <word_64 token="alagaram" lemma="alagar" pos="v-fin" features="MQP=3P=IND" sentenca="2" />
+    <word_65 token="grande" lemma="grande" pos="adj" features="F=S" sentenca="2" />
+    <word_66 token="parte" lemma="parte" pos="n" features="F=S" sentenca="2" />
+    <word_67 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_68 token="esse" lemma="esse" pos="pron-det" features="M=S" sentenca="2" />
+    <word_69 token="país" lemma="país" pos="n" features="M=S" sentenca="2" />
+    <word_70 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_71 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_72 token="segunda" lemma="" pos="adj" features="F=S" sentenca="2" />
+    <word_73 token="metade" lemma="metade" pos="n" features="F=S" sentenca="2" />
+    <word_74 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_75 token="julho" lemma="julho" pos="n" features="M=S" sentenca="2" />
+    <word_76 token="provocaram" lemma="provocar" pos="v-fin" features="MQP=3P=IND" sentenca="2" />
+    <word_77 token="muitos" lemma="muito" pos="pron-det" features="M=P" sentenca="2" />
+    <word_78 token="danos" lemma="dano" pos="n" features="M=P" sentenca="2" />
+    <word_79 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_80 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_81 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_82 token="entanto" lemma="entanto" pos="adv" features="-" sentenca="3" />
+    <word_83 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_84 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_85 token="publicação" lemma="publicar" pos="n" features="F=S" sentenca="3" />
+    <word_86 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_87 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="3" />
+    <word_88 token="cita" lemma="citar" pos="v-fin" features="PR=3S=IND" sentenca="3" />
+    <word_89 token="autoridades" lemma="autoridade" pos="n" features="F=P" sentenca="3" />
+    <word_90 token="norte-coreanas" lemma="" pos="n" features="F=P" sentenca="3" />
+    <word_91 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_92 token="desmentiu" lemma="desmentir" pos="v-fin" features="PS=3S=IND" sentenca="3" />
+    <word_93 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_94 token="número" lemma="número" pos="n" features="M=S" sentenca="3" />
+    <word_95 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_96 token="até" lemma="até" pos="adv" features="-" sentenca="3" />
+    <word_97 token="10" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_98 token="mil" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_99 token="mortos" lemma="morto" pos="n-adj" features="M=P" sentenca="3" />
+    <word_100 token="por" lemma="por" pos="prp" features="-" sentenca="3" />
+    <word_101 token="as" lemma="o" pos="art" features="F=P" sentenca="3" />
+    <word_102 token="inundações" lemma="inundar" pos="n" features="F=P" sentenca="3" />
+    <word_103 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_104 token="calculado" lemma="calcular" pos="v-pcp" features="M=S" sentenca="3" />
+    <word_105 token="por" lemma="por" pos="prp" features="-" sentenca="3" />
+    <word_106 token="algumas" lemma="algum" pos="pron-det" features="F=P" sentenca="3" />
+    <word_107 token="ONGs" lemma="" pos="prop" features="F=P" sentenca="3" />
+    <word_108 token="que" lemma="que" pos="pron-indp" features="F=P" sentenca="3" />
+    <word_109 token="trabalham" lemma="trabalhar" pos="v-fin" features="PR=3P=IND" sentenca="3" />
+    <word_110 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_111 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_112 token="Coréia_do_Norte" lemma="" pos="prop" features="F=S" sentenca="3" />
+    <word_113 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_114 token="Além_do" lemma="" pos="prp" features="-" sentenca="4" />
+    <word_115 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_116 token="número" lemma="número" pos="n" features="M=S" sentenca="4" />
+    <word_117 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_118 token="mortos" lemma="morto" pos="n-adj" features="M=P" sentenca="4" />
+    <word_119 token="e" lemma="e" pos="conj-c" features="-" sentenca="4" />
+    <word_120 token="desaparecidos" lemma="desaparecer" pos="v-pcp" features="M=P" sentenca="4" />
+    <word_121 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_122 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_123 token="Choson_Sinbo" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_124 token="acrescenta" lemma="acrescentar" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_125 token="um" lemma="um" pos="art" features="M=S" sentenca="4" />
+    <word_126 token="total" lemma="total" pos="n" features="M=S" sentenca="4" />
+    <word_127 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_128 token="3.043" lemma="" pos="num" features="M=P" sentenca="4" />
+    <word_129 token="feridos" lemma="ferir" pos="v-pcp" features="M=P" sentenca="4" />
+    <word_130 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_131 token="A" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_132 token="Federação_Internacional_da_Cruz_Vermelha" lemma="" pos="prop" features="F=S" sentenca="5" />
+    <word_133 token="indicou" lemma="indicar" pos="v-fin" features="PS=3S=IND" sentenca="5" />
+    <word_134 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_135 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_136 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" sentenca="5" />
+    <word_137 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="5" />
+    <word_138 token="cerca_de" lemma="" pos="adv" features="-" sentenca="5" />
+    <word_139 token="17" lemma="" pos="num" features="M=P" sentenca="5" />
+    <word_140 token="mil" lemma="" pos="n" features="M=P" sentenca="5" />
+    <word_141 token="famílias" lemma="família" pos="n" features="F=P" sentenca="5" />
+    <word_142 token="ficaram" lemma="ficar" pos="v-fin" features="MQP=3P=IND" sentenca="5" />
+    <word_143 token="desabrigadas" lemma="abrigar" pos="v-pcp" features="F=P" sentenca="5" />
+    <word_144 token="por_causa_das" lemma="" pos="prp" features="-" sentenca="5" />
+    <word_145 token="as" lemma="o" pos="art" features="F=P" sentenca="5" />
+    <word_146 token="inundações" lemma="inundar" pos="n" features="F=P" sentenca="5" />
+    <word_147 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_148 token="Apesar_de" lemma="" pos="prp" features="-" sentenca="6" />
+    <word_149 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_150 token="Governo" lemma="governo" pos="n" features="M=S" sentenca="6" />
+    <word_151 token="norte-coreano" lemma="" pos="n" features="M=S" sentenca="6" />
+    <word_152 token="ter" lemma="ter" pos="v-inf" features="-" sentenca="6" />
+    <word_153 token="rejeitado" lemma="rejeitar" pos="v-pcp" features="M=S" sentenca="6" />
+    <word_154 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_155 token="envio" lemma="envio" pos="n" features="M=S" sentenca="6" />
+    <word_156 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_157 token="ajuda" lemma="ajuda" pos="n" features="F=S" sentenca="6" />
+    <word_158 token="estrangeira" lemma="estrangeiro" pos="adj" features="F=S" sentenca="6" />
+    <word_159 token="para" lemma="para" pos="prp" features="-" sentenca="6" />
+    <word_160 token="atenuar" lemma="atenuar" pos="v-inf" features="-" sentenca="6" />
+    <word_161 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_162 token="danos" lemma="dano" pos="n" features="M=P" sentenca="6" />
+    <word_163 token="causados" lemma="causar" pos="v-pcp" features="M=P" sentenca="6" />
+    <word_164 token="por" lemma="por" pos="prp" features="-" sentenca="6" />
+    <word_165 token="as" lemma="o" pos="art" features="F=P" sentenca="6" />
+    <word_166 token="chuvas" lemma="chuva" pos="n" features="F=P" sentenca="6" />
+    <word_167 token="torrenciais" lemma="torrencial" pos="adj" features="F=P" sentenca="6" />
+    <word_168 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_169 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_170 token="emissora" lemma="emissora, emissor" pos="n" features="F=S" sentenca="6" />
+    <word_171 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_172 token="TV" lemma="TV" pos="prop" features="F=S" sentenca="6" />
+    <word_173 token="oficial" lemma="oficial" pos="adj" features="F=S" sentenca="6" />
+    <word_174 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_175 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_176 token="país" lemma="país" pos="n" features="M=S" sentenca="6" />
+    <word_177 token="começou" lemma="começar" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_178 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_179 token="transmitir" lemma="transmitir" pos="v-inf" features="-" sentenca="6" />
+    <word_180 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_181 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_182 token="últimos" lemma="último" pos="adj" features="M=P" sentenca="6" />
+    <word_183 token="dias" lemma="dia" pos="n" features="M=P" sentenca="6" />
+    <word_184 token="notícias" lemma="notícia" pos="n" features="F=P" sentenca="6" />
+    <word_185 token="sobre" lemma="sobre" pos="prp" features="-" sentenca="6" />
+    <word_186 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_187 token="iminente" lemma="iminente" pos="adj" features="F=S" sentenca="6" />
+    <word_188 token="chegada" lemma="chegada" pos="n" features="F=S" sentenca="6" />
+    <word_189 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_190 token="comida" lemma="comida" pos="n" features="F=S" sentenca="6" />
+    <word_191 token="e" lemma="e" pos="conj-c" features="-" sentenca="6" />
+    <word_192 token="bens" lemma="bem" pos="n" features="M=P" sentenca="6" />
+    <word_193 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_194 token="primeira" lemma="" pos="adj" features="F=S" sentenca="6" />
+    <word_195 token="necessidade" lemma="necessidade" pos="n" features="F=S" sentenca="6" />
+    <word_196 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_197 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_198 token="exterior" lemma="exterior" pos="n" features="M=S" sentenca="6" />
+    <word_199 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_200 token="A" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_201 token="agência" lemma="agência" pos="n" features="F=S" sentenca="7" />
+    <word_202 token="sul-coreana" lemma="sul-coreano" pos="n" features="F=S" sentenca="7" />
+    <word_203 token="Yonhap" lemma="" pos="prop" features="F=S" sentenca="7" />
+    <word_204 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_205 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_206 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_207 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" sentenca="7" />
+    <word_208 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="7" />
+    <word_209 token="um" lemma="um" pos="art" features="M=S" sentenca="7" />
+    <word_210 token="alto" lemma="alto" pos="adj" features="M=S" sentenca="7" />
+    <word_211 token="funcionário" lemma="funcionário" pos="n" features="M=S" sentenca="7" />
+    <word_212 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_213 token="Pyongyang" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_214 token="pediu" lemma="pedir" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_215 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_216 token="envio" lemma="envio" pos="n" features="M=S" sentenca="7" />
+    <word_217 token="urgente" lemma="urgente" pos="adj" features="M=S" sentenca="7" />
+    <word_218 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_219 token="alimentos" lemma="alimento" pos="n" features="M=P" sentenca="7" />
+    <word_220 token="para" lemma="para" pos="prp" features="-" sentenca="7" />
+    <word_221 token="seu" lemma="seu" pos="pron-det" features="M=S" sentenca="7" />
+    <word_222 token="país" lemma="país" pos="n" features="M=S" sentenca="7" />
+    <word_223 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_224 token="As" lemma="o" pos="art" features="F=P" sentenca="8" />
+    <word_225 token="inundações" lemma="inundar" pos="n" features="F=P" sentenca="8" />
+    <word_226 token="destruíram" lemma="destruir" pos="v-fin" features="MQP=3P=IND" sentenca="8" />
+    <word_227 token="grande" lemma="grande" pos="adj" features="F=S" sentenca="8" />
+    <word_228 token="parte" lemma="parte" pos="n" features="F=S" sentenca="8" />
+    <word_229 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_230 token="os" lemma="o" pos="art" features="M=P" sentenca="8" />
+    <word_231 token="cultivos" lemma="" pos="n" features="M=P" sentenca="8" />
+    <word_232 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_233 token="cereais" lemma="cereal" pos="n" features="M=P" sentenca="8" />
+    <word_234 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_235 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_236 token="Coréia_do_Norte" lemma="" pos="prop" features="F=S" sentenca="8" />
+    <word_237 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_238 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="8" />
+    <word_239 token="já" lemma="já" pos="adv" features="-" sentenca="8" />
+    <word_240 token="sofre" lemma="sofrer" pos="v-fin" features="PR=3S=IND" sentenca="8" />
+    <word_241 token="com" lemma="com" pos="prp" features="-" sentenca="8" />
+    <word_242 token="um" lemma="um" pos="art" features="M=S" sentenca="8" />
+    <word_243 token="forte" lemma="forte" pos="adj" features="M=S" sentenca="8" />
+    <word_244 token="racionamento" lemma="racionar" pos="n" features="M=S" sentenca="8" />
+    <word_245 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_246 token="Analistas" lemma="" pos="prop" features="F=3P=ACC" sentenca="9" />
+    <word_247 token="indicaram" lemma="indicar" pos="v-fin" features="MQP=3P=IND" sentenca="9" />
+    <word_248 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_249 token="os" lemma="o" pos="art" features="M=P" sentenca="9" />
+    <word_250 token="últimos" lemma="último" pos="adj" features="M=P" sentenca="9" />
+    <word_251 token="dias" lemma="dia" pos="n" features="M=P" sentenca="9" />
+    <word_252 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="9" />
+    <word_253 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_254 token="país" lemma="país" pos="n" features="M=S" sentenca="9" />
+    <word_255 token="pode" lemma="poder, podar" pos="v-fin" features="PR=3S=IND" sentenca="9" />
+    <word_256 token="passar" lemma="passar" pos="v-inf" features="-" sentenca="9" />
+    <word_257 token="por" lemma="por" pos="prp" features="-" sentenca="9" />
+    <word_258 token="outra" lemma="outro" pos="pron-det" features="F=S" sentenca="9" />
+    <word_259 token="crise" lemma="crise" pos="n" features="F=S" sentenca="9" />
+    <word_260 token="com" lemma="com" pos="prp" features="-" sentenca="9" />
+    <word_261 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_262 token="falta" lemma="falta" pos="n" features="F=S" sentenca="9" />
+    <word_263 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_264 token="alimentos" lemma="alimento" pos="n" features="M=P" sentenca="9" />
+    <word_265 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_266 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="9" />
+    <word_267 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_268 token="os" lemma="o" pos="art" features="M=P" sentenca="9" />
+    <word_269 token="anos" lemma="ano" pos="n" features="M=P" sentenca="9" />
+    <word_270 token="90" lemma="" pos="num" features="M=P" sentenca="9" />
+    <word_271 token="matou" lemma="matar" pos="v-fin" features="PS=3S=IND" sentenca="9" />
+    <word_272 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_273 token="fome" lemma="fome" pos="n" features="F=S" sentenca="9" />
+    <word_274 token="entre" lemma="entre" pos="prp" features="-" sentenca="9" />
+    <word_275 token="um" lemma="um" pos="art" features="M=S" sentenca="9" />
+    <word_276 token="milhão" lemma="" pos="n" features="M=S" sentenca="9" />
+    <word_277 token="e" lemma="e" pos="conj-c" features="-" sentenca="9" />
+    <word_278 token="2,5" lemma="" pos="num" features="M=P" sentenca="9" />
+    <word_279 token="milhões" lemma="" pos="n" features="M=P" sentenca="9" />
+    <word_280 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_281 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="9" />
+    <word_282 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_283 token="segundo" lemma="segundo" pos="prp" features="-" sentenca="9" />
+    <word_284 token="diferentes" lemma="diferente" pos="adj" features="M=P" sentenca="9" />
+    <word_285 token="dados" lemma="dado" pos="n" features="M=P" sentenca="9" />
+    <word_286 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_287 token="A" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_288 token="Coréia_do_Sul" lemma="" pos="prop" features="F=S" sentenca="10" />
+    <word_289 token="interrompeu" lemma="interromper" pos="v-fin" features="PS=3S=IND" sentenca="10" />
+    <word_290 token="em" lemma="em" pos="prp" features="-" sentenca="10" />
+    <word_291 token="julho" lemma="julho" pos="n" features="M=S" sentenca="10" />
+    <word_292 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_293 token="envio" lemma="envio" pos="n" features="M=S" sentenca="10" />
+    <word_294 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_295 token="alimentos" lemma="alimento" pos="n" features="M=P" sentenca="10" />
+    <word_296 token="a" lemma="a" pos="prp" features="-" sentenca="10" />
+    <word_297 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_298 token="vizinho" lemma="vizinho" pos="n" features="M=S" sentenca="10" />
+    <word_299 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_300 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_301 token="norte" lemma="norte" pos="n" features="M=S" sentenca="10" />
+    <word_302 token="depois" lemma="depois" pos="adv" features="-" sentenca="10" />
+    <word_303 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_304 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_305 token="regime" lemma="regime" pos="n" features="M=S" sentenca="10" />
+    <word_306 token="comunista" lemma="comunista, comuna" pos="adj" features="M=S" sentenca="10" />
+    <word_307 token="disparar" lemma="disparar" pos="v-inf" features="-" sentenca="10" />
+    <word_308 token="sete" lemma="sete" pos="num" features="M=P" sentenca="10" />
+    <word_309 token="mísseis" lemma="míssil" pos="n" features="M=P" sentenca="10" />
+    <word_310 token="balísticos" lemma="balístico" pos="adj" features="M=P" sentenca="10" />
+    <word_311 token="em" lemma="em" pos="prp" features="-" sentenca="10" />
+    <word_312 token="um" lemma="um" pos="art" features="M=S" sentenca="10" />
+    <word_313 token="gesto" lemma="gesto" pos="n" features="M=S" sentenca="10" />
+    <word_314 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_315 token="desafio" lemma="desafio" pos="n" features="M=S" sentenca="10" />
+    <word_316 token="." lemma="." pos="." features="-" sentenca="10" />
+    <word_317 token="em" lemma="em" pos="prp" features="-" sentenca="11" />
+    <word_318 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_319 token="entanto" lemma="entanto" pos="adv" features="-" sentenca="11" />
+    <word_320 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_321 token="depois" lemma="depois" pos="adv" features="-" sentenca="11" />
+    <word_322 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_323 token="conhecer" lemma="conhecer" pos="v-inf" features="-" sentenca="11" />
+    <word_324 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_325 token="dimensão" lemma="dimensão" pos="n" features="F=S" sentenca="11" />
+    <word_326 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_327 token="as" lemma="o" pos="art" features="F=P" sentenca="11" />
+    <word_328 token="inundações" lemma="inundar" pos="n" features="F=P" sentenca="11" />
+    <word_329 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_330 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_331 token="Governo" lemma="governo" pos="n" features="M=S" sentenca="11" />
+    <word_332 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_333 token="Seul" lemma="Seul" pos="prop" features="M=S" sentenca="11" />
+    <word_334 token="manifestou" lemma="manifestar" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_335 token="sua" lemma="sua" pos="pron-det" features="F=S" sentenca="11" />
+    <word_336 token="predisposição" lemma="predisposição" pos="n" features="F=S" sentenca="11" />
+    <word_337 token="em" lemma="em" pos="prp" features="-" sentenca="11" />
+    <word_338 token="oferecer" lemma="oferecer" pos="v-inf" features="-" sentenca="11" />
+    <word_339 token="ajuda" lemma="ajuda" pos="n" features="F=S" sentenca="11" />
+    <word_340 token="a" lemma="a" pos="prp" features="-" sentenca="11" />
+    <word_341 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_342 token="Coréia_do_Norte" lemma="" pos="prop" features="F=S" sentenca="11" />
+    <word_343 token="caso" lemma="" pos="conj-s" features="-" sentenca="11" />
+    <word_344 token="aconteça" lemma="acontecer" pos="v-fin" features="PR=3S=SUBJ" sentenca="11" />
+    <word_345 token="uma" lemma="um" pos="art" features="F=S" sentenca="11" />
+    <word_346 token="nova" lemma="nova, novo" pos="adj" features="F=S" sentenca="11" />
+    <word_347 token="crise" lemma="crise" pos="n" features="F=S" sentenca="11" />
+    <word_348 token="alimentícia" lemma="alimentício" pos="adj" features="F=S" sentenca="11" />
+    <word_349 token="." lemma="." pos="." features="-" sentenca="11" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="9...10" nucleo="inundações" sintagma="as inundações" Categoria="NATUREZA" sentenca="1">
+        <word_9 token="as" lemma="o" pos="art" features="F=P" />
+        <word_10 token="inundações" lemma="inundar" pos="n" features="F=P" />
+      </sn>
+      <sn id="28" tokens="101...102" nucleo="inundações" sintagma="as inundações" Categoria="NATUREZA" sentenca="3">
+        <word_101 token="as" lemma="o" pos="art" features="F=P" />
+        <word_102 token="inundações" lemma="inundar" pos="n" features="F=P" />
+      </sn>
+      <sn id="39" tokens="145...146" nucleo="inundações" sintagma="as inundações" Categoria="NATUREZA" sentenca="5">
+        <word_145 token="as" lemma="o" pos="art" features="F=P" />
+        <word_146 token="inundações" lemma="inundar" pos="n" features="F=P" />
+      </sn>
+      <sn id="66" tokens="224...225" nucleo="inundações" sintagma="As inundações" Categoria="NATUREZA" sentenca="8">
+        <word_224 token="As" lemma="o" pos="art" features="F=P" />
+        <word_225 token="inundações" lemma="inundar" pos="n" features="F=P" />
+      </sn>
+      <sn id="97" tokens="327...328" nucleo="inundações" sintagma="as inundações" Categoria="NATUREZA" sentenca="11">
+        <word_327 token="as" lemma="o" pos="art" features="F=P" />
+        <word_328 token="inundações" lemma="inundar" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_1>
+      <sn id="1" tokens="14...14" nucleo="Coréia_do_Norte" sintagma="Coréia de o Norte" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_14 token="Coréia_do_Norte" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="14" tokens="57...58" nucleo="Coréia_do_Norte" sintagma="a Coréia de o Norte" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_57 token="a" lemma="o" pos="art" features="F=S" />
+        <word_58 token="Coréia_do_Norte" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="19" tokens="68...69" nucleo="esse" sintagma="esse país" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_68 token="esse" lemma="esse" pos="pron-det" features="M=S" />
+        <word_69 token="país" lemma="país" pos="n" features="M=S" />
+      </sn>
+      <sn id="31" tokens="111...112" nucleo="Coréia_do_Norte" sintagma="a Coréia de o Norte" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_111 token="a" lemma="o" pos="art" features="F=S" />
+        <word_112 token="Coréia_do_Norte" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="48" tokens="175...176" nucleo="país" sintagma="o país" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_175 token="o" lemma="o" pos="art" features="M=S" />
+        <word_176 token="país" lemma="país" pos="n" features="M=S" />
+      </sn>
+      <sn id="65" tokens="221...222" nucleo="seu" sintagma="seu país" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_221 token="seu" lemma="seu" pos="pron-det" features="M=S" />
+        <word_222 token="país" lemma="país" pos="n" features="M=S" />
+      </sn>
+      <sn id="70" tokens="235...236" nucleo="Coréia_do_Norte" sintagma="a Coréia de o Norte" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_235 token="a" lemma="o" pos="art" features="F=S" />
+        <word_236 token="Coréia_do_Norte" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="75" tokens="253...254" nucleo="país" sintagma="o país" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_253 token="o" lemma="o" pos="art" features="M=S" />
+        <word_254 token="país" lemma="país" pos="n" features="M=S" />
+      </sn>
+      <sn id="90" tokens="297...301" nucleo="vizinho" sintagma="o vizinho de o norte" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="10">
+        <word_297 token="o" lemma="o" pos="art" features="M=S" />
+        <word_298 token="vizinho" lemma="vizinho" pos="n" features="M=S" />
+        <word_299 token="de" lemma="de" pos="prp" features="-" />
+        <word_300 token="o" lemma="o" pos="art" features="M=S" />
+        <word_301 token="norte" lemma="norte" pos="n" features="M=S" />
+      </sn>
+      <sn id="102" tokens="341...342" nucleo="Coréia_do_Norte" sintagma="a Coréia de o Norte" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="11">
+        <word_341 token="a" lemma="o" pos="art" features="F=S" />
+        <word_342 token="Coréia_do_Norte" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_1>
+    <Cadeia_12>
+      <sn id="13" tokens="53...58" nucleo="regime" sintagma="o regime comunista de a Coréia de o Norte" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_53 token="o" lemma="o" pos="art" features="M=S" />
+        <word_54 token="regime" lemma="regime" pos="n" features="M=S" />
+        <word_55 token="comunista" lemma="comunista, comuna" pos="adj" features="M=S" />
+        <word_56 token="de" lemma="de" pos="prp" features="-" />
+        <word_57 token="a" lemma="o" pos="art" features="F=S" />
+        <word_58 token="Coréia_do_Norte" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="40" tokens="149...151" nucleo="Governo" sintagma="o Governo norte-coreano" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_149 token="o" lemma="o" pos="art" features="M=S" />
+        <word_150 token="Governo" lemma="governo" pos="n" features="M=S" />
+        <word_151 token="norte-coreano" lemma="" pos="n" features="M=S" />
+      </sn>
+      <sn id="92" tokens="304...306" nucleo="regime" sintagma="o regime comunista" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="10">
+        <word_304 token="o" lemma="o" pos="art" features="M=S" />
+        <word_305 token="regime" lemma="regime" pos="n" features="M=S" />
+        <word_306 token="comunista" lemma="comunista, comuna" pos="adj" features="M=S" />
+      </sn>
+    </Cadeia_12>
+    <Cadeia_31>
+      <sn id="36" tokens="135...136" nucleo="sexta-feira" sintagma="a sexta-feira" Categoria="OUTRO" sentenca="5">
+        <word_135 token="a" lemma="o" pos="art" features="F=S" />
+        <word_136 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" />
+      </sn>
+      <sn id="59" tokens="206...207" nucleo="sexta-feira" sintagma="a sexta-feira" Categoria="OUTRO" sentenca="7">
+        <word_206 token="a" lemma="o" pos="art" features="F=S" />
+        <word_207 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_31>
+    <Cadeia_4>
+      <sn id="4" tokens="24...25" nucleo="Japão" sintagma="o Japão" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_24 token="o" lemma="o" pos="art" features="M=S" />
+        <word_25 token="Japão" lemma="Japão" pos="prop" features="M=S" />
+      </sn>
+      <sn id="12" tokens="46...47" nucleo="Japão" sintagma="o Japão" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_46 token="o" lemma="o" pos="art" features="M=S" />
+        <word_47 token="Japão" lemma="Japão" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_4>
+    <Cadeia_40>
+      <sn id="49" tokens="181...183" nucleo="dias" sintagma="os últimos dias" Categoria="ABSTRAÇÃO" sentenca="6">
+        <word_181 token="os" lemma="o" pos="art" features="M=P" />
+        <word_182 token="últimos" lemma="último" pos="adj" features="M=P" />
+        <word_183 token="dias" lemma="dia" pos="n" features="M=P" />
+      </sn>
+      <sn id="74" tokens="249...251" nucleo="dias" sintagma="os últimos dias" Categoria="ABSTRAÇÃO" sentenca="9">
+        <word_249 token="os" lemma="o" pos="art" features="M=P" />
+        <word_250 token="últimos" lemma="último" pos="adj" features="M=P" />
+        <word_251 token="dias" lemma="dia" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_40>
+    <Cadeia_43>
+      <sn id="52" tokens="190...190" nucleo="comida" sintagma="comida" Categoria="NATUREZA" sentenca="6">
+        <word_190 token="comida" lemma="comida" pos="n" features="F=S" />
+      </sn>
+      <sn id="64" tokens="219...219" nucleo="alimentos" sintagma="alimentos" Categoria="NATUREZA" sentenca="7">
+        <word_219 token="alimentos" lemma="alimento" pos="n" features="M=P" />
+      </sn>
+      <sn id="78" tokens="264...264" nucleo="alimentos" sintagma="alimentos" Categoria="NATUREZA" sentenca="9">
+        <word_264 token="alimentos" lemma="alimento" pos="n" features="M=P" />
+      </sn>
+      <sn id="89" tokens="295...295" nucleo="alimentos" sintagma="alimentos" Categoria="NATUREZA" sentenca="10">
+        <word_295 token="alimentos" lemma="alimento" pos="n" features="M=P" />
+      </sn>
+      <sn id="101" tokens="339...339" nucleo="ajuda" sintagma="ajuda" Categoria="NATUREZA" sentenca="11">
+        <word_339 token="ajuda" lemma="ajuda" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_43>
+    <Cadeia_46>
+      <sn id="5" tokens="3...7" nucleo="que" sintagma="549 mortos e 295 desaparecidas" Categoria="OUTRO" sentenca="1">
+        <word_3 token="549" lemma="" pos="num" features="M=P" />
+        <word_4 token="mortos" lemma="morto" pos="n-adj" features="M=P" />
+        <word_5 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_6 token="295" lemma="" pos="num" features="M=P" />
+        <word_7 token="desaparecidas" lemma="desaparecer" pos="v-pcp" features="F=S" />
+      </sn>
+      <sn id="30" tokens="115...120" nucleo="que" sintagma="o número de mortos e desaparecidos" Categoria="OUTRO" sentenca="3">
+        <word_115 token="o" lemma="o" pos="art" features="M=S" />
+        <word_116 token="número" lemma="número" pos="n" features="M=S" />
+        <word_117 token="de" lemma="de" pos="prp" features="-" />
+        <word_118 token="mortos" lemma="morto" pos="n-adj" features="M=P" />
+        <word_119 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_120 token="desaparecidos" lemma="desaparecer" pos="v-pcp" features="M=P" />
+      </sn>
+    </Cadeia_46>
+    <Cadeia_47>
+      <sn id="3" tokens="18...21" nucleo="norte-coreano" sintagma="um jornal pró norte-coreano" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_18 token="um" lemma="um" pos="art" features="M=S" />
+        <word_19 token="jornal" lemma="jornal" pos="n" features="M=S" />
+        <word_20 token="pró" lemma="pró" pos="adv" features="-" />
+        <word_21 token="norte-coreano" lemma="" pos="n" features="M=S" />
+      </sn>
+      <sn id="9" tokens="35...37" nucleo="jornal" sintagma="o jornal Choson Sinbo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_35 token="o" lemma="o" pos="art" features="M=S" />
+        <word_36 token="jornal" lemma="jornal" pos="n" features="M=S" />
+        <word_37 token="Choson_Sinbo" lemma="" pos="adj" features="M=S" />
+      </sn>
+      <sn id="33" tokens="122...123" nucleo="Choson_Sinbo" sintagma="o Choson Sinbo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_122 token="o" lemma="o" pos="art" features="M=S" />
+        <word_123 token="Choson_Sinbo" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_47>
+    <Cadeia_48>
+      <sn id="15" tokens="60...62" nucleo="chuvas" sintagma="as fortes chuvas" Categoria="NATUREZA" sentenca="2">
+        <word_60 token="as" lemma="o" pos="art" features="F=P" />
+        <word_61 token="fortes" lemma="forte" pos="adj" features="F=P" />
+        <word_62 token="chuvas" lemma="chuva" pos="n" features="F=P" />
+      </sn>
+      <sn id="45" tokens="165...167" nucleo="chuvas" sintagma="as chuvas torrenciais" Categoria="NATUREZA" sentenca="6">
+        <word_165 token="as" lemma="o" pos="art" features="F=P" />
+        <word_166 token="chuvas" lemma="chuva" pos="n" features="F=P" />
+        <word_167 token="torrenciais" lemma="torrencial" pos="adj" features="F=P" />
+      </sn>
+    </Cadeia_48>
+    <Cadeia_49>
+      <sn id="93" tokens="307...310" nucleo="mísseis" sintagma="disparar sete mísseis balísticos" Categoria="ABSTRAÇÃO" sentenca="10">
+        <word_307 token="disparar" lemma="disparar" pos="v-inf" features="-" />
+        <word_308 token="sete" lemma="sete" pos="num" features="M=P" />
+        <word_309 token="mísseis" lemma="míssil" pos="n" features="M=P" />
+        <word_310 token="balísticos" lemma="balístico" pos="adj" features="M=P" />
+      </sn>
+      <sn id="94" tokens="312...315" nucleo="gesto" sintagma="um gesto de desafio" Categoria="ABSTRAÇÃO" sentenca="10">
+        <word_312 token="um" lemma="um" pos="art" features="M=S" />
+        <word_313 token="gesto" lemma="gesto" pos="n" features="M=S" />
+        <word_314 token="de" lemma="de" pos="prp" features="-" />
+        <word_315 token="desafio" lemma="desafio" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_49>
+    <Cadeia_50>
+      <sn id="76" tokens="258...259" nucleo="outra" sintagma="outra crise" Categoria="EVENTO" sentenca="9">
+        <word_258 token="outra" lemma="outro" pos="pron-det" features="F=S" />
+        <word_259 token="crise" lemma="crise" pos="n" features="F=S" />
+      </sn>
+      <sn id="103" tokens="345...348" nucleo="crise" sintagma="uma nova crise alimentícia" Categoria="EVENTO" sentenca="11">
+        <word_345 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_346 token="nova" lemma="nova, novo" pos="adj" features="F=S" />
+        <word_347 token="crise" lemma="crise" pos="n" features="F=S" />
+        <word_348 token="alimentícia" lemma="alimentício" pos="adj" features="F=S" />
+      </sn>
+    </Cadeia_50>
+    <Cadeia_8>
+      <sn id="8" tokens="32...32" nucleo="Pyongyang" sintagma="Pyongyang" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_32 token="Pyongyang" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="62" tokens="213...213" nucleo="Pyongyang" sintagma="Pyongyang" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_213 token="Pyongyang" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_8>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="7" tokens="29...32" nucleo="fontes" sintagma="fontes oficiais de Pyongyang" Categoria="--" sentenca="1">
+      <word_29 token="fontes" lemma="fonte" pos="n" features="F=P" />
+      <word_30 token="oficiais" lemma="oficial" pos="adj" features="F=P" />
+      <word_31 token="de" lemma="de" pos="prp" features="-" />
+      <word_32 token="Pyongyang" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="10" tokens="41...42" nucleo="Associação" sintagma="a Associação" Categoria="--" sentenca="2">
+      <word_41 token="a" lemma="o" pos="art" features="F=S" />
+      <word_42 token="Associação" lemma="associação, associar" pos="n" features="F=S" />
+    </sn>
+    <sn id="11" tokens="44...44" nucleo="Residentes_Coreanos" sintagma="Residentes Coreanos" Categoria="--" sentenca="2">
+      <word_44 token="Residentes_Coreanos" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="16" tokens="49...49" nucleo="que" sintagma="que" Categoria="--" sentenca="2">
+      <word_49 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="17" tokens="63...63" nucleo="que" sintagma="que" Categoria="--" sentenca="2">
+      <word_63 token="que" lemma="que" pos="pron-indp" features="F=P" />
+    </sn>
+    <sn id="18" tokens="66...69" nucleo="parte" sintagma="parte de esse país" Categoria="--" sentenca="2">
+      <word_66 token="parte" lemma="parte" pos="n" features="F=S" />
+      <word_67 token="de" lemma="de" pos="prp" features="-" />
+      <word_68 token="esse" lemma="esse" pos="pron-det" features="M=S" />
+      <word_69 token="país" lemma="país" pos="n" features="M=S" />
+    </sn>
+    <sn id="20" tokens="71...73" nucleo="metade" sintagma="a segunda metade" Categoria="--" sentenca="2">
+      <word_71 token="a" lemma="o" pos="art" features="F=S" />
+      <word_72 token="segunda" lemma="" pos="adj" features="F=S" />
+      <word_73 token="metade" lemma="metade" pos="n" features="F=S" />
+    </sn>
+    <sn id="21" tokens="75...75" nucleo="julho" sintagma="julho" Categoria="--" sentenca="2">
+      <word_75 token="julho" lemma="julho" pos="n" features="M=S" />
+    </sn>
+    <sn id="22" tokens="77...78" nucleo="muitos" sintagma="muitos danos" Categoria="--" sentenca="2">
+      <word_77 token="muitos" lemma="muito" pos="pron-det" features="M=P" />
+      <word_78 token="danos" lemma="dano" pos="n" features="M=P" />
+    </sn>
+    <sn id="23" tokens="84...87" nucleo="publicação" sintagma="a publicação , que" Categoria="--" sentenca="3">
+      <word_84 token="a" lemma="o" pos="art" features="F=S" />
+      <word_85 token="publicação" lemma="publicar" pos="n" features="F=S" />
+      <word_86 token="," lemma="" pos="," features="-" />
+      <word_87 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="24" tokens="89...90" nucleo="autoridades" sintagma="autoridades norte-coreanas" Categoria="--" sentenca="3">
+      <word_89 token="autoridades" lemma="autoridade" pos="n" features="F=P" />
+      <word_90 token="norte-coreanas" lemma="" pos="n" features="F=P" />
+    </sn>
+    <sn id="25" tokens="90...90" nucleo="norte-coreanas" sintagma="norte-coreanas" Categoria="--" sentenca="3">
+      <word_90 token="norte-coreanas" lemma="" pos="n" features="F=P" />
+    </sn>
+    <sn id="26" tokens="93...103" nucleo="número" sintagma="o número de até 10 mil mortos por as inundações" Categoria="--" sentenca="3">
+      <word_93 token="o" lemma="o" pos="art" features="M=S" />
+      <word_94 token="número" lemma="número" pos="n" features="M=S" />
+      <word_95 token="de" lemma="de" pos="prp" features="-" />
+      <word_96 token="até" lemma="até" pos="adv" features="-" />
+      <word_97 token="10" lemma="" pos="num" features="M=P" />
+      <word_98 token="mil" lemma="" pos="n" features="M=P" />
+      <word_99 token="mortos" lemma="morto" pos="n-adj" features="M=P" />
+      <word_100 token="por" lemma="por" pos="prp" features="-" />
+      <word_101 token="as" lemma="o" pos="art" features="F=P" />
+      <word_102 token="inundações" lemma="inundar" pos="n" features="F=P" />
+      <word_103 token="," lemma="" pos="," features="-" />
+    </sn>
+    <sn id="27" tokens="96...99" nucleo="mil" sintagma="até 10 mil mortos" Categoria="--" sentenca="3">
+      <word_96 token="até" lemma="até" pos="adv" features="-" />
+      <word_97 token="10" lemma="" pos="num" features="M=P" />
+      <word_98 token="mil" lemma="" pos="n" features="M=P" />
+      <word_99 token="mortos" lemma="morto" pos="n-adj" features="M=P" />
+    </sn>
+    <sn id="29" tokens="106...107" nucleo="algumas" sintagma="algumas ONGs" Categoria="--" sentenca="3">
+      <word_106 token="algumas" lemma="algum" pos="pron-det" features="F=P" />
+      <word_107 token="ONGs" lemma="" pos="prop" features="F=P" />
+    </sn>
+    <sn id="32" tokens="115...116" nucleo="número" sintagma="o número" Categoria="--" sentenca="4">
+      <word_115 token="o" lemma="o" pos="art" features="M=S" />
+      <word_116 token="número" lemma="número" pos="n" features="M=S" />
+    </sn>
+    <sn id="34" tokens="125...129" nucleo="total" sintagma="um total de 3.043 feridos" Categoria="--" sentenca="4">
+      <word_125 token="um" lemma="um" pos="art" features="M=S" />
+      <word_126 token="total" lemma="total" pos="n" features="M=S" />
+      <word_127 token="de" lemma="de" pos="prp" features="-" />
+      <word_128 token="3.043" lemma="" pos="num" features="M=P" />
+      <word_129 token="feridos" lemma="ferir" pos="v-pcp" features="M=P" />
+    </sn>
+    <sn id="35" tokens="131...132" nucleo="Federação_Internacional_da_Cruz_Vermelha" sintagma="A Federação Internacional de a Cruz Vermelha" Categoria="--" sentenca="5">
+      <word_131 token="A" lemma="o" pos="art" features="F=S" />
+      <word_132 token="Federação_Internacional_da_Cruz_Vermelha" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="37" tokens="137...137" nucleo="que" sintagma="que" Categoria="--" sentenca="5">
+      <word_137 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="38" tokens="138...141" nucleo="mil" sintagma="cerca de 17 mil famílias" Categoria="--" sentenca="5">
+      <word_138 token="cerca_de" lemma="" pos="adv" features="-" />
+      <word_139 token="17" lemma="" pos="num" features="M=P" />
+      <word_140 token="mil" lemma="" pos="n" features="M=P" />
+      <word_141 token="famílias" lemma="família" pos="n" features="F=P" />
+    </sn>
+    <sn id="41" tokens="151...151" nucleo="norte-coreano" sintagma="norte-coreano" Categoria="--" sentenca="6">
+      <word_151 token="norte-coreano" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="42" tokens="154...159" nucleo="envio" sintagma="o envio de ajuda estrangeira para" Categoria="--" sentenca="6">
+      <word_154 token="o" lemma="o" pos="art" features="M=S" />
+      <word_155 token="envio" lemma="envio" pos="n" features="M=S" />
+      <word_156 token="de" lemma="de" pos="prp" features="-" />
+      <word_157 token="ajuda" lemma="ajuda" pos="n" features="F=S" />
+      <word_158 token="estrangeira" lemma="estrangeiro" pos="adj" features="F=S" />
+      <word_159 token="para" lemma="para" pos="prp" features="-" />
+    </sn>
+    <sn id="43" tokens="157...158" nucleo="ajuda" sintagma="ajuda estrangeira" Categoria="--" sentenca="6">
+      <word_157 token="ajuda" lemma="ajuda" pos="n" features="F=S" />
+      <word_158 token="estrangeira" lemma="estrangeiro" pos="adj" features="F=S" />
+    </sn>
+    <sn id="44" tokens="161...162" nucleo="danos" sintagma="os danos" Categoria="--" sentenca="6">
+      <word_161 token="os" lemma="o" pos="art" features="M=P" />
+      <word_162 token="danos" lemma="dano" pos="n" features="M=P" />
+    </sn>
+    <sn id="46" tokens="169...176" nucleo="emissora" sintagma="a emissora de TV oficial de o país" Categoria="--" sentenca="6">
+      <word_169 token="a" lemma="o" pos="art" features="F=S" />
+      <word_170 token="emissora" lemma="emissora, emissor" pos="n" features="F=S" />
+      <word_171 token="de" lemma="de" pos="prp" features="-" />
+      <word_172 token="TV" lemma="TV" pos="prop" features="F=S" />
+      <word_173 token="oficial" lemma="oficial" pos="adj" features="F=S" />
+      <word_174 token="de" lemma="de" pos="prp" features="-" />
+      <word_175 token="o" lemma="o" pos="art" features="M=S" />
+      <word_176 token="país" lemma="país" pos="n" features="M=S" />
+    </sn>
+    <sn id="47" tokens="172...173" nucleo="TV" sintagma="TV oficial" Categoria="--" sentenca="6">
+      <word_172 token="TV" lemma="TV" pos="prop" features="F=S" />
+      <word_173 token="oficial" lemma="oficial" pos="adj" features="F=S" />
+    </sn>
+    <sn id="50" tokens="184...184" nucleo="notícias" sintagma="notícias" Categoria="--" sentenca="6">
+      <word_184 token="notícias" lemma="notícia" pos="n" features="F=P" />
+    </sn>
+    <sn id="51" tokens="186...188" nucleo="chegada" sintagma="a iminente chegada" Categoria="--" sentenca="6">
+      <word_186 token="a" lemma="o" pos="art" features="F=S" />
+      <word_187 token="iminente" lemma="iminente" pos="adj" features="F=S" />
+      <word_188 token="chegada" lemma="chegada" pos="n" features="F=S" />
+    </sn>
+    <sn id="53" tokens="192...192" nucleo="bens" sintagma="bens" Categoria="--" sentenca="6">
+      <word_192 token="bens" lemma="bem" pos="n" features="M=P" />
+    </sn>
+    <sn id="54" tokens="194...195" nucleo="necessidade" sintagma="primeira necessidade" Categoria="--" sentenca="6">
+      <word_194 token="primeira" lemma="" pos="adj" features="F=S" />
+      <word_195 token="necessidade" lemma="necessidade" pos="n" features="F=S" />
+    </sn>
+    <sn id="55" tokens="197...198" nucleo="exterior" sintagma="o exterior" Categoria="--" sentenca="6">
+      <word_197 token="o" lemma="o" pos="art" features="M=S" />
+      <word_198 token="exterior" lemma="exterior" pos="n" features="M=S" />
+    </sn>
+    <sn id="56" tokens="200...203" nucleo="agência" sintagma="A agência sul-coreana Yonhap" Categoria="--" sentenca="7">
+      <word_200 token="A" lemma="o" pos="art" features="F=S" />
+      <word_201 token="agência" lemma="agência" pos="n" features="F=S" />
+      <word_202 token="sul-coreana" lemma="sul-coreano" pos="n" features="F=S" />
+      <word_203 token="Yonhap" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="57" tokens="202...202" nucleo="sul-coreana" sintagma="sul-coreana" Categoria="--" sentenca="7">
+      <word_202 token="sul-coreana" lemma="sul-coreano" pos="n" features="F=S" />
+    </sn>
+    <sn id="60" tokens="208...208" nucleo="que" sintagma="que" Categoria="--" sentenca="7">
+      <word_208 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="61" tokens="209...213" nucleo="funcionário" sintagma="um alto funcionário de Pyongyang" Categoria="--" sentenca="7">
+      <word_209 token="um" lemma="um" pos="art" features="M=S" />
+      <word_210 token="alto" lemma="alto" pos="adj" features="M=S" />
+      <word_211 token="funcionário" lemma="funcionário" pos="n" features="M=S" />
+      <word_212 token="de" lemma="de" pos="prp" features="-" />
+      <word_213 token="Pyongyang" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="63" tokens="215...222" nucleo="envio" sintagma="o envio urgente de alimentos para seu país" Categoria="--" sentenca="7">
+      <word_215 token="o" lemma="o" pos="art" features="M=S" />
+      <word_216 token="envio" lemma="envio" pos="n" features="M=S" />
+      <word_217 token="urgente" lemma="urgente" pos="adj" features="M=S" />
+      <word_218 token="de" lemma="de" pos="prp" features="-" />
+      <word_219 token="alimentos" lemma="alimento" pos="n" features="M=P" />
+      <word_220 token="para" lemma="para" pos="prp" features="-" />
+      <word_221 token="seu" lemma="seu" pos="pron-det" features="M=S" />
+      <word_222 token="país" lemma="país" pos="n" features="M=S" />
+    </sn>
+    <sn id="67" tokens="227...233" nucleo="parte" sintagma="grande parte de os cultivos de cereais" Categoria="--" sentenca="8">
+      <word_227 token="grande" lemma="grande" pos="adj" features="F=S" />
+      <word_228 token="parte" lemma="parte" pos="n" features="F=S" />
+      <word_229 token="de" lemma="de" pos="prp" features="-" />
+      <word_230 token="os" lemma="o" pos="art" features="M=P" />
+      <word_231 token="cultivos" lemma="" pos="n" features="M=P" />
+      <word_232 token="de" lemma="de" pos="prp" features="-" />
+      <word_233 token="cereais" lemma="cereal" pos="n" features="M=P" />
+    </sn>
+    <sn id="68" tokens="230...231" nucleo="cultivos" sintagma="os cultivos" Categoria="--" sentenca="8">
+      <word_230 token="os" lemma="o" pos="art" features="M=P" />
+      <word_231 token="cultivos" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="69" tokens="233...233" nucleo="cereais" sintagma="cereais" Categoria="--" sentenca="8">
+      <word_233 token="cereais" lemma="cereal" pos="n" features="M=P" />
+    </sn>
+    <sn id="71" tokens="238...238" nucleo="que" sintagma="que" Categoria="--" sentenca="8">
+      <word_238 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="72" tokens="242...244" nucleo="racionamento" sintagma="um forte racionamento" Categoria="--" sentenca="8">
+      <word_242 token="um" lemma="um" pos="art" features="M=S" />
+      <word_243 token="forte" lemma="forte" pos="adj" features="M=S" />
+      <word_244 token="racionamento" lemma="racionar" pos="n" features="M=S" />
+    </sn>
+    <sn id="73" tokens="246...246" nucleo="Analistas" sintagma="Analistas" Categoria="--" sentenca="9">
+      <word_246 token="Analistas" lemma="" pos="prop" features="F=3P=ACC" />
+    </sn>
+    <sn id="77" tokens="261...262" nucleo="falta" sintagma="a falta" Categoria="--" sentenca="9">
+      <word_261 token="a" lemma="o" pos="art" features="F=S" />
+      <word_262 token="falta" lemma="falta" pos="n" features="F=S" />
+    </sn>
+    <sn id="79" tokens="252...252" nucleo="que" sintagma="que" Categoria="--" sentenca="9">
+      <word_252 token="que" lemma="que" pos="pron-indp" features="M=P" />
+    </sn>
+    <sn id="80" tokens="268...270" nucleo="anos" sintagma="os anos 90" Categoria="--" sentenca="9">
+      <word_268 token="os" lemma="o" pos="art" features="M=P" />
+      <word_269 token="anos" lemma="ano" pos="n" features="M=P" />
+      <word_270 token="90" lemma="" pos="num" features="M=P" />
+    </sn>
+    <sn id="81" tokens="273...273" nucleo="fome" sintagma="fome" Categoria="--" sentenca="9">
+      <word_273 token="fome" lemma="fome" pos="n" features="F=S" />
+    </sn>
+    <sn id="82" tokens="275...276" nucleo="milhão" sintagma="um milhão" Categoria="--" sentenca="9">
+      <word_275 token="um" lemma="um" pos="art" features="M=S" />
+      <word_276 token="milhão" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="84" tokens="281...281" nucleo="pessoas" sintagma="pessoas" Categoria="--" sentenca="9">
+      <word_281 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+    </sn>
+    <sn id="85" tokens="284...285" nucleo="dados" sintagma="diferentes dados" Categoria="--" sentenca="9">
+      <word_284 token="diferentes" lemma="diferente" pos="adj" features="M=P" />
+      <word_285 token="dados" lemma="dado" pos="n" features="M=P" />
+    </sn>
+    <sn id="86" tokens="287...288" nucleo="Coréia_do_Sul" sintagma="A Coréia de o Sul" Categoria="--" sentenca="10">
+      <word_287 token="A" lemma="o" pos="art" features="F=S" />
+      <word_288 token="Coréia_do_Sul" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="87" tokens="291...291" nucleo="julho" sintagma="julho" Categoria="--" sentenca="10">
+      <word_291 token="julho" lemma="julho" pos="n" features="M=S" />
+    </sn>
+    <sn id="88" tokens="292...301" nucleo="envio" sintagma="o envio de alimentos a o vizinho de o norte" Categoria="--" sentenca="10">
+      <word_292 token="o" lemma="o" pos="art" features="M=S" />
+      <word_293 token="envio" lemma="envio" pos="n" features="M=S" />
+      <word_294 token="de" lemma="de" pos="prp" features="-" />
+      <word_295 token="alimentos" lemma="alimento" pos="n" features="M=P" />
+      <word_296 token="a" lemma="a" pos="prp" features="-" />
+      <word_297 token="o" lemma="o" pos="art" features="M=S" />
+      <word_298 token="vizinho" lemma="vizinho" pos="n" features="M=S" />
+      <word_299 token="de" lemma="de" pos="prp" features="-" />
+      <word_300 token="o" lemma="o" pos="art" features="M=S" />
+      <word_301 token="norte" lemma="norte" pos="n" features="M=S" />
+    </sn>
+    <sn id="91" tokens="300...301" nucleo="norte" sintagma="o norte" Categoria="--" sentenca="10">
+      <word_300 token="o" lemma="o" pos="art" features="M=S" />
+      <word_301 token="norte" lemma="norte" pos="n" features="M=S" />
+    </sn>
+    <sn id="95" tokens="315...315" nucleo="desafio" sintagma="desafio" Categoria="--" sentenca="10">
+      <word_315 token="desafio" lemma="desafio" pos="n" features="M=S" />
+    </sn>
+    <sn id="96" tokens="324...333" nucleo="dimensão" sintagma="a dimensão de as inundações , o Governo de Seul" Categoria="--" sentenca="11">
+      <word_324 token="a" lemma="o" pos="art" features="F=S" />
+      <word_325 token="dimensão" lemma="dimensão" pos="n" features="F=S" />
+      <word_326 token="de" lemma="de" pos="prp" features="-" />
+      <word_327 token="as" lemma="o" pos="art" features="F=P" />
+      <word_328 token="inundações" lemma="inundar" pos="n" features="F=P" />
+      <word_329 token="," lemma="" pos="," features="-" />
+      <word_330 token="o" lemma="o" pos="art" features="M=S" />
+      <word_331 token="Governo" lemma="governo" pos="n" features="M=S" />
+      <word_332 token="de" lemma="de" pos="prp" features="-" />
+      <word_333 token="Seul" lemma="Seul" pos="prop" features="M=S" />
+    </sn>
+    <sn id="98" tokens="330...331" nucleo="Governo" sintagma="o Governo" Categoria="--" sentenca="11">
+      <word_330 token="o" lemma="o" pos="art" features="M=S" />
+      <word_331 token="Governo" lemma="governo" pos="n" features="M=S" />
+    </sn>
+    <sn id="99" tokens="333...333" nucleo="Seul" sintagma="Seul" Categoria="--" sentenca="11">
+      <word_333 token="Seul" lemma="Seul" pos="prop" features="M=S" />
+    </sn>
+    <sn id="100" tokens="335...336" nucleo="sua" sintagma="sua predisposição" Categoria="--" sentenca="11">
+      <word_335 token="sua" lemma="sua" pos="pron-det" features="F=S" />
+      <word_336 token="predisposição" lemma="predisposição" pos="n" features="F=S" />
+    </sn>
+    <sn id="2" tokens="18...19" nucleo="jornal" sintagma="um jornal" Categoria="--" sentenca="1">
+      <word_18 token="um" lemma="um" pos="art" features="M=S" />
+      <word_19 token="jornal" lemma="jornal" pos="n" features="M=S" />
+    </sn>
+    <sn id="6" tokens="27...27" nucleo="que" sintagma="que" Categoria="--" sentenca="1">
+      <word_27 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

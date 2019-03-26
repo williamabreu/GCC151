@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="Um forte terremoto matou a o menos cinco pessoas em o noroeste de o Japão em esta segunda-feira . Mais de 600 pessoas ficaram feridas , casas foram derrubadas e houve um pequeno incêndio em a maior usina nuclear de o mundo . Os prédios chegaram a tremer em Tóquio , e os reatores de usinas nucleares em Niigata desligaram -se automaticamente para checagens , embora não haja relatos de vazamento de radiação . Duas mulheres em a faixa de os 80 anos morreram quando suas casas ruíram durante o tremor de magnitude 6,8 , em a área de Niigata , cerca_de 250 km noroeste de Tóquio , informou a imprensa japonesa . Um porta-voz policial confirmou cinco mortes . A imprensa noticiou que uma outra idosa e um casal estariam entre os mortos . - Prateleiras altas caíram e as coisas voaram por toda parte - contou Harumi_Mikami , 55 , uma professora que estava em sua escola em a Cidade_de_Kashiwazaki , perto_do o epicentro de o terremoto . - Metade de a minha casa está destruída - disse Mikami . - Minha maior preocupação é onde vou viver agora . Cerca_de 1.700 pessoas fugiram de suas casas para quase 100 centros de resgate , segundo a rede NHK e a Prefeitura de Niigata . Um incêndio em um transformador elétrico em a usina nuclear de Kashiwazaki_Kariwa foi rapidamente extinto , mas ainda não está claro quando a companhia elétrica de Tóquio vai religar três unidades em o complexo , disse Yoshinobu_Kamijima , porta-voz de a empresa . O Japão é um de os países de o mundo mais suscetíveis a terremotos , com um tremor ocorrendo a a o menos cada cinco minutos . Os mercados financeiros de o país estão fechados em esta segunda-feira devido a um feriado ." />
+  <Sentencas>
+    <sentenca_1 conteudo="Um forte terremoto matou ao menos cinco pessoas em o noroeste de o Japão em esta segunda-feira." />
+    <sentenca_2 conteudo="Mais de 600 pessoas ficaram feridas, casas foram derrubadas e houve um pequeno incêndio em a maior usina nuclear de o mundo." />
+    <sentenca_3 conteudo="Os prédios chegaram a tremer em Tóquio, e os reatores de usinas nucleares em Niigata desligaram-se automaticamente para checagens, embora não haja relatos de vazamento de radiação." />
+    <sentenca_4 conteudo="Duas mulheres em a faixa de os 80 anos morreram quando suas casas ruíram durante o tremor de magnitude 6,8, em a área de Niigata, cerca de 250 km noroeste de Tóquio, informou a imprensa japonesa." />
+    <sentenca_5 conteudo="Um porta-voz policial confirmou cinco mortes." />
+    <sentenca_6 conteudo="A imprensa noticiou que uma outra idosa e um casal estariam entre os mortos." />
+    <sentenca_7 conteudo="- Prateleiras altas caíram e as coisas voaram por toda parte - contou Harumi Mikami, 55, uma professora que estava em sua escola em a Cidade de Kashiwazaki, perto de o epicentro de o terremoto." />
+    <sentenca_8 conteudo="- Metade de a minha casa está destruída - disse Mikami." />
+    <sentenca_9 conteudo="- Minha maior preocupação é onde vou viver agora." />
+    <sentenca_10 conteudo="Cerca de 1.700 pessoas fugiram de suas casas para quase 100 centros de resgate, segundo a rede NHK e a Prefeitura de Niigata." />
+    <sentenca_11 conteudo="Um incêndio em um transformador elétrico em a usina nuclear de Kashiwazaki Kariwa foi rapidamente extinto, mas ainda não está claro quando a companhia elétrica de Tóquio vai religar três unidades em o complexo, disse Yoshinobu Kamijima, porta-voz de a empresa." />
+    <sentenca_12 conteudo="O Japão é um de os países de o mundo mais suscetíveis a terremotos, com um tremor ocorrendo a ao menos cada cinco minutos." />
+    <sentenca_13 conteudo="Os mercados financeiros de o país estão fechados em esta segunda-feira devido a um feriado." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="Um" lemma="um" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="forte" lemma="forte" pos="adj" features="M=S" sentenca="1" />
+    <word_2 token="terremoto" lemma="terremoto" pos="n" features="M=S" sentenca="1" />
+    <word_3 token="matou" lemma="matar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_4 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_5 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_6 token="menos" lemma="menos" pos="pron-det" features="M=S" sentenca="1" />
+    <word_7 token="cinco" lemma="cinco" pos="num" features="F=P" sentenca="1" />
+    <word_8 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="1" />
+    <word_9 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_10 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_11 token="noroeste" lemma="noroeste" pos="n" features="M=S" sentenca="1" />
+    <word_12 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_13 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_14 token="Japão" lemma="Japão" pos="prop" features="M=S" sentenca="1" />
+    <word_15 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_16 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="1" />
+    <word_17 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" sentenca="1" />
+    <word_18 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_19 token="Mais" lemma="mais" pos="pron-det" features="M=P" sentenca="2" />
+    <word_20 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_21 token="600" lemma="" pos="num" features="F=P" sentenca="2" />
+    <word_22 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="2" />
+    <word_23 token="ficaram" lemma="ficar" pos="v-fin" features="MQP=3P=IND" sentenca="2" />
+    <word_24 token="feridas" lemma="ferir" pos="v-pcp" features="F=P" sentenca="2" />
+    <word_25 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_26 token="casas" lemma="casa" pos="n" features="F=P" sentenca="2" />
+    <word_27 token="foram" lemma="ir, ser" pos="v-fin" features="MQP=3P=IND" sentenca="2" />
+    <word_28 token="derrubadas" lemma="derrubar" pos="v-pcp" features="F=P" sentenca="2" />
+    <word_29 token="e" lemma="e" pos="conj-c" features="-" sentenca="2" />
+    <word_30 token="houve" lemma="haver" pos="v-fin" features="PS=3S=IND" sentenca="2" />
+    <word_31 token="um" lemma="um" pos="art" features="M=S" sentenca="2" />
+    <word_32 token="pequeno" lemma="pequeno" pos="adj" features="M=S" sentenca="2" />
+    <word_33 token="incêndio" lemma="incêndio" pos="n" features="M=S" sentenca="2" />
+    <word_34 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_35 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_36 token="maior" lemma="maior" pos="adj" features="F=S" sentenca="2" />
+    <word_37 token="usina" lemma="usina" pos="n" features="F=S" sentenca="2" />
+    <word_38 token="nuclear" lemma="nuclear" pos="adj" features="F=S" sentenca="2" />
+    <word_39 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_40 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_41 token="mundo" lemma="mundo" pos="n" features="M=S" sentenca="2" />
+    <word_42 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_43 token="Os" lemma="o" pos="art" features="M=P" sentenca="3" />
+    <word_44 token="prédios" lemma="prédio" pos="n" features="M=P" sentenca="3" />
+    <word_45 token="chegaram" lemma="chegar" pos="v-fin" features="PS=3P=IND" sentenca="3" />
+    <word_46 token="a" lemma="a" pos="prp" features="-" sentenca="3" />
+    <word_47 token="tremer" lemma="tremer" pos="v-inf" features="-" sentenca="3" />
+    <word_48 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_49 token="Tóquio" lemma="Tóquio" pos="prop" features="M=S" sentenca="3" />
+    <word_50 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_51 token="e" lemma="e" pos="conj-c" features="-" sentenca="3" />
+    <word_52 token="os" lemma="o" pos="art" features="M=P" sentenca="3" />
+    <word_53 token="reatores" lemma="reator" pos="n" features="M=P" sentenca="3" />
+    <word_54 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_55 token="usinas" lemma="usina" pos="n" features="F=P" sentenca="3" />
+    <word_56 token="nucleares" lemma="nuclear" pos="adj" features="F=P" sentenca="3" />
+    <word_57 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_58 token="Niigata" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_59 token="desligaram" lemma="ligar" pos="v-fin" features="MQP=3P=IND" sentenca="3" />
+    <word_60 token="-se" lemma="" pos="pron-pers" features="M=3P=ACC" sentenca="3" />
+    <word_61 token="automaticamente" lemma="automático" pos="adv" features="-" sentenca="3" />
+    <word_62 token="para" lemma="para" pos="prp" features="-" sentenca="3" />
+    <word_63 token="checagens" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_64 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_65 token="embora" lemma="embora" pos="conj-s" features="-" sentenca="3" />
+    <word_66 token="não" lemma="não" pos="adv" features="-" sentenca="3" />
+    <word_67 token="haja" lemma="haver" pos="v-fin" features="PR=3S=SUBJ" sentenca="3" />
+    <word_68 token="relatos" lemma="relato" pos="n" features="M=P" sentenca="3" />
+    <word_69 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_70 token="vazamento" lemma="vazar" pos="n" features="M=S" sentenca="3" />
+    <word_71 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_72 token="radiação" lemma="radiação, radiar" pos="n" features="F=S" sentenca="3" />
+    <word_73 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_74 token="Duas" lemma="dois" pos="num" features="F=P" sentenca="4" />
+    <word_75 token="mulheres" lemma="mulher" pos="n" features="F=P" sentenca="4" />
+    <word_76 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_77 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_78 token="faixa" lemma="faixa" pos="n" features="F=S" sentenca="4" />
+    <word_79 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_80 token="os" lemma="o" pos="art" features="M=P" sentenca="4" />
+    <word_81 token="80" lemma="" pos="num" features="M=P" sentenca="4" />
+    <word_82 token="anos" lemma="ano" pos="n" features="M=P" sentenca="4" />
+    <word_83 token="morreram" lemma="morrer" pos="v-fin" features="MQP=3P=IND" sentenca="4" />
+    <word_84 token="quando" lemma="quando" pos="adv" features="-" sentenca="4" />
+    <word_85 token="suas" lemma="sua" pos="pron-det" features="F=P" sentenca="4" />
+    <word_86 token="casas" lemma="casa" pos="n" features="F=P" sentenca="4" />
+    <word_87 token="ruíram" lemma="ruir" pos="v-fin" features="MQP=3P=IND" sentenca="4" />
+    <word_88 token="durante" lemma="durante" pos="prp" features="-" sentenca="4" />
+    <word_89 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_90 token="tremor" lemma="tremor" pos="n" features="M=S" sentenca="4" />
+    <word_91 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_92 token="magnitude" lemma="magnitude" pos="n" features="F=S" sentenca="4" />
+    <word_93 token="6,8" lemma="" pos="num" features="M=P" sentenca="4" />
+    <word_94 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_95 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_96 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_97 token="área" lemma="área" pos="n" features="F=S" sentenca="4" />
+    <word_98 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_99 token="Niigata" lemma="" pos="prop" features="F=S" sentenca="4" />
+    <word_100 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_101 token="cerca_de" lemma="" pos="adv" features="-" sentenca="4" />
+    <word_102 token="250" lemma="" pos="num" features="M=P" sentenca="4" />
+    <word_103 token="km" lemma="quilômetro" pos="n" features="M=P" sentenca="4" />
+    <word_104 token="noroeste" lemma="noroeste" pos="n" features="M=S" sentenca="4" />
+    <word_105 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_106 token="Tóquio" lemma="Tóquio" pos="prop" features="M=S" sentenca="4" />
+    <word_107 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_108 token="informou" lemma="informar" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_109 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_110 token="imprensa" lemma="imprensa" pos="n" features="F=S" sentenca="4" />
+    <word_111 token="japonesa" lemma="japonês" pos="adj" features="F=S" sentenca="4" />
+    <word_112 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_113 token="Um" lemma="um" pos="art" features="M=S" sentenca="5" />
+    <word_114 token="porta-voz" lemma="porta-voz" pos="n" features="M=S" sentenca="5" />
+    <word_115 token="policial" lemma="policial" pos="adj" features="M=S" sentenca="5" />
+    <word_116 token="confirmou" lemma="confirmar" pos="v-fin" features="PS=3S=IND" sentenca="5" />
+    <word_117 token="cinco" lemma="cinco" pos="num" features="F=P" sentenca="5" />
+    <word_118 token="mortes" lemma="morte" pos="n" features="F=P" sentenca="5" />
+    <word_119 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_120 token="A" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_121 token="imprensa" lemma="imprensa" pos="n" features="F=S" sentenca="6" />
+    <word_122 token="noticiou" lemma="noticiar" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_123 token="que" lemma="que" pos="conj-s" features="-" sentenca="6" />
+    <word_124 token="uma" lemma="um" pos="art" features="F=S" sentenca="6" />
+    <word_125 token="outra" lemma="outro" pos="pron-det" features="F=S" sentenca="6" />
+    <word_126 token="idosa" lemma="idoso" pos="adj" features="F=S" sentenca="6" />
+    <word_127 token="e" lemma="e" pos="conj-c" features="-" sentenca="6" />
+    <word_128 token="um" lemma="um" pos="art" features="M=S" sentenca="6" />
+    <word_129 token="casal" lemma="casal" pos="n" features="M=S" sentenca="6" />
+    <word_130 token="estariam" lemma="estar" pos="v-fin" features="COND=3P" sentenca="6" />
+    <word_131 token="entre" lemma="entre" pos="prp" features="-" sentenca="6" />
+    <word_132 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_133 token="mortos" lemma="morto" pos="n-adj" features="M=P" sentenca="6" />
+    <word_134 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_135 token="-" lemma="" pos="-" features="-" sentenca="7" />
+    <word_136 token="Prateleiras" lemma="" pos="prop" features="F=P" sentenca="7" />
+    <word_137 token="altas" lemma="alto" pos="adj" features="F=P" sentenca="7" />
+    <word_138 token="caíram" lemma="cair" pos="v-fin" features="MQP=3P=IND" sentenca="7" />
+    <word_139 token="e" lemma="e" pos="conj-c" features="-" sentenca="7" />
+    <word_140 token="as" lemma="o" pos="art" features="F=P" sentenca="7" />
+    <word_141 token="coisas" lemma="coisa" pos="n" features="F=P" sentenca="7" />
+    <word_142 token="voaram" lemma="voar" pos="v-fin" features="MQP=3P=IND" sentenca="7" />
+    <word_143 token="por" lemma="por" pos="prp" features="-" sentenca="7" />
+    <word_144 token="toda" lemma="todo" pos="pron-det" features="F=S" sentenca="7" />
+    <word_145 token="parte" lemma="parte" pos="n" features="F=S" sentenca="7" />
+    <word_146 token="-" lemma="" pos="-" features="-" sentenca="7" />
+    <word_147 token="contou" lemma="contar" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_148 token="Harumi_Mikami" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_149 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_150 token="55" lemma="" pos="num" features="M=P" sentenca="7" />
+    <word_151 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_152 token="uma" lemma="um" pos="art" features="F=S" sentenca="7" />
+    <word_153 token="professora" lemma="professor" pos="n" features="F=S" sentenca="7" />
+    <word_154 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="7" />
+    <word_155 token="estava" lemma="estar" pos="v-fin" features="IMPF=3S=IND" sentenca="7" />
+    <word_156 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_157 token="sua" lemma="sua" pos="pron-det" features="F=S" sentenca="7" />
+    <word_158 token="escola" lemma="escola" pos="n" features="F=S" sentenca="7" />
+    <word_159 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_160 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_161 token="Cidade_de_Kashiwazaki" lemma="" pos="prop" features="F=S" sentenca="7" />
+    <word_162 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_163 token="perto_do" lemma="" pos="prp" features="-" sentenca="7" />
+    <word_164 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_165 token="epicentro" lemma="epicentro" pos="n" features="M=S" sentenca="7" />
+    <word_166 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_167 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_168 token="terremoto" lemma="terremoto" pos="n" features="M=S" sentenca="7" />
+    <word_169 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_170 token="-" lemma="" pos="-" features="-" sentenca="8" />
+    <word_171 token="Metade" lemma="metade" pos="n" features="F=S" sentenca="8" />
+    <word_172 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_173 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_174 token="minha" lemma="minha" pos="pron-det" features="F=S" sentenca="8" />
+    <word_175 token="casa" lemma="casa" pos="n" features="F=S" sentenca="8" />
+    <word_176 token="está" lemma="estar" pos="v-fin" features="PR=3S=IND" sentenca="8" />
+    <word_177 token="destruída" lemma="destruir" pos="v-pcp" features="F=S" sentenca="8" />
+    <word_178 token="-" lemma="" pos="-" features="-" sentenca="8" />
+    <word_179 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="8" />
+    <word_180 token="Mikami" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_181 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_182 token="-" lemma="" pos="-" features="-" sentenca="9" />
+    <word_183 token="Minha" lemma="minha" pos="pron-det" features="F=S" sentenca="9" />
+    <word_184 token="maior" lemma="maior" pos="adj" features="F=S" sentenca="9" />
+    <word_185 token="preocupação" lemma="preocupação, preocupar" pos="n" features="F=S" sentenca="9" />
+    <word_186 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="9" />
+    <word_187 token="onde" lemma="onde" pos="adv" features="-" sentenca="9" />
+    <word_188 token="vou" lemma="ir" pos="v-fin" features="PR=1S=IND" sentenca="9" />
+    <word_189 token="viver" lemma="viver" pos="v-inf" features="-" sentenca="9" />
+    <word_190 token="agora" lemma="agora" pos="adv" features="-" sentenca="9" />
+    <word_191 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_192 token="Cerca_de" lemma="" pos="adv" features="-" sentenca="10" />
+    <word_193 token="1.700" lemma="" pos="num" features="F=P" sentenca="10" />
+    <word_194 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="10" />
+    <word_195 token="fugiram" lemma="fugir" pos="v-fin" features="MQP=3P=IND" sentenca="10" />
+    <word_196 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_197 token="suas" lemma="sua" pos="pron-det" features="F=P" sentenca="10" />
+    <word_198 token="casas" lemma="casa" pos="n" features="F=P" sentenca="10" />
+    <word_199 token="para" lemma="para" pos="prp" features="-" sentenca="10" />
+    <word_200 token="quase" lemma="quase" pos="adv" features="-" sentenca="10" />
+    <word_201 token="100" lemma="" pos="num" features="M=P" sentenca="10" />
+    <word_202 token="centros" lemma="centro" pos="n" features="M=P" sentenca="10" />
+    <word_203 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_204 token="resgate" lemma="resgate" pos="n" features="M=S" sentenca="10" />
+    <word_205 token="," lemma="" pos="," features="-" sentenca="10" />
+    <word_206 token="segundo" lemma="segundo" pos="prp" features="-" sentenca="10" />
+    <word_207 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_208 token="rede" lemma="rede" pos="n" features="F=S" sentenca="10" />
+    <word_209 token="NHK" lemma="" pos="prop" features="F=S" sentenca="10" />
+    <word_210 token="e" lemma="e" pos="conj-c" features="-" sentenca="10" />
+    <word_211 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_212 token="Prefeitura" lemma="prefeitura" pos="n" features="F=S" sentenca="10" />
+    <word_213 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_214 token="Niigata" lemma="" pos="prop" features="M=S" sentenca="10" />
+    <word_215 token="." lemma="." pos="." features="-" sentenca="10" />
+    <word_216 token="Um" lemma="um" pos="art" features="M=S" sentenca="11" />
+    <word_217 token="incêndio" lemma="incêndio" pos="n" features="M=S" sentenca="11" />
+    <word_218 token="em" lemma="em" pos="prp" features="-" sentenca="11" />
+    <word_219 token="um" lemma="um" pos="art" features="M=S" sentenca="11" />
+    <word_220 token="transformador" lemma="transformador, transformar" pos="n" features="M=S" sentenca="11" />
+    <word_221 token="elétrico" lemma="elétrico" pos="adj" features="M=S" sentenca="11" />
+    <word_222 token="em" lemma="em" pos="prp" features="-" sentenca="11" />
+    <word_223 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_224 token="usina" lemma="usina" pos="n" features="F=S" sentenca="11" />
+    <word_225 token="nuclear" lemma="nuclear" pos="adj" features="F=S" sentenca="11" />
+    <word_226 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_227 token="Kashiwazaki_Kariwa" lemma="" pos="prop" features="M=S" sentenca="11" />
+    <word_228 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_229 token="rapidamente" lemma="rapidamente" pos="adv" features="-" sentenca="11" />
+    <word_230 token="extinto" lemma="extinto" pos="adj" features="M=S" sentenca="11" />
+    <word_231 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_232 token="mas" lemma="mas" pos="conj-c" features="-" sentenca="11" />
+    <word_233 token="ainda" lemma="ainda" pos="adv" features="-" sentenca="11" />
+    <word_234 token="não" lemma="não" pos="adv" features="-" sentenca="11" />
+    <word_235 token="está" lemma="estar" pos="v-fin" features="PR=3S=IND" sentenca="11" />
+    <word_236 token="claro" lemma="" pos="adv" features="-" sentenca="11" />
+    <word_237 token="quando" lemma="quando" pos="adv" features="-" sentenca="11" />
+    <word_238 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_239 token="companhia" lemma="companhia" pos="n" features="F=S" sentenca="11" />
+    <word_240 token="elétrica" lemma="elétrico" pos="adj" features="F=S" sentenca="11" />
+    <word_241 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_242 token="Tóquio" lemma="Tóquio" pos="prop" features="M=S" sentenca="11" />
+    <word_243 token="vai" lemma="ir" pos="v-fin" features="PR=3S=IND" sentenca="11" />
+    <word_244 token="religar" lemma="religar" pos="v-inf" features="-" sentenca="11" />
+    <word_245 token="três" lemma="três" pos="num" features="F=P" sentenca="11" />
+    <word_246 token="unidades" lemma="unidade, uno" pos="n" features="F=P" sentenca="11" />
+    <word_247 token="em" lemma="em" pos="prp" features="-" sentenca="11" />
+    <word_248 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_249 token="complexo" lemma="complexo" pos="adj" features="M=S" sentenca="11" />
+    <word_250 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_251 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_252 token="Yoshinobu_Kamijima" lemma="" pos="prop" features="M=S" sentenca="11" />
+    <word_253 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_254 token="porta-voz" lemma="porta-voz" pos="n" features="M=S" sentenca="11" />
+    <word_255 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_256 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_257 token="empresa" lemma="empresa" pos="n" features="F=S" sentenca="11" />
+    <word_258 token="." lemma="." pos="." features="-" sentenca="11" />
+    <word_259 token="O" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_260 token="Japão" lemma="Japão" pos="prop" features="M=S" sentenca="12" />
+    <word_261 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="12" />
+    <word_262 token="um" lemma="um" pos="num" features="M=S" sentenca="12" />
+    <word_263 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_264 token="os" lemma="o" pos="art" features="M=P" sentenca="12" />
+    <word_265 token="países" lemma="país" pos="n" features="M=P" sentenca="12" />
+    <word_266 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_267 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_268 token="mundo" lemma="mundo" pos="n" features="M=S" sentenca="12" />
+    <word_269 token="mais" lemma="mais" pos="adv" features="-" sentenca="12" />
+    <word_270 token="suscetíveis" lemma="suscetível" pos="adj" features="M=P" sentenca="12" />
+    <word_271 token="a" lemma="a" pos="prp" features="-" sentenca="12" />
+    <word_272 token="terremotos" lemma="terremoto" pos="n" features="M=P" sentenca="12" />
+    <word_273 token="," lemma="" pos="," features="-" sentenca="12" />
+    <word_274 token="com" lemma="com" pos="prp" features="-" sentenca="12" />
+    <word_275 token="um" lemma="um" pos="art" features="M=S" sentenca="12" />
+    <word_276 token="tremor" lemma="tremor" pos="n" features="M=S" sentenca="12" />
+    <word_277 token="ocorrendo" lemma="ocorrer" pos="v-ger" features="-" sentenca="12" />
+    <word_278 token="a" lemma="a" pos="prp" features="-" sentenca="12" />
+    <word_279 token="a" lemma="o" pos="art" features="F=S" sentenca="12" />
+    <word_280 token="o" lemma="o" pos="art" features="M=S" sentenca="12" />
+    <word_281 token="menos" lemma="menos" pos="pron-det" features="M=P" sentenca="12" />
+    <word_282 token="cada" lemma="cada" pos="pron-det" features="M=S" sentenca="12" />
+    <word_283 token="cinco" lemma="cinco" pos="num" features="M=P" sentenca="12" />
+    <word_284 token="minutos" lemma="minuto" pos="n" features="M=P" sentenca="12" />
+    <word_285 token="." lemma="." pos="." features="-" sentenca="12" />
+    <word_286 token="Os" lemma="o" pos="art" features="M=P" sentenca="13" />
+    <word_287 token="mercados" lemma="mercado" pos="n" features="M=P" sentenca="13" />
+    <word_288 token="financeiros" lemma="financeiro" pos="adj" features="M=P" sentenca="13" />
+    <word_289 token="de" lemma="de" pos="prp" features="-" sentenca="13" />
+    <word_290 token="o" lemma="o" pos="art" features="M=S" sentenca="13" />
+    <word_291 token="país" lemma="país" pos="n" features="M=S" sentenca="13" />
+    <word_292 token="estão" lemma="estar" pos="v-fin" features="PR=3P=IND" sentenca="13" />
+    <word_293 token="fechados" lemma="fechar" pos="v-pcp" features="M=P" sentenca="13" />
+    <word_294 token="em" lemma="em" pos="prp" features="-" sentenca="13" />
+    <word_295 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="13" />
+    <word_296 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" sentenca="13" />
+    <word_297 token="devido" lemma="" pos="prp" features="-" sentenca="13" />
+    <word_298 token="a" lemma="o" pos="art" features="F=S" sentenca="13" />
+    <word_299 token="um" lemma="um" pos="art" features="M=S" sentenca="13" />
+    <word_300 token="feriado" lemma="feriar" pos="v-pcp" features="M=S" sentenca="13" />
+    <word_301 token="." lemma="." pos="." features="-" sentenca="13" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="0...2" nucleo="terremoto" sintagma="Um forte terremoto" Categoria="OUTRO" sentenca="1">
+        <word_0 token="Um" lemma="um" pos="art" features="M=S" />
+        <word_1 token="forte" lemma="forte" pos="adj" features="M=S" />
+        <word_2 token="terremoto" lemma="terremoto" pos="n" features="M=S" />
+      </sn>
+      <sn id="25" tokens="89...90" nucleo="tremor" sintagma="o tremor" Categoria="OUTRO" sentenca="4">
+        <word_89 token="o" lemma="o" pos="art" features="M=S" />
+        <word_90 token="tremor" lemma="tremor" pos="n" features="M=S" />
+      </sn>
+      <sn id="46" tokens="167...168" nucleo="terremoto" sintagma="o terremoto" Categoria="OUTRO" sentenca="7">
+        <word_167 token="o" lemma="o" pos="art" features="M=S" />
+        <word_168 token="terremoto" lemma="terremoto" pos="n" features="M=S" />
+      </sn>
+      <sn id="72" tokens="272...272" nucleo="terremotos" sintagma="terremotos" Categoria="OUTRO" sentenca="12">
+        <word_272 token="terremotos" lemma="terremoto" pos="n" features="M=P" />
+      </sn>
+      <sn id="73" tokens="275...276" nucleo="tremor" sintagma="um tremor" Categoria="OUTRO" sentenca="12">
+        <word_275 token="um" lemma="um" pos="art" features="M=S" />
+        <word_276 token="tremor" lemma="tremor" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_10>
+      <sn id="12" tokens="49...49" nucleo="Tóquio" sintagma="Tóquio" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="3">
+        <word_49 token="Tóquio" lemma="Tóquio" pos="prop" features="M=S" />
+      </sn>
+      <sn id="30" tokens="106...106" nucleo="Tóquio" sintagma="Tóquio" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="4">
+        <word_106 token="Tóquio" lemma="Tóquio" pos="prop" features="M=S" />
+      </sn>
+      <sn id="64" tokens="242...242" nucleo="Tóquio" sintagma="Tóquio" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="11">
+        <word_242 token="Tóquio" lemma="Tóquio" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_10>
+    <Cadeia_26>
+      <sn id="31" tokens="109...111" nucleo="imprensa" sintagma="a imprensa japonesa" Categoria="OUTRO" sentenca="4">
+        <word_109 token="a" lemma="o" pos="art" features="F=S" />
+        <word_110 token="imprensa" lemma="imprensa" pos="n" features="F=S" />
+        <word_111 token="japonesa" lemma="japonês" pos="adj" features="F=S" />
+      </sn>
+      <sn id="34" tokens="120...121" nucleo="imprensa" sintagma="A imprensa" Categoria="OUTRO" sentenca="6">
+        <word_120 token="A" lemma="o" pos="art" features="F=S" />
+        <word_121 token="imprensa" lemma="imprensa" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_26>
+    <Cadeia_3>
+      <sn id="3" tokens="13...14" nucleo="Japão" sintagma="o Japão" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_13 token="o" lemma="o" pos="art" features="M=S" />
+        <word_14 token="Japão" lemma="Japão" pos="prop" features="M=S" />
+      </sn>
+      <sn id="69" tokens="259...260" nucleo="Japão" sintagma="O Japão" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="12">
+        <word_259 token="O" lemma="o" pos="art" features="M=S" />
+        <word_260 token="Japão" lemma="Japão" pos="prop" features="M=S" />
+      </sn>
+      <sn id="70" tokens="262...272" nucleo="países" sintagma="um de os países de o mundo mais suscetíveis a terremotos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="12">
+        <word_262 token="um" lemma="um" pos="num" features="M=S" />
+        <word_263 token="de" lemma="de" pos="prp" features="-" />
+        <word_264 token="os" lemma="o" pos="art" features="M=P" />
+        <word_265 token="países" lemma="país" pos="n" features="M=P" />
+        <word_266 token="de" lemma="de" pos="prp" features="-" />
+        <word_267 token="o" lemma="o" pos="art" features="M=S" />
+        <word_268 token="mundo" lemma="mundo" pos="n" features="M=S" />
+        <word_269 token="mais" lemma="mais" pos="adv" features="-" />
+        <word_270 token="suscetíveis" lemma="suscetível" pos="adj" features="M=P" />
+        <word_271 token="a" lemma="a" pos="prp" features="-" />
+        <word_272 token="terremotos" lemma="terremoto" pos="n" features="M=P" />
+      </sn>
+      <sn id="76" tokens="290...291" nucleo="país" sintagma="o país" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="13">
+        <word_290 token="o" lemma="o" pos="art" features="M=S" />
+        <word_291 token="país" lemma="país" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_3>
+    <Cadeia_54>
+      <sn id="63" tokens="238...242" nucleo="companhia" sintagma="a companhia elétrica de Tóquio" Categoria="OUTRO" sentenca="11">
+        <word_238 token="a" lemma="o" pos="art" features="F=S" />
+        <word_239 token="companhia" lemma="companhia" pos="n" features="F=S" />
+        <word_240 token="elétrica" lemma="elétrico" pos="adj" features="F=S" />
+        <word_241 token="de" lemma="de" pos="prp" features="-" />
+        <word_242 token="Tóquio" lemma="Tóquio" pos="prop" features="M=S" />
+      </sn>
+      <sn id="68" tokens="256...257" nucleo="empresa" sintagma="a empresa" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="11">
+        <word_256 token="a" lemma="o" pos="art" features="F=S" />
+        <word_257 token="empresa" lemma="empresa" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_54>
+    <Cadeia_56>
+      <sn id="40" tokens="148...154" nucleo="Harumi_Mikami" sintagma="Harumi Mikami , 55 , uma professora que" Categoria="PESSOA" sentenca="7">
+        <word_148 token="Harumi_Mikami" lemma="" pos="prop" features="M=S" />
+        <word_149 token="," lemma="" pos="," features="-" />
+        <word_150 token="55" lemma="" pos="num" features="M=P" />
+        <word_151 token="," lemma="" pos="," features="-" />
+        <word_152 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_153 token="professora" lemma="professor" pos="n" features="F=S" />
+        <word_154 token="que" lemma="que" pos="pron-indp" features="F=S" />
+      </sn>
+      <sn id="49" tokens="180...180" nucleo="Mikami" sintagma="Mikami" Categoria="PESSOA" sentenca="8">
+        <word_180 token="Mikami" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_56>
+    <Cadeia_8>
+      <sn id="9" tokens="35...38" nucleo="usina" sintagma="a maior usina nuclear" Categoria="OUTRO" sentenca="2">
+        <word_35 token="a" lemma="o" pos="art" features="F=S" />
+        <word_36 token="maior" lemma="maior" pos="adj" features="F=S" />
+        <word_37 token="usina" lemma="usina" pos="n" features="F=S" />
+        <word_38 token="nuclear" lemma="nuclear" pos="adj" features="F=S" />
+      </sn>
+      <sn id="61" tokens="223...225" nucleo="usina" sintagma="a usina nuclear" Categoria="OUTRO" sentenca="11">
+        <word_223 token="a" lemma="o" pos="art" features="F=S" />
+        <word_224 token="usina" lemma="usina" pos="n" features="F=S" />
+        <word_225 token="nuclear" lemma="nuclear" pos="adj" features="F=S" />
+      </sn>
+    </Cadeia_8>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="1" tokens="5...8" nucleo="menos" sintagma="o menos cinco pessoas" Categoria="--" sentenca="1">
+      <word_5 token="o" lemma="o" pos="art" features="M=S" />
+      <word_6 token="menos" lemma="menos" pos="pron-det" features="M=S" />
+      <word_7 token="cinco" lemma="cinco" pos="num" features="F=P" />
+      <word_8 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+    </sn>
+    <sn id="2" tokens="10...11" nucleo="noroeste" sintagma="o noroeste" Categoria="--" sentenca="1">
+      <word_10 token="o" lemma="o" pos="art" features="M=S" />
+      <word_11 token="noroeste" lemma="noroeste" pos="n" features="M=S" />
+    </sn>
+    <sn id="4" tokens="16...17" nucleo="esta" sintagma="esta segunda-feira" Categoria="--" sentenca="1">
+      <word_16 token="esta" lemma="este" pos="pron-det" features="F=S" />
+      <word_17 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="5" tokens="19...22" nucleo="Mais" sintagma="Mais de 600 pessoas" Categoria="--" sentenca="2">
+      <word_19 token="Mais" lemma="mais" pos="pron-det" features="M=P" />
+      <word_20 token="de" lemma="de" pos="prp" features="-" />
+      <word_21 token="600" lemma="" pos="num" features="F=P" />
+      <word_22 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+    </sn>
+    <sn id="7" tokens="26...26" nucleo="casas" sintagma="casas" Categoria="--" sentenca="2">
+      <word_26 token="casas" lemma="casa" pos="n" features="F=P" />
+    </sn>
+    <sn id="8" tokens="31...33" nucleo="incêndio" sintagma="um pequeno incêndio" Categoria="--" sentenca="2">
+      <word_31 token="um" lemma="um" pos="art" features="M=S" />
+      <word_32 token="pequeno" lemma="pequeno" pos="adj" features="M=S" />
+      <word_33 token="incêndio" lemma="incêndio" pos="n" features="M=S" />
+    </sn>
+    <sn id="10" tokens="40...41" nucleo="mundo" sintagma="o mundo" Categoria="--" sentenca="2">
+      <word_40 token="o" lemma="o" pos="art" features="M=S" />
+      <word_41 token="mundo" lemma="mundo" pos="n" features="M=S" />
+    </sn>
+    <sn id="11" tokens="43...44" nucleo="prédios" sintagma="Os prédios" Categoria="--" sentenca="3">
+      <word_43 token="Os" lemma="o" pos="art" features="M=P" />
+      <word_44 token="prédios" lemma="prédio" pos="n" features="M=P" />
+    </sn>
+    <sn id="13" tokens="52...58" nucleo="reatores" sintagma="os reatores de usinas nucleares em Niigata" Categoria="--" sentenca="3">
+      <word_52 token="os" lemma="o" pos="art" features="M=P" />
+      <word_53 token="reatores" lemma="reator" pos="n" features="M=P" />
+      <word_54 token="de" lemma="de" pos="prp" features="-" />
+      <word_55 token="usinas" lemma="usina" pos="n" features="F=P" />
+      <word_56 token="nucleares" lemma="nuclear" pos="adj" features="F=P" />
+      <word_57 token="em" lemma="em" pos="prp" features="-" />
+      <word_58 token="Niigata" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="14" tokens="55...56" nucleo="usinas" sintagma="usinas nucleares" Categoria="--" sentenca="3">
+      <word_55 token="usinas" lemma="usina" pos="n" features="F=P" />
+      <word_56 token="nucleares" lemma="nuclear" pos="adj" features="F=P" />
+    </sn>
+    <sn id="15" tokens="58...58" nucleo="Niigata" sintagma="Niigata" Categoria="--" sentenca="3">
+      <word_58 token="Niigata" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="16" tokens="60...60" nucleo="-se" sintagma="-se" Categoria="--" sentenca="3">
+      <word_60 token="-se" lemma="" pos="pron-pers" features="M=3P=ACC" />
+    </sn>
+    <sn id="17" tokens="63...63" nucleo="checagens" sintagma="checagens" Categoria="--" sentenca="3">
+      <word_63 token="checagens" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="18" tokens="68...72" nucleo="relatos" sintagma="relatos de vazamento de radiação" Categoria="--" sentenca="3">
+      <word_68 token="relatos" lemma="relato" pos="n" features="M=P" />
+      <word_69 token="de" lemma="de" pos="prp" features="-" />
+      <word_70 token="vazamento" lemma="vazar" pos="n" features="M=S" />
+      <word_71 token="de" lemma="de" pos="prp" features="-" />
+      <word_72 token="radiação" lemma="radiação, radiar" pos="n" features="F=S" />
+    </sn>
+    <sn id="19" tokens="70...70" nucleo="vazamento" sintagma="vazamento" Categoria="--" sentenca="3">
+      <word_70 token="vazamento" lemma="vazar" pos="n" features="M=S" />
+    </sn>
+    <sn id="20" tokens="72...72" nucleo="radiação" sintagma="radiação" Categoria="--" sentenca="3">
+      <word_72 token="radiação" lemma="radiação, radiar" pos="n" features="F=S" />
+    </sn>
+    <sn id="21" tokens="74...82" nucleo="mulheres" sintagma="Duas mulheres em a faixa de os 80 anos" Categoria="--" sentenca="4">
+      <word_74 token="Duas" lemma="dois" pos="num" features="F=P" />
+      <word_75 token="mulheres" lemma="mulher" pos="n" features="F=P" />
+      <word_76 token="em" lemma="em" pos="prp" features="-" />
+      <word_77 token="a" lemma="o" pos="art" features="F=S" />
+      <word_78 token="faixa" lemma="faixa" pos="n" features="F=S" />
+      <word_79 token="de" lemma="de" pos="prp" features="-" />
+      <word_80 token="os" lemma="o" pos="art" features="M=P" />
+      <word_81 token="80" lemma="" pos="num" features="M=P" />
+      <word_82 token="anos" lemma="ano" pos="n" features="M=P" />
+    </sn>
+    <sn id="22" tokens="77...78" nucleo="faixa" sintagma="a faixa" Categoria="--" sentenca="4">
+      <word_77 token="a" lemma="o" pos="art" features="F=S" />
+      <word_78 token="faixa" lemma="faixa" pos="n" features="F=S" />
+    </sn>
+    <sn id="23" tokens="80...82" nucleo="anos" sintagma="os 80 anos" Categoria="--" sentenca="4">
+      <word_80 token="os" lemma="o" pos="art" features="M=P" />
+      <word_81 token="80" lemma="" pos="num" features="M=P" />
+      <word_82 token="anos" lemma="ano" pos="n" features="M=P" />
+    </sn>
+    <sn id="24" tokens="85...86" nucleo="suas" sintagma="suas casas" Categoria="--" sentenca="4">
+      <word_85 token="suas" lemma="sua" pos="pron-det" features="F=P" />
+      <word_86 token="casas" lemma="casa" pos="n" features="F=P" />
+    </sn>
+    <sn id="26" tokens="92...93" nucleo="magnitude" sintagma="magnitude 6,8" Categoria="--" sentenca="4">
+      <word_92 token="magnitude" lemma="magnitude" pos="n" features="F=S" />
+      <word_93 token="6,8" lemma="" pos="num" features="M=P" />
+    </sn>
+    <sn id="27" tokens="96...97" nucleo="área" sintagma="a área" Categoria="--" sentenca="4">
+      <word_96 token="a" lemma="o" pos="art" features="F=S" />
+      <word_97 token="área" lemma="área" pos="n" features="F=S" />
+    </sn>
+    <sn id="28" tokens="99...99" nucleo="Niigata" sintagma="Niigata" Categoria="--" sentenca="4">
+      <word_99 token="Niigata" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="29" tokens="101...104" nucleo="km" sintagma="cerca de 250 km noroeste" Categoria="--" sentenca="4">
+      <word_101 token="cerca_de" lemma="" pos="adv" features="-" />
+      <word_102 token="250" lemma="" pos="num" features="M=P" />
+      <word_103 token="km" lemma="quilômetro" pos="n" features="M=P" />
+      <word_104 token="noroeste" lemma="noroeste" pos="n" features="M=S" />
+    </sn>
+    <sn id="32" tokens="113...115" nucleo="porta-voz" sintagma="Um porta-voz policial" Categoria="--" sentenca="5">
+      <word_113 token="Um" lemma="um" pos="art" features="M=S" />
+      <word_114 token="porta-voz" lemma="porta-voz" pos="n" features="M=S" />
+      <word_115 token="policial" lemma="policial" pos="adj" features="M=S" />
+    </sn>
+    <sn id="33" tokens="117...118" nucleo="mortes" sintagma="cinco mortes" Categoria="--" sentenca="5">
+      <word_117 token="cinco" lemma="cinco" pos="num" features="F=P" />
+      <word_118 token="mortes" lemma="morte" pos="n" features="F=P" />
+    </sn>
+    <sn id="35" tokens="124...129" nucleo="outra" sintagma="uma outra idosa e um casal" Categoria="--" sentenca="6">
+      <word_124 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_125 token="outra" lemma="outro" pos="pron-det" features="F=S" />
+      <word_126 token="idosa" lemma="idoso" pos="adj" features="F=S" />
+      <word_127 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_128 token="um" lemma="um" pos="art" features="M=S" />
+      <word_129 token="casal" lemma="casal" pos="n" features="M=S" />
+    </sn>
+    <sn id="36" tokens="128...129" nucleo="casal" sintagma="um casal" Categoria="--" sentenca="6">
+      <word_128 token="um" lemma="um" pos="art" features="M=S" />
+      <word_129 token="casal" lemma="casal" pos="n" features="M=S" />
+    </sn>
+    <sn id="37" tokens="135...137" nucleo="Prateleiras" sintagma="- Prateleiras altas" Categoria="--" sentenca="7">
+      <word_135 token="-" lemma="" pos="-" features="-" />
+      <word_136 token="Prateleiras" lemma="" pos="prop" features="F=P" />
+      <word_137 token="altas" lemma="alto" pos="adj" features="F=P" />
+    </sn>
+    <sn id="38" tokens="140...141" nucleo="coisas" sintagma="as coisas" Categoria="--" sentenca="7">
+      <word_140 token="as" lemma="o" pos="art" features="F=P" />
+      <word_141 token="coisas" lemma="coisa" pos="n" features="F=P" />
+    </sn>
+    <sn id="39" tokens="144...145" nucleo="toda" sintagma="toda parte" Categoria="--" sentenca="7">
+      <word_144 token="toda" lemma="todo" pos="pron-det" features="F=S" />
+      <word_145 token="parte" lemma="parte" pos="n" features="F=S" />
+    </sn>
+    <sn id="41" tokens="152...153" nucleo="professora" sintagma="uma professora" Categoria="--" sentenca="7">
+      <word_152 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_153 token="professora" lemma="professor" pos="n" features="F=S" />
+    </sn>
+    <sn id="42" tokens="154...154" nucleo="que" sintagma="que" Categoria="--" sentenca="7">
+      <word_154 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="43" tokens="157...158" nucleo="sua" sintagma="sua escola" Categoria="--" sentenca="7">
+      <word_157 token="sua" lemma="sua" pos="pron-det" features="F=S" />
+      <word_158 token="escola" lemma="escola" pos="n" features="F=S" />
+    </sn>
+    <sn id="44" tokens="160...161" nucleo="Cidade_de_Kashiwazaki" sintagma="a Cidade de Kashiwazaki" Categoria="--" sentenca="7">
+      <word_160 token="a" lemma="o" pos="art" features="F=S" />
+      <word_161 token="Cidade_de_Kashiwazaki" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="45" tokens="164...165" nucleo="epicentro" sintagma="o epicentro" Categoria="--" sentenca="7">
+      <word_164 token="o" lemma="o" pos="art" features="M=S" />
+      <word_165 token="epicentro" lemma="epicentro" pos="n" features="M=S" />
+    </sn>
+    <sn id="47" tokens="171...175" nucleo="Metade" sintagma="Metade de a minha casa" Categoria="--" sentenca="8">
+      <word_171 token="Metade" lemma="metade" pos="n" features="F=S" />
+      <word_172 token="de" lemma="de" pos="prp" features="-" />
+      <word_173 token="a" lemma="o" pos="art" features="F=S" />
+      <word_174 token="minha" lemma="minha" pos="pron-det" features="F=S" />
+      <word_175 token="casa" lemma="casa" pos="n" features="F=S" />
+    </sn>
+    <sn id="48" tokens="173...175" nucleo="minha" sintagma="a minha casa" Categoria="--" sentenca="8">
+      <word_173 token="a" lemma="o" pos="art" features="F=S" />
+      <word_174 token="minha" lemma="minha" pos="pron-det" features="F=S" />
+      <word_175 token="casa" lemma="casa" pos="n" features="F=S" />
+    </sn>
+    <sn id="50" tokens="182...185" nucleo="Minha" sintagma="- Minha maior preocupação" Categoria="--" sentenca="9">
+      <word_182 token="-" lemma="" pos="-" features="-" />
+      <word_183 token="Minha" lemma="minha" pos="pron-det" features="F=S" />
+      <word_184 token="maior" lemma="maior" pos="adj" features="F=S" />
+      <word_185 token="preocupação" lemma="preocupação, preocupar" pos="n" features="F=S" />
+    </sn>
+    <sn id="51" tokens="192...194" nucleo="pessoas" sintagma="Cerca de 1.700 pessoas" Categoria="--" sentenca="10">
+      <word_192 token="Cerca_de" lemma="" pos="adv" features="-" />
+      <word_193 token="1.700" lemma="" pos="num" features="F=P" />
+      <word_194 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+    </sn>
+    <sn id="52" tokens="197...198" nucleo="suas" sintagma="suas casas" Categoria="--" sentenca="10">
+      <word_197 token="suas" lemma="sua" pos="pron-det" features="F=P" />
+      <word_198 token="casas" lemma="casa" pos="n" features="F=P" />
+    </sn>
+    <sn id="53" tokens="200...202" nucleo="centros" sintagma="quase 100 centros" Categoria="--" sentenca="10">
+      <word_200 token="quase" lemma="quase" pos="adv" features="-" />
+      <word_201 token="100" lemma="" pos="num" features="M=P" />
+      <word_202 token="centros" lemma="centro" pos="n" features="M=P" />
+    </sn>
+    <sn id="54" tokens="204...204" nucleo="resgate" sintagma="resgate" Categoria="--" sentenca="10">
+      <word_204 token="resgate" lemma="resgate" pos="n" features="M=S" />
+    </sn>
+    <sn id="55" tokens="207...208" nucleo="rede" sintagma="a rede" Categoria="--" sentenca="10">
+      <word_207 token="a" lemma="o" pos="art" features="F=S" />
+      <word_208 token="rede" lemma="rede" pos="n" features="F=S" />
+    </sn>
+    <sn id="56" tokens="209...209" nucleo="NHK" sintagma="NHK" Categoria="--" sentenca="10">
+      <word_209 token="NHK" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="57" tokens="211...212" nucleo="Prefeitura" sintagma="a Prefeitura" Categoria="--" sentenca="10">
+      <word_211 token="a" lemma="o" pos="art" features="F=S" />
+      <word_212 token="Prefeitura" lemma="prefeitura" pos="n" features="F=S" />
+    </sn>
+    <sn id="58" tokens="214...214" nucleo="Niigata" sintagma="Niigata" Categoria="--" sentenca="10">
+      <word_214 token="Niigata" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="59" tokens="216...227" nucleo="incêndio" sintagma="Um incêndio em um transformador elétrico em a usina nuclear de Kashiwazaki Kariwa" Categoria="--" sentenca="11">
+      <word_216 token="Um" lemma="um" pos="art" features="M=S" />
+      <word_217 token="incêndio" lemma="incêndio" pos="n" features="M=S" />
+      <word_218 token="em" lemma="em" pos="prp" features="-" />
+      <word_219 token="um" lemma="um" pos="art" features="M=S" />
+      <word_220 token="transformador" lemma="transformador, transformar" pos="n" features="M=S" />
+      <word_221 token="elétrico" lemma="elétrico" pos="adj" features="M=S" />
+      <word_222 token="em" lemma="em" pos="prp" features="-" />
+      <word_223 token="a" lemma="o" pos="art" features="F=S" />
+      <word_224 token="usina" lemma="usina" pos="n" features="F=S" />
+      <word_225 token="nuclear" lemma="nuclear" pos="adj" features="F=S" />
+      <word_226 token="de" lemma="de" pos="prp" features="-" />
+      <word_227 token="Kashiwazaki_Kariwa" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="60" tokens="219...221" nucleo="transformador" sintagma="um transformador elétrico" Categoria="--" sentenca="11">
+      <word_219 token="um" lemma="um" pos="art" features="M=S" />
+      <word_220 token="transformador" lemma="transformador, transformar" pos="n" features="M=S" />
+      <word_221 token="elétrico" lemma="elétrico" pos="adj" features="M=S" />
+    </sn>
+    <sn id="62" tokens="227...227" nucleo="Kashiwazaki_Kariwa" sintagma="Kashiwazaki Kariwa" Categoria="--" sentenca="11">
+      <word_227 token="Kashiwazaki_Kariwa" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="65" tokens="245...246" nucleo="unidades" sintagma="três unidades" Categoria="--" sentenca="11">
+      <word_245 token="três" lemma="três" pos="num" features="F=P" />
+      <word_246 token="unidades" lemma="unidade, uno" pos="n" features="F=P" />
+    </sn>
+    <sn id="66" tokens="252...257" nucleo="Yoshinobu_Kamijima" sintagma="Yoshinobu Kamijima , porta-voz de a empresa" Categoria="--" sentenca="11">
+      <word_252 token="Yoshinobu_Kamijima" lemma="" pos="prop" features="M=S" />
+      <word_253 token="," lemma="" pos="," features="-" />
+      <word_254 token="porta-voz" lemma="porta-voz" pos="n" features="M=S" />
+      <word_255 token="de" lemma="de" pos="prp" features="-" />
+      <word_256 token="a" lemma="o" pos="art" features="F=S" />
+      <word_257 token="empresa" lemma="empresa" pos="n" features="F=S" />
+    </sn>
+    <sn id="67" tokens="254...254" nucleo="porta-voz" sintagma="porta-voz" Categoria="--" sentenca="11">
+      <word_254 token="porta-voz" lemma="porta-voz" pos="n" features="M=S" />
+    </sn>
+    <sn id="71" tokens="267...270" nucleo="mundo" sintagma="o mundo mais suscetíveis" Categoria="--" sentenca="12">
+      <word_267 token="o" lemma="o" pos="art" features="M=S" />
+      <word_268 token="mundo" lemma="mundo" pos="n" features="M=S" />
+      <word_269 token="mais" lemma="mais" pos="adv" features="-" />
+      <word_270 token="suscetíveis" lemma="suscetível" pos="adj" features="M=P" />
+    </sn>
+    <sn id="74" tokens="279...284" nucleo="menos" sintagma="a o menos cada cinco minutos" Categoria="--" sentenca="12">
+      <word_279 token="a" lemma="o" pos="art" features="F=S" />
+      <word_280 token="o" lemma="o" pos="art" features="M=S" />
+      <word_281 token="menos" lemma="menos" pos="pron-det" features="M=P" />
+      <word_282 token="cada" lemma="cada" pos="pron-det" features="M=S" />
+      <word_283 token="cinco" lemma="cinco" pos="num" features="M=P" />
+      <word_284 token="minutos" lemma="minuto" pos="n" features="M=P" />
+    </sn>
+    <sn id="75" tokens="286...291" nucleo="mercados" sintagma="Os mercados financeiros de o país" Categoria="--" sentenca="13">
+      <word_286 token="Os" lemma="o" pos="art" features="M=P" />
+      <word_287 token="mercados" lemma="mercado" pos="n" features="M=P" />
+      <word_288 token="financeiros" lemma="financeiro" pos="adj" features="M=P" />
+      <word_289 token="de" lemma="de" pos="prp" features="-" />
+      <word_290 token="o" lemma="o" pos="art" features="M=S" />
+      <word_291 token="país" lemma="país" pos="n" features="M=S" />
+    </sn>
+    <sn id="77" tokens="295...296" nucleo="esta" sintagma="esta segunda-feira" Categoria="--" sentenca="13">
+      <word_295 token="esta" lemma="este" pos="pron-det" features="F=S" />
+      <word_296 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

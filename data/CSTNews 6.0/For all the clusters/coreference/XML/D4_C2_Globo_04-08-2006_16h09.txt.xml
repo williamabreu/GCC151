@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="O Instituto de pesquisa CNI/Ibope divulgou em esta sexta-feira , em Brasília , que o presidente Luiz_Inácio_Lula_da_Silva seria reeleito em primeiro turno caso as eleições fossem hoje . De_acordo com a pesquisa , Lula ( PT ) tem 44 % de as intenções de voto , contra 25 % de Geraldo_Alckmin ( PSDB ) e 11 % de Heloísa_Helena ( PSOL ) . Os outros candidatos que concorrem a vaga presidencial Cristovam_Buarque ( PDT ) e Luciano_Bivar ( PSL ) aparecem cada um com 1 % de as intenções de voto . Os candidatos José_Maria_Eymael ( PSDC ) e Ruy_Pimenta ( PCO ) não pontuaram . Com 44 % , Lula tem seis pontos percentuais a mais de o que a soma de os índices de seus adversários , que é de 38 % . Considerando a margem de erro de dois pontos percentuais , para mais ou para menos , a vantagem poderia assegurar vitória em primeiro turno . Os votos brancos e nulos somam 9 % , e 9 % de os entrevistados não opinaram . Esta foi a primeira pesquisa de a série CNI/Ibope feita já com a lista oficial de candidatos a a Presidência registrados em o TSE ( Tribunal_Superior_Eleitoral ) ." />
+  <Sentencas>
+    <sentenca_1 conteudo="O Instituto de pesquisa CNI/Ibope divulgou em esta sexta-feira, em Brasília, que o presidente Luiz Inácio Lula de a Silva seria reeleito em primeiro turno caso as eleições fossem hoje." />
+    <sentenca_2 conteudo="De acordo com a pesquisa, Lula (PT) tem 44% de as intenções de voto, contra 25% de Geraldo Alckmin (PSDB) e 11% de Heloísa Helena (PSOL)." />
+    <sentenca_3 conteudo="Os outros candidatos que concorrem a vaga presidencial Cristovam Buarque (PDT) e Luciano Bivar (PSL) aparecem cada um com 1% de as intenções de voto." />
+    <sentenca_4 conteudo="Os candidatos José Maria Eymael (PSDC) e Ruy Pimenta (PCO) não pontuaram." />
+    <sentenca_5 conteudo="Com 44%, Lula tem seis pontos percentuais a mais de o que a soma de os índices de seus adversários, que é de 38%." />
+    <sentenca_6 conteudo="Considerando a margem de erro de dois pontos percentuais, para mais ou para menos, a vantagem poderia assegurar vitória em primeiro turno." />
+    <sentenca_7 conteudo="Os votos brancos e nulos somam 9%, e 9% de os entrevistados não opinaram." />
+    <sentenca_8 conteudo="Esta foi a primeira pesquisa de a série CNI/Ibope feita já com a lista oficial de candidatos aa Presidência registrados em o TSE (Tribunal Superior Eleitoral)." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="O" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="Instituto" lemma="instituto" pos="n" features="M=S" sentenca="1" />
+    <word_2 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_3 token="pesquisa" lemma="pesquisa" pos="n" features="F=S" sentenca="1" />
+    <word_4 token="CNI/Ibope" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_5 token="divulgou" lemma="divulgar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_6 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_7 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="1" />
+    <word_8 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" sentenca="1" />
+    <word_9 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_10 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_11 token="Brasília" lemma="Brasília" pos="prop" features="M=S" sentenca="1" />
+    <word_12 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_13 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="1" />
+    <word_14 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_15 token="presidente" lemma="presidente" pos="n" features="M=S" sentenca="1" />
+    <word_16 token="Luiz_Inácio_Lula_da_Silva" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_17 token="seria" lemma="seriar, ser" pos="v-fin" features="COND=3S" sentenca="1" />
+    <word_18 token="reeleito" lemma="" pos="v-pcp" features="M=S" sentenca="1" />
+    <word_19 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_20 token="primeiro" lemma="primeiro" pos="adj" features="M=S" sentenca="1" />
+    <word_21 token="turno" lemma="turno" pos="n" features="M=S" sentenca="1" />
+    <word_22 token="caso" lemma="" pos="conj-s" features="-" sentenca="1" />
+    <word_23 token="as" lemma="o" pos="art" features="F=P" sentenca="1" />
+    <word_24 token="eleições" lemma="eleição" pos="n" features="F=P" sentenca="1" />
+    <word_25 token="fossem" lemma="fossar, ir, ser" pos="v-fin" features="IMPF=3P=SUBJ" sentenca="1" />
+    <word_26 token="hoje" lemma="hoje" pos="adv" features="-" sentenca="1" />
+    <word_27 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_28 token="De_acordo" lemma="" pos="adv" features="-" sentenca="2" />
+    <word_29 token="com" lemma="com" pos="prp" features="-" sentenca="2" />
+    <word_30 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_31 token="pesquisa" lemma="pesquisa" pos="n" features="F=S" sentenca="2" />
+    <word_32 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_33 token="Lula" lemma="Lula" pos="prop" features="-" sentenca="2" />
+    <word_34 token="(" lemma="(" pos="(" features="-" sentenca="2" />
+    <word_35 token="PT" lemma="PT" pos="prop" features="F=S" sentenca="2" />
+    <word_36 token=")" lemma=")" pos=")" features="-" sentenca="2" />
+    <word_37 token="tem" lemma="ter" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_38 token="44" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_39 token="%" lemma="" pos="n" features="M=P" sentenca="2" />
+    <word_40 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_41 token="as" lemma="o" pos="art" features="F=P" sentenca="2" />
+    <word_42 token="intenções" lemma="intenção" pos="n" features="F=P" sentenca="2" />
+    <word_43 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_44 token="voto" lemma="voto" pos="n" features="M=S" sentenca="2" />
+    <word_45 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_46 token="contra" lemma="contra" pos="prp" features="-" sentenca="2" />
+    <word_47 token="25" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_48 token="%" lemma="" pos="n" features="M=P" sentenca="2" />
+    <word_49 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_50 token="Geraldo_Alckmin" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_51 token="(" lemma="(" pos="(" features="-" sentenca="2" />
+    <word_52 token="PSDB" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_53 token=")" lemma=")" pos=")" features="-" sentenca="2" />
+    <word_54 token="e" lemma="e" pos="conj-c" features="-" sentenca="2" />
+    <word_55 token="11" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_56 token="%" lemma="" pos="n" features="M=P" sentenca="2" />
+    <word_57 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_58 token="Heloísa_Helena" lemma="" pos="prop" features="F=S" sentenca="2" />
+    <word_59 token="(" lemma="(" pos="(" features="-" sentenca="2" />
+    <word_60 token="PSOL" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_61 token=")" lemma=")" pos=")" features="-" sentenca="2" />
+    <word_62 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_63 token="Os" lemma="o" pos="art" features="M=P" sentenca="3" />
+    <word_64 token="outros" lemma="outro" pos="pron-det" features="M=P" sentenca="3" />
+    <word_65 token="candidatos" lemma="candidato" pos="n" features="M=P" sentenca="3" />
+    <word_66 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="3" />
+    <word_67 token="concorrem" lemma="concorrer" pos="v-fin" features="PR=3P=IND" sentenca="3" />
+    <word_68 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_69 token="vaga" lemma="vaga, vago" pos="n" features="F=S" sentenca="3" />
+    <word_70 token="presidencial" lemma="presidencial" pos="adj" features="F=S" sentenca="3" />
+    <word_71 token="Cristovam_Buarque" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_72 token="(" lemma="(" pos="(" features="-" sentenca="3" />
+    <word_73 token="PDT" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_74 token=")" lemma=")" pos=")" features="-" sentenca="3" />
+    <word_75 token="e" lemma="e" pos="conj-c" features="-" sentenca="3" />
+    <word_76 token="Luciano_Bivar" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_77 token="(" lemma="(" pos="(" features="-" sentenca="3" />
+    <word_78 token="PSL" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_79 token=")" lemma=")" pos=")" features="-" sentenca="3" />
+    <word_80 token="aparecem" lemma="aparecer" pos="v-fin" features="PR=3P=IND" sentenca="3" />
+    <word_81 token="cada" lemma="cada" pos="pron-det" features="F=S" sentenca="3" />
+    <word_82 token="um" lemma="um" pos="art" features="M=S" sentenca="3" />
+    <word_83 token="com" lemma="com" pos="prp" features="-" sentenca="3" />
+    <word_84 token="1" lemma="" pos="num" features="M=S" sentenca="3" />
+    <word_85 token="%" lemma="" pos="n" features="M=P" sentenca="3" />
+    <word_86 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_87 token="as" lemma="o" pos="art" features="F=P" sentenca="3" />
+    <word_88 token="intenções" lemma="intenção" pos="n" features="F=P" sentenca="3" />
+    <word_89 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_90 token="voto" lemma="voto" pos="n" features="M=S" sentenca="3" />
+    <word_91 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_92 token="Os" lemma="o" pos="art" features="M=P" sentenca="4" />
+    <word_93 token="candidatos" lemma="candidato" pos="n" features="M=P" sentenca="4" />
+    <word_94 token="José_Maria_Eymael" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_95 token="(" lemma="(" pos="(" features="-" sentenca="4" />
+    <word_96 token="PSDC" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_97 token=")" lemma=")" pos=")" features="-" sentenca="4" />
+    <word_98 token="e" lemma="e" pos="conj-c" features="-" sentenca="4" />
+    <word_99 token="Ruy_Pimenta" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_100 token="(" lemma="(" pos="(" features="-" sentenca="4" />
+    <word_101 token="PCO" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_102 token=")" lemma=")" pos=")" features="-" sentenca="4" />
+    <word_103 token="não" lemma="não" pos="adv" features="-" sentenca="4" />
+    <word_104 token="pontuaram" lemma="pontuar" pos="v-fin" features="MQP=3P=IND" sentenca="4" />
+    <word_105 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_106 token="Com" lemma="com" pos="prp" features="-" sentenca="5" />
+    <word_107 token="44" lemma="" pos="num" features="M=P" sentenca="5" />
+    <word_108 token="%" lemma="" pos="n" features="M=P" sentenca="5" />
+    <word_109 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_110 token="Lula" lemma="Lula" pos="prop" features="-" sentenca="5" />
+    <word_111 token="tem" lemma="ter" pos="v-fin" features="PR=3S=IND" sentenca="5" />
+    <word_112 token="seis" lemma="seis" pos="num" features="M=P" sentenca="5" />
+    <word_113 token="pontos" lemma="ponto" pos="n" features="M=P" sentenca="5" />
+    <word_114 token="percentuais" lemma="percentual" pos="adj" features="M=P" sentenca="5" />
+    <word_115 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_116 token="mais" lemma="mais" pos="pron-det" features="F=S" sentenca="5" />
+    <word_117 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_118 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_119 token="que" lemma="que" pos="conj-s" features="-" sentenca="5" />
+    <word_120 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_121 token="soma" lemma="soma" pos="n" features="F=S" sentenca="5" />
+    <word_122 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_123 token="os" lemma="o" pos="art" features="M=P" sentenca="5" />
+    <word_124 token="índices" lemma="índice" pos="n" features="M=P" sentenca="5" />
+    <word_125 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_126 token="seus" lemma="seu" pos="pron-det" features="M=P" sentenca="5" />
+    <word_127 token="adversários" lemma="adversário" pos="n" features="M=P" sentenca="5" />
+    <word_128 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_129 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="5" />
+    <word_130 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="5" />
+    <word_131 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_132 token="38" lemma="" pos="num" features="M=P" sentenca="5" />
+    <word_133 token="%" lemma="" pos="n" features="M=P" sentenca="5" />
+    <word_134 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_135 token="Considerando" lemma="considerar" pos="v-ger" features="-" sentenca="6" />
+    <word_136 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_137 token="margem" lemma="margem" pos="n" features="F=S" sentenca="6" />
+    <word_138 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_139 token="erro" lemma="erro" pos="n" features="M=S" sentenca="6" />
+    <word_140 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_141 token="dois" lemma="dois" pos="num" features="M=P" sentenca="6" />
+    <word_142 token="pontos" lemma="ponto" pos="n" features="M=P" sentenca="6" />
+    <word_143 token="percentuais" lemma="percentual" pos="adj" features="M=P" sentenca="6" />
+    <word_144 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_145 token="para" lemma="para" pos="prp" features="-" sentenca="6" />
+    <word_146 token="mais" lemma="mais" pos="adv" features="-" sentenca="6" />
+    <word_147 token="ou" lemma="ou" pos="conj-c" features="-" sentenca="6" />
+    <word_148 token="para" lemma="para" pos="prp" features="-" sentenca="6" />
+    <word_149 token="menos" lemma="menos" pos="adv" features="-" sentenca="6" />
+    <word_150 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_151 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_152 token="vantagem" lemma="vantagem" pos="n" features="F=S" sentenca="6" />
+    <word_153 token="poderia" lemma="poder" pos="v-fin" features="COND=3S" sentenca="6" />
+    <word_154 token="assegurar" lemma="assegurar" pos="v-inf" features="-" sentenca="6" />
+    <word_155 token="vitória" lemma="vitória" pos="n" features="F=S" sentenca="6" />
+    <word_156 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_157 token="primeiro" lemma="primeiro" pos="adj" features="M=S" sentenca="6" />
+    <word_158 token="turno" lemma="turno" pos="n" features="M=S" sentenca="6" />
+    <word_159 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_160 token="Os" lemma="o" pos="art" features="M=P" sentenca="7" />
+    <word_161 token="votos" lemma="voto" pos="n" features="M=P" sentenca="7" />
+    <word_162 token="brancos" lemma="branco" pos="adj" features="M=P" sentenca="7" />
+    <word_163 token="e" lemma="e" pos="conj-c" features="-" sentenca="7" />
+    <word_164 token="nulos" lemma="nulo" pos="adj" features="M=P" sentenca="7" />
+    <word_165 token="somam" lemma="somar" pos="v-fin" features="PR=3P=IND" sentenca="7" />
+    <word_166 token="9" lemma="" pos="num" features="M=P" sentenca="7" />
+    <word_167 token="%" lemma="" pos="n" features="M=P" sentenca="7" />
+    <word_168 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_169 token="e" lemma="e" pos="conj-c" features="-" sentenca="7" />
+    <word_170 token="9" lemma="" pos="num" features="M=P" sentenca="7" />
+    <word_171 token="%" lemma="" pos="n" features="M=P" sentenca="7" />
+    <word_172 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_173 token="os" lemma="o" pos="art" features="M=P" sentenca="7" />
+    <word_174 token="entrevistados" lemma="entrevistar" pos="v-pcp" features="M=P" sentenca="7" />
+    <word_175 token="não" lemma="não" pos="adv" features="-" sentenca="7" />
+    <word_176 token="opinaram" lemma="opinar" pos="v-fin" features="MQP=3P=IND" sentenca="7" />
+    <word_177 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_178 token="Esta" lemma="este" pos="pron-det" features="F=S" sentenca="8" />
+    <word_179 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="8" />
+    <word_180 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_181 token="primeira" lemma="" pos="adj" features="F=S" sentenca="8" />
+    <word_182 token="pesquisa" lemma="pesquisa" pos="n" features="F=S" sentenca="8" />
+    <word_183 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_184 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_185 token="série" lemma="série" pos="n" features="F=S" sentenca="8" />
+    <word_186 token="CNI/Ibope" lemma="" pos="prop" features="F=S" sentenca="8" />
+    <word_187 token="feita" lemma="fazer" pos="v-pcp" features="F=S" sentenca="8" />
+    <word_188 token="já" lemma="já" pos="adv" features="-" sentenca="8" />
+    <word_189 token="com" lemma="com" pos="prp" features="-" sentenca="8" />
+    <word_190 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_191 token="lista" lemma="lista" pos="n" features="F=S" sentenca="8" />
+    <word_192 token="oficial" lemma="oficial" pos="adj" features="F=S" sentenca="8" />
+    <word_193 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_194 token="candidatos" lemma="candidato" pos="n" features="M=P" sentenca="8" />
+    <word_195 token="a" lemma="a" pos="prp" features="-" sentenca="8" />
+    <word_196 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_197 token="Presidência" lemma="presidência" pos="n" features="F=S" sentenca="8" />
+    <word_198 token="registrados" lemma="" pos="v-pcp" features="M=P" sentenca="8" />
+    <word_199 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_200 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_201 token="TSE" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_202 token="(" lemma="(" pos="(" features="-" sentenca="8" />
+    <word_203 token="Tribunal_Superior_Eleitoral" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_204 token=")" lemma=")" pos=")" features="-" sentenca="8" />
+    <word_205 token="." lemma="." pos="." features="-" sentenca="8" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_1>
+      <sn id="1" tokens="3...3" nucleo="pesquisa" sintagma="pesquisa" Categoria="DOCUMENTOS" sentenca="1">
+        <word_3 token="pesquisa" lemma="pesquisa" pos="n" features="F=S" />
+      </sn>
+      <sn id="10" tokens="30...31" nucleo="pesquisa" sintagma="a pesquisa" Categoria="DOCUMENTOS" sentenca="2">
+        <word_30 token="a" lemma="o" pos="art" features="F=S" />
+        <word_31 token="pesquisa" lemma="pesquisa" pos="n" features="F=S" />
+      </sn>
+      <sn id="52" tokens="178...178" nucleo="Esta" sintagma="Esta" Categoria="DOCUMENTOS" sentenca="8">
+        <word_178 token="Esta" lemma="este" pos="pron-det" features="F=S" />
+      </sn>
+      <sn id="53" tokens="180...186" nucleo="pesquisa" sintagma="a primeira pesquisa de a série CNI/Ibope" Categoria="DOCUMENTOS" sentenca="8">
+        <word_180 token="a" lemma="o" pos="art" features="F=S" />
+        <word_181 token="primeira" lemma="" pos="adj" features="F=S" />
+        <word_182 token="pesquisa" lemma="pesquisa" pos="n" features="F=S" />
+        <word_183 token="de" lemma="de" pos="prp" features="-" />
+        <word_184 token="a" lemma="o" pos="art" features="F=S" />
+        <word_185 token="série" lemma="série" pos="n" features="F=S" />
+        <word_186 token="CNI/Ibope" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_1>
+    <Cadeia_10>
+      <sn id="13" tokens="41...42" nucleo="intenções" sintagma="as intenções" Categoria="OUTRO" sentenca="2">
+        <word_41 token="as" lemma="o" pos="art" features="F=P" />
+        <word_42 token="intenções" lemma="intenção" pos="n" features="F=P" />
+      </sn>
+      <sn id="29" tokens="87...88" nucleo="intenções" sintagma="as intenções" Categoria="OUTRO" sentenca="3">
+        <word_87 token="as" lemma="o" pos="art" features="F=P" />
+        <word_88 token="intenções" lemma="intenção" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_10>
+    <Cadeia_11>
+      <sn id="14" tokens="44...44" nucleo="voto" sintagma="voto" Categoria="OUTRO" sentenca="2">
+        <word_44 token="voto" lemma="voto" pos="n" features="M=S" />
+      </sn>
+      <sn id="30" tokens="90...90" nucleo="voto" sintagma="voto" Categoria="OUTRO" sentenca="3">
+        <word_90 token="voto" lemma="voto" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_11>
+    <Cadeia_30>
+      <sn id="37" tokens="112...119" nucleo="pontos" sintagma="seis pontos percentuais a mais de o que" Categoria="ABSTRAÇÃO" sentenca="5">
+        <word_112 token="seis" lemma="seis" pos="num" features="M=P" />
+        <word_113 token="pontos" lemma="ponto" pos="n" features="M=P" />
+        <word_114 token="percentuais" lemma="percentual" pos="adj" features="M=P" />
+        <word_115 token="a" lemma="o" pos="art" features="F=S" />
+        <word_116 token="mais" lemma="mais" pos="pron-det" features="F=S" />
+        <word_117 token="de" lemma="de" pos="prp" features="-" />
+        <word_118 token="o" lemma="o" pos="art" features="M=S" />
+        <word_119 token="que" lemma="que" pos="conj-s" features="-" />
+      </sn>
+      <sn id="47" tokens="151...152" nucleo="vantagem" sintagma="a vantagem" Categoria="ABSTRAÇÃO" sentenca="6">
+        <word_151 token="a" lemma="o" pos="art" features="F=S" />
+        <word_152 token="vantagem" lemma="vantagem" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_30>
+    <Cadeia_35>
+      <sn id="59" tokens="200...201" nucleo="TSE" sintagma="o TSE" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_200 token="o" lemma="o" pos="art" features="M=S" />
+        <word_201 token="TSE" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="60" tokens="203...203" nucleo="Tribunal_Superior_Eleitoral" sintagma="Tribunal Superior Eleitoral" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_203 token="Tribunal_Superior_Eleitoral" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_35>
+    <Cadeia_37>
+      <sn id="0" tokens="0...4" nucleo="Instituto" sintagma="O Instituto de pesquisa CNI/Ibope" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_0 token="O" lemma="o" pos="art" features="M=S" />
+        <word_1 token="Instituto" lemma="instituto" pos="n" features="M=S" />
+        <word_2 token="de" lemma="de" pos="prp" features="-" />
+        <word_3 token="pesquisa" lemma="pesquisa" pos="n" features="F=S" />
+        <word_4 token="CNI/Ibope" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="2" tokens="4...4" nucleo="CNI/Ibope" sintagma="CNI/Ibope" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_4 token="CNI/Ibope" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="55" tokens="186...186" nucleo="CNI/Ibope" sintagma="CNI/Ibope" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_186 token="CNI/Ibope" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_37>
+    <Cadeia_38>
+      <sn id="39" tokens="120...129" nucleo="soma" sintagma="a soma de os índices de seus adversários , que" Categoria="ABSTRAÇÃO" sentenca="5">
+        <word_120 token="a" lemma="o" pos="art" features="F=S" />
+        <word_121 token="soma" lemma="soma" pos="n" features="F=S" />
+        <word_122 token="de" lemma="de" pos="prp" features="-" />
+        <word_123 token="os" lemma="o" pos="art" features="M=P" />
+        <word_124 token="índices" lemma="índice" pos="n" features="M=P" />
+        <word_125 token="de" lemma="de" pos="prp" features="-" />
+        <word_126 token="seus" lemma="seu" pos="pron-det" features="M=P" />
+        <word_127 token="adversários" lemma="adversário" pos="n" features="M=P" />
+        <word_128 token="," lemma="" pos="," features="-" />
+        <word_129 token="que" lemma="que" pos="pron-indp" features="M=S" />
+      </sn>
+      <sn id="42" tokens="129...129" nucleo="que" sintagma="que" Categoria="ABSTRAÇÃO" sentenca="5">
+        <word_129 token="que" lemma="que" pos="pron-indp" features="M=S" />
+      </sn>
+      <sn id="43" tokens="131...133" nucleo="%" sintagma="38 %" Categoria="ABSTRAÇÃO" sentenca="5">
+        <word_131 token="de" lemma="de" pos="prp" features="-" />
+        <word_132 token="38" lemma="" pos="num" features="M=P" />
+        <word_133 token="%" lemma="" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_38>
+    <Cadeia_39>
+      <sn id="44" tokens="136...150" nucleo="margem" sintagma="a margem de erro de dois pontos percentuais , para mais ou para menos" Categoria="ABSTRAÇÃO" sentenca="6">
+        <word_136 token="a" lemma="o" pos="art" features="F=S" />
+        <word_137 token="margem" lemma="margem" pos="n" features="F=S" />
+        <word_138 token="de" lemma="de" pos="prp" features="-" />
+        <word_139 token="erro" lemma="erro" pos="n" features="M=S" />
+        <word_140 token="de" lemma="de" pos="prp" features="-" />
+        <word_141 token="dois" lemma="dois" pos="num" features="M=P" />
+        <word_142 token="pontos" lemma="ponto" pos="n" features="M=P" />
+        <word_143 token="percentuais" lemma="percentual" pos="adj" features="M=P" />
+        <word_144 token="," lemma="" pos="," features="-" />
+        <word_145 token="para" lemma="para" pos="prp" features="-" />
+        <word_146 token="mais" lemma="mais" pos="adv" features="-" />
+        <word_147 token="ou" lemma="ou" pos="conj-c" features="-" />
+        <word_148 token="para" lemma="para" pos="prp" features="-" />
+        <word_149 token="menos" lemma="menos" pos="adv" features="-" />
+        <word_150 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="45" tokens="139...139" nucleo="erro" sintagma="erro" Categoria="ABSTRAÇÃO" sentenca="6">
+        <word_139 token="erro" lemma="erro" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_39>
+    <Cadeia_40>
+      <sn id="20" tokens="63...66" nucleo="outros" sintagma="Os outros candidatos que" Categoria="PESSOA" sentenca="3">
+        <word_63 token="Os" lemma="o" pos="art" features="M=P" />
+        <word_64 token="outros" lemma="outro" pos="pron-det" features="M=P" />
+        <word_65 token="candidatos" lemma="candidato" pos="n" features="M=P" />
+        <word_66 token="que" lemma="que" pos="pron-indp" features="M=P" />
+      </sn>
+      <sn id="21" tokens="66...66" nucleo="que" sintagma="que" Categoria="PESSOA" sentenca="3">
+        <word_66 token="que" lemma="que" pos="pron-indp" features="M=P" />
+      </sn>
+      <sn id="23" tokens="71...71" nucleo="Cristovam_Buarque" sintagma="Cristovam Buarque" Categoria="PESSOA" sentenca="3">
+        <word_71 token="Cristovam_Buarque" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="25" tokens="76...76" nucleo="Luciano_Bivar" sintagma="Luciano Bivar" Categoria="PESSOA" sentenca="3">
+        <word_76 token="Luciano_Bivar" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="27" tokens="81...82" nucleo="cada" sintagma="cada um" Categoria="PESSOA" sentenca="3">
+        <word_81 token="cada" lemma="cada" pos="pron-det" features="F=S" />
+        <word_82 token="um" lemma="um" pos="art" features="M=S" />
+      </sn>
+    </Cadeia_40>
+    <Cadeia_6>
+      <sn id="22" tokens="68...70" nucleo="vaga" sintagma="a vaga presidencial" Categoria="OUTRO" sentenca="3">
+        <word_68 token="a" lemma="o" pos="art" features="F=S" />
+        <word_69 token="vaga" lemma="vaga, vago" pos="n" features="F=S" />
+        <word_70 token="presidencial" lemma="presidencial" pos="adj" features="F=S" />
+      </sn>
+      <sn id="58" tokens="196...197" nucleo="Presidência" sintagma="a Presidência" Categoria="OUTRO" sentenca="8">
+        <word_196 token="a" lemma="o" pos="art" features="F=S" />
+        <word_197 token="Presidência" lemma="presidência" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_6>
+    <Cadeia_7>
+      <sn id="8" tokens="20...21" nucleo="turno" sintagma="primeiro turno" Categoria="EVENTO" sentenca="1">
+        <word_20 token="primeiro" lemma="primeiro" pos="adj" features="M=S" />
+        <word_21 token="turno" lemma="turno" pos="n" features="M=S" />
+      </sn>
+      <sn id="9" tokens="23...24" nucleo="eleições" sintagma="as eleições" Categoria="EVENTO" sentenca="1">
+        <word_23 token="as" lemma="o" pos="art" features="F=P" />
+        <word_24 token="eleições" lemma="eleição" pos="n" features="F=P" />
+      </sn>
+      <sn id="49" tokens="157...158" nucleo="turno" sintagma="primeiro turno" Categoria="EVENTO" sentenca="6">
+        <word_157 token="primeiro" lemma="primeiro" pos="adj" features="M=S" />
+        <word_158 token="turno" lemma="turno" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_7>
+    <Cadeia_9>
+      <sn id="6" tokens="14...16" nucleo="presidente" sintagma="o presidente Luiz Inácio Lula de a Silva" Categoria="PESSOA" sentenca="1">
+        <word_14 token="o" lemma="o" pos="art" features="M=S" />
+        <word_15 token="presidente" lemma="presidente" pos="n" features="M=S" />
+        <word_16 token="Luiz_Inácio_Lula_da_Silva" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="11" tokens="33...33" nucleo="Lula" sintagma="Lula" Categoria="PESSOA" sentenca="2">
+        <word_33 token="Lula" lemma="Lula" pos="prop" features="-" />
+      </sn>
+      <sn id="36" tokens="110...110" nucleo="Lula" sintagma="Lula" Categoria="PESSOA" sentenca="5">
+        <word_110 token="Lula" lemma="Lula" pos="prop" features="-" />
+      </sn>
+    </Cadeia_9>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="3" tokens="7...8" nucleo="esta" sintagma="esta sexta-feira" Categoria="--" sentenca="1">
+      <word_7 token="esta" lemma="este" pos="pron-det" features="F=S" />
+      <word_8 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="4" tokens="11...11" nucleo="Brasília" sintagma="Brasília" Categoria="--" sentenca="1">
+      <word_11 token="Brasília" lemma="Brasília" pos="prop" features="M=S" />
+    </sn>
+    <sn id="5" tokens="13...13" nucleo="que" sintagma="que" Categoria="--" sentenca="1">
+      <word_13 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="12" tokens="35...35" nucleo="PT" sintagma="PT" Categoria="--" sentenca="2">
+      <word_35 token="PT" lemma="PT" pos="prop" features="F=S" />
+    </sn>
+    <sn id="15" tokens="50...50" nucleo="Geraldo_Alckmin" sintagma="Geraldo Alckmin" Categoria="--" sentenca="2">
+      <word_50 token="Geraldo_Alckmin" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="16" tokens="52...52" nucleo="PSDB" sintagma="PSDB" Categoria="--" sentenca="2">
+      <word_52 token="PSDB" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="18" tokens="58...58" nucleo="Heloísa_Helena" sintagma="Heloísa Helena" Categoria="--" sentenca="2">
+      <word_58 token="Heloísa_Helena" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="19" tokens="60...60" nucleo="PSOL" sintagma="PSOL" Categoria="--" sentenca="2">
+      <word_60 token="PSOL" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="24" tokens="73...73" nucleo="PDT" sintagma="PDT" Categoria="--" sentenca="3">
+      <word_73 token="PDT" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="26" tokens="78...78" nucleo="PSL" sintagma="PSL" Categoria="--" sentenca="3">
+      <word_78 token="PSL" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="31" tokens="92...102" nucleo="candidatos" sintagma="Os candidatos José Maria Eymael ( PSDC ) e Ruy Pimenta ( PCO )" Categoria="--" sentenca="4">
+      <word_92 token="Os" lemma="o" pos="art" features="M=P" />
+      <word_93 token="candidatos" lemma="candidato" pos="n" features="M=P" />
+      <word_94 token="José_Maria_Eymael" lemma="" pos="prop" features="M=S" />
+      <word_95 token="(" lemma="(" pos="(" features="-" />
+      <word_96 token="PSDC" lemma="" pos="prop" features="M=S" />
+      <word_97 token=")" lemma=")" pos=")" features="-" />
+      <word_98 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_99 token="Ruy_Pimenta" lemma="" pos="prop" features="M=S" />
+      <word_100 token="(" lemma="(" pos="(" features="-" />
+      <word_101 token="PCO" lemma="" pos="prop" features="M=S" />
+      <word_102 token=")" lemma=")" pos=")" features="-" />
+    </sn>
+    <sn id="38" tokens="115...116" nucleo="mais" sintagma="a mais" Categoria="--" sentenca="5">
+      <word_115 token="a" lemma="o" pos="art" features="F=S" />
+      <word_116 token="mais" lemma="mais" pos="pron-det" features="F=S" />
+    </sn>
+    <sn id="40" tokens="123...124" nucleo="índices" sintagma="os índices" Categoria="--" sentenca="5">
+      <word_123 token="os" lemma="o" pos="art" features="M=P" />
+      <word_124 token="índices" lemma="índice" pos="n" features="M=P" />
+    </sn>
+    <sn id="41" tokens="126...127" nucleo="seus" sintagma="seus adversários" Categoria="--" sentenca="5">
+      <word_126 token="seus" lemma="seu" pos="pron-det" features="M=P" />
+      <word_127 token="adversários" lemma="adversário" pos="n" features="M=P" />
+    </sn>
+    <sn id="46" tokens="141...143" nucleo="pontos" sintagma="dois pontos percentuais" Categoria="--" sentenca="6">
+      <word_141 token="dois" lemma="dois" pos="num" features="M=P" />
+      <word_142 token="pontos" lemma="ponto" pos="n" features="M=P" />
+      <word_143 token="percentuais" lemma="percentual" pos="adj" features="M=P" />
+    </sn>
+    <sn id="48" tokens="155...155" nucleo="vitória" sintagma="vitória" Categoria="--" sentenca="6">
+      <word_155 token="vitória" lemma="vitória" pos="n" features="F=S" />
+    </sn>
+    <sn id="50" tokens="160...164" nucleo="votos" sintagma="Os votos brancos e nulos" Categoria="--" sentenca="7">
+      <word_160 token="Os" lemma="o" pos="art" features="M=P" />
+      <word_161 token="votos" lemma="voto" pos="n" features="M=P" />
+      <word_162 token="brancos" lemma="branco" pos="adj" features="M=P" />
+      <word_163 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_164 token="nulos" lemma="nulo" pos="adj" features="M=P" />
+    </sn>
+    <sn id="54" tokens="184...185" nucleo="série" sintagma="a série" Categoria="--" sentenca="8">
+      <word_184 token="a" lemma="o" pos="art" features="F=S" />
+      <word_185 token="série" lemma="série" pos="n" features="F=S" />
+    </sn>
+    <sn id="56" tokens="190...192" nucleo="lista" sintagma="a lista oficial" Categoria="--" sentenca="8">
+      <word_190 token="a" lemma="o" pos="art" features="F=S" />
+      <word_191 token="lista" lemma="lista" pos="n" features="F=S" />
+      <word_192 token="oficial" lemma="oficial" pos="adj" features="F=S" />
+    </sn>
+    <sn id="57" tokens="194...194" nucleo="candidatos" sintagma="candidatos" Categoria="--" sentenca="8">
+      <word_194 token="candidatos" lemma="candidato" pos="n" features="M=P" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

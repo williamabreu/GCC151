@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="O senador Antonio_Carlos_Magalhães ( DEM-BA ) morreu a as 11h40 de hoje , a os 79 anos , em São_Paulo , em decorrência de falência de múltiplos órgãos secundária a a insuficiência cardíaca . ACM estava internado em o InCor-SP ( Instituto_do_Coração ) , de o Hospital_das_Clínicas , desde o dia 13 de junho , quando deu entrada para tratar de complicações renais e cardíacas . A família ainda não confirmou o local onde será realizado o velório e o enterro de o senador . A expectativa é que o corpo de ACM seja levado para Salvador ( BA ) , onde nasceu . Os familiares de ACM estão em o hospital . em o começo de este mês , ACM apresentou complicações gástricas . em o seu período de internação , ele apresentou oscilações entre melhoras e agravamento de o estado de saúde . A Folha_Online apurou que ele teria tido uma parada cardíaca em a madrugada de esta sexta-feira . A informação foi transmitida a os parentes e amigos próximos de ACM . A pedido de a família de o senador não foi autorizada divulgação de informações sobre seu estado de saúde . O senador , que completaria 80 anos em 4 de setembro , deixa a mulher , Arlete , e os filhos Antonio_Carlos_Magalhães_Júnior e Teresa_Helena_Magalhães_Mata_Pires . Outros dois filhos de ACM já morreram : Luís_Eduardo_Maron_de_Magalhães e Ana_Lúcia_Maron_de_Magalhães . O estado de saúde de o senador começou a se complicar em este ano , a_partir_de março , quando o político ficou internado para se curar de uma pneumonia e de uma disfunção renal . Desde então , ACM vinha se submetendo a check-ups de rotina todo mês . Em abril , o senador foi internado em o InCor com insuficiência cardíaca . em o final de maio , o parlamentar sentiu -se mal em o Senado e chegou a cair em frente a o seu gabinete . em a ocasião , ele foi submetido a uma série de exames em o InCor . ACM era cardiopata , portador de insuficiência cardíaca congestiva , em decorrência de um infarto , ocorrido em 1989 ." />
+  <Sentencas>
+    <sentenca_1 conteudo="O senador Antonio Carlos Magalhães (DEM-BA) morreu a as 11h40 de hoje, aos 79 anos, em São Paulo, em decorrência de falência de múltiplos órgãos secundária aa insuficiência cardíaca." />
+    <sentenca_2 conteudo="ACM estava internado em o InCor-SP (Instituto de o Coração), de o Hospital de as Clínicas, desde o dia 13 de junho, quando deu entrada para tratar de complicações renais e cardíacas." />
+    <sentenca_3 conteudo="A família ainda não confirmou o local onde será realizado o velório e o enterro de o senador." />
+    <sentenca_4 conteudo="A expectativa é que o corpo de ACM seja levado para Salvador (BA), onde nasceu." />
+    <sentenca_5 conteudo="Os familiares de ACM estão em o hospital." />
+    <sentenca_6 conteudo="No começo deste mês, ACM apresentou complicações gástricas." />
+    <sentenca_7 conteudo="No seu período de internação, ele apresentou oscilações entre melhoras e agravamento de o estado de saúde." />
+    <sentenca_8 conteudo="A Folha Online apurou que ele teria tido uma parada cardíaca em a madrugada desta sexta-feira." />
+    <sentenca_9 conteudo="A informação foi transmitida aos parentes e amigos próximos de ACM." />
+    <sentenca_10 conteudo="A pedido de a família de o senador não foi autorizada divulgação de informações sobre seu estado de saúde." />
+    <sentenca_11 conteudo="O senador, que completaria 80 anos em 4 de setembro, deixa a mulher, Arlete, e os filhos Antonio Carlos Magalhães Júnior e Teresa Helena Magalhães Mata Pires." />
+    <sentenca_12 conteudo="Outros dois filhos de ACM já morreram:" />
+    <sentenca_13 conteudo="Luís Eduardo Maron de Magalhães e Ana Lúcia Maron de Magalhães." />
+    <sentenca_14 conteudo="O estado de saúde de o senador começou a se complicar em ente ano, a partir de março, quando o político ficou internado para se curar de uma pneumonia e de uma disfunção renal." />
+    <sentenca_15 conteudo="Desde então, ACM vinha se submetendo a check-ups de rotina todo mês." />
+    <sentenca_16 conteudo="Em abril, o senador foi internado em o InCor com insuficiência cardíaca." />
+    <sentenca_17 conteudo="No final de maio, o parlamentar sentiu-se mal em o Senado e chegou a cair em frente ao seu gabinete." />
+    <sentenca_18 conteudo="Na ocasião, ele foi submetido a uma série de exames em o InCor." />
+    <sentenca_19 conteudo="ACM era cardiopata, portador de insuficiência cardíaca congestiva, em decorrência de um infarto, ocorrido em 1989." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="O" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="senador" lemma="senador" pos="n" features="M=S" sentenca="1" />
+    <word_2 token="Antonio_Carlos_Magalhães" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_3 token="(" lemma="(" pos="(" features="-" sentenca="1" />
+    <word_4 token="DEM-BA" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_5 token=")" lemma=")" pos=")" features="-" sentenca="1" />
+    <word_6 token="morreu" lemma="morrer" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_7 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_8 token="as" lemma="o" pos="art" features="F=P" sentenca="1" />
+    <word_9 token="11h40" lemma="" pos="n" features="F=P" sentenca="1" />
+    <word_10 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_11 token="hoje" lemma="hoje" pos="adv" features="-" sentenca="1" />
+    <word_12 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_13 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_14 token="os" lemma="o" pos="art" features="M=P" sentenca="1" />
+    <word_15 token="79" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_16 token="anos" lemma="ano" pos="n" features="M=P" sentenca="1" />
+    <word_17 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_18 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_19 token="São_Paulo" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_20 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_21 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_22 token="decorrência" lemma="" pos="n" features="F=S" sentenca="1" />
+    <word_23 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_24 token="falência" lemma="falência" pos="n" features="F=S" sentenca="1" />
+    <word_25 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_26 token="múltiplos" lemma="múltiplo" pos="n" features="M=P" sentenca="1" />
+    <word_27 token="órgãos" lemma="órgão" pos="n" features="M=P" sentenca="1" />
+    <word_28 token="secundária" lemma="secundário" pos="adj" features="F=S" sentenca="1" />
+    <word_29 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_30 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_31 token="insuficiência" lemma="insuficiência" pos="n" features="F=S" sentenca="1" />
+    <word_32 token="cardíaca" lemma="cardíaco" pos="adj" features="F=S" sentenca="1" />
+    <word_33 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_34 token="ACM" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_35 token="estava" lemma="estar" pos="v-fin" features="IMPF=3S=IND" sentenca="2" />
+    <word_36 token="internado" lemma="internar" pos="v-pcp" features="M=S" sentenca="2" />
+    <word_37 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_38 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_39 token="InCor-SP" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_40 token="(" lemma="(" pos="(" features="-" sentenca="2" />
+    <word_41 token="Instituto_do_Coração" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_42 token=")" lemma=")" pos=")" features="-" sentenca="2" />
+    <word_43 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_44 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_45 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_46 token="Hospital_das_Clínicas" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_47 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_48 token="desde" lemma="desde" pos="prp" features="-" sentenca="2" />
+    <word_49 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_50 token="dia" lemma="dia" pos="n" features="M=S" sentenca="2" />
+    <word_51 token="13" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_52 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_53 token="junho" lemma="junho" pos="n" features="M=S" sentenca="2" />
+    <word_54 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_55 token="quando" lemma="quando" pos="adv" features="-" sentenca="2" />
+    <word_56 token="deu" lemma="dar" pos="v-fin" features="PS=3S=IND" sentenca="2" />
+    <word_57 token="entrada" lemma="entrada" pos="n" features="F=S" sentenca="2" />
+    <word_58 token="para" lemma="para" pos="prp" features="-" sentenca="2" />
+    <word_59 token="tratar" lemma="tratar" pos="v-inf" features="-" sentenca="2" />
+    <word_60 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_61 token="complicações" lemma="complicar" pos="n" features="F=P" sentenca="2" />
+    <word_62 token="renais" lemma="renal" pos="adj" features="F=P" sentenca="2" />
+    <word_63 token="e" lemma="e" pos="conj-c" features="-" sentenca="2" />
+    <word_64 token="cardíacas" lemma="cardíaco" pos="n" features="F=P" sentenca="2" />
+    <word_65 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_66 token="A" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_67 token="família" lemma="família" pos="n" features="F=S" sentenca="3" />
+    <word_68 token="ainda" lemma="ainda" pos="adv" features="-" sentenca="3" />
+    <word_69 token="não" lemma="não" pos="adv" features="-" sentenca="3" />
+    <word_70 token="confirmou" lemma="confirmar" pos="v-fin" features="PS=3S=IND" sentenca="3" />
+    <word_71 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_72 token="local" lemma="local" pos="n" features="M=S" sentenca="3" />
+    <word_73 token="onde" lemma="onde" pos="adv" features="-" sentenca="3" />
+    <word_74 token="será" lemma="ser" pos="v-fin" features="FUT=3S=IND" sentenca="3" />
+    <word_75 token="realizado" lemma="realizar" pos="v-pcp" features="M=S" sentenca="3" />
+    <word_76 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_77 token="velório" lemma="velório" pos="n" features="M=S" sentenca="3" />
+    <word_78 token="e" lemma="e" pos="conj-c" features="-" sentenca="3" />
+    <word_79 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_80 token="enterro" lemma="enterro" pos="n" features="M=S" sentenca="3" />
+    <word_81 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_82 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_83 token="senador" lemma="senador" pos="n" features="M=S" sentenca="3" />
+    <word_84 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_85 token="A" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_86 token="expectativa" lemma="expectativa" pos="n" features="F=S" sentenca="4" />
+    <word_87 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_88 token="que" lemma="que" pos="conj-s" features="-" sentenca="4" />
+    <word_89 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_90 token="corpo" lemma="corpo" pos="n" features="M=S" sentenca="4" />
+    <word_91 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_92 token="ACM" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_93 token="seja" lemma="ser" pos="v-fin" features="PR=3S=SUBJ" sentenca="4" />
+    <word_94 token="levado" lemma="levar" pos="v-pcp" features="M=S" sentenca="4" />
+    <word_95 token="para" lemma="para" pos="prp" features="-" sentenca="4" />
+    <word_96 token="Salvador" lemma="Salvador" pos="prop" features="-" sentenca="4" />
+    <word_97 token="(" lemma="(" pos="(" features="-" sentenca="4" />
+    <word_98 token="BA" lemma="" pos="prop" features="F=S" sentenca="4" />
+    <word_99 token=")" lemma=")" pos=")" features="-" sentenca="4" />
+    <word_100 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_101 token="onde" lemma="onde" pos="adv" features="-" sentenca="4" />
+    <word_102 token="nasceu" lemma="nascer" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_103 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_104 token="Os" lemma="o" pos="art" features="M=P" sentenca="5" />
+    <word_105 token="familiares" lemma="familiar" pos="n" features="M=P" sentenca="5" />
+    <word_106 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_107 token="ACM" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_108 token="estão" lemma="estar" pos="v-fin" features="PR=3P=IND" sentenca="5" />
+    <word_109 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_110 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_111 token="hospital" lemma="hospital" pos="n" features="M=S" sentenca="5" />
+    <word_112 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_113 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_114 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_115 token="começo" lemma="começo" pos="n" features="M=S" sentenca="6" />
+    <word_116 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_117 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="6" />
+    <word_118 token="mês" lemma="mês" pos="n" features="M=S" sentenca="6" />
+    <word_119 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_120 token="ACM" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_121 token="apresentou" lemma="apresentar" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_122 token="complicações" lemma="complicar" pos="n" features="F=P" sentenca="6" />
+    <word_123 token="gástricas" lemma="gástrico" pos="adj" features="F=P" sentenca="6" />
+    <word_124 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_125 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_126 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_127 token="seu" lemma="seu" pos="pron-det" features="M=S" sentenca="7" />
+    <word_128 token="período" lemma="período" pos="n" features="M=S" sentenca="7" />
+    <word_129 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_130 token="internação" lemma="internar" pos="n" features="F=S" sentenca="7" />
+    <word_131 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_132 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="7" />
+    <word_133 token="apresentou" lemma="apresentar" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_134 token="oscilações" lemma="oscilar" pos="n" features="F=P" sentenca="7" />
+    <word_135 token="entre" lemma="entre" pos="prp" features="-" sentenca="7" />
+    <word_136 token="melhoras" lemma="melhoras" pos="n" features="F=P" sentenca="7" />
+    <word_137 token="e" lemma="e" pos="conj-c" features="-" sentenca="7" />
+    <word_138 token="agravamento" lemma="agravar" pos="n" features="M=S" sentenca="7" />
+    <word_139 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_140 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_141 token="estado" lemma="estado" pos="n" features="M=S" sentenca="7" />
+    <word_142 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_143 token="saúde" lemma="saúde" pos="n" features="F=S" sentenca="7" />
+    <word_144 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_145 token="A" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_146 token="Folha_Online" lemma="" pos="prop" features="F=S" sentenca="8" />
+    <word_147 token="apurou" lemma="apurar" pos="v-fin" features="PS=3S=IND" sentenca="8" />
+    <word_148 token="que" lemma="que" pos="conj-s" features="-" sentenca="8" />
+    <word_149 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="8" />
+    <word_150 token="teria" lemma="ter" pos="v-fin" features="COND=3S" sentenca="8" />
+    <word_151 token="tido" lemma="ter" pos="v-pcp" features="M=S" sentenca="8" />
+    <word_152 token="uma" lemma="um" pos="art" features="F=S" sentenca="8" />
+    <word_153 token="parada" lemma="parada" pos="n" features="F=S" sentenca="8" />
+    <word_154 token="cardíaca" lemma="cardíaco" pos="adj" features="F=S" sentenca="8" />
+    <word_155 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_156 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_157 token="madrugada" lemma="madrugada" pos="n" features="F=S" sentenca="8" />
+    <word_158 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_159 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="8" />
+    <word_160 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" sentenca="8" />
+    <word_161 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_162 token="A" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_163 token="informação" lemma="informação, informar" pos="n" features="F=S" sentenca="9" />
+    <word_164 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="9" />
+    <word_165 token="transmitida" lemma="transmitir" pos="v-pcp" features="F=S" sentenca="9" />
+    <word_166 token="a" lemma="a" pos="prp" features="-" sentenca="9" />
+    <word_167 token="os" lemma="o" pos="art" features="M=P" sentenca="9" />
+    <word_168 token="parentes" lemma="parente" pos="n" features="M=P" sentenca="9" />
+    <word_169 token="e" lemma="e" pos="conj-c" features="-" sentenca="9" />
+    <word_170 token="amigos" lemma="amigo" pos="n" features="M=P" sentenca="9" />
+    <word_171 token="próximos" lemma="próximo" pos="adj" features="M=P" sentenca="9" />
+    <word_172 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_173 token="ACM" lemma="" pos="prop" features="M=S" sentenca="9" />
+    <word_174 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_175 token="A" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_176 token="pedido" lemma="pedir" pos="v-pcp" features="M=S" sentenca="10" />
+    <word_177 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_178 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_179 token="família" lemma="família" pos="n" features="F=S" sentenca="10" />
+    <word_180 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_181 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_182 token="senador" lemma="senador" pos="n" features="M=S" sentenca="10" />
+    <word_183 token="não" lemma="não" pos="adv" features="-" sentenca="10" />
+    <word_184 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="10" />
+    <word_185 token="autorizada" lemma="autorizar" pos="v-pcp" features="F=S" sentenca="10" />
+    <word_186 token="divulgação" lemma="divulgar" pos="n" features="F=S" sentenca="10" />
+    <word_187 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_188 token="informações" lemma="informar" pos="n" features="F=P" sentenca="10" />
+    <word_189 token="sobre" lemma="sobre" pos="prp" features="-" sentenca="10" />
+    <word_190 token="seu" lemma="seu" pos="pron-det" features="M=S" sentenca="10" />
+    <word_191 token="estado" lemma="estado" pos="n" features="M=S" sentenca="10" />
+    <word_192 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_193 token="saúde" lemma="saúde" pos="n" features="F=S" sentenca="10" />
+    <word_194 token="." lemma="." pos="." features="-" sentenca="10" />
+    <word_195 token="O" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_196 token="senador" lemma="senador" pos="n" features="M=S" sentenca="11" />
+    <word_197 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_198 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="11" />
+    <word_199 token="completaria" lemma="completar" pos="v-fin" features="COND=3S" sentenca="11" />
+    <word_200 token="80" lemma="" pos="num" features="M=P" sentenca="11" />
+    <word_201 token="anos" lemma="ano" pos="n" features="M=P" sentenca="11" />
+    <word_202 token="em" lemma="em" pos="prp" features="-" sentenca="11" />
+    <word_203 token="4" lemma="" pos="num" features="M=P" sentenca="11" />
+    <word_204 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_205 token="setembro" lemma="setembro" pos="n" features="M=S" sentenca="11" />
+    <word_206 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_207 token="deixa" lemma="deixar" pos="v-fin" features="PR=3S=IND" sentenca="11" />
+    <word_208 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_209 token="mulher" lemma="mulher" pos="n" features="F=S" sentenca="11" />
+    <word_210 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_211 token="Arlete" lemma="" pos="prop" features="M=S" sentenca="11" />
+    <word_212 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_213 token="e" lemma="e" pos="conj-c" features="-" sentenca="11" />
+    <word_214 token="os" lemma="o" pos="art" features="M=P" sentenca="11" />
+    <word_215 token="filhos" lemma="filho" pos="n" features="M=P" sentenca="11" />
+    <word_216 token="Antonio_Carlos_Magalhães_Júnior" lemma="" pos="prop" features="M=S" sentenca="11" />
+    <word_217 token="e" lemma="e" pos="conj-c" features="-" sentenca="11" />
+    <word_218 token="Teresa_Helena_Magalhães_Mata_Pires" lemma="" pos="prop" features="M=S" sentenca="11" />
+    <word_219 token="." lemma="." pos="." features="-" sentenca="11" />
+    <word_220 token="Outros" lemma="outro" pos="pron-det" features="M=P" sentenca="12" />
+    <word_221 token="dois" lemma="dois" pos="num" features="M=P" sentenca="12" />
+    <word_222 token="filhos" lemma="filho" pos="n" features="M=P" sentenca="12" />
+    <word_223 token="de" lemma="de" pos="prp" features="-" sentenca="12" />
+    <word_224 token="ACM" lemma="" pos="prop" features="M=S" sentenca="12" />
+    <word_225 token="já" lemma="já" pos="adv" features="-" sentenca="12" />
+    <word_226 token="morreram" lemma="morrer" pos="v-fin" features="MQP=3P=IND" sentenca="12" />
+    <word_227 token=":" lemma=":" pos=":" features="-" sentenca="12" />
+    <word_228 token="Luís_Eduardo_Maron_de_Magalhães" lemma="" pos="prop" features="M=S" sentenca="13" />
+    <word_229 token="e" lemma="e" pos="conj-c" features="-" sentenca="13" />
+    <word_230 token="Ana_Lúcia_Maron_de_Magalhães" lemma="" pos="prop" features="F=S" sentenca="13" />
+    <word_231 token="." lemma="." pos="." features="-" sentenca="13" />
+    <word_232 token="O" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_233 token="estado" lemma="estado" pos="n" features="M=S" sentenca="14" />
+    <word_234 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_235 token="saúde" lemma="saúde" pos="n" features="F=S" sentenca="14" />
+    <word_236 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_237 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_238 token="senador" lemma="senador" pos="n" features="M=S" sentenca="14" />
+    <word_239 token="começou" lemma="começar" pos="v-fin" features="PS=3S=IND" sentenca="14" />
+    <word_240 token="a" lemma="a" pos="prp" features="-" sentenca="14" />
+    <word_241 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" sentenca="14" />
+    <word_242 token="complicar" lemma="complicar" pos="v-inf" features="-" sentenca="14" />
+    <word_243 token="em" lemma="em" pos="prp" features="-" sentenca="14" />
+    <word_244 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="14" />
+    <word_245 token="ano" lemma="ano" pos="n" features="M=S" sentenca="14" />
+    <word_246 token="," lemma="" pos="," features="-" sentenca="14" />
+    <word_247 token="a_partir_de" lemma="" pos="prp" features="-" sentenca="14" />
+    <word_248 token="março" lemma="março" pos="n" features="M=S" sentenca="14" />
+    <word_249 token="," lemma="" pos="," features="-" sentenca="14" />
+    <word_250 token="quando" lemma="quando" pos="adv" features="-" sentenca="14" />
+    <word_251 token="o" lemma="o" pos="art" features="M=S" sentenca="14" />
+    <word_252 token="político" lemma="político" pos="n" features="M=S" sentenca="14" />
+    <word_253 token="ficou" lemma="ficar" pos="v-fin" features="PS=3S=IND" sentenca="14" />
+    <word_254 token="internado" lemma="internar" pos="v-pcp" features="M=S" sentenca="14" />
+    <word_255 token="para" lemma="para" pos="prp" features="-" sentenca="14" />
+    <word_256 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" sentenca="14" />
+    <word_257 token="curar" lemma="curar" pos="v-inf" features="-" sentenca="14" />
+    <word_258 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_259 token="uma" lemma="um" pos="art" features="F=S" sentenca="14" />
+    <word_260 token="pneumonia" lemma="pneumonia" pos="n" features="F=S" sentenca="14" />
+    <word_261 token="e" lemma="e" pos="conj-c" features="-" sentenca="14" />
+    <word_262 token="de" lemma="de" pos="prp" features="-" sentenca="14" />
+    <word_263 token="uma" lemma="um" pos="art" features="F=S" sentenca="14" />
+    <word_264 token="disfunção" lemma="disfunção" pos="n" features="F=S" sentenca="14" />
+    <word_265 token="renal" lemma="renal" pos="adj" features="F=S" sentenca="14" />
+    <word_266 token="." lemma="." pos="." features="-" sentenca="14" />
+    <word_267 token="Desde" lemma="desde" pos="prp" features="-" sentenca="15" />
+    <word_268 token="então" lemma="então" pos="adv" features="-" sentenca="15" />
+    <word_269 token="," lemma="" pos="," features="-" sentenca="15" />
+    <word_270 token="ACM" lemma="" pos="prop" features="M=S" sentenca="15" />
+    <word_271 token="vinha" lemma="vir" pos="v-fin" features="IMPF=3S=IND" sentenca="15" />
+    <word_272 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" sentenca="15" />
+    <word_273 token="submetendo" lemma="submeter" pos="v-ger" features="-" sentenca="15" />
+    <word_274 token="a" lemma="a" pos="prp" features="-" sentenca="15" />
+    <word_275 token="check-ups" lemma="" pos="n" features="M=S" sentenca="15" />
+    <word_276 token="de" lemma="de" pos="prp" features="-" sentenca="15" />
+    <word_277 token="rotina" lemma="rotina" pos="n" features="F=S" sentenca="15" />
+    <word_278 token="todo" lemma="todo" pos="pron-det" features="M=S" sentenca="15" />
+    <word_279 token="mês" lemma="mês" pos="n" features="M=S" sentenca="15" />
+    <word_280 token="." lemma="." pos="." features="-" sentenca="15" />
+    <word_281 token="Em" lemma="em" pos="prp" features="-" sentenca="16" />
+    <word_282 token="abril" lemma="abril" pos="n" features="M=S" sentenca="16" />
+    <word_283 token="," lemma="" pos="," features="-" sentenca="16" />
+    <word_284 token="o" lemma="o" pos="art" features="M=S" sentenca="16" />
+    <word_285 token="senador" lemma="senador" pos="n" features="M=S" sentenca="16" />
+    <word_286 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="16" />
+    <word_287 token="internado" lemma="internar" pos="v-pcp" features="M=S" sentenca="16" />
+    <word_288 token="em" lemma="em" pos="prp" features="-" sentenca="16" />
+    <word_289 token="o" lemma="o" pos="art" features="M=S" sentenca="16" />
+    <word_290 token="InCor" lemma="" pos="n" features="M=S" sentenca="16" />
+    <word_291 token="com" lemma="com" pos="prp" features="-" sentenca="16" />
+    <word_292 token="insuficiência" lemma="insuficiência" pos="n" features="F=S" sentenca="16" />
+    <word_293 token="cardíaca" lemma="cardíaco" pos="adj" features="F=S" sentenca="16" />
+    <word_294 token="." lemma="." pos="." features="-" sentenca="16" />
+    <word_295 token="em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_296 token="o" lemma="o" pos="art" features="M=S" sentenca="17" />
+    <word_297 token="final" lemma="final" pos="n" features="M=S" sentenca="17" />
+    <word_298 token="de" lemma="de" pos="prp" features="-" sentenca="17" />
+    <word_299 token="maio" lemma="maio, maio" pos="n" features="M=S" sentenca="17" />
+    <word_300 token="," lemma="" pos="," features="-" sentenca="17" />
+    <word_301 token="o" lemma="o" pos="art" features="M=S" sentenca="17" />
+    <word_302 token="parlamentar" lemma="parlamentar" pos="n" features="M=S" sentenca="17" />
+    <word_303 token="sentiu" lemma="sentir" pos="v-fin" features="PS=3S=IND" sentenca="17" />
+    <word_304 token="-se" lemma="" pos="pron-pers" features="M=3S=ACC" sentenca="17" />
+    <word_305 token="mal" lemma="mal" pos="adv" features="-" sentenca="17" />
+    <word_306 token="em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_307 token="o" lemma="o" pos="art" features="M=S" sentenca="17" />
+    <word_308 token="Senado" lemma="senado" pos="n" features="M=S" sentenca="17" />
+    <word_309 token="e" lemma="e" pos="conj-c" features="-" sentenca="17" />
+    <word_310 token="chegou" lemma="chegar" pos="v-fin" features="PS=3S=IND" sentenca="17" />
+    <word_311 token="a" lemma="a" pos="prp" features="-" sentenca="17" />
+    <word_312 token="cair" lemma="cair" pos="v-inf" features="-" sentenca="17" />
+    <word_313 token="em" lemma="em" pos="prp" features="-" sentenca="17" />
+    <word_314 token="frente" lemma="frente" pos="n" features="F=S" sentenca="17" />
+    <word_315 token="a" lemma="a" pos="prp" features="-" sentenca="17" />
+    <word_316 token="o" lemma="o" pos="art" features="M=S" sentenca="17" />
+    <word_317 token="seu" lemma="seu" pos="pron-det" features="M=S" sentenca="17" />
+    <word_318 token="gabinete" lemma="gabinete" pos="n" features="M=S" sentenca="17" />
+    <word_319 token="." lemma="." pos="." features="-" sentenca="17" />
+    <word_320 token="em" lemma="em" pos="prp" features="-" sentenca="18" />
+    <word_321 token="a" lemma="o" pos="art" features="F=S" sentenca="18" />
+    <word_322 token="ocasião" lemma="ocasião" pos="n" features="F=S" sentenca="18" />
+    <word_323 token="," lemma="" pos="," features="-" sentenca="18" />
+    <word_324 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="18" />
+    <word_325 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="18" />
+    <word_326 token="submetido" lemma="submeter" pos="v-pcp" features="M=S" sentenca="18" />
+    <word_327 token="a" lemma="a" pos="prp" features="-" sentenca="18" />
+    <word_328 token="uma" lemma="um" pos="art" features="F=S" sentenca="18" />
+    <word_329 token="série" lemma="série" pos="n" features="F=S" sentenca="18" />
+    <word_330 token="de" lemma="de" pos="prp" features="-" sentenca="18" />
+    <word_331 token="exames" lemma="exame" pos="n" features="M=P" sentenca="18" />
+    <word_332 token="em" lemma="em" pos="prp" features="-" sentenca="18" />
+    <word_333 token="o" lemma="o" pos="art" features="M=S" sentenca="18" />
+    <word_334 token="InCor" lemma="" pos="prop" features="M=S" sentenca="18" />
+    <word_335 token="." lemma="." pos="." features="-" sentenca="18" />
+    <word_336 token="ACM" lemma="" pos="prop" features="M=S" sentenca="19" />
+    <word_337 token="era" lemma="ser" pos="v-fin" features="IMPF=3S=IND" sentenca="19" />
+    <word_338 token="cardiopata" lemma="cardiopatia" pos="adj" features="M=S" sentenca="19" />
+    <word_339 token="," lemma="" pos="," features="-" sentenca="19" />
+    <word_340 token="portador" lemma="portador, portar" pos="n" features="M=S" sentenca="19" />
+    <word_341 token="de" lemma="de" pos="prp" features="-" sentenca="19" />
+    <word_342 token="insuficiência" lemma="insuficiência" pos="n" features="F=S" sentenca="19" />
+    <word_343 token="cardíaca" lemma="cardíaco" pos="adj" features="F=S" sentenca="19" />
+    <word_344 token="congestiva" lemma="" pos="adj" features="F=S" sentenca="19" />
+    <word_345 token="," lemma="" pos="," features="-" sentenca="19" />
+    <word_346 token="em" lemma="em" pos="prp" features="-" sentenca="19" />
+    <word_347 token="decorrência" lemma="" pos="n" features="F=S" sentenca="19" />
+    <word_348 token="de" lemma="de" pos="prp" features="-" sentenca="19" />
+    <word_349 token="um" lemma="um" pos="art" features="M=S" sentenca="19" />
+    <word_350 token="infarto" lemma="" pos="adj" features="M=S" sentenca="19" />
+    <word_351 token="," lemma="" pos="," features="-" sentenca="19" />
+    <word_352 token="ocorrido" lemma="ocorrer" pos="v-pcp" features="M=S" sentenca="19" />
+    <word_353 token="em" lemma="em" pos="prp" features="-" sentenca="19" />
+    <word_354 token="1989" lemma="" pos="num" features="M=P" sentenca="19" />
+    <word_355 token="." lemma="." pos="." features="-" sentenca="19" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_34>
+      <sn id="11" tokens="34...34" nucleo="ACM" sintagma="ACM" Categoria="PESSOA" sentenca="2">
+        <word_34 token="ACM" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="27" tokens="92...92" nucleo="ACM" sintagma="ACM" Categoria="PESSOA" sentenca="4">
+        <word_92 token="ACM" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="31" tokens="107...107" nucleo="ACM" sintagma="ACM" Categoria="PESSOA" sentenca="5">
+        <word_107 token="ACM" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="35" tokens="120...120" nucleo="ACM" sintagma="ACM" Categoria="PESSOA" sentenca="6">
+        <word_120 token="ACM" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="53" tokens="173...173" nucleo="ACM" sintagma="ACM" Categoria="PESSOA" sentenca="9">
+        <word_173 token="ACM" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="70" tokens="224...224" nucleo="ACM" sintagma="ACM" Categoria="PESSOA" sentenca="12">
+        <word_224 token="ACM" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="83" tokens="270...270" nucleo="ACM" sintagma="ACM" Categoria="PESSOA" sentenca="15">
+        <word_270 token="ACM" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="104" tokens="336...336" nucleo="ACM" sintagma="ACM" Categoria="PESSOA" sentenca="19">
+        <word_336 token="ACM" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="39" tokens="132...132" nucleo="ele" sintagma="ele" Categoria="PESSOA" sentenca="7">
+        <word_132 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+      </sn>
+      <sn id="46" tokens="149...149" nucleo="ele" sintagma="ele" Categoria="PESSOA" sentenca="8">
+        <word_149 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+      </sn>
+      <sn id="100" tokens="324...324" nucleo="ele" sintagma="ele" Categoria="PESSOA" sentenca="18">
+        <word_324 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+      </sn>
+      <sn id="94" tokens="301...302" nucleo="parlamentar" sintagma="o parlamentar" Categoria="PESSOA" sentenca="17">
+        <word_301 token="o" lemma="o" pos="art" features="M=S" />
+        <word_302 token="parlamentar" lemma="parlamentar" pos="n" features="M=S" />
+      </sn>
+      <sn id="78" tokens="251...252" nucleo="político" sintagma="o político" Categoria="PESSOA" sentenca="14">
+        <word_251 token="o" lemma="o" pos="art" features="M=S" />
+        <word_252 token="político" lemma="político" pos="n" features="M=S" />
+      </sn>
+      <sn id="24" tokens="82...83" nucleo="senador" sintagma="o senador" Categoria="PESSOA" sentenca="3">
+        <word_82 token="o" lemma="o" pos="art" features="M=S" />
+        <word_83 token="senador" lemma="senador" pos="n" features="M=S" />
+      </sn>
+      <sn id="55" tokens="181...182" nucleo="senador" sintagma="o senador" Categoria="PESSOA" sentenca="10">
+        <word_181 token="o" lemma="o" pos="art" features="M=S" />
+        <word_182 token="senador" lemma="senador" pos="n" features="M=S" />
+      </sn>
+      <sn id="75" tokens="237...238" nucleo="senador" sintagma="o senador" Categoria="PESSOA" sentenca="14">
+        <word_237 token="o" lemma="o" pos="art" features="M=S" />
+        <word_238 token="senador" lemma="senador" pos="n" features="M=S" />
+      </sn>
+      <sn id="89" tokens="284...285" nucleo="senador" sintagma="o senador" Categoria="PESSOA" sentenca="16">
+        <word_284 token="o" lemma="o" pos="art" features="M=S" />
+        <word_285 token="senador" lemma="senador" pos="n" features="M=S" />
+      </sn>
+      <sn id="60" tokens="195...196" nucleo="senador" sintagma="O senador" Categoria="PESSOA" sentenca="11">
+        <word_195 token="O" lemma="o" pos="art" features="M=S" />
+        <word_196 token="senador" lemma="senador" pos="n" features="M=S" />
+      </sn>
+      <sn id="0" tokens="0...2" nucleo="senador" sintagma="O senador Antonio Carlos Magalhães" Categoria="PESSOA" sentenca="1">
+        <word_0 token="O" lemma="o" pos="art" features="M=S" />
+        <word_1 token="senador" lemma="senador" pos="n" features="M=S" />
+        <word_2 token="Antonio_Carlos_Magalhães" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_34>
+    <Cadeia_35>
+      <sn id="10" tokens="30...32" nucleo="insuficiência" sintagma="a insuficiência cardíaca" Categoria="OUTRO" sentenca="1">
+        <word_30 token="a" lemma="o" pos="art" features="F=S" />
+        <word_31 token="insuficiência" lemma="insuficiência" pos="n" features="F=S" />
+        <word_32 token="cardíaca" lemma="cardíaco" pos="adj" features="F=S" />
+      </sn>
+      <sn id="91" tokens="292...293" nucleo="insuficiência" sintagma="insuficiência cardíaca" Categoria="OUTRO" sentenca="16">
+        <word_292 token="insuficiência" lemma="insuficiência" pos="n" features="F=S" />
+        <word_293 token="cardíaca" lemma="cardíaco" pos="adj" features="F=S" />
+      </sn>
+      <sn id="106" tokens="342...344" nucleo="insuficiência" sintagma="insuficiência cardíaca congestiva" Categoria="OUTRO" sentenca="19">
+        <word_342 token="insuficiência" lemma="insuficiência" pos="n" features="F=S" />
+        <word_343 token="cardíaca" lemma="cardíaco" pos="adj" features="F=S" />
+        <word_344 token="congestiva" lemma="" pos="adj" features="F=S" />
+      </sn>
+      <sn id="47" tokens="152...154" nucleo="parada" sintagma="uma parada cardíaca" Categoria="OUTRO" sentenca="8">
+        <word_152 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_153 token="parada" lemma="parada" pos="n" features="F=S" />
+        <word_154 token="cardíaca" lemma="cardíaco" pos="adj" features="F=S" />
+      </sn>
+    </Cadeia_35>
+    <Cadeia_36>
+      <sn id="13" tokens="41...41" nucleo="Instituto_do_Coração" sintagma=" Instituto de o Coração " Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_41 token="Instituto_do_Coração" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="32" tokens="110...111" nucleo="hospital" sintagma="o hospital" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+        <word_110 token="o" lemma="o" pos="art" features="M=S" />
+        <word_111 token="hospital" lemma="hospital" pos="n" features="M=S" />
+      </sn>
+      <sn id="14" tokens="45...46" nucleo="Hospital_das_Clínicas" sintagma="o Hospital de as Clínicas" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_45 token="o" lemma="o" pos="art" features="M=S" />
+        <word_46 token="Hospital_das_Clínicas" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="90" tokens="289...290" nucleo="InCor" sintagma="o InCor" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="16">
+        <word_289 token="o" lemma="o" pos="art" features="M=S" />
+        <word_290 token="InCor" lemma="" pos="n" features="M=S" />
+      </sn>
+      <sn id="103" tokens="333...334" nucleo="InCor" sintagma="o InCor" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="18">
+        <word_333 token="o" lemma="o" pos="art" features="M=S" />
+        <word_334 token="InCor" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="12" tokens="38...39" nucleo="InCor-SP" sintagma="o InCor-SP" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_38 token="o" lemma="o" pos="art" features="M=S" />
+        <word_39 token="InCor-SP" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_36>
+    <Cadeia_37>
+      <sn id="43" tokens="140...143" nucleo="estado" sintagma="o estado de saúde" Categoria="OUTRO" sentenca="7">
+        <word_140 token="o" lemma="o" pos="art" features="M=S" />
+        <word_141 token="estado" lemma="estado" pos="n" features="M=S" />
+        <word_142 token="de" lemma="de" pos="prp" features="-" />
+        <word_143 token="saúde" lemma="saúde" pos="n" features="F=S" />
+      </sn>
+      <sn id="73" tokens="232...238" nucleo="estado" sintagma="O estado de saúde de o senador" Categoria="OUTRO" sentenca="14">
+        <word_232 token="O" lemma="o" pos="art" features="M=S" />
+        <word_233 token="estado" lemma="estado" pos="n" features="M=S" />
+        <word_234 token="de" lemma="de" pos="prp" features="-" />
+        <word_235 token="saúde" lemma="saúde" pos="n" features="F=S" />
+        <word_236 token="de" lemma="de" pos="prp" features="-" />
+        <word_237 token="o" lemma="o" pos="art" features="M=S" />
+        <word_238 token="senador" lemma="senador" pos="n" features="M=S" />
+      </sn>
+      <sn id="58" tokens="190...193" nucleo="seu" sintagma="seu estado de saúde" Categoria="OUTRO" sentenca="10">
+        <word_190 token="seu" lemma="seu" pos="pron-det" features="M=S" />
+        <word_191 token="estado" lemma="estado" pos="n" features="M=S" />
+        <word_192 token="de" lemma="de" pos="prp" features="-" />
+        <word_193 token="saúde" lemma="saúde" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_37>
+    <Cadeia_38>
+      <sn id="20" tokens="66...67" nucleo="família" sintagma="A família" Categoria="PESSOA" sentenca="3">
+        <word_66 token="A" lemma="o" pos="art" features="F=S" />
+        <word_67 token="família" lemma="família" pos="n" features="F=S" />
+      </sn>
+      <sn id="30" tokens="104...107" nucleo="familiares" sintagma="Os familiares de ACM" Categoria="PESSOA" sentenca="5">
+        <word_104 token="Os" lemma="o" pos="art" features="M=P" />
+        <word_105 token="familiares" lemma="familiar" pos="n" features="M=P" />
+        <word_106 token="de" lemma="de" pos="prp" features="-" />
+        <word_107 token="ACM" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="51" tokens="168...168" nucleo="parentes" sintagma="parentes" Categoria="PESSOA" sentenca="9">
+        <word_168 token="parentes" lemma="parente" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_38>
+    <Cadeia_39>
+      <sn id="64" tokens="208...210" nucleo="mulher" sintagma="a mulher" Categoria="PESSOA" sentenca="11">
+        <word_208 token="a" lemma="o" pos="art" features="F=S" />
+        <word_209 token="mulher" lemma="mulher" pos="n" features="F=S" />
+        <word_210 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="65" tokens="211...211" nucleo="Arlete" sintagma="Arlete" Categoria="PESSOA" sentenca="11">
+        <word_211 token="Arlete" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_39>
+    <Cadeia_40>
+      <sn id="67" tokens="216...216" nucleo="Antonio_Carlos_Magalhães_Júnior" sintagma="Antonio Carlos Magalhães Júnior" Categoria="PESSOA" sentenca="11">
+        <word_216 token="Antonio_Carlos_Magalhães_Júnior" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="66" tokens="214...215" nucleo="filhos" sintagma="os filhos" Categoria="PESSOA" sentenca="11">
+        <word_214 token="os" lemma="o" pos="art" features="M=P" />
+        <word_215 token="filhos" lemma="filho" pos="n" features="M=P" />
+      </sn>
+      <sn id="68" tokens="218...218" nucleo="Teresa_Helena_Magalhães_Mata_Pires" sintagma="Teresa Helena Magalhães Mata Pires" Categoria="PESSOA" sentenca="11">
+        <word_218 token="Teresa_Helena_Magalhães_Mata_Pires" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_40>
+    <Cadeia_41>
+      <sn id="72" tokens="230...230" nucleo="Ana_Lúcia_Maron_de_Magalhães" sintagma="Ana Lúcia Maron de Magalhães" Categoria="PESSOA" sentenca="13">
+        <word_230 token="Ana_Lúcia_Maron_de_Magalhães" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="71" tokens="228...228" nucleo="Luís_Eduardo_Maron_de_Magalhães" sintagma="Luís Eduardo Maron de Magalhães" Categoria="PESSOA" sentenca="13">
+        <word_228 token="Luís_Eduardo_Maron_de_Magalhães" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="69" tokens="220...222" nucleo="Outros" sintagma="Outros dois filhos" Categoria="PESSOA" sentenca="12">
+        <word_220 token="Outros" lemma="outro" pos="pron-det" features="M=P" />
+        <word_221 token="dois" lemma="dois" pos="num" features="M=P" />
+        <word_222 token="filhos" lemma="filho" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_41>
+    <Cadeia_42>
+      <sn id="96" tokens="307...308" nucleo="Senado" sintagma="o Senado" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="17">
+        <word_307 token="o" lemma="o" pos="art" features="M=S" />
+        <word_308 token="Senado" lemma="senado" pos="n" features="M=S" />
+      </sn>
+      <sn id="98" tokens="316...318" nucleo="seu" sintagma="o seu gabinete" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="17">
+        <word_316 token="o" lemma="o" pos="art" features="M=S" />
+        <word_317 token="seu" lemma="seu" pos="pron-det" features="M=S" />
+        <word_318 token="gabinete" lemma="gabinete" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_42>
+    <Cadeia_43>
+      <sn id="29" tokens="98...98" nucleo="BA" sintagma="BA" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_98 token="BA" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="28" tokens="96...96" nucleo="Salvador" sintagma="Salvador" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_96 token="Salvador" lemma="Salvador" pos="prop" features="-" />
+      </sn>
+    </Cadeia_43>
+    <Cadeia_44>
+      <sn id="85" tokens="275...275" nucleo="check-ups" sintagma="check-ups" Categoria="OUTRO" sentenca="15">
+        <word_275 token="check-ups" lemma="" pos="n" features="M=S" />
+      </sn>
+      <sn id="102" tokens="331...331" nucleo="exames" sintagma="exames" Categoria="OUTRO" sentenca="18">
+        <word_331 token="exames" lemma="exame" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_44>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="95" tokens="304...304" nucleo="-se" sintagma="-se" Categoria="--" sentenca="17">
+      <word_304 token="-se" lemma="" pos="pron-pers" features="M=3S=ACC" />
+    </sn>
+    <sn id="25" tokens="85...86" nucleo="expectativa" sintagma="A expectativa" Categoria="--" sentenca="4">
+      <word_85 token="A" lemma="o" pos="art" features="F=S" />
+      <word_86 token="expectativa" lemma="expectativa" pos="n" features="F=S" />
+    </sn>
+    <sn id="45" tokens="145...146" nucleo="Folha_Online" sintagma="A Folha Online" Categoria="--" sentenca="8">
+      <word_145 token="A" lemma="o" pos="art" features="F=S" />
+      <word_146 token="Folha_Online" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="50" tokens="162...163" nucleo="informação" sintagma="A informação" Categoria="--" sentenca="9">
+      <word_162 token="A" lemma="o" pos="art" features="F=S" />
+      <word_163 token="informação" lemma="informação, informar" pos="n" features="F=S" />
+    </sn>
+    <sn id="48" tokens="156...157" nucleo="madrugada" sintagma="a madrugada" Categoria="--" sentenca="8">
+      <word_156 token="a" lemma="o" pos="art" features="F=S" />
+      <word_157 token="madrugada" lemma="madrugada" pos="n" features="F=S" />
+    </sn>
+    <sn id="99" tokens="321...322" nucleo="ocasião" sintagma="a ocasião" Categoria="--" sentenca="18">
+      <word_321 token="a" lemma="o" pos="art" features="F=S" />
+      <word_322 token="ocasião" lemma="ocasião" pos="n" features="F=S" />
+    </sn>
+    <sn id="54" tokens="175...182" nucleo="família" sintagma="A pedido de a família de o senador" Categoria="--" sentenca="10">
+      <word_175 token="A" lemma="o" pos="art" features="F=S" />
+      <word_176 token="pedido" lemma="pedir" pos="v-pcp" features="M=S" />
+      <word_177 token="de" lemma="de" pos="prp" features="-" />
+      <word_178 token="a" lemma="o" pos="art" features="F=S" />
+      <word_179 token="família" lemma="família" pos="n" features="F=S" />
+      <word_180 token="de" lemma="de" pos="prp" features="-" />
+      <word_181 token="o" lemma="o" pos="art" features="M=S" />
+      <word_182 token="senador" lemma="senador" pos="n" features="M=S" />
+    </sn>
+    <sn id="88" tokens="282...282" nucleo="abril" sintagma="abril" Categoria="--" sentenca="16">
+      <word_282 token="abril" lemma="abril" pos="n" features="M=S" />
+    </sn>
+    <sn id="42" tokens="138...138" nucleo="agravamento" sintagma="agravamento" Categoria="--" sentenca="7">
+      <word_138 token="agravamento" lemma="agravar" pos="n" features="M=S" />
+    </sn>
+    <sn id="52" tokens="170...171" nucleo="amigos" sintagma="amigos próximos" Categoria="--" sentenca="9">
+      <word_170 token="amigos" lemma="amigo" pos="n" features="M=P" />
+      <word_171 token="próximos" lemma="próximo" pos="adj" features="M=P" />
+    </sn>
+    <sn id="1" tokens="2...2" nucleo="Antonio_Carlos_Magalhães" sintagma="Antonio Carlos Magalhães" Categoria="--" sentenca="1">
+      <word_2 token="Antonio_Carlos_Magalhães" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="3" tokens="8...9" nucleo="11h40" sintagma="as 11h40" Categoria="--" sentenca="1">
+      <word_8 token="as" lemma="o" pos="art" features="F=P" />
+      <word_9 token="11h40" lemma="" pos="n" features="F=P" />
+    </sn>
+    <sn id="19" tokens="64...64" nucleo="cardíacas" sintagma="cardíacas" Categoria="--" sentenca="2">
+      <word_64 token="cardíacas" lemma="cardíaco" pos="n" features="F=P" />
+    </sn>
+    <sn id="36" tokens="122...123" nucleo="complicações" sintagma="complicações gástricas" Categoria="--" sentenca="6">
+      <word_122 token="complicações" lemma="complicar" pos="n" features="F=P" />
+      <word_123 token="gástricas" lemma="gástrico" pos="adj" features="F=P" />
+    </sn>
+    <sn id="18" tokens="61...62" nucleo="complicações" sintagma="complicações renais" Categoria="--" sentenca="2">
+      <word_61 token="complicações" lemma="complicar" pos="n" features="F=P" />
+      <word_62 token="renais" lemma="renal" pos="adj" features="F=P" />
+    </sn>
+    <sn id="6" tokens="22...22" nucleo="decorrência" sintagma="decorrência" Categoria="--" sentenca="1">
+      <word_22 token="decorrência" lemma="" pos="n" features="F=S" />
+    </sn>
+    <sn id="107" tokens="347...347" nucleo="decorrência" sintagma="decorrência" Categoria="--" sentenca="19">
+      <word_347 token="decorrência" lemma="" pos="n" features="F=S" />
+    </sn>
+    <sn id="2" tokens="4...4" nucleo="DEM-BA" sintagma="DEM-BA" Categoria="--" sentenca="1">
+      <word_4 token="DEM-BA" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="56" tokens="186...193" nucleo="divulgação" sintagma="divulgação de informações sobre seu estado de saúde" Categoria="--" sentenca="10">
+      <word_186 token="divulgação" lemma="divulgar" pos="n" features="F=S" />
+      <word_187 token="de" lemma="de" pos="prp" features="-" />
+      <word_188 token="informações" lemma="informar" pos="n" features="F=P" />
+      <word_189 token="sobre" lemma="sobre" pos="prp" features="-" />
+      <word_190 token="seu" lemma="seu" pos="pron-det" features="M=S" />
+      <word_191 token="estado" lemma="estado" pos="n" features="M=S" />
+      <word_192 token="de" lemma="de" pos="prp" features="-" />
+      <word_193 token="saúde" lemma="saúde" pos="n" features="F=S" />
+    </sn>
+    <sn id="17" tokens="57...58" nucleo="entrada" sintagma="entrada para" Categoria="--" sentenca="2">
+      <word_57 token="entrada" lemma="entrada" pos="n" features="F=S" />
+      <word_58 token="para" lemma="para" pos="prp" features="-" />
+    </sn>
+    <sn id="49" tokens="159...160" nucleo="esta" sintagma="esta sexta-feira" Categoria="--" sentenca="8">
+      <word_159 token="esta" lemma="este" pos="pron-det" features="F=S" />
+      <word_160 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="76" tokens="244...245" nucleo="este" sintagma="este ano" Categoria="--" sentenca="14">
+      <word_244 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_245 token="ano" lemma="ano" pos="n" features="M=S" />
+    </sn>
+    <sn id="34" tokens="117...118" nucleo="este" sintagma="este mês" Categoria="--" sentenca="6">
+      <word_117 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_118 token="mês" lemma="mês" pos="n" features="M=S" />
+    </sn>
+    <sn id="7" tokens="24...24" nucleo="falência" sintagma="falência" Categoria="--" sentenca="1">
+      <word_24 token="falência" lemma="falência" pos="n" features="F=S" />
+    </sn>
+    <sn id="97" tokens="314...314" nucleo="frente" sintagma="frente" Categoria="--" sentenca="17">
+      <word_314 token="frente" lemma="frente" pos="n" features="F=S" />
+    </sn>
+    <sn id="57" tokens="188...188" nucleo="informações" sintagma="informações" Categoria="--" sentenca="10">
+      <word_188 token="informações" lemma="informar" pos="n" features="F=P" />
+    </sn>
+    <sn id="38" tokens="130...130" nucleo="internação" sintagma="internação" Categoria="--" sentenca="7">
+      <word_130 token="internação" lemma="internar" pos="n" features="F=S" />
+    </sn>
+    <sn id="16" tokens="53...53" nucleo="junho" sintagma="junho" Categoria="--" sentenca="2">
+      <word_53 token="junho" lemma="junho" pos="n" features="M=S" />
+    </sn>
+    <sn id="93" tokens="299...299" nucleo="maio" sintagma="maio" Categoria="--" sentenca="17">
+      <word_299 token="maio" lemma="maio, maio" pos="n" features="M=S" />
+    </sn>
+    <sn id="77" tokens="248...248" nucleo="março" sintagma="março" Categoria="--" sentenca="14">
+      <word_248 token="março" lemma="março" pos="n" features="M=S" />
+    </sn>
+    <sn id="41" tokens="136...136" nucleo="melhoras" sintagma="melhoras" Categoria="--" sentenca="7">
+      <word_136 token="melhoras" lemma="melhoras" pos="n" features="F=P" />
+    </sn>
+    <sn id="8" tokens="26...26" nucleo="múltiplos" sintagma="múltiplos" Categoria="--" sentenca="1">
+      <word_26 token="múltiplos" lemma="múltiplo" pos="n" features="M=P" />
+    </sn>
+    <sn id="33" tokens="114...115" nucleo="começo" sintagma="o começo" Categoria="--" sentenca="6">
+      <word_114 token="o" lemma="o" pos="art" features="M=S" />
+      <word_115 token="começo" lemma="começo" pos="n" features="M=S" />
+    </sn>
+    <sn id="26" tokens="89...92" nucleo="corpo" sintagma="o corpo de ACM" Categoria="--" sentenca="4">
+      <word_89 token="o" lemma="o" pos="art" features="M=S" />
+      <word_90 token="corpo" lemma="corpo" pos="n" features="M=S" />
+      <word_91 token="de" lemma="de" pos="prp" features="-" />
+      <word_92 token="ACM" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="15" tokens="49...51" nucleo="dia" sintagma="o dia 13" Categoria="--" sentenca="2">
+      <word_49 token="o" lemma="o" pos="art" features="M=S" />
+      <word_50 token="dia" lemma="dia" pos="n" features="M=S" />
+      <word_51 token="13" lemma="" pos="num" features="M=P" />
+    </sn>
+    <sn id="23" tokens="79...80" nucleo="enterro" sintagma="o enterro" Categoria="--" sentenca="3">
+      <word_79 token="o" lemma="o" pos="art" features="M=S" />
+      <word_80 token="enterro" lemma="enterro" pos="n" features="M=S" />
+    </sn>
+    <sn id="92" tokens="296...297" nucleo="final" sintagma="o final" Categoria="--" sentenca="17">
+      <word_296 token="o" lemma="o" pos="art" features="M=S" />
+      <word_297 token="final" lemma="final" pos="n" features="M=S" />
+    </sn>
+    <sn id="21" tokens="71...72" nucleo="local" sintagma="o local" Categoria="--" sentenca="3">
+      <word_71 token="o" lemma="o" pos="art" features="M=S" />
+      <word_72 token="local" lemma="local" pos="n" features="M=S" />
+    </sn>
+    <sn id="37" tokens="126...128" nucleo="seu" sintagma="o seu período" Categoria="--" sentenca="7">
+      <word_126 token="o" lemma="o" pos="art" features="M=S" />
+      <word_127 token="seu" lemma="seu" pos="pron-det" features="M=S" />
+      <word_128 token="período" lemma="período" pos="n" features="M=S" />
+    </sn>
+    <sn id="22" tokens="76...83" nucleo="velório" sintagma="o velório e o enterro de o senador" Categoria="--" sentenca="3">
+      <word_76 token="o" lemma="o" pos="art" features="M=S" />
+      <word_77 token="velório" lemma="velório" pos="n" features="M=S" />
+      <word_78 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_79 token="o" lemma="o" pos="art" features="M=S" />
+      <word_80 token="enterro" lemma="enterro" pos="n" features="M=S" />
+      <word_81 token="de" lemma="de" pos="prp" features="-" />
+      <word_82 token="o" lemma="o" pos="art" features="M=S" />
+      <word_83 token="senador" lemma="senador" pos="n" features="M=S" />
+    </sn>
+    <sn id="4" tokens="14...16" nucleo="anos" sintagma="os 79 anos" Categoria="--" sentenca="1">
+      <word_14 token="os" lemma="o" pos="art" features="M=P" />
+      <word_15 token="79" lemma="" pos="num" features="M=P" />
+      <word_16 token="anos" lemma="ano" pos="n" features="M=P" />
+    </sn>
+    <sn id="40" tokens="134...143" nucleo="oscilações" sintagma="oscilações entre melhoras e agravamento de o estado de saúde" Categoria="--" sentenca="7">
+      <word_134 token="oscilações" lemma="oscilar" pos="n" features="F=P" />
+      <word_135 token="entre" lemma="entre" pos="prp" features="-" />
+      <word_136 token="melhoras" lemma="melhoras" pos="n" features="F=P" />
+      <word_137 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_138 token="agravamento" lemma="agravar" pos="n" features="M=S" />
+      <word_139 token="de" lemma="de" pos="prp" features="-" />
+      <word_140 token="o" lemma="o" pos="art" features="M=S" />
+      <word_141 token="estado" lemma="estado" pos="n" features="M=S" />
+      <word_142 token="de" lemma="de" pos="prp" features="-" />
+      <word_143 token="saúde" lemma="saúde" pos="n" features="F=S" />
+    </sn>
+    <sn id="105" tokens="340...340" nucleo="portador" sintagma="portador" Categoria="--" sentenca="19">
+      <word_340 token="portador" lemma="portador, portar" pos="n" features="M=S" />
+    </sn>
+    <sn id="61" tokens="198...198" nucleo="que" sintagma="que" Categoria="--" sentenca="11">
+      <word_198 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="86" tokens="277...277" nucleo="rotina" sintagma="rotina" Categoria="--" sentenca="15">
+      <word_277 token="rotina" lemma="rotina" pos="n" features="F=S" />
+    </sn>
+    <sn id="44" tokens="143...143" nucleo="saúde" sintagma="saúde" Categoria="--" sentenca="7">
+      <word_143 token="saúde" lemma="saúde" pos="n" features="F=S" />
+    </sn>
+    <sn id="59" tokens="193...193" nucleo="saúde" sintagma="saúde" Categoria="--" sentenca="10">
+      <word_193 token="saúde" lemma="saúde" pos="n" features="F=S" />
+    </sn>
+    <sn id="74" tokens="235...235" nucleo="saúde" sintagma="saúde" Categoria="--" sentenca="14">
+      <word_235 token="saúde" lemma="saúde" pos="n" features="F=S" />
+    </sn>
+    <sn id="79" tokens="241...241" nucleo="se" sintagma="se" Categoria="--" sentenca="14">
+      <word_241 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" />
+    </sn>
+    <sn id="80" tokens="256...256" nucleo="se" sintagma="se" Categoria="--" sentenca="14">
+      <word_256 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" />
+    </sn>
+    <sn id="84" tokens="272...273" nucleo="se" sintagma="se submetendo" Categoria="--" sentenca="15">
+      <word_272 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" />
+      <word_273 token="submetendo" lemma="submeter" pos="v-ger" features="-" />
+    </sn>
+    <sn id="63" tokens="205...205" nucleo="setembro" sintagma="setembro" Categoria="--" sentenca="11">
+      <word_205 token="setembro" lemma="setembro" pos="n" features="M=S" />
+    </sn>
+    <sn id="5" tokens="19...19" nucleo="São_Paulo" sintagma="São Paulo" Categoria="--" sentenca="1">
+      <word_19 token="São_Paulo" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="87" tokens="278...279" nucleo="todo" sintagma="todo mês" Categoria="--" sentenca="15">
+      <word_278 token="todo" lemma="todo" pos="pron-det" features="M=S" />
+      <word_279 token="mês" lemma="mês" pos="n" features="M=S" />
+    </sn>
+    <sn id="82" tokens="263...265" nucleo="disfunção" sintagma="uma disfunção renal" Categoria="--" sentenca="14">
+      <word_263 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_264 token="disfunção" lemma="disfunção" pos="n" features="F=S" />
+      <word_265 token="renal" lemma="renal" pos="adj" features="F=S" />
+    </sn>
+    <sn id="81" tokens="259...260" nucleo="pneumonia" sintagma="uma pneumonia" Categoria="--" sentenca="14">
+      <word_259 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_260 token="pneumonia" lemma="pneumonia" pos="n" features="F=S" />
+    </sn>
+    <sn id="101" tokens="328...329" nucleo="série" sintagma="uma série" Categoria="--" sentenca="18">
+      <word_328 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_329 token="série" lemma="série" pos="n" features="F=S" />
+    </sn>
+    <sn id="9" tokens="27...28" nucleo="órgãos" sintagma="órgãos secundária" Categoria="--" sentenca="1">
+      <word_27 token="órgãos" lemma="órgão" pos="n" features="M=P" />
+      <word_28 token="secundária" lemma="secundário" pos="adj" features="F=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

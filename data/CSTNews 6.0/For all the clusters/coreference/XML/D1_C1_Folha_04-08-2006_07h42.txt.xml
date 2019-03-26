@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="a o menos 17 pessoas morreram após a queda de um avião de passageiros em a República_Democrática de o Congo . . Segundo uma porta-voz de a ONU , o avião , de fabricação russa , estava tentando aterrissar em o aeroporto de Bukavu em meio a uma tempestade . A aeronave se chocou com uma montanha e caiu , em chamas , sobre uma floresta a 15 quilômetros de distância de a pista de o aeroporto . Acidentes aéreos são freqüentes em o Congo , onde 51 companhias privadas operam com aviões antigos principalmente fabricados em a antiga União_Soviética . O avião acidentado , operado por a Air_Traset , levava 14 passageiros e três tripulantes . Ele havia saído de a cidade mineira de Lugushwa em direção a Bukavu , em uma distância de 130 quilômetros . Aviões são usados extensivamente para transporte em a República_Democrática de o Congo , um vasto país em o qual há poucas estradas pavimentadas . Em março , a União_Européia proibiu quase todas as companhias aéreas de o Congo de operar em a Europa . Apenas uma manteve a permissão . Em junho , a Associação_Internacional_de_Transporte_Aéreo incluiu o Congo em um grupo de vários países africanos que classificou como ?uma vergonha ? para o setor . . . ." />
+  <Sentencas>
+    <sentenca_1 conteudo="Ao menos 17 pessoas morreram após a queda de um avião de passageiros em a República Democrática de o Congo." />
+    <sentenca_2 conteudo="." />
+    <sentenca_3 conteudo="Segundo uma porta-voz de a ONU, o avião, de fabricação russa, estava tentando aterrissar em o aeroporto de Bukavu em meio a uma tempestade." />
+    <sentenca_4 conteudo="A aeronave se chocou com uma montanha e caiu, em chamas, sobre uma floresta a 15 quilômetros de distância de a pista de o aeroporto." />
+    <sentenca_5 conteudo="Acidentes aéreos são freqüentes em o Congo, onde 51 companhias privadas operam com aviões antigos principalmente fabricados em a antiga União Soviética." />
+    <sentenca_6 conteudo="O avião acidentado, operado por a Air Traset, levava 14 passageiros e três tripulantes." />
+    <sentenca_7 conteudo="Ele havia saído de a cidade mineira de Lugushwa em direção a Bukavu, numa distância de 130 quilômetros." />
+    <sentenca_8 conteudo="Aviões são usados extensivamente para transporte em a República Democrática de o Congo, um vasto país em o qual há poucas estradas pavimentadas." />
+    <sentenca_9 conteudo="Em março, a União Européia proibiu quase todas as companhias aéreas de o Congo de operar em a Europa." />
+    <sentenca_10 conteudo="Apenas uma manteve a permissão." />
+    <sentenca_11 conteudo="Em junho, a Associação Internacional de Transporte Aéreo incluiu o Congo num grupo de vários países africanos que classificou como ?uma vergonha? para o setor." />
+    <sentenca_12 conteudo="." />
+    <sentenca_13 conteudo="." />
+    <sentenca_14 conteudo="." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_1 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_2 token="menos" lemma="menos" pos="pron-det" features="M=P" sentenca="1" />
+    <word_3 token="17" lemma="" pos="num" features="F=P" sentenca="1" />
+    <word_4 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="1" />
+    <word_5 token="morreram" lemma="morrer" pos="v-fin" features="MQP=3P=IND" sentenca="1" />
+    <word_6 token="após" lemma="após" pos="prp" features="-" sentenca="1" />
+    <word_7 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_8 token="queda" lemma="queda" pos="n" features="F=S" sentenca="1" />
+    <word_9 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_10 token="um" lemma="um" pos="art" features="M=S" sentenca="1" />
+    <word_11 token="avião" lemma="avião" pos="n" features="M=S" sentenca="1" />
+    <word_12 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_13 token="passageiros" lemma="passageiro" pos="n" features="M=P" sentenca="1" />
+    <word_14 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_15 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_16 token="República_Democrática" lemma="" pos="n" features="F=S" sentenca="1" />
+    <word_17 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_18 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_19 token="Congo" lemma="Congo" pos="prop" features="M=S" sentenca="1" />
+    <word_20 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_21 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_22 token="Segundo" lemma="segundo" pos="prp" features="-" sentenca="3" />
+    <word_23 token="uma" lemma="um" pos="art" features="F=S" sentenca="3" />
+    <word_24 token="porta-voz" lemma="porta-voz" pos="n" features="M=S" sentenca="3" />
+    <word_25 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_26 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_27 token="ONU" lemma="ONU" pos="prop" features="F=S" sentenca="3" />
+    <word_28 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_29 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_30 token="avião" lemma="avião" pos="n" features="M=S" sentenca="3" />
+    <word_31 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_32 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_33 token="fabricação" lemma="fabricar" pos="n" features="F=S" sentenca="3" />
+    <word_34 token="russa" lemma="russo" pos="adj" features="F=S" sentenca="3" />
+    <word_35 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_36 token="estava" lemma="estar" pos="v-fin" features="IMPF=3S=IND" sentenca="3" />
+    <word_37 token="tentando" lemma="tentar" pos="v-ger" features="-" sentenca="3" />
+    <word_38 token="aterrissar" lemma="" pos="v-inf" features="-" sentenca="3" />
+    <word_39 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_40 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_41 token="aeroporto" lemma="aeroporto" pos="n" features="M=S" sentenca="3" />
+    <word_42 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_43 token="Bukavu" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_44 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_45 token="meio" lemma="meio" pos="n" features="M=S" sentenca="3" />
+    <word_46 token="a" lemma="a" pos="prp" features="-" sentenca="3" />
+    <word_47 token="uma" lemma="um" pos="art" features="F=S" sentenca="3" />
+    <word_48 token="tempestade" lemma="tempestade" pos="n" features="F=S" sentenca="3" />
+    <word_49 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_50 token="A" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_51 token="aeronave" lemma="aeronave" pos="n" features="F=S" sentenca="4" />
+    <word_52 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" sentenca="4" />
+    <word_53 token="chocou" lemma="chocar" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_54 token="com" lemma="com" pos="prp" features="-" sentenca="4" />
+    <word_55 token="uma" lemma="um" pos="art" features="F=S" sentenca="4" />
+    <word_56 token="montanha" lemma="montanha" pos="n" features="F=S" sentenca="4" />
+    <word_57 token="e" lemma="e" pos="conj-c" features="-" sentenca="4" />
+    <word_58 token="caiu" lemma="cair" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_59 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_60 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_61 token="chamas" lemma="chama" pos="n" features="F=P" sentenca="4" />
+    <word_62 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_63 token="sobre" lemma="sobre" pos="prp" features="-" sentenca="4" />
+    <word_64 token="uma" lemma="um" pos="art" features="F=S" sentenca="4" />
+    <word_65 token="floresta" lemma="floresta" pos="n" features="F=S" sentenca="4" />
+    <word_66 token="a" lemma="a" pos="prp" features="-" sentenca="4" />
+    <word_67 token="15" lemma="" pos="num" features="M=P" sentenca="4" />
+    <word_68 token="quilômetros" lemma="quilômetro" pos="n" features="M=P" sentenca="4" />
+    <word_69 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_70 token="distância" lemma="distância" pos="n" features="F=S" sentenca="4" />
+    <word_71 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_72 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_73 token="pista" lemma="pista" pos="n" features="F=S" sentenca="4" />
+    <word_74 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_75 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_76 token="aeroporto" lemma="aeroporto" pos="n" features="M=S" sentenca="4" />
+    <word_77 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_78 token="Acidentes" lemma="acidente" pos="n" features="M=P" sentenca="5" />
+    <word_79 token="aéreos" lemma="aéreo" pos="adj" features="M=P" sentenca="5" />
+    <word_80 token="são" lemma="ser" pos="v-fin" features="PR=3P=IND" sentenca="5" />
+    <word_81 token="freqüentes" lemma="" pos="adj" features="M=P" sentenca="5" />
+    <word_82 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_83 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_84 token="Congo" lemma="Congo" pos="prop" features="M=S" sentenca="5" />
+    <word_85 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_86 token="onde" lemma="onde" pos="adv" features="-" sentenca="5" />
+    <word_87 token="51" lemma="" pos="num" features="F=P" sentenca="5" />
+    <word_88 token="companhias" lemma="companhia" pos="n" features="F=P" sentenca="5" />
+    <word_89 token="privadas" lemma="privado" pos="adj" features="F=P" sentenca="5" />
+    <word_90 token="operam" lemma="operar" pos="v-fin" features="PR=3P=IND" sentenca="5" />
+    <word_91 token="com" lemma="com" pos="prp" features="-" sentenca="5" />
+    <word_92 token="aviões" lemma="avião" pos="n" features="M=P" sentenca="5" />
+    <word_93 token="antigos" lemma="antigo" pos="adj" features="M=P" sentenca="5" />
+    <word_94 token="principalmente" lemma="principal" pos="adv" features="-" sentenca="5" />
+    <word_95 token="fabricados" lemma="fabricar" pos="v-pcp" features="M=P" sentenca="5" />
+    <word_96 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_97 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_98 token="antiga" lemma="antigo" pos="adj" features="F=S" sentenca="5" />
+    <word_99 token="União_Soviética" lemma="" pos="n" features="F=S" sentenca="5" />
+    <word_100 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_101 token="O" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_102 token="avião" lemma="avião" pos="n" features="M=S" sentenca="6" />
+    <word_103 token="acidentado" lemma="acidentar" pos="v-pcp" features="M=S" sentenca="6" />
+    <word_104 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_105 token="operado" lemma="operar" pos="v-pcp" features="M=S" sentenca="6" />
+    <word_106 token="por" lemma="por" pos="prp" features="-" sentenca="6" />
+    <word_107 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_108 token="Air_Traset" lemma="" pos="prop" features="F=S" sentenca="6" />
+    <word_109 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_110 token="levava" lemma="levar" pos="v-fin" features="IMPF=3S=IND" sentenca="6" />
+    <word_111 token="14" lemma="" pos="num" features="M=P" sentenca="6" />
+    <word_112 token="passageiros" lemma="passageiro" pos="n" features="M=P" sentenca="6" />
+    <word_113 token="e" lemma="e" pos="conj-c" features="-" sentenca="6" />
+    <word_114 token="três" lemma="três" pos="num" features="M=P" sentenca="6" />
+    <word_115 token="tripulantes" lemma="tripulante" pos="n" features="M=P" sentenca="6" />
+    <word_116 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_117 token="Ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="7" />
+    <word_118 token="havia" lemma="haver" pos="v-fin" features="IMPF=3S=IND" sentenca="7" />
+    <word_119 token="saído" lemma="sair" pos="v-pcp" features="M=S" sentenca="7" />
+    <word_120 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_121 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_122 token="cidade" lemma="cidade" pos="n" features="F=S" sentenca="7" />
+    <word_123 token="mineira" lemma="mineiro" pos="adj" features="F=S" sentenca="7" />
+    <word_124 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_125 token="Lugushwa" lemma="" pos="prop" features="F=S" sentenca="7" />
+    <word_126 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_127 token="direção" lemma="direção" pos="n" features="F=S" sentenca="7" />
+    <word_128 token="a" lemma="a" pos="prp" features="-" sentenca="7" />
+    <word_129 token="Bukavu" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_130 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_131 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_132 token="uma" lemma="um" pos="art" features="F=S" sentenca="7" />
+    <word_133 token="distância" lemma="distância" pos="n" features="F=S" sentenca="7" />
+    <word_134 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_135 token="130" lemma="" pos="num" features="M=P" sentenca="7" />
+    <word_136 token="quilômetros" lemma="quilômetro" pos="n" features="M=P" sentenca="7" />
+    <word_137 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_138 token="Aviões" lemma="avião" pos="n" features="M=P" sentenca="8" />
+    <word_139 token="são" lemma="ser" pos="v-fin" features="PR=3P=IND" sentenca="8" />
+    <word_140 token="usados" lemma="usar" pos="v-pcp" features="M=P" sentenca="8" />
+    <word_141 token="extensivamente" lemma="extensivo" pos="adv" features="-" sentenca="8" />
+    <word_142 token="para" lemma="para" pos="prp" features="-" sentenca="8" />
+    <word_143 token="transporte" lemma="transporte" pos="n" features="M=S" sentenca="8" />
+    <word_144 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_145 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_146 token="República_Democrática" lemma="" pos="n" features="F=S" sentenca="8" />
+    <word_147 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_148 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_149 token="Congo" lemma="Congo" pos="prop" features="M=S" sentenca="8" />
+    <word_150 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_151 token="um" lemma="um" pos="art" features="M=S" sentenca="8" />
+    <word_152 token="vasto" lemma="vasto" pos="adj" features="M=S" sentenca="8" />
+    <word_153 token="país" lemma="país" pos="n" features="M=S" sentenca="8" />
+    <word_154 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_155 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_156 token="qual" lemma="qual" pos="pron-det" features="M=S" sentenca="8" />
+    <word_157 token="há" lemma="haver" pos="v-fin" features="PR=3S=IND" sentenca="8" />
+    <word_158 token="poucas" lemma="pouco" pos="pron-det" features="F=P" sentenca="8" />
+    <word_159 token="estradas" lemma="estrada" pos="n" features="F=P" sentenca="8" />
+    <word_160 token="pavimentadas" lemma="pavimentar" pos="v-pcp" features="F=P" sentenca="8" />
+    <word_161 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_162 token="Em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_163 token="março" lemma="março" pos="n" features="M=S" sentenca="9" />
+    <word_164 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_165 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_166 token="União_Européia" lemma="" pos="prop" features="F=S" sentenca="9" />
+    <word_167 token="proibiu" lemma="proibir" pos="v-fin" features="PS=3S=IND" sentenca="9" />
+    <word_168 token="quase" lemma="quase" pos="adv" features="-" sentenca="9" />
+    <word_169 token="todas" lemma="todo" pos="pron-det" features="F=P" sentenca="9" />
+    <word_170 token="as" lemma="o" pos="art" features="F=P" sentenca="9" />
+    <word_171 token="companhias" lemma="companhia" pos="n" features="F=P" sentenca="9" />
+    <word_172 token="aéreas" lemma="aéreo" pos="adj" features="F=P" sentenca="9" />
+    <word_173 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_174 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_175 token="Congo" lemma="Congo" pos="prop" features="M=S" sentenca="9" />
+    <word_176 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_177 token="operar" lemma="operar" pos="v-inf" features="-" sentenca="9" />
+    <word_178 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_179 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_180 token="Europa" lemma="Europa" pos="prop" features="-" sentenca="9" />
+    <word_181 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_182 token="Apenas" lemma="apenas" pos="adv" features="-" sentenca="10" />
+    <word_183 token="uma" lemma="um" pos="art" features="F=S" sentenca="10" />
+    <word_184 token="manteve" lemma="manter" pos="v-fin" features="PS=3S=IND" sentenca="10" />
+    <word_185 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_186 token="permissão" lemma="permissão" pos="n" features="F=S" sentenca="10" />
+    <word_187 token="." lemma="." pos="." features="-" sentenca="10" />
+    <word_188 token="Em" lemma="em" pos="prp" features="-" sentenca="11" />
+    <word_189 token="junho" lemma="junho" pos="n" features="M=S" sentenca="11" />
+    <word_190 token="," lemma="" pos="," features="-" sentenca="11" />
+    <word_191 token="a" lemma="a" pos="prp" features="-" sentenca="11" />
+    <word_192 token="Associação_Internacional_de_Transporte_Aéreo" lemma="" pos="prop" features="M=S" sentenca="11" />
+    <word_193 token="incluiu" lemma="incluir" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_194 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_195 token="Congo" lemma="Congo" pos="prop" features="M=S" sentenca="11" />
+    <word_196 token="em" lemma="em" pos="prp" features="-" sentenca="11" />
+    <word_197 token="um" lemma="um" pos="art" features="M=S" sentenca="11" />
+    <word_198 token="grupo" lemma="grupo" pos="n" features="M=S" sentenca="11" />
+    <word_199 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_200 token="vários" lemma="" pos="pron-det" features="M=P" sentenca="11" />
+    <word_201 token="países" lemma="país" pos="n" features="M=P" sentenca="11" />
+    <word_202 token="africanos" lemma="africano" pos="adj" features="M=P" sentenca="11" />
+    <word_203 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="11" />
+    <word_204 token="classificou" lemma="classificar" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_205 token="como" lemma="como" pos="adv" features="-" sentenca="11" />
+    <word_206 token="?uma" lemma="" pos="art" features="F=S" sentenca="11" />
+    <word_207 token="vergonha" lemma="vergonha" pos="n" features="F=S" sentenca="11" />
+    <word_208 token="?" lemma="" pos="adj" features="F=S" sentenca="11" />
+    <word_209 token="para" lemma="para" pos="prp" features="-" sentenca="11" />
+    <word_210 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_211 token="setor" lemma="setor" pos="n" features="M=S" sentenca="11" />
+    <word_212 token="." lemma="." pos="." features="-" sentenca="11" />
+    <word_213 token="." lemma="." pos="." features="-" sentenca="12" />
+    <word_214 token="." lemma="." pos="." features="-" sentenca="13" />
+    <word_215 token="." lemma="." pos="." features="-" sentenca="14" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_10>
+      <sn id="10" tokens="40...41" nucleo="aeroporto" sintagma="o aeroporto" Categoria="ABSTRAÇÃO" sentenca="3">
+        <word_40 token="o" lemma="o" pos="art" features="M=S" />
+        <word_41 token="aeroporto" lemma="aeroporto" pos="n" features="M=S" />
+      </sn>
+      <sn id="21" tokens="72...73" nucleo="pista" sintagma="a pista" Categoria="ABSTRAÇÃO" sentenca="4">
+        <word_72 token="a" lemma="o" pos="art" features="F=S" />
+        <word_73 token="pista" lemma="pista" pos="n" features="F=S" />
+      </sn>
+      <sn id="22" tokens="75...76" nucleo="aeroporto" sintagma="o aeroporto" Categoria="ABSTRAÇÃO" sentenca="4">
+        <word_75 token="o" lemma="o" pos="art" features="M=S" />
+        <word_76 token="aeroporto" lemma="aeroporto" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_10>
+    <Cadeia_11>
+      <sn id="11" tokens="43...43" nucleo="Bukavu" sintagma="Bukavu" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="3">
+        <word_43 token="Bukavu" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="36" tokens="129...129" nucleo="Bukavu" sintagma="Bukavu" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="7">
+        <word_129 token="Bukavu" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_11>
+    <Cadeia_12>
+      <sn id="20" tokens="70...70" nucleo="distância" sintagma="distância" Categoria="OUTRO" sentenca="4">
+        <word_70 token="distância" lemma="distância" pos="n" features="F=S" />
+      </sn>
+      <sn id="37" tokens="132...133" nucleo="distância" sintagma="uma distância" Categoria="OUTRO" sentenca="7">
+        <word_132 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_133 token="distância" lemma="distância" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_12>
+    <Cadeia_15>
+      <sn id="16" tokens="55...56" nucleo="montanha" sintagma="uma montanha" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_55 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_56 token="montanha" lemma="montanha" pos="n" features="F=S" />
+      </sn>
+      <sn id="18" tokens="64...65" nucleo="floresta" sintagma="uma floresta" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_64 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_65 token="floresta" lemma="floresta" pos="n" features="F=S" />
+      </sn>
+      <sn id="55" tokens="197...198" nucleo="grupo" sintagma="um grupo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="11">
+        <word_197 token="um" lemma="um" pos="art" features="M=S" />
+        <word_198 token="grupo" lemma="grupo" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_15>
+    <Cadeia_2>
+      <sn id="2" tokens="10...11" nucleo="avião" sintagma="um avião" Categoria="OUTRO" sentenca="1">
+        <word_10 token="um" lemma="um" pos="art" features="M=S" />
+        <word_11 token="avião" lemma="avião" pos="n" features="M=S" />
+      </sn>
+      <sn id="8" tokens="29...35" nucleo="avião" sintagma="o avião , de fabricação russa" Categoria="OUTRO" sentenca="3">
+        <word_29 token="o" lemma="o" pos="art" features="M=S" />
+        <word_30 token="avião" lemma="avião" pos="n" features="M=S" />
+        <word_31 token="," lemma="" pos="," features="-" />
+        <word_32 token="de" lemma="de" pos="prp" features="-" />
+        <word_33 token="fabricação" lemma="fabricar" pos="n" features="F=S" />
+        <word_34 token="russa" lemma="russo" pos="adj" features="F=S" />
+        <word_35 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="14" tokens="50...51" nucleo="aeronave" sintagma="A aeronave" Categoria="OUTRO" sentenca="4">
+        <word_50 token="A" lemma="o" pos="art" features="F=S" />
+        <word_51 token="aeronave" lemma="aeronave" pos="n" features="F=S" />
+      </sn>
+      <sn id="26" tokens="92...93" nucleo="aviões" sintagma="aviões antigos" Categoria="OUTRO" sentenca="5">
+        <word_92 token="aviões" lemma="avião" pos="n" features="M=P" />
+        <word_93 token="antigos" lemma="antigo" pos="adj" features="M=P" />
+      </sn>
+      <sn id="28" tokens="101...104" nucleo="avião" sintagma="O avião acidentado" Categoria="OUTRO" sentenca="6">
+        <word_101 token="O" lemma="o" pos="art" features="M=S" />
+        <word_102 token="avião" lemma="avião" pos="n" features="M=S" />
+        <word_103 token="acidentado" lemma="acidentar" pos="v-pcp" features="M=S" />
+        <word_104 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="32" tokens="117...117" nucleo="Ele" sintagma="Ele" Categoria="OUTRO" sentenca="7">
+        <word_117 token="Ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+      </sn>
+      <sn id="39" tokens="138...138" nucleo="Aviões" sintagma="Aviões" Categoria="OUTRO" sentenca="8">
+        <word_138 token="Aviões" lemma="avião" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_2>
+    <Cadeia_20>
+      <sn id="6" tokens="23...24" nucleo="porta-voz" sintagma="uma porta-voz" Categoria="OUTRO" sentenca="3">
+        <word_23 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_24 token="porta-voz" lemma="porta-voz" pos="n" features="M=S" />
+      </sn>
+      <sn id="7" tokens="26...27" nucleo="ONU" sintagma="a ONU" Categoria="OUTRO" sentenca="3">
+        <word_26 token="a" lemma="o" pos="art" features="F=S" />
+        <word_27 token="ONU" lemma="ONU" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_20>
+    <Cadeia_21>
+      <sn id="33" tokens="121...123" nucleo="cidade" sintagma="a cidade mineira" Categoria="OUTRO" sentenca="7">
+        <word_121 token="a" lemma="o" pos="art" features="F=S" />
+        <word_122 token="cidade" lemma="cidade" pos="n" features="F=S" />
+        <word_123 token="mineira" lemma="mineiro" pos="adj" features="F=S" />
+      </sn>
+      <sn id="34" tokens="125...125" nucleo="Lugushwa" sintagma="Lugushwa" Categoria="OUTRO" sentenca="7">
+        <word_125 token="Lugushwa" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_21>
+    <Cadeia_22>
+      <sn id="29" tokens="107...108" nucleo="Air_Traset" sintagma="a Air Traset" Categoria="OUTRO" sentenca="6">
+        <word_107 token="a" lemma="o" pos="art" features="F=S" />
+        <word_108 token="Air_Traset" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="48" tokens="168...176" nucleo="todas" sintagma="quase todas as companhias aéreas de o Congo de" Categoria="OUTRO" sentenca="9">
+        <word_168 token="quase" lemma="quase" pos="adv" features="-" />
+        <word_169 token="todas" lemma="todo" pos="pron-det" features="F=P" />
+        <word_170 token="as" lemma="o" pos="art" features="F=P" />
+        <word_171 token="companhias" lemma="companhia" pos="n" features="F=P" />
+        <word_172 token="aéreas" lemma="aéreo" pos="adj" features="F=P" />
+        <word_173 token="de" lemma="de" pos="prp" features="-" />
+        <word_174 token="o" lemma="o" pos="art" features="M=S" />
+        <word_175 token="Congo" lemma="Congo" pos="prop" features="M=S" />
+        <word_176 token="de" lemma="de" pos="prp" features="-" />
+      </sn>
+    </Cadeia_22>
+    <Cadeia_24>
+      <sn id="58" tokens="206...211" nucleo="vergonha" sintagma="?uma vergonha ? para o setor" Categoria="OUTRO" sentenca="11">
+        <word_206 token="?uma" lemma="" pos="art" features="F=S" />
+        <word_207 token="vergonha" lemma="vergonha" pos="n" features="F=S" />
+        <word_208 token="?" lemma="" pos="adj" features="F=S" />
+        <word_209 token="para" lemma="para" pos="prp" features="-" />
+        <word_210 token="o" lemma="o" pos="art" features="M=S" />
+        <word_211 token="setor" lemma="setor" pos="n" features="M=S" />
+      </sn>
+      <sn id="59" tokens="210...211" nucleo="setor" sintagma="o setor" Categoria="OUTRO" sentenca="11">
+        <word_210 token="o" lemma="o" pos="art" features="M=S" />
+        <word_211 token="setor" lemma="setor" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_24>
+    <Cadeia_4>
+      <sn id="4" tokens="15...16" nucleo="República_Democrática" sintagma="a República Democrática" Categoria="OUTRO" sentenca="1">
+        <word_15 token="a" lemma="o" pos="art" features="F=S" />
+        <word_16 token="República_Democrática" lemma="" pos="n" features="F=S" />
+      </sn>
+      <sn id="41" tokens="145...146" nucleo="República_Democrática" sintagma="a República Democrática" Categoria="OUTRO" sentenca="8">
+        <word_145 token="a" lemma="o" pos="art" features="F=S" />
+        <word_146 token="República_Democrática" lemma="" pos="n" features="F=S" />
+      </sn>
+      <sn id="43" tokens="151...153" nucleo="país" sintagma="um vasto país" Categoria="OUTRO" sentenca="8">
+        <word_151 token="um" lemma="um" pos="art" features="M=S" />
+        <word_152 token="vasto" lemma="vasto" pos="adj" features="M=S" />
+        <word_153 token="país" lemma="país" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_4>
+    <Cadeia_5>
+      <sn id="5" tokens="18...19" nucleo="Congo" sintagma="o Congo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_18 token="o" lemma="o" pos="art" features="M=S" />
+        <word_19 token="Congo" lemma="Congo" pos="prop" features="M=S" />
+      </sn>
+      <sn id="24" tokens="83...84" nucleo="Congo" sintagma="o Congo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+        <word_83 token="o" lemma="o" pos="art" features="M=S" />
+        <word_84 token="Congo" lemma="Congo" pos="prop" features="M=S" />
+      </sn>
+      <sn id="42" tokens="148...149" nucleo="Congo" sintagma="o Congo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_148 token="o" lemma="o" pos="art" features="M=S" />
+        <word_149 token="Congo" lemma="Congo" pos="prop" features="M=S" />
+      </sn>
+      <sn id="49" tokens="174...175" nucleo="Congo" sintagma="o Congo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_174 token="o" lemma="o" pos="art" features="M=S" />
+        <word_175 token="Congo" lemma="Congo" pos="prop" features="M=S" />
+      </sn>
+      <sn id="54" tokens="194...195" nucleo="Congo" sintagma="o Congo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="11">
+        <word_194 token="o" lemma="o" pos="art" features="M=S" />
+        <word_195 token="Congo" lemma="Congo" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_5>
+    <Cadeia_8>
+      <sn id="17" tokens="61...61" nucleo="chamas" sintagma="chamas" Categoria="OUTRO" sentenca="4">
+        <word_61 token="chamas" lemma="chama" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_8>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="0" tokens="1...4" nucleo="menos" sintagma="o menos 17 pessoas" Categoria="--" sentenca="1">
+      <word_1 token="o" lemma="o" pos="art" features="M=S" />
+      <word_2 token="menos" lemma="menos" pos="pron-det" features="M=P" />
+      <word_3 token="17" lemma="" pos="num" features="F=P" />
+      <word_4 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+    </sn>
+    <sn id="3" tokens="13...13" nucleo="passageiros" sintagma="passageiros" Categoria="--" sentenca="1">
+      <word_13 token="passageiros" lemma="passageiro" pos="n" features="M=P" />
+    </sn>
+    <sn id="9" tokens="33...34" nucleo="fabricação" sintagma="fabricação russa" Categoria="--" sentenca="3">
+      <word_33 token="fabricação" lemma="fabricar" pos="n" features="F=S" />
+      <word_34 token="russa" lemma="russo" pos="adj" features="F=S" />
+    </sn>
+    <sn id="12" tokens="45...45" nucleo="meio" sintagma="meio" Categoria="--" sentenca="3">
+      <word_45 token="meio" lemma="meio" pos="n" features="M=S" />
+    </sn>
+    <sn id="13" tokens="47...48" nucleo="tempestade" sintagma="uma tempestade" Categoria="--" sentenca="3">
+      <word_47 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_48 token="tempestade" lemma="tempestade" pos="n" features="F=S" />
+    </sn>
+    <sn id="15" tokens="52...52" nucleo="se" sintagma="se" Categoria="--" sentenca="4">
+      <word_52 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" />
+    </sn>
+    <sn id="23" tokens="78...79" nucleo="Acidentes" sintagma="Acidentes aéreos" Categoria="--" sentenca="5">
+      <word_78 token="Acidentes" lemma="acidente" pos="n" features="M=P" />
+      <word_79 token="aéreos" lemma="aéreo" pos="adj" features="M=P" />
+    </sn>
+    <sn id="27" tokens="97...99" nucleo="União_Soviética" sintagma="a antiga União Soviética" Categoria="--" sentenca="5">
+      <word_97 token="a" lemma="o" pos="art" features="F=S" />
+      <word_98 token="antiga" lemma="antigo" pos="adj" features="F=S" />
+      <word_99 token="União_Soviética" lemma="" pos="n" features="F=S" />
+    </sn>
+    <sn id="31" tokens="114...115" nucleo="tripulantes" sintagma="três tripulantes" Categoria="--" sentenca="6">
+      <word_114 token="três" lemma="três" pos="num" features="M=P" />
+      <word_115 token="tripulantes" lemma="tripulante" pos="n" features="M=P" />
+    </sn>
+    <sn id="35" tokens="127...127" nucleo="direção" sintagma="direção" Categoria="--" sentenca="7">
+      <word_127 token="direção" lemma="direção" pos="n" features="F=S" />
+    </sn>
+    <sn id="40" tokens="143...143" nucleo="transporte" sintagma="transporte" Categoria="--" sentenca="8">
+      <word_143 token="transporte" lemma="transporte" pos="n" features="M=S" />
+    </sn>
+    <sn id="44" tokens="155...156" nucleo="qual" sintagma="o qual" Categoria="--" sentenca="8">
+      <word_155 token="o" lemma="o" pos="art" features="M=S" />
+      <word_156 token="qual" lemma="qual" pos="pron-det" features="M=S" />
+    </sn>
+    <sn id="45" tokens="158...160" nucleo="poucas" sintagma="poucas estradas pavimentadas" Categoria="--" sentenca="8">
+      <word_158 token="poucas" lemma="pouco" pos="pron-det" features="F=P" />
+      <word_159 token="estradas" lemma="estrada" pos="n" features="F=P" />
+      <word_160 token="pavimentadas" lemma="pavimentar" pos="v-pcp" features="F=P" />
+    </sn>
+    <sn id="46" tokens="163...163" nucleo="março" sintagma="março" Categoria="--" sentenca="9">
+      <word_163 token="março" lemma="março" pos="n" features="M=S" />
+    </sn>
+    <sn id="47" tokens="165...166" nucleo="União_Européia" sintagma="a União Européia" Categoria="--" sentenca="9">
+      <word_165 token="a" lemma="o" pos="art" features="F=S" />
+      <word_166 token="União_Européia" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="50" tokens="179...180" nucleo="Europa" sintagma="a Europa" Categoria="--" sentenca="9">
+      <word_179 token="a" lemma="o" pos="art" features="F=S" />
+      <word_180 token="Europa" lemma="Europa" pos="prop" features="-" />
+    </sn>
+    <sn id="51" tokens="185...186" nucleo="permissão" sintagma="a permissão" Categoria="--" sentenca="10">
+      <word_185 token="a" lemma="o" pos="art" features="F=S" />
+      <word_186 token="permissão" lemma="permissão" pos="n" features="F=S" />
+    </sn>
+    <sn id="52" tokens="189...189" nucleo="junho" sintagma="junho" Categoria="--" sentenca="11">
+      <word_189 token="junho" lemma="junho" pos="n" features="M=S" />
+    </sn>
+    <sn id="53" tokens="192...192" nucleo="Associação_Internacional_de_Transporte_Aéreo" sintagma="Associação Internacional de Transporte Aéreo" Categoria="--" sentenca="11">
+      <word_192 token="Associação_Internacional_de_Transporte_Aéreo" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="56" tokens="200...202" nucleo="vários" sintagma="vários países africanos" Categoria="--" sentenca="11">
+      <word_200 token="vários" lemma="" pos="pron-det" features="M=P" />
+      <word_201 token="países" lemma="país" pos="n" features="M=P" />
+      <word_202 token="africanos" lemma="africano" pos="adj" features="M=P" />
+    </sn>
+    <sn id="57" tokens="203...203" nucleo="que" sintagma="que" Categoria="--" sentenca="11">
+      <word_203 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

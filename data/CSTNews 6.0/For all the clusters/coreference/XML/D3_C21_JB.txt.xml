@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="O ministro de a Defesa , Nelson_Jobim , decidiu que será realizada uma reforma definitiva em a pista principal de Guarulhos , o mais rápido possível , de acordo com a assessoria de o ministério de a Defesa . Fica afastada , portanto , a alternativa cogitada em a semana passada , de se efetuar uma reforma emergencial em esse momento e se iniciar a reforma definitiva apenas em março de 2008 . De_acordo com estudos apresentados por a Infraero , será possível realizar a obra definitiva em três etapas , sem que seja necessário fechar a pista em este momento . O cronograma de a obra depende de estudos finais que estão sendo realizados por a Infraero . em a primeira etapa , será reformado um terço de a pista , em uma de as cabeceiras , ficando o restante disponível para pousos e decolagens . em a segunda etapa , a parte concluída será reaberta e a obra passará a ser feita em a outra cabeceira . A_partir_de março , será iniciada a fase final de a obra , com a reforma de o trecho central . Quando isso ocorrer , a pista deverá ser fechada , e os vôos que a utilizariam serão transferidos para o Aeroporto_de_Viracopos ( Campinas ) . De_acordo com a assessoria de o ministério , a transferência de os vôos de Guarulhos para Viracopos não poderá ser feita em este momento , por que o aeroporto de Campinas necessitará de ampliação , principalmente em terminal de passageiros . Mas essa ampliação deverá estar concluída até março , sendo feita simultaneamente a a reforma de Guarulhos ." />
+  <Sentencas>
+    <sentenca_1 conteudo="O ministro de a Defesa, Nelson Jobim, decidiu que será realizada uma reforma definitiva em a pista principal de Guarulhos, o mais rápido possível, de acordo com a assessoria de o ministério de a Defesa." />
+    <sentenca_2 conteudo="Fica afastada, portanto, a alternativa cogitada em a semana passada, de se efetuar uma reforma emergencial em esse momento e se iniciar a reforma definitiva apenas em março de 2008." />
+    <sentenca_3 conteudo="De acordo com estudos apresentados por a Infraero, será possível realizar a obra definitiva em três etapas, sem que seja necessário fechar a pista em ente momento." />
+    <sentenca_4 conteudo="O cronograma de a obra depende de estudos finais que estão sendo realizados por a Infraero." />
+    <sentenca_5 conteudo="Na primeira etapa, será reformado um terço de a pista, em uma de as cabeceiras, ficando o restante disponível para pousos e decolagens." />
+    <sentenca_6 conteudo="Na segunda etapa, a parte concluída será reaberta e a obra passará a ser feita em a outra cabeceira." />
+    <sentenca_7 conteudo="A partir de março, será iniciada a fase final de a obra, com a reforma de o trecho central." />
+    <sentenca_8 conteudo="Quando isso ocorrer, a pista deverá ser fechada, e os vôos que a utilizariam serão transferidos para o Aeroporto de Viracopos (Campinas)." />
+    <sentenca_9 conteudo="De acordo com a assessoria de o ministério, a transferência de os vôos de Guarulhos para Viracopos não poderá ser feita em ente momento, por que o aeroporto de Campinas necessitará de ampliação, principalmente em terminal de passageiros." />
+    <sentenca_10 conteudo="Mas essa ampliação deverá estar concluída até março, sendo feita simultaneamente aa reforma de Guarulhos." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="O" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="ministro" lemma="ministro" pos="n" features="M=S" sentenca="1" />
+    <word_2 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_3 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_4 token="Defesa" lemma="defesa" pos="n" features="F=S" sentenca="1" />
+    <word_5 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_6 token="Nelson_Jobim" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_7 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_8 token="decidiu" lemma="decidir" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_9 token="que" lemma="que" pos="conj-s" features="-" sentenca="1" />
+    <word_10 token="será" lemma="ser" pos="v-fin" features="FUT=3S=IND" sentenca="1" />
+    <word_11 token="realizada" lemma="realizar" pos="v-pcp" features="F=S" sentenca="1" />
+    <word_12 token="uma" lemma="um" pos="art" features="F=S" sentenca="1" />
+    <word_13 token="reforma" lemma="reforma" pos="n" features="F=S" sentenca="1" />
+    <word_14 token="definitiva" lemma="definitivo" pos="adj" features="F=S" sentenca="1" />
+    <word_15 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_16 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_17 token="pista" lemma="pista" pos="n" features="F=S" sentenca="1" />
+    <word_18 token="principal" lemma="principal" pos="adj" features="F=S" sentenca="1" />
+    <word_19 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_20 token="Guarulhos" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_21 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_22 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_23 token="mais" lemma="mais" pos="adv" features="-" sentenca="1" />
+    <word_24 token="rápido" lemma="rápido" pos="adj" features="M=S" sentenca="1" />
+    <word_25 token="possível" lemma="possível" pos="adj" features="M=S" sentenca="1" />
+    <word_26 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_27 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_28 token="acordo" lemma="acordo" pos="n" features="M=S" sentenca="1" />
+    <word_29 token="com" lemma="com" pos="prp" features="-" sentenca="1" />
+    <word_30 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_31 token="assessoria" lemma="assessoria" pos="n" features="F=S" sentenca="1" />
+    <word_32 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_33 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_34 token="ministério" lemma="ministério" pos="n" features="M=S" sentenca="1" />
+    <word_35 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_36 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_37 token="Defesa" lemma="defesa" pos="n" features="F=S" sentenca="1" />
+    <word_38 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_39 token="Fica" lemma="ficar" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_40 token="afastada" lemma="afastar" pos="v-pcp" features="F=S" sentenca="2" />
+    <word_41 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_42 token="portanto" lemma="" pos="adv" features="-" sentenca="2" />
+    <word_43 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_44 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_45 token="alternativa" lemma="alternativa" pos="n" features="F=S" sentenca="2" />
+    <word_46 token="cogitada" lemma="cogitar" pos="v-pcp" features="F=S" sentenca="2" />
+    <word_47 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_48 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_49 token="semana" lemma="semana" pos="n" features="F=S" sentenca="2" />
+    <word_50 token="passada" lemma="passar" pos="v-pcp" features="F=S" sentenca="2" />
+    <word_51 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_52 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_53 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" sentenca="2" />
+    <word_54 token="efetuar" lemma="efetuar" pos="v-inf" features="-" sentenca="2" />
+    <word_55 token="uma" lemma="um" pos="art" features="F=S" sentenca="2" />
+    <word_56 token="reforma" lemma="reforma" pos="n" features="F=S" sentenca="2" />
+    <word_57 token="emergencial" lemma="" pos="adj" features="F=S" sentenca="2" />
+    <word_58 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_59 token="esse" lemma="esse" pos="pron-det" features="M=S" sentenca="2" />
+    <word_60 token="momento" lemma="momento" pos="n" features="M=S" sentenca="2" />
+    <word_61 token="e" lemma="e" pos="conj-c" features="-" sentenca="2" />
+    <word_62 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" sentenca="2" />
+    <word_63 token="iniciar" lemma="iniciar" pos="v-inf" features="-" sentenca="2" />
+    <word_64 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_65 token="reforma" lemma="reforma" pos="n" features="F=S" sentenca="2" />
+    <word_66 token="definitiva" lemma="definitivo" pos="adj" features="F=S" sentenca="2" />
+    <word_67 token="apenas" lemma="apenas" pos="adv" features="-" sentenca="2" />
+    <word_68 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_69 token="março" lemma="março" pos="n" features="M=S" sentenca="2" />
+    <word_70 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_71 token="2008" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_72 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_73 token="De_acordo" lemma="" pos="adv" features="-" sentenca="3" />
+    <word_74 token="com" lemma="com" pos="prp" features="-" sentenca="3" />
+    <word_75 token="estudos" lemma="estudo" pos="n" features="M=P" sentenca="3" />
+    <word_76 token="apresentados" lemma="apresentar" pos="v-pcp" features="M=P" sentenca="3" />
+    <word_77 token="por" lemma="por" pos="prp" features="-" sentenca="3" />
+    <word_78 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_79 token="Infraero" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_80 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_81 token="será" lemma="ser" pos="v-fin" features="FUT=3S=IND" sentenca="3" />
+    <word_82 token="possível" lemma="possível" pos="adj" features="M=S" sentenca="3" />
+    <word_83 token="realizar" lemma="realizar" pos="v-inf" features="-" sentenca="3" />
+    <word_84 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_85 token="obra" lemma="obra" pos="n" features="F=S" sentenca="3" />
+    <word_86 token="definitiva" lemma="definitivo" pos="adj" features="F=S" sentenca="3" />
+    <word_87 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_88 token="três" lemma="três" pos="num" features="F=P" sentenca="3" />
+    <word_89 token="etapas" lemma="etapa" pos="n" features="F=P" sentenca="3" />
+    <word_90 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_91 token="sem" lemma="sem" pos="prp" features="-" sentenca="3" />
+    <word_92 token="que" lemma="que" pos="conj-s" features="-" sentenca="3" />
+    <word_93 token="seja" lemma="ser" pos="v-fin" features="PR=3S=SUBJ" sentenca="3" />
+    <word_94 token="necessário" lemma="necessário" pos="adj" features="M=S" sentenca="3" />
+    <word_95 token="fechar" lemma="fechar" pos="v-inf" features="-" sentenca="3" />
+    <word_96 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_97 token="pista" lemma="pista" pos="n" features="F=S" sentenca="3" />
+    <word_98 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_99 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="3" />
+    <word_100 token="momento" lemma="momento" pos="n" features="M=S" sentenca="3" />
+    <word_101 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_102 token="O" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_103 token="cronograma" lemma="cronograma" pos="n" features="M=S" sentenca="4" />
+    <word_104 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_105 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_106 token="obra" lemma="obra" pos="n" features="F=S" sentenca="4" />
+    <word_107 token="depende" lemma="depender" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_108 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_109 token="estudos" lemma="estudo" pos="n" features="M=P" sentenca="4" />
+    <word_110 token="finais" lemma="final" pos="adj" features="M=P" sentenca="4" />
+    <word_111 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="4" />
+    <word_112 token="estão" lemma="estar" pos="v-fin" features="PR=3P=IND" sentenca="4" />
+    <word_113 token="sendo" lemma="ser" pos="v-ger" features="-" sentenca="4" />
+    <word_114 token="realizados" lemma="realizar" pos="v-pcp" features="M=P" sentenca="4" />
+    <word_115 token="por" lemma="por" pos="prp" features="-" sentenca="4" />
+    <word_116 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_117 token="Infraero" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_118 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_119 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_120 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_121 token="primeira" lemma="" pos="adj" features="F=S" sentenca="5" />
+    <word_122 token="etapa" lemma="etapa" pos="n" features="F=S" sentenca="5" />
+    <word_123 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_124 token="será" lemma="ser" pos="v-fin" features="FUT=3S=IND" sentenca="5" />
+    <word_125 token="reformado" lemma="reformar" pos="v-pcp" features="M=S" sentenca="5" />
+    <word_126 token="um" lemma="um" pos="art" features="M=S" sentenca="5" />
+    <word_127 token="terço" lemma="terço" pos="n" features="M=S" sentenca="5" />
+    <word_128 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_129 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_130 token="pista" lemma="pista" pos="n" features="F=S" sentenca="5" />
+    <word_131 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_132 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_133 token="uma" lemma="um" pos="art" features="F=S" sentenca="5" />
+    <word_134 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_135 token="as" lemma="o" pos="art" features="F=P" sentenca="5" />
+    <word_136 token="cabeceiras" lemma="cabeceira, cabeceiro" pos="n" features="F=P" sentenca="5" />
+    <word_137 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_138 token="ficando" lemma="ficar" pos="v-ger" features="-" sentenca="5" />
+    <word_139 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_140 token="restante" lemma="restante, restar" pos="n-adj" features="M=S" sentenca="5" />
+    <word_141 token="disponível" lemma="disponível" pos="adj" features="M=S" sentenca="5" />
+    <word_142 token="para" lemma="para" pos="prp" features="-" sentenca="5" />
+    <word_143 token="pousos" lemma="pouso" pos="n" features="M=P" sentenca="5" />
+    <word_144 token="e" lemma="e" pos="conj-c" features="-" sentenca="5" />
+    <word_145 token="decolagens" lemma="" pos="n" features="M=P" sentenca="5" />
+    <word_146 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_147 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_148 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_149 token="segunda" lemma="" pos="adj" features="F=S" sentenca="6" />
+    <word_150 token="etapa" lemma="etapa" pos="n" features="F=S" sentenca="6" />
+    <word_151 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_152 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_153 token="parte" lemma="parte" pos="n" features="F=S" sentenca="6" />
+    <word_154 token="concluída" lemma="concluir" pos="v-pcp" features="F=S" sentenca="6" />
+    <word_155 token="será" lemma="ser" pos="v-fin" features="FUT=3S=IND" sentenca="6" />
+    <word_156 token="reaberta" lemma="reabrir" pos="v-pcp" features="F=S" sentenca="6" />
+    <word_157 token="e" lemma="e" pos="conj-c" features="-" sentenca="6" />
+    <word_158 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_159 token="obra" lemma="obra" pos="n" features="F=S" sentenca="6" />
+    <word_160 token="passará" lemma="passar" pos="v-fin" features="FUT=3S=IND" sentenca="6" />
+    <word_161 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_162 token="ser" lemma="ser" pos="v-inf" features="-" sentenca="6" />
+    <word_163 token="feita" lemma="fazer" pos="v-pcp" features="F=S" sentenca="6" />
+    <word_164 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_165 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_166 token="outra" lemma="outro" pos="pron-det" features="F=S" sentenca="6" />
+    <word_167 token="cabeceira" lemma="cabeceira, cabeceiro" pos="n" features="F=S" sentenca="6" />
+    <word_168 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_169 token="A_partir_de" lemma="" pos="prp" features="-" sentenca="7" />
+    <word_170 token="março" lemma="março" pos="n" features="M=S" sentenca="7" />
+    <word_171 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_172 token="será" lemma="ser" pos="v-fin" features="FUT=3S=IND" sentenca="7" />
+    <word_173 token="iniciada" lemma="iniciar" pos="v-pcp" features="F=S" sentenca="7" />
+    <word_174 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_175 token="fase" lemma="fase" pos="n" features="F=S" sentenca="7" />
+    <word_176 token="final" lemma="final" pos="adj" features="F=S" sentenca="7" />
+    <word_177 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_178 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_179 token="obra" lemma="obra" pos="n" features="F=S" sentenca="7" />
+    <word_180 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_181 token="com" lemma="com" pos="prp" features="-" sentenca="7" />
+    <word_182 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_183 token="reforma" lemma="reforma" pos="n" features="F=S" sentenca="7" />
+    <word_184 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_185 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_186 token="trecho" lemma="trecho" pos="n" features="M=S" sentenca="7" />
+    <word_187 token="central" lemma="central" pos="adj" features="M=S" sentenca="7" />
+    <word_188 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_189 token="Quando" lemma="quando" pos="adv" features="-" sentenca="8" />
+    <word_190 token="isso" lemma="isso" pos="pron-indp" features="M=S" sentenca="8" />
+    <word_191 token="ocorrer" lemma="ocorrer" pos="v-inf" features="-" sentenca="8" />
+    <word_192 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_193 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_194 token="pista" lemma="pista" pos="n" features="F=S" sentenca="8" />
+    <word_195 token="deverá" lemma="dever" pos="v-fin" features="FUT=3S=IND" sentenca="8" />
+    <word_196 token="ser" lemma="ser" pos="v-inf" features="-" sentenca="8" />
+    <word_197 token="fechada" lemma="fechar" pos="v-pcp" features="F=S" sentenca="8" />
+    <word_198 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_199 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_200 token="os" lemma="o" pos="art" features="M=P" sentenca="8" />
+    <word_201 token="vôos" lemma="" pos="n" features="M=P" sentenca="8" />
+    <word_202 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="8" />
+    <word_203 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_204 token="utilizariam" lemma="utilizar" pos="v-fin" features="COND=3P" sentenca="8" />
+    <word_205 token="serão" lemma="ser" pos="v-fin" features="FUT=3P=IND" sentenca="8" />
+    <word_206 token="transferidos" lemma="transferir" pos="v-pcp" features="M=P" sentenca="8" />
+    <word_207 token="para" lemma="para" pos="prp" features="-" sentenca="8" />
+    <word_208 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_209 token="Aeroporto_de_Viracopos" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_210 token="(" lemma="(" pos="(" features="-" sentenca="8" />
+    <word_211 token="Campinas" lemma="Campinas" pos="prop" features="M=S" sentenca="8" />
+    <word_212 token=")" lemma=")" pos=")" features="-" sentenca="8" />
+    <word_213 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_214 token="De_acordo" lemma="" pos="adv" features="-" sentenca="9" />
+    <word_215 token="com" lemma="com" pos="prp" features="-" sentenca="9" />
+    <word_216 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_217 token="assessoria" lemma="assessoria" pos="n" features="F=S" sentenca="9" />
+    <word_218 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_219 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_220 token="ministério" lemma="ministério" pos="n" features="M=S" sentenca="9" />
+    <word_221 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_222 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_223 token="transferência" lemma="transferência" pos="n" features="F=S" sentenca="9" />
+    <word_224 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_225 token="os" lemma="o" pos="art" features="M=P" sentenca="9" />
+    <word_226 token="vôos" lemma="" pos="n" features="M=P" sentenca="9" />
+    <word_227 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_228 token="Guarulhos" lemma="" pos="prop" features="M=S" sentenca="9" />
+    <word_229 token="para" lemma="para" pos="prp" features="-" sentenca="9" />
+    <word_230 token="Viracopos" lemma="" pos="prop" features="M=S" sentenca="9" />
+    <word_231 token="não" lemma="não" pos="adv" features="-" sentenca="9" />
+    <word_232 token="poderá" lemma="poder" pos="v-fin" features="FUT=3S=IND" sentenca="9" />
+    <word_233 token="ser" lemma="ser" pos="v-inf" features="-" sentenca="9" />
+    <word_234 token="feita" lemma="fazer" pos="v-pcp" features="F=S" sentenca="9" />
+    <word_235 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_236 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="9" />
+    <word_237 token="momento" lemma="momento" pos="n" features="M=S" sentenca="9" />
+    <word_238 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_239 token="por" lemma="por" pos="prp" features="-" sentenca="9" />
+    <word_240 token="que" lemma="que" pos="conj-s" features="-" sentenca="9" />
+    <word_241 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_242 token="aeroporto" lemma="aeroporto" pos="n" features="M=S" sentenca="9" />
+    <word_243 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_244 token="Campinas" lemma="Campinas" pos="prop" features="M=S" sentenca="9" />
+    <word_245 token="necessitará" lemma="necessitar" pos="v-fin" features="FUT=3S=IND" sentenca="9" />
+    <word_246 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_247 token="ampliação" lemma="ampliar" pos="n" features="F=S" sentenca="9" />
+    <word_248 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_249 token="principalmente" lemma="principal" pos="adv" features="-" sentenca="9" />
+    <word_250 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_251 token="terminal" lemma="terminal" pos="n" features="M=S" sentenca="9" />
+    <word_252 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_253 token="passageiros" lemma="passageiro" pos="n" features="M=P" sentenca="9" />
+    <word_254 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_255 token="Mas" lemma="mas" pos="conj-c" features="-" sentenca="10" />
+    <word_256 token="essa" lemma="esse" pos="pron-det" features="F=S" sentenca="10" />
+    <word_257 token="ampliação" lemma="ampliar" pos="n" features="F=S" sentenca="10" />
+    <word_258 token="deverá" lemma="dever" pos="v-fin" features="FUT=3S=IND" sentenca="10" />
+    <word_259 token="estar" lemma="estar" pos="v-inf" features="-" sentenca="10" />
+    <word_260 token="concluída" lemma="concluir" pos="v-pcp" features="F=S" sentenca="10" />
+    <word_261 token="até" lemma="até" pos="prp" features="-" sentenca="10" />
+    <word_262 token="março" lemma="março" pos="n" features="M=S" sentenca="10" />
+    <word_263 token="," lemma="" pos="," features="-" sentenca="10" />
+    <word_264 token="sendo" lemma="ser" pos="v-ger" features="-" sentenca="10" />
+    <word_265 token="feita" lemma="fazer" pos="v-pcp" features="F=S" sentenca="10" />
+    <word_266 token="simultaneamente" lemma="simultâneo" pos="adv" features="-" sentenca="10" />
+    <word_267 token="a" lemma="a" pos="prp" features="-" sentenca="10" />
+    <word_268 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_269 token="reforma" lemma="reforma" pos="n" features="F=S" sentenca="10" />
+    <word_270 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_271 token="Guarulhos" lemma="" pos="prop" features="M=S" sentenca="10" />
+    <word_272 token="." lemma="." pos="." features="-" sentenca="10" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_17>
+      <sn id="18" tokens="78...79" nucleo="Infraero" sintagma="a Infraero" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_78 token="a" lemma="o" pos="art" features="F=S" />
+        <word_79 token="Infraero" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="27" tokens="116...117" nucleo="Infraero" sintagma="a Infraero" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_116 token="a" lemma="o" pos="art" features="F=S" />
+        <word_117 token="Infraero" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_17>
+    <Cadeia_20>
+      <sn id="4" tokens="16...20" nucleo="pista" sintagma="a pista principal de Guarulhos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_16 token="a" lemma="o" pos="art" features="F=S" />
+        <word_17 token="pista" lemma="pista" pos="n" features="F=S" />
+        <word_18 token="principal" lemma="principal" pos="adj" features="F=S" />
+        <word_19 token="de" lemma="de" pos="prp" features="-" />
+        <word_20 token="Guarulhos" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="5" tokens="20...20" nucleo="Guarulhos" sintagma="Guarulhos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_20 token="Guarulhos" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="21" tokens="96...97" nucleo="pista" sintagma="a pista" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_96 token="a" lemma="o" pos="art" features="F=S" />
+        <word_97 token="pista" lemma="pista" pos="n" features="F=S" />
+      </sn>
+      <sn id="30" tokens="129...130" nucleo="pista" sintagma="a pista" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+        <word_129 token="a" lemma="o" pos="art" features="F=S" />
+        <word_130 token="pista" lemma="pista" pos="n" features="F=S" />
+      </sn>
+      <sn id="44" tokens="193...194" nucleo="pista" sintagma="a pista" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_193 token="a" lemma="o" pos="art" features="F=S" />
+        <word_194 token="pista" lemma="pista" pos="n" features="F=S" />
+      </sn>
+      <sn id="53" tokens="228...228" nucleo="Guarulhos" sintagma="Guarulhos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_228 token="Guarulhos" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="64" tokens="271...271" nucleo="Guarulhos" sintagma="Guarulhos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="10">
+        <word_271 token="Guarulhos" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_20>
+    <Cadeia_3>
+      <sn id="3" tokens="12...20" nucleo="reforma" sintagma="uma reforma definitiva em a pista principal de Guarulhos" Categoria="EVENTO" sentenca="1">
+        <word_12 token="uma" lemma="um" pos="art" features="F=S" />
+        <word_13 token="reforma" lemma="reforma" pos="n" features="F=S" />
+        <word_14 token="definitiva" lemma="definitivo" pos="adj" features="F=S" />
+        <word_15 token="em" lemma="em" pos="prp" features="-" />
+        <word_16 token="a" lemma="o" pos="art" features="F=S" />
+        <word_17 token="pista" lemma="pista" pos="n" features="F=S" />
+        <word_18 token="principal" lemma="principal" pos="adj" features="F=S" />
+        <word_19 token="de" lemma="de" pos="prp" features="-" />
+        <word_20 token="Guarulhos" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="15" tokens="64...66" nucleo="reforma" sintagma="a reforma definitiva" Categoria="EVENTO" sentenca="2">
+        <word_64 token="a" lemma="o" pos="art" features="F=S" />
+        <word_65 token="reforma" lemma="reforma" pos="n" features="F=S" />
+        <word_66 token="definitiva" lemma="definitivo" pos="adj" features="F=S" />
+      </sn>
+      <sn id="19" tokens="84...86" nucleo="obra" sintagma="a obra definitiva" Categoria="EVENTO" sentenca="3">
+        <word_84 token="a" lemma="o" pos="art" features="F=S" />
+        <word_85 token="obra" lemma="obra" pos="n" features="F=S" />
+        <word_86 token="definitiva" lemma="definitivo" pos="adj" features="F=S" />
+      </sn>
+      <sn id="24" tokens="105...106" nucleo="obra" sintagma="a obra" Categoria="EVENTO" sentenca="4">
+        <word_105 token="a" lemma="o" pos="art" features="F=S" />
+        <word_106 token="obra" lemma="obra" pos="n" features="F=S" />
+      </sn>
+      <sn id="36" tokens="158...159" nucleo="obra" sintagma="a obra" Categoria="EVENTO" sentenca="6">
+        <word_158 token="a" lemma="o" pos="art" features="F=S" />
+        <word_159 token="obra" lemma="obra" pos="n" features="F=S" />
+      </sn>
+      <sn id="40" tokens="178...179" nucleo="obra" sintagma="a obra" Categoria="EVENTO" sentenca="7">
+        <word_178 token="a" lemma="o" pos="art" features="F=S" />
+        <word_179 token="obra" lemma="obra" pos="n" features="F=S" />
+      </sn>
+      <sn id="63" tokens="268...271" nucleo="reforma" sintagma="a reforma de Guarulhos" Categoria="EVENTO" sentenca="10">
+        <word_268 token="a" lemma="o" pos="art" features="F=S" />
+        <word_269 token="reforma" lemma="reforma" pos="n" features="F=S" />
+        <word_270 token="de" lemma="de" pos="prp" features="-" />
+        <word_271 token="Guarulhos" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_3>
+    <Cadeia_36>
+      <sn id="45" tokens="200...201" nucleo="vôos" sintagma="os vôos" Categoria="EVENTO" sentenca="8">
+        <word_200 token="os" lemma="o" pos="art" features="M=P" />
+        <word_201 token="vôos" lemma="" pos="n" features="M=P" />
+      </sn>
+      <sn id="52" tokens="225...226" nucleo="vôos" sintagma="os vôos" Categoria="EVENTO" sentenca="9">
+        <word_225 token="os" lemma="o" pos="art" features="M=P" />
+        <word_226 token="vôos" lemma="" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_36>
+    <Cadeia_38>
+      <sn id="47" tokens="208...209" nucleo="Aeroporto_de_Viracopos" sintagma="o Aeroporto de Viracopos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_208 token="o" lemma="o" pos="art" features="M=S" />
+        <word_209 token="Aeroporto_de_Viracopos" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="48" tokens="211...211" nucleo="Campinas" sintagma="Campinas" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_211 token="Campinas" lemma="Campinas" pos="prop" features="M=S" />
+      </sn>
+      <sn id="54" tokens="230...230" nucleo="Viracopos" sintagma="Viracopos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_230 token="Viracopos" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="56" tokens="241...244" nucleo="aeroporto" sintagma="o aeroporto de Campinas" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_241 token="o" lemma="o" pos="art" features="M=S" />
+        <word_242 token="aeroporto" lemma="aeroporto" pos="n" features="M=S" />
+        <word_243 token="de" lemma="de" pos="prp" features="-" />
+        <word_244 token="Campinas" lemma="Campinas" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_38>
+    <Cadeia_39>
+      <sn id="0" tokens="0...5" nucleo="ministro" sintagma="O ministro de a Defesa" Categoria="PESSOA" sentenca="1">
+        <word_0 token="O" lemma="o" pos="art" features="M=S" />
+        <word_1 token="ministro" lemma="ministro" pos="n" features="M=S" />
+        <word_2 token="de" lemma="de" pos="prp" features="-" />
+        <word_3 token="a" lemma="o" pos="art" features="F=S" />
+        <word_4 token="Defesa" lemma="defesa" pos="n" features="F=S" />
+        <word_5 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="2" tokens="6...6" nucleo="Nelson_Jobim" sintagma="Nelson Jobim" Categoria="PESSOA" sentenca="1">
+        <word_6 token="Nelson_Jobim" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_39>
+    <Cadeia_40>
+      <sn id="58" tokens="247...247" nucleo="ampliação" sintagma="ampliação" Categoria="EVENTO" sentenca="9">
+        <word_247 token="ampliação" lemma="ampliar" pos="n" features="F=S" />
+      </sn>
+      <sn id="61" tokens="256...257" nucleo="essa" sintagma="essa ampliação" Categoria="EVENTO" sentenca="10">
+        <word_256 token="essa" lemma="esse" pos="pron-det" features="F=S" />
+        <word_257 token="ampliação" lemma="ampliar" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_40>
+    <Cadeia_7>
+      <sn id="7" tokens="30...37" nucleo="assessoria" sintagma="a assessoria de o ministério de a Defesa" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_30 token="a" lemma="o" pos="art" features="F=S" />
+        <word_31 token="assessoria" lemma="assessoria" pos="n" features="F=S" />
+        <word_32 token="de" lemma="de" pos="prp" features="-" />
+        <word_33 token="o" lemma="o" pos="art" features="M=S" />
+        <word_34 token="ministério" lemma="ministério" pos="n" features="M=S" />
+        <word_35 token="de" lemma="de" pos="prp" features="-" />
+        <word_36 token="a" lemma="o" pos="art" features="F=S" />
+        <word_37 token="Defesa" lemma="defesa" pos="n" features="F=S" />
+      </sn>
+      <sn id="49" tokens="216...220" nucleo="assessoria" sintagma="a assessoria de o ministério" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_216 token="a" lemma="o" pos="art" features="F=S" />
+        <word_217 token="assessoria" lemma="assessoria" pos="n" features="F=S" />
+        <word_218 token="de" lemma="de" pos="prp" features="-" />
+        <word_219 token="o" lemma="o" pos="art" features="M=S" />
+        <word_220 token="ministério" lemma="ministério" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_7>
+    <Cadeia_8>
+      <sn id="8" tokens="33...37" nucleo="ministério" sintagma="o ministério de a Defesa" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_33 token="o" lemma="o" pos="art" features="M=S" />
+        <word_34 token="ministério" lemma="ministério" pos="n" features="M=S" />
+        <word_35 token="de" lemma="de" pos="prp" features="-" />
+        <word_36 token="a" lemma="o" pos="art" features="F=S" />
+        <word_37 token="Defesa" lemma="defesa" pos="n" features="F=S" />
+      </sn>
+      <sn id="50" tokens="219...220" nucleo="ministério" sintagma="o ministério" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_219 token="o" lemma="o" pos="art" features="M=S" />
+        <word_220 token="ministério" lemma="ministério" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_8>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="6" tokens="28...28" nucleo="acordo" sintagma="acordo" Categoria="--" sentenca="1">
+      <word_28 token="acordo" lemma="acordo" pos="n" features="M=S" />
+    </sn>
+    <sn id="9" tokens="36...37" nucleo="Defesa" sintagma="a Defesa" Categoria="--" sentenca="1">
+      <word_36 token="a" lemma="o" pos="art" features="F=S" />
+      <word_37 token="Defesa" lemma="defesa" pos="n" features="F=S" />
+    </sn>
+    <sn id="10" tokens="44...45" nucleo="alternativa" sintagma="a alternativa" Categoria="--" sentenca="2">
+      <word_44 token="a" lemma="o" pos="art" features="F=S" />
+      <word_45 token="alternativa" lemma="alternativa" pos="n" features="F=S" />
+    </sn>
+    <sn id="11" tokens="48...50" nucleo="semana" sintagma="a semana passada" Categoria="--" sentenca="2">
+      <word_48 token="a" lemma="o" pos="art" features="F=S" />
+      <word_49 token="semana" lemma="semana" pos="n" features="F=S" />
+      <word_50 token="passada" lemma="passar" pos="v-pcp" features="F=S" />
+    </sn>
+    <sn id="12" tokens="59...60" nucleo="esse" sintagma="esse momento" Categoria="--" sentenca="2">
+      <word_59 token="esse" lemma="esse" pos="pron-det" features="M=S" />
+      <word_60 token="momento" lemma="momento" pos="n" features="M=S" />
+    </sn>
+    <sn id="13" tokens="62...62" nucleo="se" sintagma="se" Categoria="--" sentenca="2">
+      <word_62 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" />
+    </sn>
+    <sn id="14" tokens="55...57" nucleo="reforma" sintagma="uma reforma emergencial" Categoria="--" sentenca="2">
+      <word_55 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_56 token="reforma" lemma="reforma" pos="n" features="F=S" />
+      <word_57 token="emergencial" lemma="" pos="adj" features="F=S" />
+    </sn>
+    <sn id="16" tokens="69...69" nucleo="março" sintagma="março" Categoria="--" sentenca="2">
+      <word_69 token="março" lemma="março" pos="n" features="M=S" />
+    </sn>
+    <sn id="17" tokens="75...75" nucleo="estudos" sintagma="estudos" Categoria="--" sentenca="3">
+      <word_75 token="estudos" lemma="estudo" pos="n" features="M=P" />
+    </sn>
+    <sn id="20" tokens="88...89" nucleo="etapas" sintagma="três etapas" Categoria="--" sentenca="3">
+      <word_88 token="três" lemma="três" pos="num" features="F=P" />
+      <word_89 token="etapas" lemma="etapa" pos="n" features="F=P" />
+    </sn>
+    <sn id="22" tokens="99...100" nucleo="este" sintagma="este momento" Categoria="--" sentenca="3">
+      <word_99 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_100 token="momento" lemma="momento" pos="n" features="M=S" />
+    </sn>
+    <sn id="23" tokens="102...106" nucleo="cronograma" sintagma="O cronograma de a obra" Categoria="--" sentenca="4">
+      <word_102 token="O" lemma="o" pos="art" features="M=S" />
+      <word_103 token="cronograma" lemma="cronograma" pos="n" features="M=S" />
+      <word_104 token="de" lemma="de" pos="prp" features="-" />
+      <word_105 token="a" lemma="o" pos="art" features="F=S" />
+      <word_106 token="obra" lemma="obra" pos="n" features="F=S" />
+    </sn>
+    <sn id="25" tokens="109...110" nucleo="estudos" sintagma="estudos finais" Categoria="--" sentenca="4">
+      <word_109 token="estudos" lemma="estudo" pos="n" features="M=P" />
+      <word_110 token="finais" lemma="final" pos="adj" features="M=P" />
+    </sn>
+    <sn id="26" tokens="111...111" nucleo="que" sintagma="que" Categoria="--" sentenca="4">
+      <word_111 token="que" lemma="que" pos="pron-indp" features="M=P" />
+    </sn>
+    <sn id="28" tokens="120...122" nucleo="etapa" sintagma="a primeira etapa" Categoria="--" sentenca="5">
+      <word_120 token="a" lemma="o" pos="art" features="F=S" />
+      <word_121 token="primeira" lemma="" pos="adj" features="F=S" />
+      <word_122 token="etapa" lemma="etapa" pos="n" features="F=S" />
+    </sn>
+    <sn id="29" tokens="126...130" nucleo="terço" sintagma="um terço de a pista" Categoria="--" sentenca="5">
+      <word_126 token="um" lemma="um" pos="art" features="M=S" />
+      <word_127 token="terço" lemma="terço" pos="n" features="M=S" />
+      <word_128 token="de" lemma="de" pos="prp" features="-" />
+      <word_129 token="a" lemma="o" pos="art" features="F=S" />
+      <word_130 token="pista" lemma="pista" pos="n" features="F=S" />
+    </sn>
+    <sn id="31" tokens="135...136" nucleo="cabeceiras" sintagma="as cabeceiras" Categoria="--" sentenca="5">
+      <word_135 token="as" lemma="o" pos="art" features="F=P" />
+      <word_136 token="cabeceiras" lemma="cabeceira, cabeceiro" pos="n" features="F=P" />
+    </sn>
+    <sn id="32" tokens="139...145" nucleo="pousos" sintagma="o restante disponível para pousos e decolagens" Categoria="--" sentenca="5">
+      <word_139 token="o" lemma="o" pos="art" features="M=S" />
+      <word_140 token="restante" lemma="restante, restar" pos="n-adj" features="M=S" />
+      <word_141 token="disponível" lemma="disponível" pos="adj" features="M=S" />
+      <word_142 token="para" lemma="para" pos="prp" features="-" />
+      <word_143 token="pousos" lemma="pouso" pos="n" features="M=P" />
+      <word_144 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_145 token="decolagens" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="33" tokens="145...145" nucleo="decolagens" sintagma="decolagens" Categoria="--" sentenca="5">
+      <word_145 token="decolagens" lemma="" pos="n" features="M=P" />
+    </sn>
+    <sn id="34" tokens="148...150" nucleo="etapa" sintagma="a segunda etapa" Categoria="--" sentenca="6">
+      <word_148 token="a" lemma="o" pos="art" features="F=S" />
+      <word_149 token="segunda" lemma="" pos="adj" features="F=S" />
+      <word_150 token="etapa" lemma="etapa" pos="n" features="F=S" />
+    </sn>
+    <sn id="35" tokens="152...154" nucleo="parte" sintagma="a parte concluída" Categoria="--" sentenca="6">
+      <word_152 token="a" lemma="o" pos="art" features="F=S" />
+      <word_153 token="parte" lemma="parte" pos="n" features="F=S" />
+      <word_154 token="concluída" lemma="concluir" pos="v-pcp" features="F=S" />
+    </sn>
+    <sn id="37" tokens="165...167" nucleo="outra" sintagma="a outra cabeceira" Categoria="--" sentenca="6">
+      <word_165 token="a" lemma="o" pos="art" features="F=S" />
+      <word_166 token="outra" lemma="outro" pos="pron-det" features="F=S" />
+      <word_167 token="cabeceira" lemma="cabeceira, cabeceiro" pos="n" features="F=S" />
+    </sn>
+    <sn id="38" tokens="170...170" nucleo="março" sintagma="março" Categoria="--" sentenca="7">
+      <word_170 token="março" lemma="março" pos="n" features="M=S" />
+    </sn>
+    <sn id="39" tokens="174...187" nucleo="fase" sintagma="a fase final de a obra , com a reforma de o trecho central" Categoria="--" sentenca="7">
+      <word_174 token="a" lemma="o" pos="art" features="F=S" />
+      <word_175 token="fase" lemma="fase" pos="n" features="F=S" />
+      <word_176 token="final" lemma="final" pos="adj" features="F=S" />
+      <word_177 token="de" lemma="de" pos="prp" features="-" />
+      <word_178 token="a" lemma="o" pos="art" features="F=S" />
+      <word_179 token="obra" lemma="obra" pos="n" features="F=S" />
+      <word_180 token="," lemma="" pos="," features="-" />
+      <word_181 token="com" lemma="com" pos="prp" features="-" />
+      <word_182 token="a" lemma="o" pos="art" features="F=S" />
+      <word_183 token="reforma" lemma="reforma" pos="n" features="F=S" />
+      <word_184 token="de" lemma="de" pos="prp" features="-" />
+      <word_185 token="o" lemma="o" pos="art" features="M=S" />
+      <word_186 token="trecho" lemma="trecho" pos="n" features="M=S" />
+      <word_187 token="central" lemma="central" pos="adj" features="M=S" />
+    </sn>
+    <sn id="41" tokens="182...187" nucleo="reforma" sintagma="a reforma de o trecho central" Categoria="--" sentenca="7">
+      <word_182 token="a" lemma="o" pos="art" features="F=S" />
+      <word_183 token="reforma" lemma="reforma" pos="n" features="F=S" />
+      <word_184 token="de" lemma="de" pos="prp" features="-" />
+      <word_185 token="o" lemma="o" pos="art" features="M=S" />
+      <word_186 token="trecho" lemma="trecho" pos="n" features="M=S" />
+      <word_187 token="central" lemma="central" pos="adj" features="M=S" />
+    </sn>
+    <sn id="42" tokens="185...187" nucleo="trecho" sintagma="o trecho central" Categoria="--" sentenca="7">
+      <word_185 token="o" lemma="o" pos="art" features="M=S" />
+      <word_186 token="trecho" lemma="trecho" pos="n" features="M=S" />
+      <word_187 token="central" lemma="central" pos="adj" features="M=S" />
+    </sn>
+    <sn id="43" tokens="190...190" nucleo="isso" sintagma="isso" Categoria="--" sentenca="8">
+      <word_190 token="isso" lemma="isso" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="46" tokens="202...202" nucleo="que" sintagma="que" Categoria="--" sentenca="8">
+      <word_202 token="que" lemma="que" pos="pron-indp" features="M=P" />
+    </sn>
+    <sn id="51" tokens="222...230" nucleo="transferência" sintagma="a transferência de os vôos de Guarulhos para Viracopos" Categoria="--" sentenca="9">
+      <word_222 token="a" lemma="o" pos="art" features="F=S" />
+      <word_223 token="transferência" lemma="transferência" pos="n" features="F=S" />
+      <word_224 token="de" lemma="de" pos="prp" features="-" />
+      <word_225 token="os" lemma="o" pos="art" features="M=P" />
+      <word_226 token="vôos" lemma="" pos="n" features="M=P" />
+      <word_227 token="de" lemma="de" pos="prp" features="-" />
+      <word_228 token="Guarulhos" lemma="" pos="prop" features="M=S" />
+      <word_229 token="para" lemma="para" pos="prp" features="-" />
+      <word_230 token="Viracopos" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="55" tokens="236...237" nucleo="este" sintagma="este momento" Categoria="--" sentenca="9">
+      <word_236 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_237 token="momento" lemma="momento" pos="n" features="M=S" />
+    </sn>
+    <sn id="57" tokens="244...244" nucleo="Campinas" sintagma="Campinas" Categoria="--" sentenca="9">
+      <word_244 token="Campinas" lemma="Campinas" pos="prop" features="M=S" />
+    </sn>
+    <sn id="59" tokens="251...251" nucleo="terminal" sintagma="terminal" Categoria="--" sentenca="9">
+      <word_251 token="terminal" lemma="terminal" pos="n" features="M=S" />
+    </sn>
+    <sn id="60" tokens="253...253" nucleo="passageiros" sintagma="passageiros" Categoria="--" sentenca="9">
+      <word_253 token="passageiros" lemma="passageiro" pos="n" features="M=P" />
+    </sn>
+    <sn id="62" tokens="262...262" nucleo="março" sintagma="março" Categoria="--" sentenca="10">
+      <word_262 token="março" lemma="março" pos="n" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

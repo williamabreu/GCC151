@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="O ministro de a Saúde egípcio , Hatem_El-Gabaly , informou em esta segunda-feira que 57 pessoas morreram e 128 ficaram feridas em o choque entre dois trens de passageiros em o delta de o Nilo , a o norte de o Cairo . Os feridos , vários de eles em estado grave , foram levados para seis hospitais de a região onde aconteceu o acidente , um de os piores ocorridos em o Egito desde 2002 , disse El-Gabaly , citado por a agência egípcia de notícias Mena . Fontes policiais e médicas informaram anteriormente que por o menos 80 pessoas tinham morrido em o acidente . O acidente ocorreu a as 7h15 ( 1h15 em Brasília ) entre um trem procedente de a cidade nortista de Lardo e outro que esperava em a estação Qalyoub , 20 quilômetros a o norte de a capital de o Egito . Mais de 45 ambulâncias levaram as vítimas a os hospitais de Qaliubiya e de Shebin al - Qanater . Efetivos de o Exército , membros de a Defesa_Civil e equipes médicas participam de os trabalhos de resgate . O Governador de Qaluibiya , Adli_Hussein , que se deslocou junto com outros vários altos funcionários egípcios a o local de o acidente , afirmou que a colisão ocorreu quando o trem número 808 que circulava em alta velocidade se chocou com a parte traseira de outro , que vinha de a de Qaliub . Fontes de o Ministério_de_Transporte disseram que vários vagões descarrilaram e tombaram , e que os bombeiros conseguiram controlar um incêndio em o trem que procedia de Lardo . A maior tragédia ferroviária de a história de o Egito ocorreu em fevereiro de 2002 , após o incêndio de um trem que cobria o trajeto entre Cairo e Luxor ( sul ) , lotado de passageiros , e que deixou 376 mortos , segundo números oficiais ." />
+  <Sentencas>
+    <sentenca_1 conteudo="O ministro de a Saúde egípcio, Hatem El-Gabaly, informou em esta segunda-feira que 57 pessoas morreram e 128 ficaram feridas em o choque entre dois trens de passageiros em o delta de o Nilo, ao norte de o Cairo." />
+    <sentenca_2 conteudo="Os feridos, vários deles em estado grave, foram levados para seis hospitais de a região onde aconteceu o acidente, um de os piores ocorridos em o Egito desde 2002, disse El-Gabaly, citado por a agência egípcia de notícias Mena." />
+    <sentenca_3 conteudo="Fontes policiais e médicas informaram anteriormente que por o menos 80 pessoas tinham morrido em o acidente." />
+    <sentenca_4 conteudo="O acidente ocorreu a as 7h15 (1h15 em Brasília) entre um trem procedente de a cidade nortista de Lardo e outro que esperava em a estação Qalyoub, 20 quilômetros ao norte de a capital de o Egito." />
+    <sentenca_5 conteudo="Mais de 45 ambulâncias levaram as vítimas aos hospitais de Qaliubiya e de Shebin al-Qanater." />
+    <sentenca_6 conteudo="Efetivos de o Exército, membros de a Defesa Civil e equipes médicas participam de os trabalhos de resgate." />
+    <sentenca_7 conteudo="O Governador de Qaluibiya, Adli Hussein, que se deslocou junto com outros vários altos funcionários egípcios ao local de o acidente, afirmou que a colisão ocorreu quando o trem número 808 que circulava em alta velocidade se chocou com a parte traseira de outro, que vinha de a de Qaliub." />
+    <sentenca_8 conteudo="Fontes de o Ministério de Transporte disseram que vários vagões descarrilaram e tombaram, e que os bombeiros conseguiram controlar um incêndio em o trem que procedia de Lardo." />
+    <sentenca_9 conteudo="A maior tragédia ferroviária de a história de o Egito ocorreu em fevereiro de 2002, após o incêndio de um trem que cobria o trajeto entre Cairo e Luxor (sul), lotado de passageiros, e que deixou 376 mortos, segundo números oficiais." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="O" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="ministro" lemma="ministro" pos="n" features="M=S" sentenca="1" />
+    <word_2 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_3 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_4 token="Saúde" lemma="saúde" pos="n" features="F=S" sentenca="1" />
+    <word_5 token="egípcio" lemma="egípcio" pos="adj" features="M=S" sentenca="1" />
+    <word_6 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_7 token="Hatem_El-Gabaly" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_8 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_9 token="informou" lemma="informar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_10 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_11 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="1" />
+    <word_12 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" sentenca="1" />
+    <word_13 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="1" />
+    <word_14 token="57" lemma="" pos="num" features="F=P" sentenca="1" />
+    <word_15 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="1" />
+    <word_16 token="morreram" lemma="morrer" pos="v-fin" features="MQP=3P=IND" sentenca="1" />
+    <word_17 token="e" lemma="e" pos="conj-c" features="-" sentenca="1" />
+    <word_18 token="128" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_19 token="ficaram" lemma="ficar" pos="v-fin" features="MQP=3P=IND" sentenca="1" />
+    <word_20 token="feridas" lemma="ferir" pos="v-pcp" features="F=P" sentenca="1" />
+    <word_21 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_22 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_23 token="choque" lemma="choque" pos="n" features="M=S" sentenca="1" />
+    <word_24 token="entre" lemma="entre" pos="prp" features="-" sentenca="1" />
+    <word_25 token="dois" lemma="dois" pos="num" features="M=P" sentenca="1" />
+    <word_26 token="trens" lemma="trem" pos="n" features="M=P" sentenca="1" />
+    <word_27 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_28 token="passageiros" lemma="passageiro" pos="n" features="M=P" sentenca="1" />
+    <word_29 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_30 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_31 token="delta" lemma="delta" pos="n" features="M=S" sentenca="1" />
+    <word_32 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_33 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_34 token="Nilo" lemma="Nilo" pos="prop" features="-" sentenca="1" />
+    <word_35 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_36 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_37 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_38 token="norte" lemma="norte" pos="n" features="M=S" sentenca="1" />
+    <word_39 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_40 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_41 token="Cairo" lemma="Cairo" pos="prop" features="M=S" sentenca="1" />
+    <word_42 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_43 token="Os" lemma="o" pos="art" features="M=P" sentenca="2" />
+    <word_44 token="feridos" lemma="ferir" pos="v-pcp" features="M=P" sentenca="2" />
+    <word_45 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_46 token="vários" lemma="" pos="pron-det" features="M=P" sentenca="2" />
+    <word_47 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_48 token="eles" lemma="ele" pos="pron-pers" features="M=3P=NOM" sentenca="2" />
+    <word_49 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_50 token="estado" lemma="estado" pos="n" features="M=S" sentenca="2" />
+    <word_51 token="grave" lemma="grave" pos="adj" features="M=S" sentenca="2" />
+    <word_52 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_53 token="foram" lemma="ir, ser" pos="v-fin" features="MQP=3P=IND" sentenca="2" />
+    <word_54 token="levados" lemma="levar" pos="v-pcp" features="M=P" sentenca="2" />
+    <word_55 token="para" lemma="para" pos="prp" features="-" sentenca="2" />
+    <word_56 token="seis" lemma="seis" pos="num" features="M=P" sentenca="2" />
+    <word_57 token="hospitais" lemma="hospital" pos="n" features="M=P" sentenca="2" />
+    <word_58 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_59 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_60 token="região" lemma="região" pos="n" features="F=S" sentenca="2" />
+    <word_61 token="onde" lemma="onde" pos="adv" features="-" sentenca="2" />
+    <word_62 token="aconteceu" lemma="acontecer" pos="v-fin" features="PS=3S=IND" sentenca="2" />
+    <word_63 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_64 token="acidente" lemma="acidente" pos="n" features="M=S" sentenca="2" />
+    <word_65 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_66 token="um" lemma="um" pos="num" features="M=S" sentenca="2" />
+    <word_67 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_68 token="os" lemma="o" pos="art" features="M=P" sentenca="2" />
+    <word_69 token="piores" lemma="pior" pos="adj" features="M=P" sentenca="2" />
+    <word_70 token="ocorridos" lemma="ocorrer" pos="v-pcp" features="M=P" sentenca="2" />
+    <word_71 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_72 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_73 token="Egito" lemma="Egito" pos="prop" features="M=S" sentenca="2" />
+    <word_74 token="desde" lemma="desde" pos="prp" features="-" sentenca="2" />
+    <word_75 token="2002" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_76 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_77 token="disse" lemma="dizer" pos="v-fin" features="PS=3S=IND" sentenca="2" />
+    <word_78 token="El-Gabaly" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_79 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_80 token="citado" lemma="citar" pos="v-pcp" features="M=S" sentenca="2" />
+    <word_81 token="por" lemma="por" pos="prp" features="-" sentenca="2" />
+    <word_82 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_83 token="agência" lemma="agência" pos="n" features="F=S" sentenca="2" />
+    <word_84 token="egípcia" lemma="egípcio" pos="adj" features="F=S" sentenca="2" />
+    <word_85 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_86 token="notícias" lemma="notícia" pos="n" features="F=P" sentenca="2" />
+    <word_87 token="Mena" lemma="" pos="prop" features="F=S" sentenca="2" />
+    <word_88 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_89 token="Fontes" lemma="fonte" pos="n" features="F=P" sentenca="3" />
+    <word_90 token="policiais" lemma="policial" pos="n" features="M=P" sentenca="3" />
+    <word_91 token="e" lemma="e" pos="conj-c" features="-" sentenca="3" />
+    <word_92 token="médicas" lemma="médico" pos="n" features="F=P" sentenca="3" />
+    <word_93 token="informaram" lemma="informar" pos="v-fin" features="MQP=3P=IND" sentenca="3" />
+    <word_94 token="anteriormente" lemma="anterior" pos="adv" features="-" sentenca="3" />
+    <word_95 token="que" lemma="que" pos="conj-s" features="-" sentenca="3" />
+    <word_96 token="por" lemma="por" pos="prp" features="-" sentenca="3" />
+    <word_97 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_98 token="menos" lemma="menos" pos="pron-det" features="M=P" sentenca="3" />
+    <word_99 token="80" lemma="" pos="num" features="F=P" sentenca="3" />
+    <word_100 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="3" />
+    <word_101 token="tinham" lemma="ter" pos="v-fin" features="IMPF=3P=IND" sentenca="3" />
+    <word_102 token="morrido" lemma="morrer" pos="v-pcp" features="M=S" sentenca="3" />
+    <word_103 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_104 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_105 token="acidente" lemma="acidente" pos="n" features="M=S" sentenca="3" />
+    <word_106 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_107 token="O" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_108 token="acidente" lemma="acidente" pos="n" features="M=S" sentenca="4" />
+    <word_109 token="ocorreu" lemma="ocorrer" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_110 token="a" lemma="a" pos="prp" features="-" sentenca="4" />
+    <word_111 token="as" lemma="o" pos="art" features="F=P" sentenca="4" />
+    <word_112 token="7h15" lemma="" pos="n" features="F=P" sentenca="4" />
+    <word_113 token="(" lemma="(" pos="(" features="-" sentenca="4" />
+    <word_114 token="1h15" lemma="" pos="n" features="F=P" sentenca="4" />
+    <word_115 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_116 token="Brasília" lemma="Brasília" pos="prop" features="M=S" sentenca="4" />
+    <word_117 token=")" lemma=")" pos=")" features="-" sentenca="4" />
+    <word_118 token="entre" lemma="entre" pos="prp" features="-" sentenca="4" />
+    <word_119 token="um" lemma="um" pos="art" features="M=S" sentenca="4" />
+    <word_120 token="trem" lemma="trem" pos="n" features="M=S" sentenca="4" />
+    <word_121 token="procedente" lemma="procedente, proceder" pos="adj" features="M=S" sentenca="4" />
+    <word_122 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_123 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_124 token="cidade" lemma="cidade" pos="n" features="F=S" sentenca="4" />
+    <word_125 token="nortista" lemma="norte" pos="adj" features="F=S" sentenca="4" />
+    <word_126 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_127 token="Lardo" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_128 token="e" lemma="e" pos="conj-c" features="-" sentenca="4" />
+    <word_129 token="outro" lemma="outro" pos="pron-det" features="M=S" sentenca="4" />
+    <word_130 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="4" />
+    <word_131 token="esperava" lemma="esperar" pos="v-fin" features="IMPF=3S=IND" sentenca="4" />
+    <word_132 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_133 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_134 token="estação" lemma="estação" pos="n" features="F=S" sentenca="4" />
+    <word_135 token="Qalyoub" lemma="" pos="prop" features="F=S" sentenca="4" />
+    <word_136 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_137 token="20" lemma="" pos="num" features="M=P" sentenca="4" />
+    <word_138 token="quilômetros" lemma="quilômetro" pos="n" features="M=P" sentenca="4" />
+    <word_139 token="a" lemma="a" pos="prp" features="-" sentenca="4" />
+    <word_140 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_141 token="norte" lemma="norte" pos="n" features="M=S" sentenca="4" />
+    <word_142 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_143 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_144 token="capital" lemma="capital" pos="n" features="F=S" sentenca="4" />
+    <word_145 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_146 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_147 token="Egito" lemma="Egito" pos="prop" features="M=S" sentenca="4" />
+    <word_148 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_149 token="Mais" lemma="mais" pos="adv" features="-" sentenca="5" />
+    <word_150 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_151 token="45" lemma="" pos="num" features="F=P" sentenca="5" />
+    <word_152 token="ambulâncias" lemma="ambulância" pos="n" features="F=P" sentenca="5" />
+    <word_153 token="levaram" lemma="levar" pos="v-fin" features="MQP=3P=IND" sentenca="5" />
+    <word_154 token="as" lemma="o" pos="art" features="F=P" sentenca="5" />
+    <word_155 token="vítimas" lemma="vítima" pos="n" features="F=P" sentenca="5" />
+    <word_156 token="a" lemma="a" pos="prp" features="-" sentenca="5" />
+    <word_157 token="os" lemma="o" pos="art" features="M=P" sentenca="5" />
+    <word_158 token="hospitais" lemma="hospital" pos="n" features="M=P" sentenca="5" />
+    <word_159 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_160 token="Qaliubiya" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_161 token="e" lemma="e" pos="conj-c" features="-" sentenca="5" />
+    <word_162 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_163 token="Shebin" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_164 token="al" lemma="" pos="adj" features="M=S" sentenca="5" />
+    <word_165 token="-" lemma="" pos="-" features="-" sentenca="5" />
+    <word_166 token="Qanater" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_167 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_168 token="Efetivos" lemma="efetivo" pos="n" features="M=P" sentenca="6" />
+    <word_169 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_170 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_171 token="Exército" lemma="exército" pos="n" features="M=S" sentenca="6" />
+    <word_172 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_173 token="membros" lemma="membro" pos="n" features="M=P" sentenca="6" />
+    <word_174 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_175 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_176 token="Defesa_Civil" lemma="" pos="prop" features="F=S" sentenca="6" />
+    <word_177 token="e" lemma="e" pos="conj-c" features="-" sentenca="6" />
+    <word_178 token="equipes" lemma="" pos="n" features="M=P" sentenca="6" />
+    <word_179 token="médicas" lemma="médico" pos="adj" features="F=P" sentenca="6" />
+    <word_180 token="participam" lemma="participar" pos="v-fin" features="PR=3P=IND" sentenca="6" />
+    <word_181 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_182 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_183 token="trabalhos" lemma="trabalho" pos="n" features="M=P" sentenca="6" />
+    <word_184 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_185 token="resgate" lemma="resgate" pos="n" features="M=S" sentenca="6" />
+    <word_186 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_187 token="O" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_188 token="Governador" lemma="governador, governar" pos="n" features="M=S" sentenca="7" />
+    <word_189 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_190 token="Qaluibiya" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_191 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_192 token="Adli_Hussein" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_193 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_194 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="7" />
+    <word_195 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" sentenca="7" />
+    <word_196 token="deslocou" lemma="deslocar" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_197 token="junto" lemma="junto" pos="adv" features="-" sentenca="7" />
+    <word_198 token="com" lemma="com" pos="prp" features="-" sentenca="7" />
+    <word_199 token="outros" lemma="outro" pos="pron-det" features="M=P" sentenca="7" />
+    <word_200 token="vários" lemma="" pos="pron-det" features="M=P" sentenca="7" />
+    <word_201 token="altos" lemma="alto" pos="n" features="M=P" sentenca="7" />
+    <word_202 token="funcionários" lemma="funcionário" pos="n" features="M=P" sentenca="7" />
+    <word_203 token="egípcios" lemma="egípcio" pos="adj" features="M=P" sentenca="7" />
+    <word_204 token="a" lemma="a" pos="prp" features="-" sentenca="7" />
+    <word_205 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_206 token="local" lemma="local" pos="n" features="M=S" sentenca="7" />
+    <word_207 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_208 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_209 token="acidente" lemma="acidente" pos="n" features="M=S" sentenca="7" />
+    <word_210 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_211 token="afirmou" lemma="afirmar" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_212 token="que" lemma="que" pos="conj-s" features="-" sentenca="7" />
+    <word_213 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_214 token="colisão" lemma="colisão" pos="n" features="F=S" sentenca="7" />
+    <word_215 token="ocorreu" lemma="ocorrer" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_216 token="quando" lemma="quando" pos="adv" features="-" sentenca="7" />
+    <word_217 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_218 token="trem" lemma="trem" pos="n" features="M=S" sentenca="7" />
+    <word_219 token="número" lemma="número" pos="n" features="M=S" sentenca="7" />
+    <word_220 token="808" lemma="" pos="num" features="M=P" sentenca="7" />
+    <word_221 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="7" />
+    <word_222 token="circulava" lemma="circular" pos="v-fin" features="IMPF=3S=IND" sentenca="7" />
+    <word_223 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_224 token="alta" lemma="alto" pos="adj" features="F=S" sentenca="7" />
+    <word_225 token="velocidade" lemma="velocidade, veloz" pos="n" features="F=S" sentenca="7" />
+    <word_226 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" sentenca="7" />
+    <word_227 token="chocou" lemma="chocar" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_228 token="com" lemma="com" pos="prp" features="-" sentenca="7" />
+    <word_229 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_230 token="parte" lemma="parte" pos="n" features="F=S" sentenca="7" />
+    <word_231 token="traseira" lemma="" pos="adj" features="F=S" sentenca="7" />
+    <word_232 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_233 token="outro" lemma="outro" pos="pron-det" features="M=S" sentenca="7" />
+    <word_234 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_235 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="7" />
+    <word_236 token="vinha" lemma="vir" pos="v-fin" features="IMPF=3S=IND" sentenca="7" />
+    <word_237 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_238 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_239 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_240 token="Qaliub" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_241 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_242 token="Fontes" lemma="fonte" pos="n" features="F=P" sentenca="8" />
+    <word_243 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_244 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_245 token="Ministério_de_Transporte" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_246 token="disseram" lemma="dizer" pos="v-fin" features="MQP=3P=IND" sentenca="8" />
+    <word_247 token="que" lemma="que" pos="conj-s" features="-" sentenca="8" />
+    <word_248 token="vários" lemma="" pos="pron-det" features="M=P" sentenca="8" />
+    <word_249 token="vagões" lemma="vagão" pos="n" features="M=P" sentenca="8" />
+    <word_250 token="descarrilaram" lemma="descarrilar" pos="v-fin" features="MQP=3P=IND" sentenca="8" />
+    <word_251 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_252 token="tombaram" lemma="tombar" pos="v-fin" features="MQP=3P=IND" sentenca="8" />
+    <word_253 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_254 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_255 token="que" lemma="que" pos="conj-s" features="-" sentenca="8" />
+    <word_256 token="os" lemma="o" pos="art" features="M=P" sentenca="8" />
+    <word_257 token="bombeiros" lemma="bombeiro" pos="n" features="M=P" sentenca="8" />
+    <word_258 token="conseguiram" lemma="conseguir" pos="v-fin" features="MQP=3P=IND" sentenca="8" />
+    <word_259 token="controlar" lemma="controlar" pos="v-inf" features="-" sentenca="8" />
+    <word_260 token="um" lemma="um" pos="art" features="M=S" sentenca="8" />
+    <word_261 token="incêndio" lemma="incêndio" pos="n" features="M=S" sentenca="8" />
+    <word_262 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_263 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_264 token="trem" lemma="trem" pos="n" features="M=S" sentenca="8" />
+    <word_265 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="8" />
+    <word_266 token="procedia" lemma="proceder" pos="v-fin" features="IMPF=3S=IND" sentenca="8" />
+    <word_267 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_268 token="Lardo" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_269 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_270 token="A" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_271 token="maior" lemma="maior" pos="adj" features="F=S" sentenca="9" />
+    <word_272 token="tragédia" lemma="tragédia" pos="n" features="F=S" sentenca="9" />
+    <word_273 token="ferroviária" lemma="ferroviário" pos="adj" features="F=S" sentenca="9" />
+    <word_274 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_275 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_276 token="história" lemma="história" pos="n" features="F=S" sentenca="9" />
+    <word_277 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_278 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_279 token="Egito" lemma="Egito" pos="prop" features="M=S" sentenca="9" />
+    <word_280 token="ocorreu" lemma="ocorrer" pos="v-fin" features="PS=3S=IND" sentenca="9" />
+    <word_281 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_282 token="fevereiro" lemma="fevereiro" pos="n" features="M=S" sentenca="9" />
+    <word_283 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_284 token="2002" lemma="" pos="num" features="M=P" sentenca="9" />
+    <word_285 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_286 token="após" lemma="após" pos="prp" features="-" sentenca="9" />
+    <word_287 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_288 token="incêndio" lemma="incêndio" pos="n" features="M=S" sentenca="9" />
+    <word_289 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_290 token="um" lemma="um" pos="art" features="M=S" sentenca="9" />
+    <word_291 token="trem" lemma="trem" pos="n" features="M=S" sentenca="9" />
+    <word_292 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="9" />
+    <word_293 token="cobria" lemma="cobrir" pos="v-fin" features="IMPF=3S=IND" sentenca="9" />
+    <word_294 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_295 token="trajeto" lemma="trajeto" pos="n" features="M=S" sentenca="9" />
+    <word_296 token="entre" lemma="entre" pos="prp" features="-" sentenca="9" />
+    <word_297 token="Cairo" lemma="Cairo" pos="prop" features="M=S" sentenca="9" />
+    <word_298 token="e" lemma="e" pos="conj-c" features="-" sentenca="9" />
+    <word_299 token="Luxor" lemma="" pos="prop" features="M=S" sentenca="9" />
+    <word_300 token="(" lemma="(" pos="(" features="-" sentenca="9" />
+    <word_301 token="sul" lemma="sul" pos="n" features="M=S" sentenca="9" />
+    <word_302 token=")" lemma=")" pos=")" features="-" sentenca="9" />
+    <word_303 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_304 token="lotado" lemma="lotar" pos="v-pcp" features="M=S" sentenca="9" />
+    <word_305 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_306 token="passageiros" lemma="passageiro" pos="n" features="M=P" sentenca="9" />
+    <word_307 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_308 token="e" lemma="e" pos="conj-c" features="-" sentenca="9" />
+    <word_309 token="que" lemma="que" pos="conj-s" features="-" sentenca="9" />
+    <word_310 token="deixou" lemma="deixar" pos="v-fin" features="PS=3S=IND" sentenca="9" />
+    <word_311 token="376" lemma="" pos="num" features="M=P" sentenca="9" />
+    <word_312 token="mortos" lemma="morto" pos="n-adj" features="M=P" sentenca="9" />
+    <word_313 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_314 token="segundo" lemma="segundo" pos="prp" features="-" sentenca="9" />
+    <word_315 token="números" lemma="número" pos="n" features="M=P" sentenca="9" />
+    <word_316 token="oficiais" lemma="oficial" pos="adj" features="M=P" sentenca="9" />
+    <word_317 token="." lemma="." pos="." features="-" sentenca="9" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_10>
+      <sn id="11" tokens="37...41" nucleo="norte" sintagma="o norte de o Cairo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_37 token="o" lemma="o" pos="art" features="M=S" />
+        <word_38 token="norte" lemma="norte" pos="n" features="M=S" />
+        <word_39 token="de" lemma="de" pos="prp" features="-" />
+        <word_40 token="o" lemma="o" pos="art" features="M=S" />
+        <word_41 token="Cairo" lemma="Cairo" pos="prop" features="M=S" />
+      </sn>
+      <sn id="17" tokens="59...60" nucleo="região" sintagma="a região" Categoria="OUTRO" sentenca="2">
+        <word_59 token="a" lemma="o" pos="art" features="F=S" />
+        <word_60 token="região" lemma="região" pos="n" features="F=S" />
+      </sn>
+      <sn id="41" tokens="140...147" nucleo="norte" sintagma="o norte de a capital de o Egito" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_140 token="o" lemma="o" pos="art" features="M=S" />
+        <word_141 token="norte" lemma="norte" pos="n" features="M=S" />
+        <word_142 token="de" lemma="de" pos="prp" features="-" />
+        <word_143 token="a" lemma="o" pos="art" features="F=S" />
+        <word_144 token="capital" lemma="capital" pos="n" features="F=S" />
+        <word_145 token="de" lemma="de" pos="prp" features="-" />
+        <word_146 token="o" lemma="o" pos="art" features="M=S" />
+        <word_147 token="Egito" lemma="Egito" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_10>
+    <Cadeia_11>
+      <sn id="12" tokens="40...41" nucleo="Cairo" sintagma="o Cairo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_40 token="o" lemma="o" pos="art" features="M=S" />
+        <word_41 token="Cairo" lemma="Cairo" pos="prop" features="M=S" />
+      </sn>
+      <sn id="42" tokens="143...147" nucleo="capital" sintagma="a capital de o Egito" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_143 token="a" lemma="o" pos="art" features="F=S" />
+        <word_144 token="capital" lemma="capital" pos="n" features="F=S" />
+        <word_145 token="de" lemma="de" pos="prp" features="-" />
+        <word_146 token="o" lemma="o" pos="art" features="M=S" />
+        <word_147 token="Egito" lemma="Egito" pos="prop" features="M=S" />
+      </sn>
+      <sn id="92" tokens="297...297" nucleo="Cairo" sintagma="Cairo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_297 token="Cairo" lemma="Cairo" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_11>
+    <Cadeia_15>
+      <sn id="16" tokens="56...57" nucleo="hospitais" sintagma="seis hospitais" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_56 token="seis" lemma="seis" pos="num" features="M=P" />
+        <word_57 token="hospitais" lemma="hospital" pos="n" features="M=P" />
+      </sn>
+      <sn id="46" tokens="157...166" nucleo="hospitais" sintagma="os hospitais de Qaliubiya e de Shebin al - Qanater" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+        <word_157 token="os" lemma="o" pos="art" features="M=P" />
+        <word_158 token="hospitais" lemma="hospital" pos="n" features="M=P" />
+        <word_159 token="de" lemma="de" pos="prp" features="-" />
+        <word_160 token="Qaliubiya" lemma="" pos="prop" features="M=S" />
+        <word_161 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_162 token="de" lemma="de" pos="prp" features="-" />
+        <word_163 token="Shebin" lemma="" pos="prop" features="M=S" />
+        <word_164 token="al" lemma="" pos="adj" features="M=S" />
+        <word_165 token="-" lemma="" pos="-" features="-" />
+        <word_166 token="Qanater" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_15>
+    <Cadeia_16>
+      <sn id="6" tokens="22...26" nucleo="choque" sintagma="o choque entre dois trens" Categoria="EVENTO" sentenca="1">
+        <word_22 token="o" lemma="o" pos="art" features="M=S" />
+        <word_23 token="choque" lemma="choque" pos="n" features="M=S" />
+        <word_24 token="entre" lemma="entre" pos="prp" features="-" />
+        <word_25 token="dois" lemma="dois" pos="num" features="M=P" />
+        <word_26 token="trens" lemma="trem" pos="n" features="M=P" />
+      </sn>
+      <sn id="18" tokens="63...64" nucleo="acidente" sintagma="o acidente" Categoria="EVENTO" sentenca="2">
+        <word_63 token="o" lemma="o" pos="art" features="M=S" />
+        <word_64 token="acidente" lemma="acidente" pos="n" features="M=S" />
+      </sn>
+      <sn id="28" tokens="104...105" nucleo="acidente" sintagma="o acidente" Categoria="EVENTO" sentenca="3">
+        <word_104 token="o" lemma="o" pos="art" features="M=S" />
+        <word_105 token="acidente" lemma="acidente" pos="n" features="M=S" />
+      </sn>
+      <sn id="29" tokens="107...108" nucleo="acidente" sintagma="O acidente" Categoria="EVENTO" sentenca="4">
+        <word_107 token="O" lemma="o" pos="art" features="M=S" />
+        <word_108 token="acidente" lemma="acidente" pos="n" features="M=S" />
+      </sn>
+      <sn id="63" tokens="208...209" nucleo="acidente" sintagma="o acidente" Categoria="EVENTO" sentenca="7">
+        <word_208 token="o" lemma="o" pos="art" features="M=S" />
+        <word_209 token="acidente" lemma="acidente" pos="n" features="M=S" />
+      </sn>
+      <sn id="64" tokens="213...214" nucleo="colisão" sintagma="a colisão" Categoria="EVENTO" sentenca="7">
+        <word_213 token="a" lemma="o" pos="art" features="F=S" />
+        <word_214 token="colisão" lemma="colisão" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_16>
+    <Cadeia_17>
+      <sn id="19" tokens="72...73" nucleo="Egito" sintagma="o Egito" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_72 token="o" lemma="o" pos="art" features="M=S" />
+        <word_73 token="Egito" lemma="Egito" pos="prop" features="M=S" />
+      </sn>
+      <sn id="43" tokens="146...147" nucleo="Egito" sintagma="o Egito" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_146 token="o" lemma="o" pos="art" features="M=S" />
+        <word_147 token="Egito" lemma="Egito" pos="prop" features="M=S" />
+      </sn>
+      <sn id="86" tokens="278...279" nucleo="Egito" sintagma="o Egito" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_278 token="o" lemma="o" pos="art" features="M=S" />
+        <word_279 token="Egito" lemma="Egito" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_17>
+    <Cadeia_25>
+      <sn id="30" tokens="111...112" nucleo="7h15" sintagma="as 7h15" Categoria="OUTRO" sentenca="4">
+        <word_111 token="as" lemma="o" pos="art" features="F=P" />
+        <word_112 token="7h15" lemma="" pos="n" features="F=P" />
+      </sn>
+      <sn id="31" tokens="114...116" nucleo="1h15" sintagma=" 1h15 em Brasília " Categoria="OUTRO" sentenca="4">
+        <word_114 token="1h15" lemma="" pos="n" features="F=P" />
+        <word_115 token="em" lemma="em" pos="prp" features="-" />
+        <word_116 token="Brasília" lemma="Brasília" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_25>
+    <Cadeia_28>
+      <sn id="34" tokens="123...127" nucleo="cidade" sintagma="a cidade nortista de Lardo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_123 token="a" lemma="o" pos="art" features="F=S" />
+        <word_124 token="cidade" lemma="cidade" pos="n" features="F=S" />
+        <word_125 token="nortista" lemma="norte" pos="adj" features="F=S" />
+        <word_126 token="de" lemma="de" pos="prp" features="-" />
+        <word_127 token="Lardo" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="83" tokens="268...268" nucleo="Lardo" sintagma="Lardo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_268 token="Lardo" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_28>
+    <Cadeia_32>
+      <sn id="38" tokens="133...135" nucleo="estação" sintagma="a estação Qalyoub" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_133 token="a" lemma="o" pos="art" features="F=S" />
+        <word_134 token="estação" lemma="estação" pos="n" features="F=S" />
+        <word_135 token="Qalyoub" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="75" tokens="240...240" nucleo="Qaliub" sintagma="Qaliub" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_240 token="Qaliub" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_32>
+    <Cadeia_49>
+      <sn id="33" tokens="119...120" nucleo="trem" sintagma="um trem" Categoria="OUTRO" sentenca="4">
+        <word_119 token="um" lemma="um" pos="art" features="M=S" />
+        <word_120 token="trem" lemma="trem" pos="n" features="M=S" />
+      </sn>
+      <sn id="65" tokens="217...220" nucleo="trem" sintagma="o trem número 808" Categoria="OUTRO" sentenca="7">
+        <word_217 token="o" lemma="o" pos="art" features="M=S" />
+        <word_218 token="trem" lemma="trem" pos="n" features="M=S" />
+        <word_219 token="número" lemma="número" pos="n" features="M=S" />
+        <word_220 token="808" lemma="" pos="num" features="M=P" />
+      </sn>
+      <sn id="81" tokens="263...264" nucleo="trem" sintagma="o trem" Categoria="OUTRO" sentenca="8">
+        <word_263 token="o" lemma="o" pos="art" features="M=S" />
+        <word_264 token="trem" lemma="trem" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_49>
+    <Cadeia_64>
+      <sn id="0" tokens="0...6" nucleo="ministro" sintagma="O ministro de a Saúde egípcio" Categoria="PESSOA" sentenca="1">
+        <word_0 token="O" lemma="o" pos="art" features="M=S" />
+        <word_1 token="ministro" lemma="ministro" pos="n" features="M=S" />
+        <word_2 token="de" lemma="de" pos="prp" features="-" />
+        <word_3 token="a" lemma="o" pos="art" features="F=S" />
+        <word_4 token="Saúde" lemma="saúde" pos="n" features="F=S" />
+        <word_5 token="egípcio" lemma="egípcio" pos="adj" features="M=S" />
+        <word_6 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="2" tokens="7...7" nucleo="Hatem_El-Gabaly" sintagma="Hatem El-Gabaly" Categoria="PESSOA" sentenca="1">
+        <word_7 token="Hatem_El-Gabaly" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="20" tokens="78...79" nucleo="El-Gabaly" sintagma="El-Gabaly" Categoria="PESSOA" sentenca="2">
+        <word_78 token="El-Gabaly" lemma="" pos="prop" features="M=S" />
+        <word_79 token="," lemma="" pos="," features="-" />
+      </sn>
+    </Cadeia_64>
+    <Cadeia_66>
+      <sn id="13" tokens="43...45" nucleo="vários" sintagma="Os feridos" Categoria="OUTROS_SERES" sentenca="2">
+        <word_43 token="Os" lemma="o" pos="art" features="M=P" />
+        <word_44 token="feridos" lemma="ferir" pos="v-pcp" features="M=P" />
+        <word_45 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="14" tokens="48...48" nucleo="eles" sintagma="eles" Categoria="OUTROS_SERES" sentenca="2">
+        <word_48 token="eles" lemma="ele" pos="pron-pers" features="M=3P=NOM" />
+      </sn>
+    </Cadeia_66>
+    <Cadeia_67>
+      <sn id="57" tokens="187...191" nucleo="Governador" sintagma="O Governador de Qaluibiya" Categoria="PESSOA" sentenca="7">
+        <word_187 token="O" lemma="o" pos="art" features="M=S" />
+        <word_188 token="Governador" lemma="governador, governar" pos="n" features="M=S" />
+        <word_189 token="de" lemma="de" pos="prp" features="-" />
+        <word_190 token="Qaluibiya" lemma="" pos="prop" features="M=S" />
+        <word_191 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="59" tokens="192...192" nucleo="Adli_Hussein" sintagma="Adli Hussein" Categoria="PESSOA" sentenca="7">
+        <word_192 token="Adli_Hussein" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_67>
+    <Cadeia_68>
+      <sn id="36" tokens="129...129" nucleo="outro" sintagma="outro" Categoria="OUTRO" sentenca="4">
+        <word_129 token="outro" lemma="outro" pos="pron-det" features="M=S" />
+      </sn>
+      <sn id="71" tokens="233...233" nucleo="outro" sintagma="outro" Categoria="OUTRO" sentenca="7">
+        <word_233 token="outro" lemma="outro" pos="pron-det" features="M=S" />
+      </sn>
+    </Cadeia_68>
+    <Cadeia_69>
+      <sn id="84" tokens="270...279" nucleo="tragédia" sintagma="A maior tragédia ferroviária de a história de o Egito" Categoria="EVENTO" sentenca="9">
+        <word_270 token="A" lemma="o" pos="art" features="F=S" />
+        <word_271 token="maior" lemma="maior" pos="adj" features="F=S" />
+        <word_272 token="tragédia" lemma="tragédia" pos="n" features="F=S" />
+        <word_273 token="ferroviária" lemma="ferroviário" pos="adj" features="F=S" />
+        <word_274 token="de" lemma="de" pos="prp" features="-" />
+        <word_275 token="a" lemma="o" pos="art" features="F=S" />
+        <word_276 token="história" lemma="história" pos="n" features="F=S" />
+        <word_277 token="de" lemma="de" pos="prp" features="-" />
+        <word_278 token="o" lemma="o" pos="art" features="M=S" />
+        <word_279 token="Egito" lemma="Egito" pos="prop" features="M=S" />
+      </sn>
+      <sn id="88" tokens="287...288" nucleo="incêndio" sintagma="o incêndio" Categoria="EVENTO" sentenca="9">
+        <word_287 token="o" lemma="o" pos="art" features="M=S" />
+        <word_288 token="incêndio" lemma="incêndio" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_69>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="7" tokens="25...26" nucleo="trens" sintagma="dois trens" Categoria="--" sentenca="1">
+      <word_25 token="dois" lemma="dois" pos="num" features="M=P" />
+      <word_26 token="trens" lemma="trem" pos="n" features="M=P" />
+    </sn>
+    <sn id="8" tokens="28...28" nucleo="passageiros" sintagma="passageiros" Categoria="--" sentenca="1">
+      <word_28 token="passageiros" lemma="passageiro" pos="n" features="M=P" />
+    </sn>
+    <sn id="9" tokens="30...31" nucleo="delta" sintagma="o delta" Categoria="--" sentenca="1">
+      <word_30 token="o" lemma="o" pos="art" features="M=S" />
+      <word_31 token="delta" lemma="delta" pos="n" features="M=S" />
+    </sn>
+    <sn id="10" tokens="33...34" nucleo="Nilo" sintagma="o Nilo" Categoria="--" sentenca="1">
+      <word_33 token="o" lemma="o" pos="art" features="M=S" />
+      <word_34 token="Nilo" lemma="Nilo" pos="prop" features="-" />
+    </sn>
+    <sn id="15" tokens="50...51" nucleo="estado" sintagma="estado grave" Categoria="--" sentenca="2">
+      <word_50 token="estado" lemma="estado" pos="n" features="M=S" />
+      <word_51 token="grave" lemma="grave" pos="adj" features="M=S" />
+    </sn>
+    <sn id="21" tokens="82...84" nucleo="agência" sintagma="a agência egípcia" Categoria="--" sentenca="2">
+      <word_82 token="a" lemma="o" pos="art" features="F=S" />
+      <word_83 token="agência" lemma="agência" pos="n" features="F=S" />
+      <word_84 token="egípcia" lemma="egípcio" pos="adj" features="F=S" />
+    </sn>
+    <sn id="22" tokens="86...86" nucleo="notícias" sintagma="notícias" Categoria="--" sentenca="2">
+      <word_86 token="notícias" lemma="notícia" pos="n" features="F=P" />
+    </sn>
+    <sn id="23" tokens="87...87" nucleo="Mena" sintagma="Mena" Categoria="--" sentenca="2">
+      <word_87 token="Mena" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="24" tokens="89...89" nucleo="Fontes" sintagma="Fontes" Categoria="--" sentenca="3">
+      <word_89 token="Fontes" lemma="fonte" pos="n" features="F=P" />
+    </sn>
+    <sn id="25" tokens="90...90" nucleo="policiais" sintagma="policiais" Categoria="--" sentenca="3">
+      <word_90 token="policiais" lemma="policial" pos="n" features="M=P" />
+    </sn>
+    <sn id="26" tokens="92...92" nucleo="médicas" sintagma="médicas" Categoria="--" sentenca="3">
+      <word_92 token="médicas" lemma="médico" pos="n" features="F=P" />
+    </sn>
+    <sn id="27" tokens="97...100" nucleo="menos" sintagma="o menos 80 pessoas" Categoria="--" sentenca="3">
+      <word_97 token="o" lemma="o" pos="art" features="M=S" />
+      <word_98 token="menos" lemma="menos" pos="pron-det" features="M=P" />
+      <word_99 token="80" lemma="" pos="num" features="F=P" />
+      <word_100 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+    </sn>
+    <sn id="32" tokens="116...116" nucleo="Brasília" sintagma="Brasília" Categoria="--" sentenca="4">
+      <word_116 token="Brasília" lemma="Brasília" pos="prop" features="M=S" />
+    </sn>
+    <sn id="35" tokens="127...127" nucleo="Lardo" sintagma="Lardo" Categoria="--" sentenca="4">
+      <word_127 token="Lardo" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="37" tokens="130...130" nucleo="que" sintagma="que" Categoria="--" sentenca="4">
+      <word_130 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="39" tokens="135...135" nucleo="Qalyoub" sintagma="Qalyoub" Categoria="--" sentenca="4">
+      <word_135 token="Qalyoub" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="44" tokens="149...152" nucleo="ambulâncias" sintagma="Mais de 45 ambulâncias" Categoria="--" sentenca="5">
+      <word_149 token="Mais" lemma="mais" pos="adv" features="-" />
+      <word_150 token="de" lemma="de" pos="prp" features="-" />
+      <word_151 token="45" lemma="" pos="num" features="F=P" />
+      <word_152 token="ambulâncias" lemma="ambulância" pos="n" features="F=P" />
+    </sn>
+    <sn id="45" tokens="154...155" nucleo="vítimas" sintagma="as vítimas" Categoria="--" sentenca="5">
+      <word_154 token="as" lemma="o" pos="art" features="F=P" />
+      <word_155 token="vítimas" lemma="vítima" pos="n" features="F=P" />
+    </sn>
+    <sn id="47" tokens="160...160" nucleo="Qaliubiya" sintagma="Qaliubiya" Categoria="--" sentenca="5">
+      <word_160 token="Qaliubiya" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="48" tokens="163...164" nucleo="Shebin" sintagma="Shebin al" Categoria="--" sentenca="5">
+      <word_163 token="Shebin" lemma="" pos="prop" features="M=S" />
+      <word_164 token="al" lemma="" pos="adj" features="M=S" />
+    </sn>
+    <sn id="49" tokens="166...166" nucleo="Qanater" sintagma="Qanater" Categoria="--" sentenca="5">
+      <word_166 token="Qanater" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="50" tokens="168...168" nucleo="Efetivos" sintagma="Efetivos" Categoria="--" sentenca="6">
+      <word_168 token="Efetivos" lemma="efetivo" pos="n" features="M=P" />
+    </sn>
+    <sn id="51" tokens="170...171" nucleo="Exército" sintagma="o Exército" Categoria="--" sentenca="6">
+      <word_170 token="o" lemma="o" pos="art" features="M=S" />
+      <word_171 token="Exército" lemma="exército" pos="n" features="M=S" />
+    </sn>
+    <sn id="52" tokens="173...173" nucleo="membros" sintagma="membros" Categoria="--" sentenca="6">
+      <word_173 token="membros" lemma="membro" pos="n" features="M=P" />
+    </sn>
+    <sn id="53" tokens="175...176" nucleo="Defesa_Civil" sintagma="a Defesa Civil" Categoria="--" sentenca="6">
+      <word_175 token="a" lemma="o" pos="art" features="F=S" />
+      <word_176 token="Defesa_Civil" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="54" tokens="178...179" nucleo="equipes" sintagma="equipes médicas" Categoria="--" sentenca="6">
+      <word_178 token="equipes" lemma="" pos="n" features="M=P" />
+      <word_179 token="médicas" lemma="médico" pos="adj" features="F=P" />
+    </sn>
+    <sn id="55" tokens="182...183" nucleo="trabalhos" sintagma="os trabalhos" Categoria="--" sentenca="6">
+      <word_182 token="os" lemma="o" pos="art" features="M=P" />
+      <word_183 token="trabalhos" lemma="trabalho" pos="n" features="M=P" />
+    </sn>
+    <sn id="56" tokens="185...185" nucleo="resgate" sintagma="resgate" Categoria="--" sentenca="6">
+      <word_185 token="resgate" lemma="resgate" pos="n" features="M=S" />
+    </sn>
+    <sn id="58" tokens="190...190" nucleo="Qaluibiya" sintagma="Qaluibiya" Categoria="--" sentenca="7">
+      <word_190 token="Qaluibiya" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="60" tokens="199...201" nucleo="outros" sintagma="outros vários altos" Categoria="--" sentenca="7">
+      <word_199 token="outros" lemma="outro" pos="pron-det" features="M=P" />
+      <word_200 token="vários" lemma="" pos="pron-det" features="M=P" />
+      <word_201 token="altos" lemma="alto" pos="n" features="M=P" />
+    </sn>
+    <sn id="61" tokens="202...203" nucleo="funcionários" sintagma="funcionários egípcios" Categoria="--" sentenca="7">
+      <word_202 token="funcionários" lemma="funcionário" pos="n" features="M=P" />
+      <word_203 token="egípcios" lemma="egípcio" pos="adj" features="M=P" />
+    </sn>
+    <sn id="62" tokens="205...206" nucleo="local" sintagma="o local" Categoria="--" sentenca="7">
+      <word_205 token="o" lemma="o" pos="art" features="M=S" />
+      <word_206 token="local" lemma="local" pos="n" features="M=S" />
+    </sn>
+    <sn id="66" tokens="219...220" nucleo="número" sintagma="número 808" Categoria="--" sentenca="7">
+      <word_219 token="número" lemma="número" pos="n" features="M=S" />
+      <word_220 token="808" lemma="" pos="num" features="M=P" />
+    </sn>
+    <sn id="67" tokens="224...225" nucleo="velocidade" sintagma="alta velocidade" Categoria="--" sentenca="7">
+      <word_224 token="alta" lemma="alto" pos="adj" features="F=S" />
+      <word_225 token="velocidade" lemma="velocidade, veloz" pos="n" features="F=S" />
+    </sn>
+    <sn id="68" tokens="195...195" nucleo="se" sintagma="se" Categoria="--" sentenca="7">
+      <word_195 token="se" lemma="se" pos="pron-pers" features="M=3S=ACC" />
+    </sn>
+    <sn id="69" tokens="226...226" nucleo="se" sintagma="se" Categoria="--" sentenca="7">
+      <word_226 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" />
+    </sn>
+    <sn id="70" tokens="229...231" nucleo="parte" sintagma="a parte traseira" Categoria="--" sentenca="7">
+      <word_229 token="a" lemma="o" pos="art" features="F=S" />
+      <word_230 token="parte" lemma="parte" pos="n" features="F=S" />
+      <word_231 token="traseira" lemma="" pos="adj" features="F=S" />
+    </sn>
+    <sn id="72" tokens="194...194" nucleo="que" sintagma="que" Categoria="--" sentenca="7">
+      <word_194 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="73" tokens="221...221" nucleo="que" sintagma="que" Categoria="--" sentenca="7">
+      <word_221 token="que" lemma="que" pos="pron-indp" features="M=P" />
+    </sn>
+    <sn id="74" tokens="235...235" nucleo="que" sintagma="que" Categoria="--" sentenca="7">
+      <word_235 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="76" tokens="242...242" nucleo="Fontes" sintagma="Fontes" Categoria="--" sentenca="8">
+      <word_242 token="Fontes" lemma="fonte" pos="n" features="F=P" />
+    </sn>
+    <sn id="77" tokens="244...245" nucleo="Ministério_de_Transporte" sintagma="o Ministério de Transporte" Categoria="--" sentenca="8">
+      <word_244 token="o" lemma="o" pos="art" features="M=S" />
+      <word_245 token="Ministério_de_Transporte" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="78" tokens="248...249" nucleo="vários" sintagma="vários vagões" Categoria="--" sentenca="8">
+      <word_248 token="vários" lemma="" pos="pron-det" features="M=P" />
+      <word_249 token="vagões" lemma="vagão" pos="n" features="M=P" />
+    </sn>
+    <sn id="79" tokens="256...257" nucleo="bombeiros" sintagma="os bombeiros" Categoria="--" sentenca="8">
+      <word_256 token="os" lemma="o" pos="art" features="M=P" />
+      <word_257 token="bombeiros" lemma="bombeiro" pos="n" features="M=P" />
+    </sn>
+    <sn id="80" tokens="260...261" nucleo="incêndio" sintagma="um incêndio" Categoria="--" sentenca="8">
+      <word_260 token="um" lemma="um" pos="art" features="M=S" />
+      <word_261 token="incêndio" lemma="incêndio" pos="n" features="M=S" />
+    </sn>
+    <sn id="82" tokens="265...265" nucleo="que" sintagma="que" Categoria="--" sentenca="8">
+      <word_265 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="85" tokens="275...276" nucleo="história" sintagma="a história" Categoria="--" sentenca="9">
+      <word_275 token="a" lemma="o" pos="art" features="F=S" />
+      <word_276 token="história" lemma="história" pos="n" features="F=S" />
+    </sn>
+    <sn id="87" tokens="282...282" nucleo="fevereiro" sintagma="fevereiro" Categoria="--" sentenca="9">
+      <word_282 token="fevereiro" lemma="fevereiro" pos="n" features="M=S" />
+    </sn>
+    <sn id="89" tokens="290...291" nucleo="trem" sintagma="um trem" Categoria="--" sentenca="9">
+      <word_290 token="um" lemma="um" pos="art" features="M=S" />
+      <word_291 token="trem" lemma="trem" pos="n" features="M=S" />
+    </sn>
+    <sn id="90" tokens="292...292" nucleo="que" sintagma="que" Categoria="--" sentenca="9">
+      <word_292 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="91" tokens="294...303" nucleo="trajeto" sintagma="o trajeto entre Cairo e Luxor ( sul )" Categoria="--" sentenca="9">
+      <word_294 token="o" lemma="o" pos="art" features="M=S" />
+      <word_295 token="trajeto" lemma="trajeto" pos="n" features="M=S" />
+      <word_296 token="entre" lemma="entre" pos="prp" features="-" />
+      <word_297 token="Cairo" lemma="Cairo" pos="prop" features="M=S" />
+      <word_298 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_299 token="Luxor" lemma="" pos="prop" features="M=S" />
+      <word_300 token="(" lemma="(" pos="(" features="-" />
+      <word_301 token="sul" lemma="sul" pos="n" features="M=S" />
+      <word_302 token=")" lemma=")" pos=")" features="-" />
+      <word_303 token="," lemma="" pos="," features="-" />
+    </sn>
+    <sn id="95" tokens="306...306" nucleo="passageiros" sintagma="passageiros" Categoria="--" sentenca="9">
+      <word_306 token="passageiros" lemma="passageiro" pos="n" features="M=P" />
+    </sn>
+    <sn id="96" tokens="315...316" nucleo="números" sintagma="números oficiais" Categoria="--" sentenca="9">
+      <word_315 token="números" lemma="número" pos="n" features="M=P" />
+      <word_316 token="oficiais" lemma="oficial" pos="adj" features="M=P" />
+    </sn>
+    <sn id="3" tokens="11...12" nucleo="esta" sintagma="esta segunda-feira" Categoria="--" sentenca="1">
+      <word_11 token="esta" lemma="este" pos="pron-det" features="F=S" />
+      <word_12 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="4" tokens="18...18" nucleo="que" sintagma="128" Categoria="--" sentenca="1">
+      <word_18 token="128" lemma="" pos="num" features="M=P" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

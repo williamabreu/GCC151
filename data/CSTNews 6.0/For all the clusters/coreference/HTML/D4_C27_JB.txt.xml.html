@@ -1,0 +1,2463 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="iso8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CORP</title>
+
+<style type="text/css">
+	@charset "iso8859-1";
+.container {
+	background-color: #FFFFFF;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.row {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	display: inline-block
+}
+.row.blockDisplay {
+	display: block;
+}
+.column_half {
+	width: 50%;
+	float: left;
+	margin-top: 0px;
+}
+.columns {
+	width: 25%;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #A5A5A5;
+	line-height: 24px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: justify;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.row .columns p {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.container .columns h4 {
+	text-align: center;
+	color: #01B2D1;
+}
+.primary_header {
+	width: 100%;
+	background-color: lightblue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	clear: left;
+	border-bottom: 2px solid #2C9AB7;
+}
+.secondary_header {
+	
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #B3B3B3;
+	clear: left;
+}
+.container .secondary_header ul {
+	margin-top: 0%;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	width: 100%;
+	
+}
+.secondary_header ul li {
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-top: 0px;
+	font-family: "Source Sans Pro";
+	font-weight: normal;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	margin-left: auto;
+	text-align: center;
+	width: 25%;
+	transition: all 0.3s linear;
+}
+.secondary_header ul li:hover {
+	color: #717070;
+	cursor: pointer;
+}
+.left_article {
+	background-color: #FFFFFF;
+	width: 70%;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #343434;
+	padding-bottom: 15px;
+}
+.noDisplay {
+	display: none;
+}
+.container .left_article h3 {
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 5%;
+	color: #717070;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.container .left_article p {
+	overflow-y: auto;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+	line-height: 24px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	color: #B3B3B3;
+}
+/*lado direito pag*/
+.right_article {
+	margin-top: 1px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+	width: 30%;
+	/*width: 600px; */
+	height: 980px; 
+	overflow-y: auto;
+	/*width: 40%;*/
+	float: center;
+	background-color: white;
+	/*background-color: #F6F6F6;*/
+	
+}
+.container .right_article ul {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	
+}
+.right_article ul li {
+	font-family: "Source Sans Pro";
+	list-style: none;
+	text-align: center;
+	background-color: #B3B3B3;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #FFFFFF;
+	font-weight: bold;
+	border-radius: 0px;
+	transition: all 0.3s linear;
+	border-left: 5px solid #717070;
+}
+.right_article ul li:hover {
+	background-color: #717070;
+	cursor: pointer;
+}
+.footer {
+	background-color: #717070;
+}
+.title {
+	font-weight: bold;
+	font-style: normal;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+}
+.placeholder {
+	/* [disabled]max-width: 400px;
+*/
+	/* [disabled]max-height: 200px;
+*/
+	width: 100%;
+	padding-top: 30px;
+	/* [disabled]padding-left: 19px;
+*/
+	padding-bottom: 30px;
+	height: 100%;
+}
+.left_half {
+	background-color: lightblue;
+}
+.container .column_half.left_half h2 {
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+}
+.right_half {
+	background-color: #01B2D1;
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	font-weight: bold;text-shadow: 0px 2px 3px #666;
+}
+.column_title {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.copyright {
+	text-align: center;
+	background-color: #717070;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+	font-family: "Source Sans Pro";
+}
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+@media (max-width: 320px) {
+.secondary_header ul li {
+	float: none;
+	margin-top: 28px;
+	margin-left: 0px;
+	width: 100%;
+}
+.container .secondary_header ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	height: auto;
+	width: 100%;
+	text-align: center;
+}
+.secondary_header {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 1px;
+	padding-bottom: 40px;
+}
+.left_article {
+	width: 98%;
+	height: auto;
+}
+.right_article {
+	width: 100%;
+	height: auto;
+}
+.placeholder {
+	width: 100%;
+	margin-top: 22PX;
+	margin-right: 0px;
+	margin-bottom: 22PX;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	max-width: 400px;
+	max-height: 200px;
+	height: auto;
+}
+.columns {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0PX;
+	padding-right: 0PX;
+	padding-bottom: 0PX;
+	padding-left: 0PX;
+}
+.columns p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.column_half.left_half {
+	width: 100%;
+}
+.column_half.right_half {
+	width: 100%;
+}
+.copyright {
+	padding-top: 25px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.container .left_article h3 {
+	margin-top: 30px;
+}
+.social .social_icon img {
+	width: 80%;
+}
+.container .secondary_header {
+}
+}
+
+@media (min-width: 321px) and (max-width: 768px) {
+.secondary_header ul li {
+	float: none;
+	margin-top: 28px;
+	margin-left: 0px;
+	width: 100%;
+}
+.container .secondary_header ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	height: auto;
+	width: 100%;
+	text-align: center;
+}
+.secondary_header {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 1px;
+	padding-bottom: 40px;
+}
+.left_article {
+	width: 100%;
+	height: auto;
+}
+.right_article {
+	width: 100%;
+	height: auto;
+	padding-bottom: 25px;
+}
+.placeholder {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+	max-height: 100%;
+}
+.columns {
+	width: 100%;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 6px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.columns p {
+	padding-left: 14px;
+	padding-right: 14px;
+}
+.column_half.left_half {
+	width: 100%;
+}
+.column_half.right_half {
+	width: 100%;
+}
+}
+
+@media (min-width: 769px) and (max-width: 1000px) {
+.secondary_header {
+	overflow: auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.secondary_header ul li {
+	margin-top: 10px;
+	margin-right: 7%;
+	margin-bottom: 10px;
+	margin-left: 7%;
+}
+.left_article {
+	height: auto;
+}
+.right_article {
+	height: auto;
+	padding-bottom: 27px;
+}
+.placeholder {
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.columns {
+	width: 50%;
+	float: left;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.container .columns p {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+}
+
+@media (min-width: 1001px) {
+}
+.thumbnail {
+	width: 100px;
+	border-radius: 200px;
+	height: 100px;
+	margin-left: auto;
+}
+.thumbnail_align {
+	text-align: center;
+}
+.social {
+	text-align: center;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	background-color: #414141;
+	clear: both;
+	overflow: auto;
+}
+.social_icon {
+	width: 25%;
+	text-align: center;
+	float: left;
+	transition: all 0.3s linear;
+	line-height: 0px;
+	padding-top: 7px;
+}
+.container .social .social_icon:hover {
+	cursor: pointer;
+	opacity: 0.5;
+}
+#menu {
+}
+
+
+body{font-family:Calibri, Tahoma, Arial}
+	.TabControl{ width:100%; overflow-y: auto;  height:auto}
+	.TabControl #header{ width:90%; border: hidden 0px; text-align:right; overflow:hidden; cursor: pointer}
+	.TabControl #content{ width:100%; border: solid 0px;overflow:hidden; text-align:right; height:100%; }
+	/*.TabControl .abas{display:inline;}*/
+	.TabControl .abas{display:inline; text-align:center;  text-shadow: 0px 2px 3px #400; font-stretch: ultra-condensed; line-height: 210%; }
+	.TabControl .abas li{list-style-type:none; float:left}
+	.aba{width:295px; height:20px; border:solid 1px; border-radius:5px 5px 0 0;
+		text-align:center; padding-top:5px; background:white}
+	.ativa{width:295px; height:20px; border:solid 1 px; border-radius:5px 5px 0 0;
+		text-align:center; padding-top:5px; background:lightblue;}
+	.ativa span, .selected span{color:#fff}
+	.TabControl #content{background:white}
+	.TabControl .conteudo{margin-top: 50px; width:99%; overflow-y: auto;  background:white; display:none; height:auto;color:gray;
+	
+	text-align: justify;
+	line-height: 24px;
+	color: #333333;
+	border-radius:5px 5px 0 0;
+
+	
+	
+	
+	}
+	.selected{width:295px; height:20px; border:solid 1 px; border-radius:5px 5px 0 0;
+		text-align:center; padding-top:5px; background:#27408B
+		
+	
+	
+	
+		
+		}
+		
+		/*padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+	line-height: 24px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	color: #B3B3B3;*/
+		
+		
+</style>
+
+
+</head>
+<body>
+<div class="container">
+  <header>
+    <div class="primary_header">
+      <h1> <center> CORP - Coreference Resolution for Portuguese </center> </h1>
+
+ 
+    </div>
+    <nav class="secondary_header" id="menu">
+      <ul>
+         <li> <a href="http://ontolp.inf.pucrs.br/corref/">HOME</a></li>
+        <li> <a href="http://www.inf.pucrs.br/linatural/index.html">PLN-PUCRS</a></li> 
+         <li> <a href="http://ontolp.inf.pucrs.br/corref/publicacoes.html">PUBLICA&Ccedil;&Otilde;ES</a></li>
+        <li> <a href="mailto:metalmorphy@gmail.com">CONTATO</a></li>
+	   </ul>
+    </nav>
+  </header>
+  <section>
+    <h2 class="noDisplay">Main Content</h2>
+    <article class="left_article">
+    
+      
+      
+      
+      
+<div class="TabControl">
+	<div id="header">
+		<ul class="abas">
+	
+     <span id="tag" class="wrd tagcloud" onclick="Mudarestado('78')"><b><FONT style="font-size: 28px" COLOR="#00CD66">os três minutos  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('63')"><b><FONT style="font-size: 20px" COLOR="#CD5C5C">Vieri  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('40')"><b><FONT style="font-size: 28px" COLOR="#0000CD">Juan  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('36')"><b><FONT style="font-size: 60px" COLOR="#EE8262">Vágner Love  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('24')"><b><FONT style="font-size: 36px" COLOR="#009ACD">a partida  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('16')"><b><FONT style="font-size: 52px" COLOR="#8B1C62">dois gols  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('12')"><b><FONT style="font-size: 20px" COLOR="#8B2500">uma linda festa  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('3')"><b><FONT style="font-size: 44px" COLOR="#C71585">o Brasil  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('1')"><b><FONT style="font-size: 20px" COLOR="#FF0000">a Seleção Brasile...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('4')"><b><FONT style="font-size: 36px" COLOR="#9400D3">o Equador  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('13')"><b><FONT style="font-size: 44px" COLOR="#00C5CD">Kaká , autor de d...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('17')"><b><FONT style="font-size: 60px" COLOR="#FF8C00">Robinho  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('25')"><b><FONT style="font-size: 44px" COLOR="#98FB98">a bola  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('37')"><b><FONT style="font-size: 20px" COLOR="#00688B">a trave  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('45')"><b><FONT style="font-size: 20px" COLOR="#8B3E2F">o placar  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('67')"><b><FONT style="font-size: 28px" COLOR="#0000CD">o primeiro tempo  </FONT></b></span>
+<span id="tag" class="wrd tagcloud1" onclick="Mudarestado('TodasCadeias')">Todas as Cadeias  </span>
+ 
+
+<style type="text/css"><!-- #htmltagcloud{
+
+/******************************************
+ * CUSTOMIZE CLOUD CSS BELOW (optional)
+ */
+	font-size: 100%;
+	width: auto;		/* auto or fixed width, e.g. 500px   */
+	font-family:'lucida grande','trebuchet ms',arial,helvetica,sans-serif;
+	background-color:#fff;
+	margin:1em 1em 0 1em;
+	border:2px dotted #ddd;
+	padding:2em; 
+/******************************************
+ * END CUSTOMIZE
+ */
+
+}#htmltagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}#htmltagcloud a:link{text-decoration:none}#htmltagcloud a:visited{text-decoration:none}#htmltagcloud a:hover{color:white;background-color:#05f}#htmltagcloud a:active{color:white;background-color:#03d}.wrd{padding:0;position:relative}.wrd a{text-decoration:none}.tagcloud0{font-size:1.0em;color:#ACC1F3;z-index:10}.tagcloud0 a{color:#ACC1F3}.tagcloud1{font-size:1.4em;color:#ACC1F3;z-index:9}.tagcloud1 a{color:#ACC1F3}.tagcloud2{font-size:1.8em;color:#86A0DC;z-index:8}.tagcloud2 a{color:#86A0DC}.tagcloud3{font-size:2.2em;color:#86A0DC;z-index:7}.tagcloud3 a{color:#86A0DC}.tagcloud4{font-size:2.6em;color:#607EC5;z-index:6}.tagcloud4 a{color:#607EC5}.tagcloud5{font-size:3.0em;color:#607EC5;z-index:5}.tagcloud5 a{color:#607EC5}.tagcloud6{font-size:3.3em;color:#4C6DB9;z-index:4}.tagcloud6 a{color:#4C6DB9}.tagcloud7{font-size:3.6em;color:#395CAE;z-index:3}.tagcloud7 a{color:#395CAE}.tagcloud8{font-size:3.9em;color:#264CA2;z-index:2}.tagcloud8 a{color:#264CA2}.tagcloud9{font-size:4.2em;color:#133B97;z-index:1}.tagcloud9 a{color:#133B97}.tagcloud10{font-size:4.5em;color:#002A8B;z-index:0}.tagcloud10 a{color:#002A8B}.freq{font-size:10pt !important;color:#bbb}#credit{text-align:center;color:#333;margin-bottom:0.6em;font:0.7em 'lucida grande',trebuchet,'trebuchet ms',verdana,arial,helvetica,sans-serif}#credit a:link{color:#777;text-decoration:none}#credit a:visited{color:#777;text-decoration:none}#credit a:hover{color:white;background-color:#05f}#credit a:active{text-decoration:underline}
+</style>
+
+<script>
+function Mudarestado(el) {
+
+	ocultar_conteudo();
+    var display = document.getElementById(el).style.display;
+    if(display == "none")
+        document.getElementById(el).style.display = 'block';
+    else
+        document.getElementById(el).style.display = 'none';
+}
+</script>
+<script>
+ function ocultar_conteudo() { 
+  document.getElementById('TodasCadeias').style.display="none";	document.getElementById('17').style.display="none"; 
+document.getElementById('36').style.display="none"; 
+document.getElementById('16').style.display="none"; 
+document.getElementById('3').style.display="none"; 
+document.getElementById('13').style.display="none"; 
+document.getElementById('25').style.display="none"; 
+document.getElementById('4').style.display="none"; 
+document.getElementById('24').style.display="none"; 
+document.getElementById('40').style.display="none"; 
+document.getElementById('67').style.display="none"; 
+document.getElementById('78').style.display="none"; 
+document.getElementById('1').style.display="none"; 
+document.getElementById('12').style.display="none"; 
+document.getElementById('37').style.display="none"; 
+document.getElementById('45').style.display="none"; 
+document.getElementById('63').style.display="none"; 
+} 
+ </script>
+        
+            	
+		</ul>
+	</div>
+	<div id="content">
+	
+     <div class="conteudo" id="TodasCadeias" >em a volta de <b><FONT style="font-size: 18px" COLOR="#FF0000">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">Seleção_Brasileira_ao_Maracanã [1]]<FONT style="font-size: 13px"></FONT></FONT></b> , os jogadores não decepcionaram e <b><FONT style="font-size: 18px" COLOR="#C71585">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> goleou <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Equador [4]]<FONT style="font-size: 13px"></FONT></FONT></b> por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram <b><FONT style="font-size: 18px" COLOR="#8B2500">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">linda<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">festa [12]]<FONT style="font-size: 13px"></FONT></FONT></b> e aplaudiram muito os craques , principalmente <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">autor<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD"><b><FONT style="font-size: 18px" COLOR="#00C5CD">dois<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD">gols<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B1C62"> [16]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD"> <FONT style="font-size: 13px"></FONT></FONT> </b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">, [13]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> , que fez um , e <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> , que deu passe para outro , após lindíssima jogada . <b><FONT style="font-size: 18px" COLOR="#EE8262">[Vágner_Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> e Elano completaram a goleada . Como era de se esperar , <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Equador [4]]<FONT style="font-size: 13px"></FONT></FONT></b> começou <b><FONT style="font-size: 18px" COLOR="#009ACD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">partida [24]]<FONT style="font-size: 13px"></FONT></FONT></b> muito fechado . <b><FONT style="font-size: 18px" COLOR="#C71585">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> tocava <b><FONT style="font-size: 18px" COLOR="#98FB98">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká [13]]<FONT style="font-size: 13px"></FONT></FONT></b> , <b><FONT style="font-size: 18px" COLOR="#EE8262">[Vágner_Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> e <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> , que chutou par fora . a os 14 , <b><FONT style="font-size: 18px" COLOR="#0000CD">[Juan [40]]<FONT style="font-size: 13px"></FONT></FONT></b> lançou de o campo de defesa , a zaga falhou e <b><FONT style="font-size: 18px" COLOR="#EE8262">[Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> acertou <b><FONT style="font-size: 18px" COLOR="#00688B">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">trave [37]]<FONT style="font-size: 13px"></FONT></FONT></b> . Quatro minutos depois , a os 18 , <b><FONT style="font-size: 18px" COLOR="#C71585">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> , finalmente fez a primeira jogada com cara de Brasil . <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> deu um lindo toque para <b><FONT style="font-size: 18px" COLOR="#0000CD">[Maicon [40]]<FONT style="font-size: 13px"></FONT></FONT></b> que deu um drible de a vaca em o adversário e cruzou em a medida para <b><FONT style="font-size: 18px" COLOR="#EE8262">[Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> abrir <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">placar [45]]<FONT style="font-size: 13px"></FONT></FONT></b> . Um bonito gol . a os 30 , <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em <b><FONT style="font-size: 18px" COLOR="#0000CD">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">primeiro<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">tempo [67]]<FONT style="font-size: 13px"></FONT></FONT></b> veio de os pés de <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> , em cobrança de falta que passou muito perto_da <b><FONT style="font-size: 18px" COLOR="#00688B">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">trave [37]]<FONT style="font-size: 13px"></FONT></FONT></b> . <b><FONT style="font-size: 18px" COLOR="#FF0000">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">Seleção [1]]<FONT style="font-size: 13px"></FONT></FONT></b> voltou para a segunda etapa com vontade de abrir <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">placar [45]]<FONT style="font-size: 13px"></FONT></FONT></b> e logo a <b><FONT style="font-size: 18px" COLOR="#00CD66">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">três<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">minutos [78]]<FONT style="font-size: 13px"></FONT></FONT></b> Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> bateu outra falta e <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[Vieri [63]]<FONT style="font-size: 13px"></FONT></FONT></b> foi bem em <b><FONT style="font-size: 18px" COLOR="#98FB98">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> , salvando <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Equador [4]]<FONT style="font-size: 13px"></FONT></FONT></b> . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou <b><FONT style="font-size: 18px" COLOR="#0000CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">torcida [67]]<FONT style="font-size: 13px"></FONT></FONT></b> a o delírio . a os 12 , Castillo bateu falta de longe e <b><FONT style="font-size: 18px" COLOR="#98FB98">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em <b><FONT style="font-size: 18px" COLOR="#009ACD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">partida [24]]<FONT style="font-size: 13px"></FONT></FONT></b> . em o lance seguinte , <b><FONT style="font-size: 18px" COLOR="#EE8262">[Vágner_Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente <b><FONT style="font-size: 18px" COLOR="#EE8262">[Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> quase ampliou . <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká [13]]<FONT style="font-size: 13px"></FONT></FONT></b> fez excelente jogada em a direita e virou o jogo para <b><FONT style="font-size: 18px" COLOR="#FF8C00">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00">Robinho<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00"> [17]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00"> [17]]<FONT style="font-size: 13px"></FONT></FONT> </b> em a esquerda . <b><FONT style="font-size: 18px" COLOR="#0000CD">[Maicon [40]]<FONT style="font-size: 13px"></FONT></FONT></b> fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> fez linda jogada e colocou <b><FONT style="font-size: 18px" COLOR="#EE8262">[Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar <b><FONT style="font-size: 18px" COLOR="#009ACD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">partida<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">, [24]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> não conseguia o segundo gol e <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Equador [4]]<FONT style="font-size: 13px"></FONT></FONT></b> começou a acreditar que dava para empatar e estragar <b><FONT style="font-size: 18px" COLOR="#8B2500">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">festa [12]]<FONT style="font-size: 13px"></FONT></FONT></b> . Pura ilusão de os equatorianos . a os 27 , <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká [13]]<FONT style="font-size: 13px"></FONT></FONT></b> arriscou de muito longe e <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká [13]]<FONT style="font-size: 13px"></FONT></FONT></b> fez o gol mais bonito de <b><FONT style="font-size: 18px" COLOR="#009ACD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">partida [24]]<FONT style="font-size: 13px"></FONT></FONT></b> . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! <b><FONT style="font-size: 18px" COLOR="#98FB98">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> fez uma jogada magnífica , a mais bonita de <b><FONT style="font-size: 18px" COLOR="#00CD66">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">jogo [78]]<FONT style="font-size: 13px"></FONT></FONT></b> , com cara de <b><FONT style="font-size: 18px" COLOR="#C71585">[Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">goleirão<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">Vieri [63]]<FONT style="font-size: 13px"></FONT></FONT></b> , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu <b><FONT style="font-size: 18px" COLOR="#98FB98">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de <b><FONT style="font-size: 18px" COLOR="#00CD66">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">jogo [78]]<FONT style="font-size: 13px"></FONT></FONT></b> , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi <b><FONT style="font-size: 18px" COLOR="#0000CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">torcida [67]]<FONT style="font-size: 13px"></FONT></FONT></b> comemorando e não entendi nada ? falou , ainda em o campo . </div><div class="conteudo" id="17" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para <b><FONT style="font-size: 18px" COLOR="#FF8C00">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00">Robinho<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00"> [17]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00"> [17]]<FONT style="font-size: 13px"></FONT></FONT> </b> em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , <b><FONT style="font-size: 18px" COLOR="#FF8C00">[Robinho [17]]<FONT style="font-size: 13px"></FONT></FONT></b> fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="36" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . <b><FONT style="font-size: 18px" COLOR="#EE8262">[Vágner_Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , <b><FONT style="font-size: 18px" COLOR="#EE8262">[Vágner_Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e <b><FONT style="font-size: 18px" COLOR="#EE8262">[Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para <b><FONT style="font-size: 18px" COLOR="#EE8262">[Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , <b><FONT style="font-size: 18px" COLOR="#EE8262">[Vágner_Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente <b><FONT style="font-size: 18px" COLOR="#EE8262">[Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou <b><FONT style="font-size: 18px" COLOR="#EE8262">[Love [36]]<FONT style="font-size: 13px"></FONT></FONT></b> em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="16" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de <b><FONT style="font-size: 18px" COLOR="#8B1C62">[dois<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">gols [16]]<FONT style="font-size: 13px"></FONT></FONT></b> , <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e <b><FONT style="font-size: 18px" COLOR="#8B1C62">[Ronaldinho [16]]<FONT style="font-size: 13px"></FONT></FONT></b> colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="3" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e <b><FONT style="font-size: 18px" COLOR="#C71585">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . <b><FONT style="font-size: 18px" COLOR="#C71585">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , <b><FONT style="font-size: 18px" COLOR="#C71585">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , <b><FONT style="font-size: 18px" COLOR="#C71585">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de <b><FONT style="font-size: 18px" COLOR="#C71585">[Brasil [3]]<FONT style="font-size: 13px"></FONT></FONT></b> . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="13" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">autor<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">dois<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">gols<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">, [13]]<FONT style="font-size: 13px"></FONT></FONT></b> Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká [13]]<FONT style="font-size: 13px"></FONT></FONT></b> , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká [13]]<FONT style="font-size: 13px"></FONT></FONT></b> fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká [13]]<FONT style="font-size: 13px"></FONT></FONT></b> arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Kaká [13]]<FONT style="font-size: 13px"></FONT></FONT></b> fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="25" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava <b><FONT style="font-size: 18px" COLOR="#98FB98">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em <b><FONT style="font-size: 18px" COLOR="#98FB98">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e <b><FONT style="font-size: 18px" COLOR="#98FB98">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! <b><FONT style="font-size: 18px" COLOR="#98FB98">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu <b><FONT style="font-size: 18px" COLOR="#98FB98">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">bola [25]]<FONT style="font-size: 13px"></FONT></FONT></b> entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="4" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Equador [4]]<FONT style="font-size: 13px"></FONT></FONT></b> por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Equador [4]]<FONT style="font-size: 13px"></FONT></FONT></b> começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Equador [4]]<FONT style="font-size: 13px"></FONT></FONT></b> . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e <b><FONT style="font-size: 18px" COLOR="#9400D3">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">Equador [4]]<FONT style="font-size: 13px"></FONT></FONT></b> começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="24" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou <b><FONT style="font-size: 18px" COLOR="#009ACD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">partida [24]]<FONT style="font-size: 13px"></FONT></FONT></b> muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em <b><FONT style="font-size: 18px" COLOR="#009ACD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">partida [24]]<FONT style="font-size: 13px"></FONT></FONT></b> . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar <b><FONT style="font-size: 18px" COLOR="#009ACD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">partida<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">, [24]]<FONT style="font-size: 13px"></FONT></FONT></b> o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de <b><FONT style="font-size: 18px" COLOR="#009ACD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">partida [24]]<FONT style="font-size: 13px"></FONT></FONT></b> . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="40" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , <b><FONT style="font-size: 18px" COLOR="#0000CD">[Juan [40]]<FONT style="font-size: 13px"></FONT></FONT></b> lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para <b><FONT style="font-size: 18px" COLOR="#0000CD">[Maicon [40]]<FONT style="font-size: 13px"></FONT></FONT></b> que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . <b><FONT style="font-size: 18px" COLOR="#0000CD">[Maicon [40]]<FONT style="font-size: 13px"></FONT></FONT></b> fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="67" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em <b><FONT style="font-size: 18px" COLOR="#0000CD">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">primeiro<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">tempo [67]]<FONT style="font-size: 13px"></FONT></FONT></b> veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou <b><FONT style="font-size: 18px" COLOR="#0000CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">torcida [67]]<FONT style="font-size: 13px"></FONT></FONT></b> a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi <b><FONT style="font-size: 18px" COLOR="#0000CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">torcida [67]]<FONT style="font-size: 13px"></FONT></FONT></b> comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="78" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a <b><FONT style="font-size: 18px" COLOR="#00CD66">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">três<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">minutos [78]]<FONT style="font-size: 13px"></FONT></FONT></b> Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de <b><FONT style="font-size: 18px" COLOR="#00CD66">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">jogo [78]]<FONT style="font-size: 13px"></FONT></FONT></b> , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de <b><FONT style="font-size: 18px" COLOR="#00CD66">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">jogo [78]]<FONT style="font-size: 13px"></FONT></FONT></b> , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="1" >em a volta de <b><FONT style="font-size: 18px" COLOR="#FF0000">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">Seleção_Brasileira_ao_Maracanã [1]]<FONT style="font-size: 13px"></FONT></FONT></b> , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . <b><FONT style="font-size: 18px" COLOR="#FF0000">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">Seleção [1]]<FONT style="font-size: 13px"></FONT></FONT></b> voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="12" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram <b><FONT style="font-size: 18px" COLOR="#8B2500">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">linda<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">festa [12]]<FONT style="font-size: 13px"></FONT></FONT></b> e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar <b><FONT style="font-size: 18px" COLOR="#8B2500">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">festa [12]]<FONT style="font-size: 13px"></FONT></FONT></b> . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="37" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou <b><FONT style="font-size: 18px" COLOR="#00688B">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">trave [37]]<FONT style="font-size: 13px"></FONT></FONT></b> . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da <b><FONT style="font-size: 18px" COLOR="#00688B">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">trave [37]]<FONT style="font-size: 13px"></FONT></FONT></b> . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="45" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">placar [45]]<FONT style="font-size: 13px"></FONT></FONT></b> . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">placar [45]]<FONT style="font-size: 13px"></FONT></FONT></b> e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e Vieri foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que o goleirão Vieri , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ <div class="conteudo" id="63" >em a volta de a Seleção_Brasileira_ao_Maracanã , os jogadores não decepcionaram e o Brasil goleou o Equador por 5 a 0 , com direito a golaço , jogada bonita , show de dribles_e frango de o goleiro adversário . Os mais_de 80 mil torcedores que lotaram o estádio fizeram uma linda festa e aplaudiram muito os craques , principalmente Kaká , autor de dois gols , Ronaldinho , que fez um , e Robinho , que deu passe para outro , após lindíssima jogada . Vágner_Love e Elano completaram a goleada . Como era de se esperar , o Equador começou a partida muito fechado . O Brasil tocava a bola devagar e errava muitos passes . A primeira jogada só saiu a os nove minutos , após boa triangulação entre Kaká , Vágner_Love e Robinho , que chutou par fora . a os 14 , Juan lançou de o campo de defesa , a zaga falhou e Love acertou a trave . Quatro minutos depois , a os 18 , o Brasil , finalmente fez a primeira jogada com cara de Brasil . Robinho deu um lindo toque para Maicon que deu um drible de a vaca em o adversário e cruzou em a medida para Love abrir o placar . Um bonito gol . a os 30 , Robinho arriscou de longe e obrigou o goleiro Viteri a fazer boa defesa . A última chance de gol em o primeiro tempo veio de os pés de Ronaldinho , em cobrança de falta que passou muito perto_da a trave . A Seleção voltou para a segunda etapa com vontade de abrir o placar e logo a os três minutos Kaká soltou uma bomba e o goleiro equatoriano se atrapalhou todo para defender . a os seis , Ronaldinho bateu outra falta e <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[Vieri [63]]<FONT style="font-size: 13px"></FONT></FONT></b> foi bem em a bola , salvando o Equador . Um minuto depois , o craque de o Braça deu um lindo drible em o equatoriano e levou a torcida a o delírio . a os 12 , Castillo bateu falta de longe e a bola passou perto de o gol de o Goleiro_Júlio_César , não teve quase nenhum trabalho em a partida . em o lance seguinte , Vágner_Love arriscou de a entrada de a área e quase fez o segundo . a os 19 , novamente Love quase ampliou . Kaká fez excelente jogada em a direita e virou o jogo para Robinho em a esquerda . Maicon fez a ultrapassagem e cruzou para o camisa nove , que cabeceou por_cima_do o gol . Um minuto depois Ronaldinho fez linda jogada e colocou Love em a cara de o gol , mas o atacante , novamente , concluiu para fora . Apesar_de jogar melhor e dominar a partida , o Brasil não conseguia o segundo gol e o Equador começou a acreditar que dava para empatar e estragar a festa . Pura ilusão de os equatorianos . a os 27 , Kaká arriscou de muito longe e Ronaldinho colocou o desviou o chute . A bola que aparentemente iria para fora , mudou de direção e foi parar em o fundo de a rede . Cinco minutos depois , a os 31 , Kaká fez o gol mais bonito de a partida . Ele chutou de fora de a área , colocado , e acertou o ângulo . Indefensável ! A bola fez uma curva impressionante e o craque de o Milan foi saudado com os gritos de ?Ah ! Melhor de o mundo ! ? . Quando todos achavam que o gol de Kaké tinha sido o ?grand finale ? , Robinho fez uma jogada magnífica , a mais bonita de o jogo , com cara de Brasil . A 20cm de a linha de fundo ele deu dois dribles humilhantes em o zagueiro equatoriano e cruzou para Elano , que fez o quarto , a os 37 . Ainda cabia mais , já_que <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">goleirão<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">Vieri [63]]<FONT style="font-size: 13px"></FONT></FONT></b> , que vinha fazendo boa partida , resolveu ajudar . a os 39 , Kaká_Chutou fraco e o camisa 1 tomou um frango histórico . O detalhe é que , quando viu a bola entrar , ele olhou com cara de surpresa e não comemorou o gol . a o final de o jogo , o craque explicou o que aconteceu : . - Vi que o chute tinha saído fraco e virei de costas . Aí vi a torcida comemorando e não entendi nada ? falou , ainda em o campo . </div>
+ 
+
+</div>
+
+      
+      
+      <!-- <p>###CHAINS-HEREold###</p> -->
+           
+
+    </article>
+    <aside class="right_article"> 
+    
+     <ul>
+       
+       
+       
+        <!-- <a href="###LINK###">   <li> ###HEAD_CADEIA###</li></a> -->
+        
+        <html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="">
+<title>Relatorio Correferencia: </title>
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h2
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=PT-BR style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:13.5pt'>Cadeias de Correfer&ecirc;ncia</span></b><o:p></o:p></p>
+  </td>
+ </tr>
+</table>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FF8C00;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [17]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Robinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Robinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Robinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Robinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Robinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Robinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Robinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#EE8262;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [36]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Vágner Love</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Vágner Love</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Love</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Love</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Vágner Love</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Love</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Love</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B1C62;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [16]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>dois gols</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Ronaldinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Ronaldinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Ronaldinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Ronaldinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Ronaldinho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#C71585;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [3]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Brasil</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O Brasil</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Brasil</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Brasil</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Brasil</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00C5CD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [13]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Kaká , autor de dois gols</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Kaká</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Kaká</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Kaká</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Kaká</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#98FB98;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [25]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a bola</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a bola</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a bola</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A bola</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a bola</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#9400D3;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [4]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Equador</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Equador</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Equador</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Equador</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#009ACD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [24]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a partida</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a partida</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a partida</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a partida</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#0000CD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [40]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Juan</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Maicon</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Maicon</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#0000CD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [67]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o primeiro tempo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a torcida</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a torcida</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00CD66;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [78]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os três minutos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o jogo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o jogo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FF0000;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [1]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a Seleção Brasileira ao Maracanã</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A Seleção</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B2500;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [12]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma linda festa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a festa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00688B;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [37]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a trave</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a trave</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B3E2F;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [45]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o placar</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o placar</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#CD5C5C;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [63]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Vieri</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o goleirão Vieri</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+
+        
+        <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:lime;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>Menções únicas :</span></span><span
+  style='font-size:13.5pt'> </span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a volta</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os jogadores</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>direito</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>golaço</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>show</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>frango</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o goleiro adversário</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Os mais de 80 mil torcedores que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o estádio</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>autor</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>passe</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>outro</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>lindíssima jogada</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>se</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>muitos passes</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A primeira jogada</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os nove minutos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>boa triangulação</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>par</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o campo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>defesa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a zaga</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Quatro minutos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a primeira jogada com cara de Brasil</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>cara</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a vaca</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o adversário</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a medida</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Um bonito gol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>gol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o goleiro Viteri</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>boa defesa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A última chance de gol em o primeiro tempo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>gol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os pés</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>cobrança</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>falta</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a segunda etapa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>vontade</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Kaká</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma bomba e o goleiro equatoriano se</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o goleiro equatoriano</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>se</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>todo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>outra falta</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Um minuto</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o craque de o Braça</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Braça</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o equatoriano</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o delírio</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Castillo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>falta de longe e a bola</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>perto de o gol de o Goleiro Júlio César</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Goleiro Júlio César</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>nenhum trabalho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o lance seguinte</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a entrada</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a área</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a direita</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a esquerda</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a ultrapassagem</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o camisa nove</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o gol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Um minuto</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>linda jogada</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a cara</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o gol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o atacante</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o segundo gol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Pura</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>ilusão de os equatorianos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os equatorianos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A bola que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>direção</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o fundo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a rede</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Cinco minutos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a partida</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Ele</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a área</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o ângulo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma curva impressionante e o craque de o Milan</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o craque</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Milan</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os gritos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>?Ah</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Melhor</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o mundo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>?</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Quando todos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o gol de Kaké</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Kaké</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o ?grand finale ?</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma jogada magnífica , a mais bonita de o jogo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>cara</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A 20cm de a linha de fundo ele</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a linha</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>fundo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>ele</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o zagueiro</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Elano</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o quarto</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o goleirão Vieri , que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>boa partida</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o camisa 1</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>um frango histórico</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O detalhe</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>ele</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>cara</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>surpresa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o gol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o final</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o craque</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>costas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>nada ?</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o campo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+
+        
+      </ul>
+    
+    </aside>
+  </section>
+  <div class="row">
+  <center>
+  
+  <!-- ###TABELACORREF### -->
+  
+  
+  
+  </center>
+   </div>
+  
+   
+  </footer>
+</div>
+</body>
+</html>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+ <script type="text/javascript">
+ 	$(document).ready(function(){
+ 		$("#content div:nth-child(1)").show();
+ 		$(".abas li:first div").addClass("selected");		
+ 		$(".aba").click(function(){
+ 			$(".aba").removeClass("selected");
+ 			$(this).addClass("selected");
+ 			var indice = $(this).parent().index();
+ 			indice++;
+ 			$("#content div").hide();
+ 			$("#content div:nth-child("+indice+")").show();
+ 		});
+ 		
+ 		$(".aba").hover(
+ 			function(){$(this).addClass("ativa")},
+ 			function(){$(this).removeClass("ativa")}
+ 		);				
+ 	});
+ </script>
+ 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83422958-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

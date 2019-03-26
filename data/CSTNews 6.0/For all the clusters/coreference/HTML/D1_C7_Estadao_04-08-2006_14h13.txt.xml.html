@@ -1,0 +1,2070 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="iso8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CORP</title>
+
+<style type="text/css">
+	@charset "iso8859-1";
+.container {
+	background-color: #FFFFFF;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom-width: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.row {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	display: inline-block
+}
+.row.blockDisplay {
+	display: block;
+}
+.column_half {
+	width: 50%;
+	float: left;
+	margin-top: 0px;
+}
+.columns {
+	width: 25%;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #A5A5A5;
+	line-height: 24px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: justify;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.row .columns p {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+.container .columns h4 {
+	text-align: center;
+	color: #01B2D1;
+}
+.primary_header {
+	width: 100%;
+	background-color: lightblue;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	clear: left;
+	border-bottom: 2px solid #2C9AB7;
+}
+.secondary_header {
+	
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #B3B3B3;
+	clear: left;
+}
+.container .secondary_header ul {
+	margin-top: 0%;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	width: 100%;
+	
+}
+.secondary_header ul li {
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-top: 0px;
+	font-family: "Source Sans Pro";
+	font-weight: normal;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	margin-left: auto;
+	text-align: center;
+	width: 25%;
+	transition: all 0.3s linear;
+}
+.secondary_header ul li:hover {
+	color: #717070;
+	cursor: pointer;
+}
+.left_article {
+	background-color: #FFFFFF;
+	width: 70%;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #343434;
+	padding-bottom: 15px;
+}
+.noDisplay {
+	display: none;
+}
+.container .left_article h3 {
+	padding-left: 5%;
+	padding-right: 5%;
+	margin-top: 5%;
+	color: #717070;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.container .left_article p {
+	overflow-y: auto;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+	line-height: 24px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	color: #B3B3B3;
+}
+/*lado direito pag*/
+.right_article {
+	margin-top: 1px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+	width: 30%;
+	/*width: 600px; */
+	height: 735px; 
+	overflow-y: auto;
+	/*width: 40%;*/
+	float: center;
+	background-color: white;
+	/*background-color: #F6F6F6;*/
+	
+}
+.container .right_article ul {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	
+}
+.right_article ul li {
+	font-family: "Source Sans Pro";
+	list-style: none;
+	text-align: center;
+	background-color: #B3B3B3;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color: #FFFFFF;
+	font-weight: bold;
+	border-radius: 0px;
+	transition: all 0.3s linear;
+	border-left: 5px solid #717070;
+}
+.right_article ul li:hover {
+	background-color: #717070;
+	cursor: pointer;
+}
+.footer {
+	background-color: #717070;
+}
+.title {
+	font-weight: bold;
+	font-style: normal;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	color: #FFFFFF;
+	letter-spacing: 2px;
+}
+.placeholder {
+	/* [disabled]max-width: 400px;
+*/
+	/* [disabled]max-height: 200px;
+*/
+	width: 100%;
+	padding-top: 30px;
+	/* [disabled]padding-left: 19px;
+*/
+	padding-bottom: 30px;
+	height: 100%;
+}
+.left_half {
+	background-color: lightblue;
+}
+.container .column_half.left_half h2 {
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+}
+.right_half {
+	background-color: #01B2D1;
+	color: #FFFFFF;
+	font-family: "Source Sans Pro";
+	text-align: center;
+	font-weight: bold;text-shadow: 0px 2px 3px #666;
+}
+.column_title {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.copyright {
+	text-align: center;
+	background-color: #717070;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: lighter;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+	font-family: "Source Sans Pro";
+}
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+@media (max-width: 320px) {
+.secondary_header ul li {
+	float: none;
+	margin-top: 28px;
+	margin-left: 0px;
+	width: 100%;
+}
+.container .secondary_header ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	height: auto;
+	width: 100%;
+	text-align: center;
+}
+.secondary_header {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 1px;
+	padding-bottom: 40px;
+}
+.left_article {
+	width: 98%;
+	height: auto;
+}
+.right_article {
+	width: 100%;
+	height: auto;
+}
+.placeholder {
+	width: 100%;
+	margin-top: 22PX;
+	margin-right: 0px;
+	margin-bottom: 22PX;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	max-width: 400px;
+	max-height: 200px;
+	height: auto;
+}
+.columns {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0PX;
+	padding-right: 0PX;
+	padding-bottom: 0PX;
+	padding-left: 0PX;
+}
+.columns p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.column_half.left_half {
+	width: 100%;
+}
+.column_half.right_half {
+	width: 100%;
+}
+.copyright {
+	padding-top: 25px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.container .left_article h3 {
+	margin-top: 30px;
+}
+.social .social_icon img {
+	width: 80%;
+}
+.container .secondary_header {
+}
+}
+
+@media (min-width: 321px) and (max-width: 768px) {
+.secondary_header ul li {
+	float: none;
+	margin-top: 28px;
+	margin-left: 0px;
+	width: 100%;
+}
+.container .secondary_header ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	height: auto;
+	width: 100%;
+	text-align: center;
+}
+.secondary_header {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 1px;
+	padding-bottom: 40px;
+}
+.left_article {
+	width: 100%;
+	height: auto;
+}
+.right_article {
+	width: 100%;
+	height: auto;
+	padding-bottom: 25px;
+}
+.placeholder {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	width: 100%;
+	max-width: 100%;
+	height: auto;
+	max-height: 100%;
+}
+.columns {
+	width: 100%;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 6px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.columns p {
+	padding-left: 14px;
+	padding-right: 14px;
+}
+.column_half.left_half {
+	width: 100%;
+}
+.column_half.right_half {
+	width: 100%;
+}
+}
+
+@media (min-width: 769px) and (max-width: 1000px) {
+.secondary_header {
+	overflow: auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.secondary_header ul li {
+	margin-top: 10px;
+	margin-right: 7%;
+	margin-bottom: 10px;
+	margin-left: 7%;
+}
+.left_article {
+	height: auto;
+}
+.right_article {
+	height: auto;
+	padding-bottom: 27px;
+}
+.placeholder {
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.columns {
+	width: 50%;
+	float: left;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+.container .columns p {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+}
+
+@media (min-width: 1001px) {
+}
+.thumbnail {
+	width: 100px;
+	border-radius: 200px;
+	height: 100px;
+	margin-left: auto;
+}
+.thumbnail_align {
+	text-align: center;
+}
+.social {
+	text-align: center;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	width: 100%;
+	background-color: #414141;
+	clear: both;
+	overflow: auto;
+}
+.social_icon {
+	width: 25%;
+	text-align: center;
+	float: left;
+	transition: all 0.3s linear;
+	line-height: 0px;
+	padding-top: 7px;
+}
+.container .social .social_icon:hover {
+	cursor: pointer;
+	opacity: 0.5;
+}
+#menu {
+}
+
+
+body{font-family:Calibri, Tahoma, Arial}
+	.TabControl{ width:100%; overflow-y: auto;  height:auto}
+	.TabControl #header{ width:90%; border: hidden 0px; text-align:right; overflow:hidden; cursor: pointer}
+	.TabControl #content{ width:100%; border: solid 0px;overflow:hidden; text-align:right; height:100%; }
+	/*.TabControl .abas{display:inline;}*/
+	.TabControl .abas{display:inline; text-align:center;  text-shadow: 0px 2px 3px #400; font-stretch: ultra-condensed; line-height: 210%; }
+	.TabControl .abas li{list-style-type:none; float:left}
+	.aba{width:295px; height:20px; border:solid 1px; border-radius:5px 5px 0 0;
+		text-align:center; padding-top:5px; background:white}
+	.ativa{width:295px; height:20px; border:solid 1 px; border-radius:5px 5px 0 0;
+		text-align:center; padding-top:5px; background:lightblue;}
+	.ativa span, .selected span{color:#fff}
+	.TabControl #content{background:white}
+	.TabControl .conteudo{margin-top: 50px; width:99%; overflow-y: auto;  background:white; display:none; height:auto;color:gray;
+	
+	text-align: justify;
+	line-height: 24px;
+	color: #333333;
+	border-radius:5px 5px 0 0;
+
+	
+	
+	
+	}
+	.selected{width:295px; height:20px; border:solid 1 px; border-radius:5px 5px 0 0;
+		text-align:center; padding-top:5px; background:#27408B
+		
+	
+	
+	
+		
+		}
+		
+		/*padding-left: 5%;
+	padding-right: 5%;
+	text-align: justify;
+	line-height: 24px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	color: #B3B3B3;*/
+		
+		
+</style>
+
+
+</head>
+<body>
+<div class="container">
+  <header>
+    <div class="primary_header">
+      <h1> <center> CORP - Coreference Resolution for Portuguese </center> </h1>
+
+ 
+    </div>
+    <nav class="secondary_header" id="menu">
+      <ul>
+         <li> <a href="http://ontolp.inf.pucrs.br/corref/">HOME</a></li>
+        <li> <a href="http://www.inf.pucrs.br/linatural/index.html">PLN-PUCRS</a></li> 
+         <li> <a href="http://ontolp.inf.pucrs.br/corref/publicacoes.html">PUBLICA&Ccedil;&Otilde;ES</a></li>
+        <li> <a href="mailto:metalmorphy@gmail.com">CONTATO</a></li>
+	   </ul>
+    </nav>
+  </header>
+  <section>
+    <h2 class="noDisplay">Main Content</h2>
+    <article class="left_article">
+    
+      
+      
+      
+      
+<div class="TabControl">
+	<div id="header">
+		<ul class="abas">
+	
+     <span id="tag" class="wrd tagcloud" onclick="Mudarestado('67')"><b><FONT style="font-size: 30px" COLOR="#00CD66">metade de as estr...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('65')"><b><FONT style="font-size: 20px" COLOR="#FF0000">massa semelhante ...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('63')"><b><FONT style="font-size: 20px" COLOR="#EE7942">o sistema solar  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('56')"><b><FONT style="font-size: 30px" COLOR="#8B3E2F">corpos pesados  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('48')"><b><FONT style="font-size: 30px" COLOR="#C71585">um mistério  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('44')"><b><FONT style="font-size: 20px" COLOR="#009ACD">uma reação de fus...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('35')"><b><FONT style="font-size: 20px" COLOR="#9B30FF">as nuvens  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('32')"><b><FONT style="font-size: 40px" COLOR="#98FB98">quinta-feira  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('28')"><b><FONT style="font-size: 20px" COLOR="#8B1C62">um par de irmãos ...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('26')"><b><FONT style="font-size: 20px" COLOR="#CD0000">o serviço online  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('13')"><b><FONT style="font-size: 60px" COLOR="#EE4000">o Sol  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('9')"><b><FONT style="font-size: 20px" COLOR="#EE8262">a massa de Júpite...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('7')"><b><FONT style="font-size: 20px" COLOR="#CD5B45">astrônomos  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('2')"><b><FONT style="font-size: 60px" COLOR="#8B2500">A lista de os cha...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('6')"><b><FONT style="font-size: 20px" COLOR="#CD5C5C">telescópios de o ...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('8')"><b><FONT style="font-size: 20px" COLOR="#7FFF00">sete vezes  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('12')"><b><FONT style="font-size: 20px" COLOR="#0000EE">torno  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('22')"><b><FONT style="font-size: 20px" COLOR="#00C5CD">O pesquisadores R...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('27')"><b><FONT style="font-size: 30px" COLOR="#8B0000">o outro  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('29')"><b><FONT style="font-size: 20px" COLOR="#FFA54F">irmãos admirável  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('33')"><b><FONT style="font-size: 20px" COLOR="#FF6A6A">A mera existência  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('37')"><b><FONT style="font-size: 50px" COLOR="#FF8C00">as estrelas  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('46')"><b><FONT style="font-size: 60px" COLOR="#0000CD">a origem  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('49')"><b><FONT style="font-size: 20px" COLOR="#00FFFF">anãs marrons que  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('62')"><b><FONT style="font-size: 20px" COLOR="#00688B">o par de planeta ...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('64')"><b><FONT style="font-size: 30px" COLOR="#0000CD">um extraordinário...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud" onclick="Mudarestado('66')"><b><FONT style="font-size: 20px" COLOR="#9400D3">a massa de os com...  </FONT></b></span>
+<span id="tag" class="wrd tagcloud1" onclick="Mudarestado('TodasCadeias')">Todas as Cadeias  </span>
+ 
+
+<style type="text/css"><!-- #htmltagcloud{
+
+/******************************************
+ * CUSTOMIZE CLOUD CSS BELOW (optional)
+ */
+	font-size: 100%;
+	width: auto;		/* auto or fixed width, e.g. 500px   */
+	font-family:'lucida grande','trebuchet ms',arial,helvetica,sans-serif;
+	background-color:#fff;
+	margin:1em 1em 0 1em;
+	border:2px dotted #ddd;
+	padding:2em; 
+/******************************************
+ * END CUSTOMIZE
+ */
+
+}#htmltagcloud{line-height:2.4em;word-spacing:normal;letter-spacing:normal;text-transform:none;text-align:justify;text-indent:0}#htmltagcloud a:link{text-decoration:none}#htmltagcloud a:visited{text-decoration:none}#htmltagcloud a:hover{color:white;background-color:#05f}#htmltagcloud a:active{color:white;background-color:#03d}.wrd{padding:0;position:relative}.wrd a{text-decoration:none}.tagcloud0{font-size:1.0em;color:#ACC1F3;z-index:10}.tagcloud0 a{color:#ACC1F3}.tagcloud1{font-size:1.4em;color:#ACC1F3;z-index:9}.tagcloud1 a{color:#ACC1F3}.tagcloud2{font-size:1.8em;color:#86A0DC;z-index:8}.tagcloud2 a{color:#86A0DC}.tagcloud3{font-size:2.2em;color:#86A0DC;z-index:7}.tagcloud3 a{color:#86A0DC}.tagcloud4{font-size:2.6em;color:#607EC5;z-index:6}.tagcloud4 a{color:#607EC5}.tagcloud5{font-size:3.0em;color:#607EC5;z-index:5}.tagcloud5 a{color:#607EC5}.tagcloud6{font-size:3.3em;color:#4C6DB9;z-index:4}.tagcloud6 a{color:#4C6DB9}.tagcloud7{font-size:3.6em;color:#395CAE;z-index:3}.tagcloud7 a{color:#395CAE}.tagcloud8{font-size:3.9em;color:#264CA2;z-index:2}.tagcloud8 a{color:#264CA2}.tagcloud9{font-size:4.2em;color:#133B97;z-index:1}.tagcloud9 a{color:#133B97}.tagcloud10{font-size:4.5em;color:#002A8B;z-index:0}.tagcloud10 a{color:#002A8B}.freq{font-size:10pt !important;color:#bbb}#credit{text-align:center;color:#333;margin-bottom:0.6em;font:0.7em 'lucida grande',trebuchet,'trebuchet ms',verdana,arial,helvetica,sans-serif}#credit a:link{color:#777;text-decoration:none}#credit a:visited{color:#777;text-decoration:none}#credit a:hover{color:white;background-color:#05f}#credit a:active{text-decoration:underline}
+</style>
+
+<script>
+function Mudarestado(el) {
+
+	ocultar_conteudo();
+    var display = document.getElementById(el).style.display;
+    if(display == "none")
+        document.getElementById(el).style.display = 'block';
+    else
+        document.getElementById(el).style.display = 'none';
+}
+</script>
+<script>
+ function ocultar_conteudo() { 
+  document.getElementById('TodasCadeias').style.display="none";	document.getElementById('2').style.display="none"; 
+document.getElementById('13').style.display="none"; 
+document.getElementById('46').style.display="none"; 
+document.getElementById('37').style.display="none"; 
+document.getElementById('32').style.display="none"; 
+document.getElementById('27').style.display="none"; 
+document.getElementById('48').style.display="none"; 
+document.getElementById('56').style.display="none"; 
+document.getElementById('64').style.display="none"; 
+document.getElementById('67').style.display="none"; 
+document.getElementById('6').style.display="none"; 
+document.getElementById('7').style.display="none"; 
+document.getElementById('8').style.display="none"; 
+document.getElementById('9').style.display="none"; 
+document.getElementById('12').style.display="none"; 
+document.getElementById('22').style.display="none"; 
+document.getElementById('26').style.display="none"; 
+document.getElementById('28').style.display="none"; 
+document.getElementById('29').style.display="none"; 
+document.getElementById('33').style.display="none"; 
+document.getElementById('35').style.display="none"; 
+document.getElementById('44').style.display="none"; 
+document.getElementById('49').style.display="none"; 
+document.getElementById('62').style.display="none"; 
+document.getElementById('63').style.display="none"; 
+document.getElementById('65').style.display="none"; 
+document.getElementById('66').style.display="none"; 
+} 
+ </script>
+        
+            	
+		</ul>
+	</div>
+	<div id="content">
+	
+     <div class="conteudo" id="TodasCadeias" ><b><FONT style="font-size: 18px" COLOR="#8B2500">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">lista<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">chamados<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">exoplanetas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B2500">mundos<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B2500"> [2]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B2500"> [2]]<FONT style="font-size: 13px"></FONT></FONT> </b> localizados fora_do <b><FONT style="font-size: 18px" COLOR="#EE7942">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">sistema<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">solar [63]]<FONT style="font-size: 13px"></FONT></FONT></b> , têm <b><FONT style="font-size: 18px" COLOR="#0000CD">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">extraordinário<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">novo<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#0000CD">membro<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#0000CD"> [64]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#0000CD"> [64]]<FONT style="font-size: 13px"></FONT></FONT> </b> . Usando <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[telescópios<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">Observatório_Europeu_Sul<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">(<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">ESO<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">)<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">, [6]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5B45">[astrônomos [7]]<FONT style="font-size: 13px"></FONT></FONT></b> descobriram <b><FONT style="font-size: 18px" COLOR="#8B2500">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">planeta [2]]<FONT style="font-size: 13px"></FONT></FONT></b> com <b><FONT style="font-size: 18px" COLOR="#7FFF00">[sete<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#7FFF00">vezes [8]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">massa<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">Júpiter<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">mais<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">pesado<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">os [9]]<FONT style="font-size: 13px"></FONT></FONT></b> que giram em <b><FONT style="font-size: 18px" COLOR="#0000EE">[torno [12]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#EE4000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">Sol [13]]<FONT style="font-size: 13px"></FONT></FONT></b> , e outro , com o dobro de esse peso . Ambos os mundos têm <b><FONT style="font-size: 18px" COLOR="#FF0000">[massa<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">semelhante<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000"><b><FONT style="font-size: 18px" COLOR="#FF0000">outros<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000"><b><FONT style="font-size: 18px" COLOR="#FF0000">exoplanetas<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000"><b><FONT style="font-size: 18px" COLOR="#FF0000">já<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000">catalogados<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000"> [65]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000">  [65]]<FONT style="font-size: 13px"></FONT></FONT> </b> , mas não giram em_torno_de <b><FONT style="font-size: 18px" COLOR="#EE4000">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">estrela [13]]<FONT style="font-size: 13px"></FONT></FONT></b> - na verdade , giram em <b><FONT style="font-size: 18px" COLOR="#0000EE">[torno<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000EE">um [12]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#8B0000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B0000">outro [27]]<FONT style="font-size: 13px"></FONT></FONT></b> . <b><FONT style="font-size: 18px" COLOR="#00C5CD">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pesquisadores<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">Ray_Jayawardhana_e_Valentin_D._Ivanov [22]]<FONT style="font-size: 13px"></FONT></FONT></b> informam a descoberta em a edição de <b><FONT style="font-size: 18px" COLOR="#98FB98">[quinta-feira [32]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#CD0000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD0000">serviço<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD0000">online [26]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD0000">[Science_Express [26]]<FONT style="font-size: 13px"></FONT></FONT></b> , mantido por <b><FONT style="font-size: 18px" COLOR="#8B0000">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B0000">revista [27]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B0000">[Science [27]]<FONT style="font-size: 13px"></FONT></FONT></b> . É <b><FONT style="font-size: 18px" COLOR="#8B1C62">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">par<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FFA54F">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B1C62"><b><FONT style="font-size: 18px" COLOR="#8B1C62">irmãos<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FFA54F"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B1C62">admirável<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FFA54F"> [29]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B1C62"> <FONT style="font-size: 13px"></FONT></FONT> </b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">cada_um [28]]<FONT style="font-size: 13px"></FONT></FONT></b> com cerca_de 1 % de <b><FONT style="font-size: 18px" COLOR="#EE8262">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">massa [9]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#EE4000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">Sol [13]]<FONT style="font-size: 13px"></FONT></FONT></b> , disse <b><FONT style="font-size: 18px" COLOR="#98FB98">[Jayawardhana [32]]<FONT style="font-size: 13px"></FONT></FONT></b> . <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">mera<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">existência [33]]<FONT style="font-size: 13px"></FONT></FONT></b> é <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">surpresa [33]]<FONT style="font-size: 13px"></FONT></FONT></b> , e <b><FONT style="font-size: 18px" COLOR="#0000CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">origem [46]]<FONT style="font-size: 13px"></FONT></FONT></b> e o destino são <b><FONT style="font-size: 18px" COLOR="#C71585">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">mistério [48]]<FONT style="font-size: 13px"></FONT></FONT></b> . Cerca_de <b><FONT style="font-size: 18px" COLOR="#00CD66">[metade<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"><b><FONT style="font-size: 18px" COLOR="#00CD66">as<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66">estrelas<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00"> [37]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"> <FONT style="font-size: 13px"></FONT></FONT> </b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"><b><FONT style="font-size: 18px" COLOR="#00CD66">o<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66">tamanho<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"> [67]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"> <FONT style="font-size: 13px"></FONT></FONT> </b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"><b><FONT style="font-size: 18px" COLOR="#00CD66">o<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66">Sol<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#EE4000"> [13]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66">  [67]]<FONT style="font-size: 13px"></FONT></FONT> </b> existem em pares . O mesmo ocorre com um sexto de <b><FONT style="font-size: 18px" COLOR="#FF8C00">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">anãs<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">marrons [37]]<FONT style="font-size: 13px"></FONT></FONT></b> , <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[corpos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">pesados [56]]<FONT style="font-size: 13px"></FONT></FONT></b> o suficiente para gerar <b><FONT style="font-size: 18px" COLOR="#EE4000">[calor [13]]<FONT style="font-size: 13px"></FONT></FONT></b> , mas não o bastante para iniciar <b><FONT style="font-size: 18px" COLOR="#009ACD">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">reação<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#009ACD"><b><FONT style="font-size: 18px" COLOR="#009ACD">fusão<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#009ACD">nuclear<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#009ACD"> [44]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#009ACD">  [44]]<FONT style="font-size: 13px"></FONT></FONT> </b> como as estrelas legítimas . em <b><FONT style="font-size: 18px" COLOR="#0000CD">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">últimos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">cinco<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">anos [46]]<FONT style="font-size: 13px"></FONT></FONT></b> , <b><FONT style="font-size: 18px" COLOR="#CD5B45">[astrônomos [7]]<FONT style="font-size: 13px"></FONT></FONT></b> identificaram <b><FONT style="font-size: 18px" COLOR="#0000CD">[algumas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">dezenas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#0000CD"><b><FONT style="font-size: 18px" COLOR="#0000CD">objetos<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD"><b><FONT style="font-size: 18px" COLOR="#0000CD">ainda<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD"><b><FONT style="font-size: 18px" COLOR="#0000CD">menores<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#0000CD">que<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#C71585"> [48]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#0000CD">  [64]]<FONT style="font-size: 13px"></FONT></FONT> </b> <b><FONT style="font-size: 18px" COLOR="#00FFFF">[anãs<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00FFFF">marrons<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00FFFF"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66">que<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00FFFF"> [49]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66">  [67]]<FONT style="font-size: 13px"></FONT></FONT> </b> não estão presos a nenhum sistema estelar , apelidados de <b><FONT style="font-size: 18px" COLOR="#C71585">[objetos [48]]<FONT style="font-size: 13px"></FONT></FONT></b> de massa planetária , ou planemos , localizados em os arredores de regiões de formação de <b><FONT style="font-size: 18px" COLOR="#FF8C00">[estrelas [37]]<FONT style="font-size: 13px"></FONT></FONT></b> . O mais recente , Oph 162225-240515 , é <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">primeiro<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">planemo<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">duplo [56]]<FONT style="font-size: 13px"></FONT></FONT></b> . Comparando os dados obtidos via <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[telescópio [6]]<FONT style="font-size: 13px"></FONT></FONT></b> com modelos teóricos , <b><FONT style="font-size: 18px" COLOR="#98FB98">[Jayawardhana<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">e<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD">Ivanov<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#98FB98"> [32]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00C5CD">  [22]]<FONT style="font-size: 13px"></FONT></FONT> </b> estimaram <b><FONT style="font-size: 18px" COLOR="#9400D3">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">massa<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#9400D3"><b><FONT style="font-size: 18px" COLOR="#9400D3">os<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#9400D3">componentes<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#9400D3"> [66]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#9400D3"> <FONT style="font-size: 13px"></FONT></FONT> </b> <b><FONT style="font-size: 18px" COLOR="#9400D3">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62"><b><FONT style="font-size: 18px" COLOR="#8B1C62">[o<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B1C62">par<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#9400D3"> [66]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B1C62">  [28]]<FONT style="font-size: 13px"></FONT></FONT> </b> e concluíram que <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">planemo<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">duplo [56]]<FONT style="font-size: 13px"></FONT></FONT></b> é jovem em termos cósmicos , com cerca_de um milhão de <b><FONT style="font-size: 18px" COLOR="#0000CD">[anos [46]]<FONT style="font-size: 13px"></FONT></FONT></b> . Os dois estão separados por <b><FONT style="font-size: 18px" COLOR="#0000CD">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">distância [46]]<FONT style="font-size: 13px"></FONT></FONT></b> de <b><FONT style="font-size: 18px" COLOR="#7FFF00">[seis<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#7FFF00">vezes [8]]<FONT style="font-size: 13px"></FONT></FONT></b> a que existe entre o <b><FONT style="font-size: 18px" COLOR="#EE4000">[Sol<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">e [13]]<FONT style="font-size: 13px"></FONT></FONT></b> Plutão e ficam em o berçário de <b><FONT style="font-size: 18px" COLOR="#FF8C00">[estrelas [37]]<FONT style="font-size: 13px"></FONT></FONT></b> de Ophiuchus , a 400 anos-luz de <b><FONT style="font-size: 18px" COLOR="#8B2500">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">Terra [2]]<FONT style="font-size: 13px"></FONT></FONT></b> . Acredita -se <b><FONT style="font-size: 18px" COLOR="#8B2500">[que [2]]<FONT style="font-size: 13px"></FONT></FONT></b> planetas nascem de <b><FONT style="font-size: 18px" COLOR="#9B30FF">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9B30FF">nuvens [35]]<FONT style="font-size: 13px"></FONT></FONT></b> de poeira que circulam <b><FONT style="font-size: 18px" COLOR="#FF8C00">[estrelas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00FFFF">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00"><b><FONT style="font-size: 18px" COLOR="#FF8C00">anãs<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00FFFF"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00">marrons<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00FFFF"> [49]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF8C00">  [37]]<FONT style="font-size: 13px"></FONT></FONT> </b> e , até , alguns planemos que flutuam livres por <b><FONT style="font-size: 18px" COLOR="#0000CD">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">espaço [46]]<FONT style="font-size: 13px"></FONT></FONT></b> . Mas é provável <b><FONT style="font-size: 18px" COLOR="#0000CD">[que [46]]<FONT style="font-size: 13px"></FONT></FONT></b> estes planemos <b><FONT style="font-size: 18px" COLOR="#FFA54F">[irmãos [29]]<FONT style="font-size: 13px"></FONT></FONT></b> se formaram juntos , a_partir_de <b><FONT style="font-size: 18px" COLOR="#9B30FF">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9B30FF">nuvem [35]]<FONT style="font-size: 13px"></FONT></FONT></b> de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse <b><FONT style="font-size: 18px" COLOR="#98FB98">[Jayawardhana [32]]<FONT style="font-size: 13px"></FONT></FONT></b> . Estamos resistindo a a tentação de chamar <b><FONT style="font-size: 18px" COLOR="#00688B">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">par<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00688B"><b><FONT style="font-size: 18px" COLOR="#00688B">planeta<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00688B">duplo<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00688B"> [62]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00688B">  [62]]<FONT style="font-size: 13px"></FONT></FONT> </b> porque ele provavelmente não se formou de o jeito que <b><FONT style="font-size: 18px" COLOR="#8B2500">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">planetas [2]]<FONT style="font-size: 13px"></FONT></FONT></b> em <b><FONT style="font-size: 18px" COLOR="#EE7942">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">nosso<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">sistema<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">solar [63]]<FONT style="font-size: 13px"></FONT></FONT></b> apareceram , acrescenta Ivanov . </div><div class="conteudo" id="2" ><b><FONT style="font-size: 18px" COLOR="#8B2500">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">lista<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">chamados<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">exoplanetas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B2500">mundos<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B2500"> [2]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#8B2500"> [2]]<FONT style="font-size: 13px"></FONT></FONT> </b> localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram <b><FONT style="font-size: 18px" COLOR="#8B2500">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">planeta [2]]<FONT style="font-size: 13px"></FONT></FONT></b> com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de <b><FONT style="font-size: 18px" COLOR="#8B2500">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">Terra [2]]<FONT style="font-size: 13px"></FONT></FONT></b> . Acredita -se <b><FONT style="font-size: 18px" COLOR="#8B2500">[que [2]]<FONT style="font-size: 13px"></FONT></FONT></b> planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que <b><FONT style="font-size: 18px" COLOR="#8B2500">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B2500">planetas [2]]<FONT style="font-size: 13px"></FONT></FONT></b> em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="13" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de <b><FONT style="font-size: 18px" COLOR="#EE4000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">Sol [13]]<FONT style="font-size: 13px"></FONT></FONT></b> , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de <b><FONT style="font-size: 18px" COLOR="#EE4000">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">estrela [13]]<FONT style="font-size: 13px"></FONT></FONT></b> - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de <b><FONT style="font-size: 18px" COLOR="#EE4000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">Sol [13]]<FONT style="font-size: 13px"></FONT></FONT></b> , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de <b><FONT style="font-size: 18px" COLOR="#EE4000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">Sol [13]]<FONT style="font-size: 13px"></FONT></FONT></b> existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar <b><FONT style="font-size: 18px" COLOR="#EE4000">[calor [13]]<FONT style="font-size: 13px"></FONT></FONT></b> , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o <b><FONT style="font-size: 18px" COLOR="#EE4000">[Sol<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE4000">e [13]]<FONT style="font-size: 13px"></FONT></FONT></b> Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="46" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e <b><FONT style="font-size: 18px" COLOR="#0000CD">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">origem [46]]<FONT style="font-size: 13px"></FONT></FONT></b> e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em <b><FONT style="font-size: 18px" COLOR="#0000CD">[os<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">últimos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">cinco<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">anos [46]]<FONT style="font-size: 13px"></FONT></FONT></b> , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de <b><FONT style="font-size: 18px" COLOR="#0000CD">[anos [46]]<FONT style="font-size: 13px"></FONT></FONT></b> . Os dois estão separados por <b><FONT style="font-size: 18px" COLOR="#0000CD">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">distância [46]]<FONT style="font-size: 13px"></FONT></FONT></b> de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por <b><FONT style="font-size: 18px" COLOR="#0000CD">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">espaço [46]]<FONT style="font-size: 13px"></FONT></FONT></b> . Mas é provável <b><FONT style="font-size: 18px" COLOR="#0000CD">[que [46]]<FONT style="font-size: 13px"></FONT></FONT></b> estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="37" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de <b><FONT style="font-size: 18px" COLOR="#FF8C00">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">estrelas [37]]<FONT style="font-size: 13px"></FONT></FONT></b> de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de <b><FONT style="font-size: 18px" COLOR="#FF8C00">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">anãs<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">marrons [37]]<FONT style="font-size: 13px"></FONT></FONT></b> , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de <b><FONT style="font-size: 18px" COLOR="#FF8C00">[estrelas [37]]<FONT style="font-size: 13px"></FONT></FONT></b> . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de <b><FONT style="font-size: 18px" COLOR="#FF8C00">[estrelas [37]]<FONT style="font-size: 13px"></FONT></FONT></b> de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam <b><FONT style="font-size: 18px" COLOR="#FF8C00">[estrelas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">anãs<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF8C00">marrons [37]]<FONT style="font-size: 13px"></FONT></FONT></b> e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="32" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de <b><FONT style="font-size: 18px" COLOR="#98FB98">[quinta-feira [32]]<FONT style="font-size: 13px"></FONT></FONT></b> de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse <b><FONT style="font-size: 18px" COLOR="#98FB98">[Jayawardhana [32]]<FONT style="font-size: 13px"></FONT></FONT></b> . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , <b><FONT style="font-size: 18px" COLOR="#98FB98">[Jayawardhana<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">e<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#98FB98">Ivanov [32]]<FONT style="font-size: 13px"></FONT></FONT></b> estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse <b><FONT style="font-size: 18px" COLOR="#98FB98">[Jayawardhana [32]]<FONT style="font-size: 13px"></FONT></FONT></b> . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="27" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de <b><FONT style="font-size: 18px" COLOR="#8B0000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B0000">outro [27]]<FONT style="font-size: 13px"></FONT></FONT></b> . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por <b><FONT style="font-size: 18px" COLOR="#8B0000">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B0000">revista [27]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B0000">[Science [27]]<FONT style="font-size: 13px"></FONT></FONT></b> . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="48" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são <b><FONT style="font-size: 18px" COLOR="#C71585">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">mistério [48]]<FONT style="font-size: 13px"></FONT></FONT></b> . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de <b><FONT style="font-size: 18px" COLOR="#C71585">[objetos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">ainda<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">menores<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#C71585">que [48]]<FONT style="font-size: 13px"></FONT></FONT></b> anãs marrons que não estão presos a nenhum sistema estelar , apelidados de <b><FONT style="font-size: 18px" COLOR="#C71585">[objetos [48]]<FONT style="font-size: 13px"></FONT></FONT></b> de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="56" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[corpos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">pesados [56]]<FONT style="font-size: 13px"></FONT></FONT></b> o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">primeiro<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">planemo<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">duplo [56]]<FONT style="font-size: 13px"></FONT></FONT></b> . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que <b><FONT style="font-size: 18px" COLOR="#8B3E2F">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">planemo<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B3E2F">duplo [56]]<FONT style="font-size: 13px"></FONT></FONT></b> é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="64" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm <b><FONT style="font-size: 18px" COLOR="#0000CD">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">extraordinário<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">novo<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#0000CD">membro<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#0000CD"> [64]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#0000CD"> [64]]<FONT style="font-size: 13px"></FONT></FONT> </b> . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram <b><FONT style="font-size: 18px" COLOR="#0000CD">[algumas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">dezenas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">objetos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">ainda<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">menores<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000CD">que [64]]<FONT style="font-size: 13px"></FONT></FONT></b> anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="67" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de <b><FONT style="font-size: 18px" COLOR="#00CD66">[metade<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">estrelas<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"><b><FONT style="font-size: 18px" COLOR="#00CD66">o<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66">tamanho<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"> [67]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00CD66"> <FONT style="font-size: 13px"></FONT></FONT> </b> <b><FONT style="font-size: 18px" COLOR="#00CD66">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00CD66">Sol [67]]<FONT style="font-size: 13px"></FONT></FONT></b> existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons <b><FONT style="font-size: 18px" COLOR="#00CD66">[que [67]]<FONT style="font-size: 13px"></FONT></FONT></b> não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="6" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[telescópios<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">Observatório_Europeu_Sul<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">(<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">ESO<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">)<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD5C5C">, [6]]<FONT style="font-size: 13px"></FONT></FONT></b> astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via <b><FONT style="font-size: 18px" COLOR="#CD5C5C">[telescópio [6]]<FONT style="font-size: 13px"></FONT></FONT></b> com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="7" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , <b><FONT style="font-size: 18px" COLOR="#CD5B45">[astrônomos [7]]<FONT style="font-size: 13px"></FONT></FONT></b> descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , <b><FONT style="font-size: 18px" COLOR="#CD5B45">[astrônomos [7]]<FONT style="font-size: 13px"></FONT></FONT></b> identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="8" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com <b><FONT style="font-size: 18px" COLOR="#7FFF00">[sete<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#7FFF00">vezes [8]]<FONT style="font-size: 13px"></FONT></FONT></b> a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de <b><FONT style="font-size: 18px" COLOR="#7FFF00">[seis<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#7FFF00">vezes [8]]<FONT style="font-size: 13px"></FONT></FONT></b> a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="9" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes <b><FONT style="font-size: 18px" COLOR="#EE8262">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">massa<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">Júpiter<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">mais<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">pesado<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">os [9]]<FONT style="font-size: 13px"></FONT></FONT></b> que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de <b><FONT style="font-size: 18px" COLOR="#EE8262">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE8262">massa [9]]<FONT style="font-size: 13px"></FONT></FONT></b> de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="12" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em <b><FONT style="font-size: 18px" COLOR="#0000EE">[torno [12]]<FONT style="font-size: 13px"></FONT></FONT></b> de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em <b><FONT style="font-size: 18px" COLOR="#0000EE">[torno<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#0000EE">um [12]]<FONT style="font-size: 13px"></FONT></FONT></b> de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="22" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . <b><FONT style="font-size: 18px" COLOR="#00C5CD">[O<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">pesquisadores<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00C5CD">Ray_Jayawardhana_e_Valentin_D._Ivanov [22]]<FONT style="font-size: 13px"></FONT></FONT></b> informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e <b><FONT style="font-size: 18px" COLOR="#00C5CD">[Ivanov [22]]<FONT style="font-size: 13px"></FONT></FONT></b> estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="26" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de <b><FONT style="font-size: 18px" COLOR="#CD0000">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD0000">serviço<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD0000">online [26]]<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#CD0000">[Science_Express [26]]<FONT style="font-size: 13px"></FONT></FONT></b> , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="28" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É <b><FONT style="font-size: 18px" COLOR="#8B1C62">[um<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">par<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">irmãos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">admirável<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">,<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">cada_um [28]]<FONT style="font-size: 13px"></FONT></FONT></b> com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de <b><FONT style="font-size: 18px" COLOR="#8B1C62">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#8B1C62">par [28]]<FONT style="font-size: 13px"></FONT></FONT></b> e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="29" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de <b><FONT style="font-size: 18px" COLOR="#FFA54F">[irmãos<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FFA54F">admirável [29]]<FONT style="font-size: 13px"></FONT></FONT></b> , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos <b><FONT style="font-size: 18px" COLOR="#FFA54F">[irmãos [29]]<FONT style="font-size: 13px"></FONT></FONT></b> se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="33" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[A<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">mera<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">existência [33]]<FONT style="font-size: 13px"></FONT></FONT></b> é <b><FONT style="font-size: 18px" COLOR="#FF6A6A">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF6A6A">surpresa [33]]<FONT style="font-size: 13px"></FONT></FONT></b> , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="35" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de <b><FONT style="font-size: 18px" COLOR="#9B30FF">[as<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9B30FF">nuvens [35]]<FONT style="font-size: 13px"></FONT></FONT></b> de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de <b><FONT style="font-size: 18px" COLOR="#9B30FF">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9B30FF">nuvem [35]]<FONT style="font-size: 13px"></FONT></FONT></b> de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="44" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar <b><FONT style="font-size: 18px" COLOR="#009ACD">[uma<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">reação<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#009ACD"><b><FONT style="font-size: 18px" COLOR="#009ACD">fusão<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#009ACD"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#009ACD">nuclear<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#009ACD"> [44]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#009ACD">  [44]]<FONT style="font-size: 13px"></FONT></FONT> </b> como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="49" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que <b><FONT style="font-size: 18px" COLOR="#00FFFF">[anãs<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00FFFF">marrons<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00FFFF">que [49]]<FONT style="font-size: 13px"></FONT></FONT></b> não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , <b><FONT style="font-size: 18px" COLOR="#00FFFF">[anãs<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00FFFF">marrons [49]]<FONT style="font-size: 13px"></FONT></FONT></b> e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="62" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar <b><FONT style="font-size: 18px" COLOR="#00688B">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">par<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00688B"><b><FONT style="font-size: 18px" COLOR="#00688B">planeta<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#00688B"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00688B">duplo<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00688B"> [62]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#00688B">  [62]]<FONT style="font-size: 13px"></FONT></FONT> </b> porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="63" >A lista de os chamados exoplanetas , mundos localizados fora_do <b><FONT style="font-size: 18px" COLOR="#EE7942">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">sistema<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">solar [63]]<FONT style="font-size: 13px"></FONT></FONT></b> , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em <b><FONT style="font-size: 18px" COLOR="#EE7942">[o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">nosso<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">sistema<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#EE7942">solar [63]]<FONT style="font-size: 13px"></FONT></FONT></b> apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="65" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm <b><FONT style="font-size: 18px" COLOR="#FF0000">[massa<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">semelhante<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000"><b><FONT style="font-size: 18px" COLOR="#FF0000">outros<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000"><b><FONT style="font-size: 18px" COLOR="#FF0000">exoplanetas<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000"><b><FONT style="font-size: 18px" COLOR="#FF0000">já<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#FF0000"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000">catalogados<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000"> [65]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#FF0000">  [65]]<FONT style="font-size: 13px"></FONT></FONT> </b> , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram a massa de os componentes de o par e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ <div class="conteudo" id="66" >A lista de os chamados exoplanetas , mundos localizados fora_do o sistema solar , têm um extraordinário novo membro . Usando telescópios de o Observatório_Europeu_Sul ( ESO ) , astrônomos descobriram um planeta com sete vezes a massa de Júpiter , o mais pesado de os que giram em torno de o Sol , e outro , com o dobro de esse peso . Ambos os mundos têm massa semelhante a a de outros exoplanetas já catalogados , mas não giram em_torno_de uma estrela - na verdade , giram em torno um de o outro . O pesquisadores Ray_Jayawardhana_e_Valentin_D._Ivanov informam a descoberta em a edição de quinta-feira de o serviço online Science_Express , mantido por a revista Science . É um par de irmãos admirável , cada_um com cerca_de 1 % de a massa de o Sol , disse Jayawardhana . A mera existência é uma surpresa , e a origem e o destino são um mistério . Cerca_de metade de as estrelas de o tamanho de o Sol existem em pares . O mesmo ocorre com um sexto de as anãs marrons , corpos pesados o suficiente para gerar calor , mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas legítimas . em os últimos cinco anos , astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons que não estão presos a nenhum sistema estelar , apelidados de objetos de massa planetária , ou planemos , localizados em os arredores de regiões de formação de estrelas . O mais recente , Oph 162225-240515 , é o primeiro planemo duplo . Comparando os dados obtidos via telescópio com modelos teóricos , Jayawardhana e Ivanov estimaram <b><FONT style="font-size: 18px" COLOR="#9400D3">[a<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">massa<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">[<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#9400D3"><b><FONT style="font-size: 18px" COLOR="#9400D3">os<FONT style="font-size: 13px"></FONT></FONT></b><FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3"><FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#9400D3">componentes<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#9400D3"> [66]]<FONT style="font-size: 13px"></FONT></FONT></b><b><FONT style="font-size: 18px" COLOR="#9400D3"> <FONT style="font-size: 13px"></FONT></FONT> </b> <b><FONT style="font-size: 18px" COLOR="#9400D3">de<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">o<FONT style="font-size: 13px"></FONT></FONT></b> <b><FONT style="font-size: 18px" COLOR="#9400D3">par [66]]<FONT style="font-size: 13px"></FONT></FONT></b> e concluíram que o planemo duplo é jovem em termos cósmicos , com cerca_de um milhão de anos . Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam em o berçário de estrelas de Ophiuchus , a 400 anos-luz de a Terra . Acredita -se que planetas nascem de as nuvens de poeira que circulam estrelas , anãs marrons e , até , alguns planemos que flutuam livres por o espaço . Mas é provável que estes planemos irmãos se formaram juntos , a_partir_de uma nuvem de gás em contração que se partiu em duas , como uma estrela binária em miniatura , disse Jayawardhana . Estamos resistindo a a tentação de chamar o par de planeta duplo porque ele provavelmente não se formou de o jeito que os planetas em o nosso sistema solar apareceram , acrescenta Ivanov . </div>
+ 
+
+</div>
+
+      
+      
+      <!-- <p>###CHAINS-HEREold###</p> -->
+           
+
+    </article>
+    <aside class="right_article"> 
+    
+     <ul>
+       
+       
+       
+        <!-- <a href="###LINK###">   <li> ###HEAD_CADEIA###</li></a> -->
+        
+        <html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="">
+<title>Relatorio Correferencia: </title>
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h2
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=PT-BR style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal align=center style='text-align:center'><b><span
+  style='font-size:13.5pt'>Cadeias de Correfer&ecirc;ncia</span></b><o:p></o:p></p>
+  </td>
+ </tr>
+</table>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B2500;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [2]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A lista de os chamados exoplanetas , mundos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>mundos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>um planeta</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a Terra</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que </span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os planetas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#EE4000;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [13]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Sol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma estrela</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Sol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o Sol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>calor</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Sol e</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#0000CD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [46]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a origem</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os últimos cinco anos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>anos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma distância</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o espaço</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que </span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FF8C00;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [37]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as estrelas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as anãs marrons</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>estrelas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>estrelas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>estrelas , anãs marrons</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#98FB98;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [32]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>quinta-feira</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Jayawardhana</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Jayawardhana e Ivanov</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Jayawardhana</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B0000;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [27]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o outro</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a revista</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Science</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#C71585;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [48]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>um mistério</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>objetos ainda menores que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>objetos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B3E2F;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [56]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>corpos pesados</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o primeiro planemo duplo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o planemo duplo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#0000CD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [64]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>um extraordinário novo membro</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>membro</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>algumas dezenas de objetos ainda menores que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00CD66;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [67]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>metade de as estrelas de o tamanho de o Sol</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o tamanho</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#CD5C5C;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [6]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>telescópios de o Observatório Europeu Sul ( ESO )</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>telescópio</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#CD5B45;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [7]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>astrônomos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>astrônomos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#7FFF00;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [8]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>sete vezes</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>seis vezes</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#EE8262;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [9]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a massa de Júpiter , o mais pesado de os</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a massa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#0000EE;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [12]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>torno</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>torno um</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00C5CD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [22]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O pesquisadores Ray Jayawardhana e Valentin D. Ivanov</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Ivanov</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#CD0000;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [26]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o serviço online</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Science Express</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#8B1C62;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [28]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>um par de irmãos admirável , cada um</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o par</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FFA54F;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [29]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>irmãos admirável</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>irmãos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FF6A6A;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [33]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>A mera existência</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma surpresa</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#9B30FF;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [35]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as nuvens</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma nuvem</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#009ACD;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [44]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma reação de fusão nuclear</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>fusão nuclear</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00FFFF;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [49]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>anãs marrons que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>anãs marrons</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#00688B;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [62]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o par de planeta duplo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>planeta duplo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#EE7942;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [63]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o sistema solar</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o nosso sistema solar</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#FF0000;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [65]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>massa semelhante a a de outros exoplanetas já catalogados</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>outros exoplanetas já catalogados</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:#9400D3;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>CADEIA :</span></span><span
+  style='font-size:13.5pt'> [66]</span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a massa de os componentes de o par</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os componentes</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+
+        
+        <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;border:outset black 2.25pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width="15%" valign=bottom style='width:15.0%;border:inset black 1.0pt;
+  mso-border-alt:inset black .75pt;background:lime;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><span style='font-size:13.5pt'>Menções únicas :</span></span><span
+  style='font-size:13.5pt'> </span><o:p></o:p></p>
+
+ </tr>
+
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o mais pesado</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>outro</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o dobro</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>esse peso</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Ambos os mundos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>na verdade</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a descoberta</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a edição</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>cada um</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>cerca de 1 %</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o destino</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>pares</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O mesmo</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o suficiente para</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>as estrelas legítimas</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>nenhum sistema estelar</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>massa planetária</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os arredores</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>regiões</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>formação</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>O mais recente , Oph 162225-240515</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>os dados obtidos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>modelos teóricos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>termos cósmicos</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>cerca de um milhão</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Plutão</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o berçário</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>Ophiuchus</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>-se</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>poeira</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>alguns</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>gás</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>contração</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>se</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>se</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>uma estrela binária em miniatura</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>miniatura</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>a tentação</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>ele</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>se</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>o jeito</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+<tr style='mso-yfti-irow:1'>
+
+  <td width="75%" style='width:75.0%;border:inset black 1.0pt;mso-border-alt:
+  inset black .75pt;padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><span class=GramE><b></b></span><b> <span class=SpellE>que</span>
+  </b><o:p></o:p></p>
+  </td>
+ </tr>
+
+        
+      </ul>
+    
+    </aside>
+  </section>
+  <div class="row">
+  <center>
+  
+  <!-- ###TABELACORREF### -->
+  
+  
+  
+  </center>
+   </div>
+  
+   
+  </footer>
+</div>
+</body>
+</html>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+ <script type="text/javascript">
+ 	$(document).ready(function(){
+ 		$("#content div:nth-child(1)").show();
+ 		$(".abas li:first div").addClass("selected");		
+ 		$(".aba").click(function(){
+ 			$(".aba").removeClass("selected");
+ 			$(this).addClass("selected");
+ 			var indice = $(this).parent().index();
+ 			indice++;
+ 			$("#content div").hide();
+ 			$("#content div:nth-child("+indice+")").show();
+ 		});
+ 		
+ 		$(".aba").hover(
+ 			function(){$(this).addClass("ativa")},
+ 			function(){$(this).removeClass("ativa")}
+ 		);				
+ 	});
+ </script>
+ 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83422958-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

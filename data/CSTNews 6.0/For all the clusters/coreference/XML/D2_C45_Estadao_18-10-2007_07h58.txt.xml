@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="Um homem suspeito de ter roubado o relógio Rolex de o apresentador de televisão Luciano_Huck foi detido em a quarta-feira , 16 , em Taboão_da_Serra , em a Grande_São_Paulo . Wagner de o Nascimento_Marinho , de 22 anos , estava foragido de a Penitenciária_de_Valparaíso , a 580 km de a capital , onde cumpre pena por roubo seguido de tentativa de homicídio . Marinho é suspeito de fazer parte de a dupla que roubou o apresentador de a TV Globo em o dia 27 de setembro , em uma rua de o Itaim_Bibi , em a zona sul de a capital paulista . O apresentador foi roubado por duas pessoas que estavam em uma moto logo após sair de um restaurante de o bairro . Junto_com Marinho , policiais civis detiveram um grafiteiro de 27 anos que tem passagem em a polícia por roubo . Quando foi abordado por policiais , Marinho apresentou uma identidade falsa com o nome de Antônio_Edgar_Torres_Câmara . Com ele , foi apreendida uma moto prata . Segundo informações de a assessoria de o apresentador , ele não poderia comparecer a o Deic em a quarta-feira para reconhecer o suspeito devido a as gravações de seu programa em o Rio_de_Janeiro ." />
+  <Sentencas>
+    <sentenca_1 conteudo="Um homem suspeito de ter roubado o relógio Rolex de o apresentador de televisão Luciano Huck foi detido em a quarta-feira, 16, em Taboão de a Serra, em a Grande São Paulo." />
+    <sentenca_2 conteudo="Wagner de o Nascimento Marinho, de 22 anos, estava foragido de a Penitenciária de Valparaíso, a 580 km de a capital, onde cumpre pena por roubo seguido de tentativa de homicídio." />
+    <sentenca_3 conteudo="Marinho é suspeito de fazer parte de a dupla que roubou o apresentador de a TV Globo em o dia 27 de setembro, em uma rua de o Itaim Bibi, em a zona sul de a capital paulista." />
+    <sentenca_4 conteudo="O apresentador foi roubado por duas pessoas que estavam em uma moto logo após sair de um restaurante de o bairro." />
+    <sentenca_5 conteudo="Junto com Marinho, policiais civis detiveram um grafiteiro de 27 anos que tem passagem em a polícia por roubo." />
+    <sentenca_6 conteudo="Quando foi abordado por policiais, Marinho apresentou uma identidade falsa com o nome de Antônio Edgar Torres Câmara." />
+    <sentenca_7 conteudo="Com ele, foi apreendida uma moto prata." />
+    <sentenca_8 conteudo="Segundo informações de a assessoria de o apresentador, ele não poderia comparecer ao Deic em a quarta-feira para reconhecer o suspeito devido a as gravações de seu programa em o Rio de Janeiro." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="Um" lemma="um" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="homem" lemma="homem" pos="n" features="M=S" sentenca="1" />
+    <word_2 token="suspeito" lemma="suspeitar" pos="v-fin" features="PR=1S=IND" sentenca="1" />
+    <word_3 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_4 token="ter" lemma="ter" pos="v-inf" features="-" sentenca="1" />
+    <word_5 token="roubado" lemma="roubar" pos="v-pcp" features="M=S" sentenca="1" />
+    <word_6 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_7 token="relógio" lemma="relógio" pos="n" features="M=S" sentenca="1" />
+    <word_8 token="Rolex" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_9 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_10 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_11 token="apresentador" lemma="apresentador, apresentar" pos="n" features="M=S" sentenca="1" />
+    <word_12 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_13 token="televisão" lemma="televisão" pos="n" features="F=S" sentenca="1" />
+    <word_14 token="Luciano_Huck" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_15 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_16 token="detido" lemma="deter" pos="v-pcp" features="M=S" sentenca="1" />
+    <word_17 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_18 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_19 token="quarta-feira" lemma="quarta-feira" pos="n" features="F=S" sentenca="1" />
+    <word_20 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_21 token="16" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_22 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_23 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_24 token="Taboão_da_Serra" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_25 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_26 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_27 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_28 token="Grande_São_Paulo" lemma="" pos="prop" features="F=S" sentenca="1" />
+    <word_29 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_30 token="Wagner" lemma="Wagner" pos="prop" features="-" sentenca="2" />
+    <word_31 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_32 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_33 token="Nascimento_Marinho" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_34 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_35 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_36 token="22" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_37 token="anos" lemma="ano" pos="n" features="M=P" sentenca="2" />
+    <word_38 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_39 token="estava" lemma="estar" pos="v-fin" features="IMPF=3S=IND" sentenca="2" />
+    <word_40 token="foragido" lemma="foragido" pos="adj" features="M=S" sentenca="2" />
+    <word_41 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_42 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_43 token="Penitenciária_de_Valparaíso" lemma="" pos="prop" features="F=S" sentenca="2" />
+    <word_44 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_45 token="a" lemma="a" pos="prp" features="-" sentenca="2" />
+    <word_46 token="580" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_47 token="km" lemma="quilômetro" pos="n" features="M=P" sentenca="2" />
+    <word_48 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_49 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_50 token="capital" lemma="capital" pos="n" features="F=S" sentenca="2" />
+    <word_51 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_52 token="onde" lemma="onde" pos="adv" features="-" sentenca="2" />
+    <word_53 token="cumpre" lemma="cumprir" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_54 token="pena" lemma="pena" pos="n" features="F=S" sentenca="2" />
+    <word_55 token="por" lemma="por" pos="prp" features="-" sentenca="2" />
+    <word_56 token="roubo" lemma="roubo" pos="n" features="M=S" sentenca="2" />
+    <word_57 token="seguido" lemma="seguir" pos="v-pcp" features="M=S" sentenca="2" />
+    <word_58 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_59 token="tentativa" lemma="tentativa" pos="n" features="F=S" sentenca="2" />
+    <word_60 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_61 token="homicídio" lemma="homicídio" pos="n" features="M=S" sentenca="2" />
+    <word_62 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_63 token="Marinho" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_64 token="é" lemma="ser" pos="v-fin" features="PR=3S=IND" sentenca="3" />
+    <word_65 token="suspeito" lemma="suspeito" pos="adj" features="M=S" sentenca="3" />
+    <word_66 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_67 token="fazer" lemma="fazer" pos="v-inf" features="-" sentenca="3" />
+    <word_68 token="parte" lemma="parte" pos="n" features="F=S" sentenca="3" />
+    <word_69 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_70 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_71 token="dupla" lemma="duplo" pos="n" features="F=S" sentenca="3" />
+    <word_72 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="3" />
+    <word_73 token="roubou" lemma="roubar" pos="v-fin" features="PS=3S=IND" sentenca="3" />
+    <word_74 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_75 token="apresentador" lemma="apresentador, apresentar" pos="n" features="M=S" sentenca="3" />
+    <word_76 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_77 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_78 token="TV" lemma="TV" pos="prop" features="F=S" sentenca="3" />
+    <word_79 token="Globo" lemma="globo" pos="n" features="M=S" sentenca="3" />
+    <word_80 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_81 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_82 token="dia" lemma="dia" pos="n" features="M=S" sentenca="3" />
+    <word_83 token="27" lemma="" pos="num" features="M=P" sentenca="3" />
+    <word_84 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_85 token="setembro" lemma="setembro" pos="n" features="M=S" sentenca="3" />
+    <word_86 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_87 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_88 token="uma" lemma="um" pos="art" features="F=S" sentenca="3" />
+    <word_89 token="rua" lemma="rua" pos="n" features="F=S" sentenca="3" />
+    <word_90 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_91 token="o" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_92 token="Itaim_Bibi" lemma="" pos="prop" features="M=S" sentenca="3" />
+    <word_93 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_94 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_95 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_96 token="zona" lemma="zona" pos="n" features="F=S" sentenca="3" />
+    <word_97 token="sul" lemma="" pos="adj" features="M=S" sentenca="3" />
+    <word_98 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_99 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_100 token="capital" lemma="capital" pos="n" features="F=S" sentenca="3" />
+    <word_101 token="paulista" lemma="" pos="adj" features="F=S" sentenca="3" />
+    <word_102 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_103 token="O" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_104 token="apresentador" lemma="apresentador, apresentar" pos="n" features="M=S" sentenca="4" />
+    <word_105 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_106 token="roubado" lemma="roubar" pos="v-pcp" features="M=S" sentenca="4" />
+    <word_107 token="por" lemma="por" pos="prp" features="-" sentenca="4" />
+    <word_108 token="duas" lemma="dois" pos="num" features="F=P" sentenca="4" />
+    <word_109 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="4" />
+    <word_110 token="que" lemma="que" pos="pron-indp" features="F=P" sentenca="4" />
+    <word_111 token="estavam" lemma="estar" pos="v-fin" features="IMPF=3P=IND" sentenca="4" />
+    <word_112 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_113 token="uma" lemma="um" pos="art" features="F=S" sentenca="4" />
+    <word_114 token="moto" lemma="moto" pos="n" features="F=S" sentenca="4" />
+    <word_115 token="logo" lemma="logo" pos="adv" features="-" sentenca="4" />
+    <word_116 token="após" lemma="após" pos="prp" features="-" sentenca="4" />
+    <word_117 token="sair" lemma="sair" pos="v-inf" features="-" sentenca="4" />
+    <word_118 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_119 token="um" lemma="um" pos="art" features="M=S" sentenca="4" />
+    <word_120 token="restaurante" lemma="restaurante" pos="n" features="M=S" sentenca="4" />
+    <word_121 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_122 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_123 token="bairro" lemma="bairro" pos="n" features="M=S" sentenca="4" />
+    <word_124 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_125 token="Junto_com" lemma="" pos="prp" features="-" sentenca="5" />
+    <word_126 token="Marinho" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_127 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_128 token="policiais" lemma="policial" pos="n" features="M=P" sentenca="5" />
+    <word_129 token="civis" lemma="civil" pos="adj" features="M=P" sentenca="5" />
+    <word_130 token="detiveram" lemma="deter" pos="v-fin" features="MQP=3P=IND" sentenca="5" />
+    <word_131 token="um" lemma="um" pos="art" features="M=S" sentenca="5" />
+    <word_132 token="grafiteiro" lemma="" pos="n" features="M=S" sentenca="5" />
+    <word_133 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_134 token="27" lemma="" pos="num" features="M=P" sentenca="5" />
+    <word_135 token="anos" lemma="ano" pos="n" features="M=P" sentenca="5" />
+    <word_136 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="5" />
+    <word_137 token="tem" lemma="ter" pos="v-fin" features="PR=3S=IND" sentenca="5" />
+    <word_138 token="passagem" lemma="passagem" pos="n" features="F=S" sentenca="5" />
+    <word_139 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_140 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_141 token="polícia" lemma="polícia" pos="n" features="F=S" sentenca="5" />
+    <word_142 token="por" lemma="por" pos="prp" features="-" sentenca="5" />
+    <word_143 token="roubo" lemma="roubo" pos="n" features="M=S" sentenca="5" />
+    <word_144 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_145 token="Quando" lemma="quando" pos="adv" features="-" sentenca="6" />
+    <word_146 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_147 token="abordado" lemma="abordar" pos="v-pcp" features="M=S" sentenca="6" />
+    <word_148 token="por" lemma="por" pos="prp" features="-" sentenca="6" />
+    <word_149 token="policiais" lemma="policial" pos="n" features="M=P" sentenca="6" />
+    <word_150 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_151 token="Marinho" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_152 token="apresentou" lemma="apresentar" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_153 token="uma" lemma="um" pos="art" features="F=S" sentenca="6" />
+    <word_154 token="identidade" lemma="identidade" pos="n" features="F=S" sentenca="6" />
+    <word_155 token="falsa" lemma="falso" pos="adj" features="F=S" sentenca="6" />
+    <word_156 token="com" lemma="com" pos="prp" features="-" sentenca="6" />
+    <word_157 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_158 token="nome" lemma="nome" pos="n" features="M=S" sentenca="6" />
+    <word_159 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_160 token="Antônio_Edgar_Torres_Câmara" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_161 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_162 token="Com" lemma="com" pos="prp" features="-" sentenca="7" />
+    <word_163 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="7" />
+    <word_164 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_165 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_166 token="apreendida" lemma="apreender" pos="v-pcp" features="F=S" sentenca="7" />
+    <word_167 token="uma" lemma="um" pos="art" features="F=S" sentenca="7" />
+    <word_168 token="moto" lemma="moto" pos="n" features="F=S" sentenca="7" />
+    <word_169 token="prata" lemma="prata" pos="n" features="F=S" sentenca="7" />
+    <word_170 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_171 token="Segundo" lemma="segundo" pos="prp" features="-" sentenca="8" />
+    <word_172 token="informações" lemma="informar" pos="n" features="F=P" sentenca="8" />
+    <word_173 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_174 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_175 token="assessoria" lemma="assessoria" pos="n" features="F=S" sentenca="8" />
+    <word_176 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_177 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_178 token="apresentador" lemma="apresentador, apresentar" pos="n" features="M=S" sentenca="8" />
+    <word_179 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_180 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="8" />
+    <word_181 token="não" lemma="não" pos="adv" features="-" sentenca="8" />
+    <word_182 token="poderia" lemma="poder" pos="v-fin" features="COND=3S" sentenca="8" />
+    <word_183 token="comparecer" lemma="comparecer" pos="v-inf" features="-" sentenca="8" />
+    <word_184 token="a" lemma="a" pos="prp" features="-" sentenca="8" />
+    <word_185 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_186 token="Deic" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_187 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_188 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_189 token="quarta-feira" lemma="quarta-feira" pos="n" features="F=S" sentenca="8" />
+    <word_190 token="para" lemma="para" pos="prp" features="-" sentenca="8" />
+    <word_191 token="reconhecer" lemma="reconhecer" pos="v-inf" features="-" sentenca="8" />
+    <word_192 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_193 token="suspeito" lemma="suspeitar" pos="v-fin" features="PR=1S=IND" sentenca="8" />
+    <word_194 token="devido" lemma="devir, dever" pos="v-pcp" features="M=S" sentenca="8" />
+    <word_195 token="a" lemma="a" pos="prp" features="-" sentenca="8" />
+    <word_196 token="as" lemma="o" pos="art" features="F=P" sentenca="8" />
+    <word_197 token="gravações" lemma="gravar" pos="n" features="F=P" sentenca="8" />
+    <word_198 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_199 token="seu" lemma="seu" pos="pron-det" features="M=S" sentenca="8" />
+    <word_200 token="programa" lemma="programa" pos="n" features="M=S" sentenca="8" />
+    <word_201 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_202 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_203 token="Rio_de_Janeiro" lemma="" pos="prop" features="M=S" sentenca="8" />
+    <word_204 token="." lemma="." pos="." features="-" sentenca="8" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="33" tokens="108...109" nucleo="pessoas" sintagma="duas pessoas" Categoria="PESSOA" sentenca="4">
+        <word_108 token="duas" lemma="dois" pos="num" features="F=P" />
+        <word_109 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+      </sn>
+      <sn id="34" tokens="110...110" nucleo="que" sintagma="que" Categoria="PESSOA" sentenca="4">
+        <word_110 token="que" lemma="que" pos="pron-indp" features="F=P" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_2>
+      <sn id="3" tokens="10...11" nucleo="apresentador" sintagma="o apresentador" Categoria="PESSOA" sentenca="1">
+        <word_10 token="o" lemma="o" pos="art" features="M=S" />
+        <word_11 token="apresentador" lemma="apresentador, apresentar" pos="n" features="M=S" />
+      </sn>
+      <sn id="5" tokens="14...14" nucleo="Luciano_Huck" sintagma="Luciano Huck" Categoria="PESSOA" sentenca="1">
+        <word_14 token="Luciano_Huck" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="23" tokens="74...78" nucleo="apresentador" sintagma="o apresentador de a TV" Categoria="PESSOA" sentenca="3">
+        <word_74 token="o" lemma="o" pos="art" features="M=S" />
+        <word_75 token="apresentador" lemma="apresentador, apresentar" pos="n" features="M=S" />
+        <word_76 token="de" lemma="de" pos="prp" features="-" />
+        <word_77 token="a" lemma="o" pos="art" features="F=S" />
+        <word_78 token="TV" lemma="TV" pos="prop" features="F=S" />
+      </sn>
+      <sn id="32" tokens="103...104" nucleo="apresentador" sintagma="O apresentador" Categoria="PESSOA" sentenca="4">
+        <word_103 token="O" lemma="o" pos="art" features="M=S" />
+        <word_104 token="apresentador" lemma="apresentador, apresentar" pos="n" features="M=S" />
+      </sn>
+      <sn id="56" tokens="177...178" nucleo="apresentador" sintagma="o apresentador" Categoria="PESSOA" sentenca="8">
+        <word_177 token="o" lemma="o" pos="art" features="M=S" />
+        <word_178 token="apresentador" lemma="apresentador, apresentar" pos="n" features="M=S" />
+      </sn>
+      <sn id="57" tokens="180...180" nucleo="ele" sintagma="ele" Categoria="PESSOA" sentenca="8">
+        <word_180 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+      </sn>
+    </Cadeia_2>
+    <Cadeia_3>
+      <sn id="24" tokens="77...78" nucleo="TV" sintagma="a TV" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_77 token="a" lemma="o" pos="art" features="F=S" />
+        <word_78 token="TV" lemma="TV" pos="prop" features="F=S" />
+      </sn>
+      <sn id="25" tokens="79...79" nucleo="Globo" sintagma="Globo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_79 token="Globo" lemma="globo" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_3>
+    <Cadeia_31>
+      <sn id="39" tokens="128...129" nucleo="policiais" sintagma="policiais civis" Categoria="PESSOA" sentenca="5">
+        <word_128 token="policiais" lemma="policial" pos="n" features="M=P" />
+        <word_129 token="civis" lemma="civil" pos="adj" features="M=P" />
+      </sn>
+      <sn id="46" tokens="149...149" nucleo="policiais" sintagma="policiais" Categoria="PESSOA" sentenca="6">
+        <word_149 token="policiais" lemma="policial" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_31>
+    <Cadeia_32>
+      <sn id="40" tokens="131...135" nucleo="grafiteiro" sintagma="um grafiteiro de 27 anos" Categoria="PESSOA" sentenca="5">
+        <word_131 token="um" lemma="um" pos="art" features="M=S" />
+        <word_132 token="grafiteiro" lemma="" pos="n" features="M=S" />
+        <word_133 token="de" lemma="de" pos="prp" features="-" />
+        <word_134 token="27" lemma="" pos="num" features="M=P" />
+        <word_135 token="anos" lemma="ano" pos="n" features="M=P" />
+      </sn>
+      <sn id="42" tokens="136...136" nucleo="que" sintagma="que" Categoria="PESSOA" sentenca="5">
+        <word_136 token="que" lemma="que" pos="pron-indp" features="M=P" />
+      </sn>
+      <sn id="51" tokens="163...163" nucleo="ele" sintagma="ele" Categoria="PESSOA" sentenca="7">
+        <word_163 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+      </sn>
+    </Cadeia_32>
+    <Cadeia_33>
+      <sn id="8" tokens="27...28" nucleo="Grande_São_Paulo" sintagma="a Grande São Paulo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_27 token="a" lemma="o" pos="art" features="F=S" />
+        <word_28 token="Grande_São_Paulo" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="14" tokens="49...50" nucleo="capital" sintagma="a capital" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_49 token="a" lemma="o" pos="art" features="F=S" />
+        <word_50 token="capital" lemma="capital" pos="n" features="F=S" />
+      </sn>
+      <sn id="31" tokens="99...101" nucleo="capital" sintagma="a capital paulista" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_99 token="a" lemma="o" pos="art" features="F=S" />
+        <word_100 token="capital" lemma="capital" pos="n" features="F=S" />
+        <word_101 token="paulista" lemma="" pos="adj" features="F=S" />
+      </sn>
+    </Cadeia_33>
+    <Cadeia_5>
+      <sn id="6" tokens="18...19" nucleo="quarta-feira" sintagma="a quarta-feira" Categoria="OUTRO" sentenca="1">
+        <word_18 token="a" lemma="o" pos="art" features="F=S" />
+        <word_19 token="quarta-feira" lemma="quarta-feira" pos="n" features="F=S" />
+      </sn>
+      <sn id="59" tokens="188...189" nucleo="quarta-feira" sintagma="a quarta-feira" Categoria="OUTRO" sentenca="8">
+        <word_188 token="a" lemma="o" pos="art" features="F=S" />
+        <word_189 token="quarta-feira" lemma="quarta-feira" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_5>
+    <Cadeia_9>
+      <sn id="0" tokens="0...1" nucleo="homem" sintagma="Um homem" Categoria="PESSOA" sentenca="1">
+        <word_0 token="Um" lemma="um" pos="art" features="M=S" />
+        <word_1 token="homem" lemma="homem" pos="n" features="M=S" />
+      </sn>
+      <sn id="10" tokens="30...33" nucleo="Nascimento_Marinho" sintagma="Wagner de o Nascimento Marinho" Categoria="PESSOA" sentenca="2">
+        <word_30 token="Wagner" lemma="Wagner" pos="prop" features="-" />
+        <word_31 token="de" lemma="de" pos="prp" features="-" />
+        <word_32 token="o" lemma="o" pos="art" features="M=S" />
+        <word_33 token="Nascimento_Marinho" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="19" tokens="63...63" nucleo="Marinho" sintagma="Marinho" Categoria="PESSOA" sentenca="3">
+        <word_63 token="Marinho" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="38" tokens="126...126" nucleo="Marinho" sintagma="Marinho" Categoria="PESSOA" sentenca="5">
+        <word_126 token="Marinho" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="47" tokens="151...151" nucleo="Marinho" sintagma="Marinho" Categoria="PESSOA" sentenca="6">
+        <word_151 token="Marinho" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_9>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="1" tokens="6...13" nucleo="relógio" sintagma="o relógio Rolex de o apresentador de televisão" Categoria="--" sentenca="1">
+      <word_6 token="o" lemma="o" pos="art" features="M=S" />
+      <word_7 token="relógio" lemma="relógio" pos="n" features="M=S" />
+      <word_8 token="Rolex" lemma="" pos="prop" features="M=S" />
+      <word_9 token="de" lemma="de" pos="prp" features="-" />
+      <word_10 token="o" lemma="o" pos="art" features="M=S" />
+      <word_11 token="apresentador" lemma="apresentador, apresentar" pos="n" features="M=S" />
+      <word_12 token="de" lemma="de" pos="prp" features="-" />
+      <word_13 token="televisão" lemma="televisão" pos="n" features="F=S" />
+    </sn>
+    <sn id="4" tokens="13...13" nucleo="televisão" sintagma="televisão" Categoria="--" sentenca="1">
+      <word_13 token="televisão" lemma="televisão" pos="n" features="F=S" />
+    </sn>
+    <sn id="7" tokens="24...24" nucleo="Taboão_da_Serra" sintagma="Taboão de a Serra" Categoria="--" sentenca="1">
+      <word_24 token="Taboão_da_Serra" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="9" tokens="30...30" nucleo="Wagner" sintagma="Wagner" Categoria="--" sentenca="2">
+      <word_30 token="Wagner" lemma="Wagner" pos="prop" features="-" />
+    </sn>
+    <sn id="12" tokens="40...50" nucleo="Penitenciária_de_Valparaíso" sintagma="foragido de a Penitenciária de Valparaíso , a 580 km de a capital" Categoria="--" sentenca="2">
+      <word_40 token="foragido" lemma="foragido" pos="adj" features="M=S" />
+      <word_41 token="de" lemma="de" pos="prp" features="-" />
+      <word_42 token="a" lemma="o" pos="art" features="F=S" />
+      <word_43 token="Penitenciária_de_Valparaíso" lemma="" pos="prop" features="F=S" />
+      <word_44 token="," lemma="" pos="," features="-" />
+      <word_45 token="a" lemma="a" pos="prp" features="-" />
+      <word_46 token="580" lemma="" pos="num" features="M=P" />
+      <word_47 token="km" lemma="quilômetro" pos="n" features="M=P" />
+      <word_48 token="de" lemma="de" pos="prp" features="-" />
+      <word_49 token="a" lemma="o" pos="art" features="F=S" />
+      <word_50 token="capital" lemma="capital" pos="n" features="F=S" />
+    </sn>
+    <sn id="15" tokens="54...56" nucleo="pena" sintagma="pena por roubo" Categoria="--" sentenca="2">
+      <word_54 token="pena" lemma="pena" pos="n" features="F=S" />
+      <word_55 token="por" lemma="por" pos="prp" features="-" />
+      <word_56 token="roubo" lemma="roubo" pos="n" features="M=S" />
+    </sn>
+    <sn id="16" tokens="56...56" nucleo="roubo" sintagma="roubo" Categoria="--" sentenca="2">
+      <word_56 token="roubo" lemma="roubo" pos="n" features="M=S" />
+    </sn>
+    <sn id="17" tokens="59...59" nucleo="tentativa" sintagma="tentativa" Categoria="--" sentenca="2">
+      <word_59 token="tentativa" lemma="tentativa" pos="n" features="F=S" />
+    </sn>
+    <sn id="18" tokens="61...61" nucleo="homicídio" sintagma="homicídio" Categoria="--" sentenca="2">
+      <word_61 token="homicídio" lemma="homicídio" pos="n" features="M=S" />
+    </sn>
+    <sn id="20" tokens="68...71" nucleo="parte" sintagma="parte de a dupla" Categoria="--" sentenca="3">
+      <word_68 token="parte" lemma="parte" pos="n" features="F=S" />
+      <word_69 token="de" lemma="de" pos="prp" features="-" />
+      <word_70 token="a" lemma="o" pos="art" features="F=S" />
+      <word_71 token="dupla" lemma="duplo" pos="n" features="F=S" />
+    </sn>
+    <sn id="21" tokens="70...71" nucleo="dupla" sintagma="a dupla" Categoria="--" sentenca="3">
+      <word_70 token="a" lemma="o" pos="art" features="F=S" />
+      <word_71 token="dupla" lemma="duplo" pos="n" features="F=S" />
+    </sn>
+    <sn id="22" tokens="72...72" nucleo="que" sintagma="que" Categoria="--" sentenca="3">
+      <word_72 token="que" lemma="que" pos="pron-indp" features="F=S" />
+    </sn>
+    <sn id="26" tokens="81...83" nucleo="dia" sintagma="o dia 27" Categoria="--" sentenca="3">
+      <word_81 token="o" lemma="o" pos="art" features="M=S" />
+      <word_82 token="dia" lemma="dia" pos="n" features="M=S" />
+      <word_83 token="27" lemma="" pos="num" features="M=P" />
+    </sn>
+    <sn id="27" tokens="85...85" nucleo="setembro" sintagma="setembro" Categoria="--" sentenca="3">
+      <word_85 token="setembro" lemma="setembro" pos="n" features="M=S" />
+    </sn>
+    <sn id="28" tokens="88...89" nucleo="rua" sintagma="uma rua" Categoria="--" sentenca="3">
+      <word_88 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_89 token="rua" lemma="rua" pos="n" features="F=S" />
+    </sn>
+    <sn id="29" tokens="91...92" nucleo="Itaim_Bibi" sintagma="o Itaim Bibi" Categoria="--" sentenca="3">
+      <word_91 token="o" lemma="o" pos="art" features="M=S" />
+      <word_92 token="Itaim_Bibi" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="30" tokens="95...97" nucleo="zona" sintagma="a zona sul" Categoria="--" sentenca="3">
+      <word_95 token="a" lemma="o" pos="art" features="F=S" />
+      <word_96 token="zona" lemma="zona" pos="n" features="F=S" />
+      <word_97 token="sul" lemma="" pos="adj" features="M=S" />
+    </sn>
+    <sn id="35" tokens="113...114" nucleo="moto" sintagma="uma moto" Categoria="--" sentenca="4">
+      <word_113 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_114 token="moto" lemma="moto" pos="n" features="F=S" />
+    </sn>
+    <sn id="36" tokens="119...120" nucleo="restaurante" sintagma="um restaurante" Categoria="--" sentenca="4">
+      <word_119 token="um" lemma="um" pos="art" features="M=S" />
+      <word_120 token="restaurante" lemma="restaurante" pos="n" features="M=S" />
+    </sn>
+    <sn id="37" tokens="122...123" nucleo="bairro" sintagma="o bairro" Categoria="--" sentenca="4">
+      <word_122 token="o" lemma="o" pos="art" features="M=S" />
+      <word_123 token="bairro" lemma="bairro" pos="n" features="M=S" />
+    </sn>
+    <sn id="43" tokens="138...138" nucleo="passagem" sintagma="passagem" Categoria="--" sentenca="5">
+      <word_138 token="passagem" lemma="passagem" pos="n" features="F=S" />
+    </sn>
+    <sn id="44" tokens="140...141" nucleo="polícia" sintagma="a polícia" Categoria="--" sentenca="5">
+      <word_140 token="a" lemma="o" pos="art" features="F=S" />
+      <word_141 token="polícia" lemma="polícia" pos="n" features="F=S" />
+    </sn>
+    <sn id="45" tokens="143...143" nucleo="roubo" sintagma="roubo" Categoria="--" sentenca="5">
+      <word_143 token="roubo" lemma="roubo" pos="n" features="M=S" />
+    </sn>
+    <sn id="48" tokens="153...155" nucleo="identidade" sintagma="uma identidade falsa" Categoria="--" sentenca="6">
+      <word_153 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_154 token="identidade" lemma="identidade" pos="n" features="F=S" />
+      <word_155 token="falsa" lemma="falso" pos="adj" features="F=S" />
+    </sn>
+    <sn id="49" tokens="157...158" nucleo="nome" sintagma="o nome" Categoria="--" sentenca="6">
+      <word_157 token="o" lemma="o" pos="art" features="M=S" />
+      <word_158 token="nome" lemma="nome" pos="n" features="M=S" />
+    </sn>
+    <sn id="50" tokens="160...160" nucleo="Antônio_Edgar_Torres_Câmara" sintagma="Antônio Edgar Torres Câmara" Categoria="--" sentenca="6">
+      <word_160 token="Antônio_Edgar_Torres_Câmara" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="52" tokens="167...169" nucleo="moto" sintagma="uma moto prata" Categoria="--" sentenca="7">
+      <word_167 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_168 token="moto" lemma="moto" pos="n" features="F=S" />
+      <word_169 token="prata" lemma="prata" pos="n" features="F=S" />
+    </sn>
+    <sn id="53" tokens="169...169" nucleo="prata" sintagma="prata" Categoria="--" sentenca="7">
+      <word_169 token="prata" lemma="prata" pos="n" features="F=S" />
+    </sn>
+    <sn id="54" tokens="172...172" nucleo="informações" sintagma="informações" Categoria="--" sentenca="8">
+      <word_172 token="informações" lemma="informar" pos="n" features="F=P" />
+    </sn>
+    <sn id="55" tokens="174...175" nucleo="assessoria" sintagma="a assessoria" Categoria="--" sentenca="8">
+      <word_174 token="a" lemma="o" pos="art" features="F=S" />
+      <word_175 token="assessoria" lemma="assessoria" pos="n" features="F=S" />
+    </sn>
+    <sn id="58" tokens="185...186" nucleo="Deic" sintagma="o Deic" Categoria="--" sentenca="8">
+      <word_185 token="o" lemma="o" pos="art" features="M=S" />
+      <word_186 token="Deic" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="60" tokens="196...197" nucleo="gravações" sintagma="as gravações" Categoria="--" sentenca="8">
+      <word_196 token="as" lemma="o" pos="art" features="F=P" />
+      <word_197 token="gravações" lemma="gravar" pos="n" features="F=P" />
+    </sn>
+    <sn id="61" tokens="199...200" nucleo="seu" sintagma="seu programa" Categoria="--" sentenca="8">
+      <word_199 token="seu" lemma="seu" pos="pron-det" features="M=S" />
+      <word_200 token="programa" lemma="programa" pos="n" features="M=S" />
+    </sn>
+    <sn id="62" tokens="202...203" nucleo="Rio_de_Janeiro" sintagma="o Rio de Janeiro" Categoria="--" sentenca="8">
+      <word_202 token="o" lemma="o" pos="art" features="M=S" />
+      <word_203 token="Rio_de_Janeiro" lemma="" pos="prop" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

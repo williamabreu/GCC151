@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="A seleção brasileira masculina de vôlei conseguiu , em esta sexta-feira , a sétima vitória consecutiva em a Liga_Mundial a o derrotar a Finlândia por 3 sets a 0 - parciais de 25/17 , 25/22 e 25/21 - , em jogo realizado em a cidade de Tampere , em a Finlândia . Invicto em a competição , o Brasil está tranqüilo em a liderança de o Grupo_B. Os finlandeses estão em a terceira colocação , com três vitórias e quatro derrotas . Portugal e Argentina - que duelam duas vezes em este final de semana , em Portugal - completam a chave . O time comandado por o treinador Bernardinho só encontrou um pouco mais de dificuldades em o segundo set . em o terceiro , mesmo com vários reservas como o levantador Marcelinho e Samuel , os brasileiros conseguiram fechar a partida com tranqüilidade . Brasil e Finlândia se enfrentarão novamente em este sábado , a as 12h30 ( horário de Brasília ) , com transmissão a o vivo de o canal de TV a cabo SporTV . em as duas últimas rodadas de a fase de classificação de a Liga_Mundial , a seleção brasileira receberá portugueses e finlandeses . A fase final de a competição de este ano acontecerá em a Rússia ." />
+  <Sentencas>
+    <sentenca_1 conteudo="A seleção brasileira masculina de vôlei conseguiu, em esta sexta-feira, a sétima vitória consecutiva em a Liga Mundial ao derrotar a Finlândia por 3 sets a 0 - parciais de 25/17, 25/22 e 25/21 -, em jogo realizado em a cidade de Tampere, em a Finlândia." />
+    <sentenca_2 conteudo="Invicto em a competição, o Brasil está tranqüilo em a liderança de o Grupo B." />
+    <sentenca_3 conteudo="Os finlandeses estão em a terceira colocação, com três vitórias e quatro derrotas." />
+    <sentenca_4 conteudo="Portugal e Argentina - que duelam duas vezes em ente final de semana, em Portugal - completam a chave." />
+    <sentenca_5 conteudo="O time comandado por o treinador Bernardinho só encontrou um pouco mais de dificuldades em o segundo set." />
+    <sentenca_6 conteudo="No terceiro, mesmo com vários reservas como o levantador Marcelinho e Samuel, os brasileiros conseguiram fechar a partida com tranqüilidade." />
+    <sentenca_7 conteudo="Brasil e Finlândia se enfrentarão novamente em ente sábado, a as 12h30 (horário de Brasília), com transmissão ao vivo de o canal de TV a cabo SporTV." />
+    <sentenca_8 conteudo="Nas duas últimas rodadas de a fase de classificação de a Liga Mundial, a seleção brasileira receberá portugueses e finlandeses." />
+    <sentenca_9 conteudo="A fase final de a competição deste ano acontecerá em a Rússia." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="A" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_1 token="seleção" lemma="seleção" pos="n" features="F=S" sentenca="1" />
+    <word_2 token="brasileira" lemma="brasileiro" pos="adj" features="F=S" sentenca="1" />
+    <word_3 token="masculina" lemma="masculino" pos="adj" features="F=S" sentenca="1" />
+    <word_4 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_5 token="vôlei" lemma="" pos="n" features="M=S" sentenca="1" />
+    <word_6 token="conseguiu" lemma="conseguir" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_7 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_8 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_9 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="1" />
+    <word_10 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" sentenca="1" />
+    <word_11 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_12 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_13 token="sétima" lemma="sétimo" pos="num" features="F=S" sentenca="1" />
+    <word_14 token="vitória" lemma="vitória" pos="n" features="F=S" sentenca="1" />
+    <word_15 token="consecutiva" lemma="consecutivo" pos="adj" features="F=S" sentenca="1" />
+    <word_16 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_17 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_18 token="Liga_Mundial" lemma="" pos="prop" features="F=S" sentenca="1" />
+    <word_19 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_20 token="o" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_21 token="derrotar" lemma="derrotar" pos="v-inf" features="-" sentenca="1" />
+    <word_22 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_23 token="Finlândia" lemma="Finlândia" pos="prop" features="F=S" sentenca="1" />
+    <word_24 token="por" lemma="por" pos="prp" features="-" sentenca="1" />
+    <word_25 token="3" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_26 token="sets" lemma="" pos="n" features="M=P" sentenca="1" />
+    <word_27 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_28 token="0" lemma="" pos="num" features="M=S" sentenca="1" />
+    <word_29 token="-" lemma="" pos="-" features="-" sentenca="1" />
+    <word_30 token="parciais" lemma="parcial" pos="adj" features="F=P" sentenca="1" />
+    <word_31 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_32 token="25/17" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_33 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_34 token="25/22" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_35 token="e" lemma="e" pos="conj-c" features="-" sentenca="1" />
+    <word_36 token="25/21" lemma="" pos="num" features="M=P" sentenca="1" />
+    <word_37 token="-" lemma="" pos="-" features="-" sentenca="1" />
+    <word_38 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_39 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_40 token="jogo" lemma="jogo" pos="n" features="M=S" sentenca="1" />
+    <word_41 token="realizado" lemma="realizar" pos="v-pcp" features="M=S" sentenca="1" />
+    <word_42 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_43 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_44 token="cidade" lemma="cidade" pos="n" features="F=S" sentenca="1" />
+    <word_45 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_46 token="Tampere" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_47 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_48 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_49 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_50 token="Finlândia" lemma="Finlândia" pos="prop" features="F=S" sentenca="1" />
+    <word_51 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_52 token="Invicto" lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_53 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_54 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_55 token="competição" lemma="competição, competir" pos="n" features="F=S" sentenca="2" />
+    <word_56 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_57 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_58 token="Brasil" lemma="Brasil" pos="prop" features="M=S" sentenca="2" />
+    <word_59 token="está" lemma="estar" pos="v-fin" features="PR=3S=IND" sentenca="2" />
+    <word_60 token="tranqüilo" lemma="" pos="adj" features="M=S" sentenca="2" />
+    <word_61 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_62 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_63 token="liderança" lemma="liderança" pos="n" features="F=S" sentenca="2" />
+    <word_64 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_65 token="o" lemma="o" pos="art" features="M=S" sentenca="2" />
+    <word_66 token="Grupo_B." lemma="" pos="prop" features="M=S" sentenca="2" />
+    <word_67 token="Os" lemma="o" pos="art" features="M=P" sentenca="3" />
+    <word_68 token="finlandeses" lemma="finlandês" pos="n" features="M=P" sentenca="3" />
+    <word_69 token="estão" lemma="estar" pos="v-fin" features="PR=3P=IND" sentenca="3" />
+    <word_70 token="em" lemma="em" pos="prp" features="-" sentenca="3" />
+    <word_71 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_72 token="terceira" lemma="" pos="adj" features="F=S" sentenca="3" />
+    <word_73 token="colocação" lemma="colocar" pos="n" features="F=S" sentenca="3" />
+    <word_74 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_75 token="com" lemma="com" pos="prp" features="-" sentenca="3" />
+    <word_76 token="três" lemma="três" pos="num" features="F=P" sentenca="3" />
+    <word_77 token="vitórias" lemma="vitória" pos="n" features="F=P" sentenca="3" />
+    <word_78 token="e" lemma="e" pos="conj-c" features="-" sentenca="3" />
+    <word_79 token="quatro" lemma="quatro" pos="num" features="F=P" sentenca="3" />
+    <word_80 token="derrotas" lemma="derrota" pos="n" features="F=P" sentenca="3" />
+    <word_81 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_82 token="Portugal" lemma="Portugal" pos="prop" features="M=S" sentenca="4" />
+    <word_83 token="e" lemma="e" pos="conj-c" features="-" sentenca="4" />
+    <word_84 token="Argentina" lemma="Argentina" pos="prop" features="F=S" sentenca="4" />
+    <word_85 token="-" lemma="" pos="-" features="-" sentenca="4" />
+    <word_86 token="que" lemma="que" pos="pron-indp" features="F=P" sentenca="4" />
+    <word_87 token="duelam" lemma="" pos="v-fin" features="PR=3P=IND" sentenca="4" />
+    <word_88 token="duas" lemma="dois" pos="num" features="F=P" sentenca="4" />
+    <word_89 token="vezes" lemma="vez" pos="n" features="F=P" sentenca="4" />
+    <word_90 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_91 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="4" />
+    <word_92 token="final" lemma="final" pos="n" features="M=S" sentenca="4" />
+    <word_93 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_94 token="semana" lemma="semana" pos="n" features="F=S" sentenca="4" />
+    <word_95 token="," lemma="" pos="," features="-" sentenca="4" />
+    <word_96 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_97 token="Portugal" lemma="Portugal" pos="prop" features="M=S" sentenca="4" />
+    <word_98 token="-" lemma="" pos="-" features="-" sentenca="4" />
+    <word_99 token="completam" lemma="completar" pos="v-fin" features="PR=3P=IND" sentenca="4" />
+    <word_100 token="a" lemma="o" pos="art" features="F=S" sentenca="4" />
+    <word_101 token="chave" lemma="chave" pos="n" features="F=S" sentenca="4" />
+    <word_102 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_103 token="O" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_104 token="time" lemma="" pos="n" features="M=S" sentenca="5" />
+    <word_105 token="comandado" lemma="comandar" pos="v-pcp" features="M=S" sentenca="5" />
+    <word_106 token="por" lemma="por" pos="prp" features="-" sentenca="5" />
+    <word_107 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_108 token="treinador" lemma="treinador, treinar" pos="n" features="M=S" sentenca="5" />
+    <word_109 token="Bernardinho" lemma="" pos="prop" features="M=S" sentenca="5" />
+    <word_110 token="só" lemma="só" pos="adv" features="-" sentenca="5" />
+    <word_111 token="encontrou" lemma="encontrar" pos="v-fin" features="PS=3S=IND" sentenca="5" />
+    <word_112 token="um" lemma="um" pos="art" features="M=S" sentenca="5" />
+    <word_113 token="pouco" lemma="pouco" pos="pron-det" features="M=S" sentenca="5" />
+    <word_114 token="mais" lemma="mais" pos="adv" features="-" sentenca="5" />
+    <word_115 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_116 token="dificuldades" lemma="dificuldade" pos="n" features="F=P" sentenca="5" />
+    <word_117 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_118 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_119 token="segundo" lemma="" pos="adj" features="M=S" sentenca="5" />
+    <word_120 token="set" lemma="" pos="n" features="M=S" sentenca="5" />
+    <word_121 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_122 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_123 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_124 token="terceiro" lemma="" pos="adj" features="M=S" sentenca="6" />
+    <word_125 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_126 token="mesmo" lemma="mesmo" pos="adv" features="-" sentenca="6" />
+    <word_127 token="com" lemma="com" pos="prp" features="-" sentenca="6" />
+    <word_128 token="vários" lemma="" pos="pron-det" features="M=P" sentenca="6" />
+    <word_129 token="reservas" lemma="reserva" pos="n" features="F=P" sentenca="6" />
+    <word_130 token="como" lemma="como" pos="adv" features="-" sentenca="6" />
+    <word_131 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_132 token="levantador" lemma="levantador, levantar" pos="n" features="M=S" sentenca="6" />
+    <word_133 token="Marcelinho" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_134 token="e" lemma="e" pos="conj-c" features="-" sentenca="6" />
+    <word_135 token="Samuel" lemma="Samuel" pos="prop" features="M=S" sentenca="6" />
+    <word_136 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_137 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_138 token="brasileiros" lemma="brasileiro" pos="n" features="M=P" sentenca="6" />
+    <word_139 token="conseguiram" lemma="conseguir" pos="v-fin" features="MQP=3P=IND" sentenca="6" />
+    <word_140 token="fechar" lemma="fechar" pos="v-inf" features="-" sentenca="6" />
+    <word_141 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_142 token="partida" lemma="partida" pos="n" features="F=S" sentenca="6" />
+    <word_143 token="com" lemma="com" pos="prp" features="-" sentenca="6" />
+    <word_144 token="tranqüilidade" lemma="" pos="n" features="F=S" sentenca="6" />
+    <word_145 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_146 token="Brasil" lemma="Brasil" pos="prop" features="M=S" sentenca="7" />
+    <word_147 token="e" lemma="e" pos="conj-c" features="-" sentenca="7" />
+    <word_148 token="Finlândia" lemma="Finlândia" pos="prop" features="F=S" sentenca="7" />
+    <word_149 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" sentenca="7" />
+    <word_150 token="enfrentarão" lemma="enfrentar" pos="v-fin" features="FUT=3P=IND" sentenca="7" />
+    <word_151 token="novamente" lemma="novo" pos="adv" features="-" sentenca="7" />
+    <word_152 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_153 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="7" />
+    <word_154 token="sábado" lemma="sábado" pos="n" features="M=S" sentenca="7" />
+    <word_155 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_156 token="a" lemma="a" pos="prp" features="-" sentenca="7" />
+    <word_157 token="as" lemma="o" pos="art" features="F=P" sentenca="7" />
+    <word_158 token="12h30" lemma="" pos="n" features="F=P" sentenca="7" />
+    <word_159 token="(" lemma="(" pos="(" features="-" sentenca="7" />
+    <word_160 token="horário" lemma="horário" pos="n" features="M=S" sentenca="7" />
+    <word_161 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_162 token="Brasília" lemma="Brasília" pos="prop" features="M=S" sentenca="7" />
+    <word_163 token=")" lemma=")" pos=")" features="-" sentenca="7" />
+    <word_164 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_165 token="com" lemma="com" pos="prp" features="-" sentenca="7" />
+    <word_166 token="transmissão" lemma="transmissão" pos="n" features="F=S" sentenca="7" />
+    <word_167 token="a" lemma="a" pos="prp" features="-" sentenca="7" />
+    <word_168 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_169 token="vivo" lemma="vivo" pos="adj" features="M=S" sentenca="7" />
+    <word_170 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_171 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_172 token="canal" lemma="canal" pos="n" features="M=S" sentenca="7" />
+    <word_173 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_174 token="TV" lemma="TV" pos="prop" features="F=S" sentenca="7" />
+    <word_175 token="a" lemma="a" pos="prp" features="-" sentenca="7" />
+    <word_176 token="cabo" lemma="cabo" pos="n" features="M=S" sentenca="7" />
+    <word_177 token="SporTV" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_178 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_179 token="em" lemma="em" pos="prp" features="-" sentenca="8" />
+    <word_180 token="as" lemma="o" pos="art" features="F=P" sentenca="8" />
+    <word_181 token="duas" lemma="dois" pos="num" features="F=P" sentenca="8" />
+    <word_182 token="últimas" lemma="último" pos="adj" features="F=P" sentenca="8" />
+    <word_183 token="rodadas" lemma="rodar" pos="v-pcp" features="F=P" sentenca="8" />
+    <word_184 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_185 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_186 token="fase" lemma="fase" pos="n" features="F=S" sentenca="8" />
+    <word_187 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_188 token="classificação" lemma="classificação, classificar" pos="n" features="F=S" sentenca="8" />
+    <word_189 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_190 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_191 token="Liga_Mundial" lemma="" pos="prop" features="F=S" sentenca="8" />
+    <word_192 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_193 token="a" lemma="o" pos="art" features="F=S" sentenca="8" />
+    <word_194 token="seleção" lemma="seleção" pos="n" features="F=S" sentenca="8" />
+    <word_195 token="brasileira" lemma="brasileiro" pos="adj" features="F=S" sentenca="8" />
+    <word_196 token="receberá" lemma="receber" pos="v-fin" features="FUT=3S=IND" sentenca="8" />
+    <word_197 token="portugueses" lemma="português" pos="n" features="M=P" sentenca="8" />
+    <word_198 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_199 token="finlandeses" lemma="finlandês" pos="n" features="M=P" sentenca="8" />
+    <word_200 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_201 token="A" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_202 token="fase" lemma="fase" pos="n" features="F=S" sentenca="9" />
+    <word_203 token="final" lemma="final" pos="adj" features="F=S" sentenca="9" />
+    <word_204 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_205 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_206 token="competição" lemma="competição, competir" pos="n" features="F=S" sentenca="9" />
+    <word_207 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_208 token="este" lemma="este" pos="pron-det" features="M=S" sentenca="9" />
+    <word_209 token="ano" lemma="ano" pos="n" features="M=S" sentenca="9" />
+    <word_210 token="acontecerá" lemma="acontecer" pos="v-fin" features="FUT=3S=IND" sentenca="9" />
+    <word_211 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_212 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_213 token="Rússia" lemma="Rússia" pos="prop" features="F=S" sentenca="9" />
+    <word_214 token="." lemma="." pos="." features="-" sentenca="9" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="0...5" nucleo="seleção" sintagma="A seleção brasileira masculina de vôlei" Categoria="OUTRO" sentenca="1">
+        <word_0 token="A" lemma="o" pos="art" features="F=S" />
+        <word_1 token="seleção" lemma="seleção" pos="n" features="F=S" />
+        <word_2 token="brasileira" lemma="brasileiro" pos="adj" features="F=S" />
+        <word_3 token="masculina" lemma="masculino" pos="adj" features="F=S" />
+        <word_4 token="de" lemma="de" pos="prp" features="-" />
+        <word_5 token="vôlei" lemma="" pos="n" features="M=S" />
+      </sn>
+      <sn id="1" tokens="5...5" nucleo="vôlei" sintagma="vôlei" Categoria="OUTRO" sentenca="1">
+        <word_5 token="vôlei" lemma="" pos="n" features="M=S" />
+      </sn>
+      <sn id="54" tokens="193...195" nucleo="seleção" sintagma="a seleção brasileira" Categoria="OUTRO" sentenca="8">
+        <word_193 token="a" lemma="o" pos="art" features="F=S" />
+        <word_194 token="seleção" lemma="seleção" pos="n" features="F=S" />
+        <word_195 token="brasileira" lemma="brasileiro" pos="adj" features="F=S" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_11>
+      <sn id="15" tokens="67...68" nucleo="finlandeses" sintagma="Os finlandeses" Categoria="OUTRO" sentenca="3">
+        <word_67 token="Os" lemma="o" pos="art" features="M=P" />
+        <word_68 token="finlandeses" lemma="finlandês" pos="n" features="M=P" />
+      </sn>
+      <sn id="56" tokens="199...199" nucleo="finlandeses" sintagma="finlandeses" Categoria="OUTRO" sentenca="8">
+        <word_199 token="finlandeses" lemma="finlandês" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_11>
+    <Cadeia_22>
+      <sn id="27" tokens="107...108" nucleo="treinador" sintagma="o treinador" Categoria="OUTRO" sentenca="5">
+        <word_107 token="o" lemma="o" pos="art" features="M=S" />
+        <word_108 token="treinador" lemma="treinador, treinar" pos="n" features="M=S" />
+      </sn>
+      <sn id="28" tokens="109...109" nucleo="Bernardinho" sintagma="Bernardinho" Categoria="PESSOA" sentenca="5">
+        <word_109 token="Bernardinho" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_22>
+    <Cadeia_3>
+      <sn id="3" tokens="12...18" nucleo="vitória" sintagma="a sétima vitória consecutiva em a Liga Mundial" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_12 token="a" lemma="o" pos="art" features="F=S" />
+        <word_13 token="sétima" lemma="sétimo" pos="num" features="F=S" />
+        <word_14 token="vitória" lemma="vitória" pos="n" features="F=S" />
+        <word_15 token="consecutiva" lemma="consecutivo" pos="adj" features="F=S" />
+        <word_16 token="em" lemma="em" pos="prp" features="-" />
+        <word_17 token="a" lemma="o" pos="art" features="F=S" />
+        <word_18 token="Liga_Mundial" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="17" tokens="76...77" nucleo="vitórias" sintagma="três vitórias" Categoria="OUTRO" sentenca="3">
+        <word_76 token="três" lemma="três" pos="num" features="F=P" />
+        <word_77 token="vitórias" lemma="vitória" pos="n" features="F=P" />
+      </sn>
+      <sn id="53" tokens="190...191" nucleo="Liga_Mundial" sintagma="a Liga Mundial" Categoria="OUTRO" sentenca="8">
+        <word_190 token="a" lemma="o" pos="art" features="F=S" />
+        <word_191 token="Liga_Mundial" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_3>
+    <Cadeia_34>
+      <sn id="43" tokens="157...158" nucleo="12h30" sintagma="as 12h30" Categoria="OUTRO" sentenca="7">
+        <word_157 token="as" lemma="o" pos="art" features="F=P" />
+        <word_158 token="12h30" lemma="" pos="n" features="F=P" />
+      </sn>
+      <sn id="44" tokens="160...162" nucleo="horário" sintagma=" horário de Brasília " Categoria="OUTRO" sentenca="7">
+        <word_160 token="horário" lemma="horário" pos="n" features="M=S" />
+        <word_161 token="de" lemma="de" pos="prp" features="-" />
+        <word_162 token="Brasília" lemma="Brasília" pos="prop" features="M=S" />
+      </sn>
+      <sn id="45" tokens="162...162" nucleo="Brasília" sintagma="Brasília" Categoria="OUTRO" sentenca="7">
+        <word_162 token="Brasília" lemma="Brasília" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_34>
+    <Cadeia_35>
+      <sn id="29" tokens="112...116" nucleo="pouco" sintagma="um pouco mais de dificuldades" Categoria="OUTRO" sentenca="5">
+        <word_112 token="um" lemma="um" pos="art" features="M=S" />
+        <word_113 token="pouco" lemma="pouco" pos="pron-det" features="M=S" />
+        <word_114 token="mais" lemma="mais" pos="adv" features="-" />
+        <word_115 token="de" lemma="de" pos="prp" features="-" />
+        <word_116 token="dificuldades" lemma="dificuldade" pos="n" features="F=P" />
+      </sn>
+      <sn id="30" tokens="116...116" nucleo="dificuldades" sintagma="dificuldades" Categoria="OUTRO" sentenca="5">
+        <word_116 token="dificuldades" lemma="dificuldade" pos="n" features="F=P" />
+      </sn>
+    </Cadeia_35>
+    <Cadeia_36>
+      <sn id="37" tokens="141...144" nucleo="partida" sintagma="a partida com tranqüilidade" Categoria="OUTRO" sentenca="6">
+        <word_141 token="a" lemma="o" pos="art" features="F=S" />
+        <word_142 token="partida" lemma="partida" pos="n" features="F=S" />
+        <word_143 token="com" lemma="com" pos="prp" features="-" />
+        <word_144 token="tranqüilidade" lemma="" pos="n" features="F=S" />
+      </sn>
+      <sn id="38" tokens="144...144" nucleo="tranqüilidade" sintagma="tranqüilidade" Categoria="OUTRO" sentenca="6">
+        <word_144 token="tranqüilidade" lemma="" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_36>
+    <Cadeia_37>
+      <sn id="33" tokens="131...138" nucleo="levantador" sintagma="o levantador Marcelinho e Samuel , os brasileiros" Categoria="OUTRO" sentenca="6">
+        <word_131 token="o" lemma="o" pos="art" features="M=S" />
+        <word_132 token="levantador" lemma="levantador, levantar" pos="n" features="M=S" />
+        <word_133 token="Marcelinho" lemma="" pos="prop" features="M=S" />
+        <word_134 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_135 token="Samuel" lemma="Samuel" pos="prop" features="M=S" />
+        <word_136 token="," lemma="" pos="," features="-" />
+        <word_137 token="os" lemma="o" pos="art" features="M=P" />
+        <word_138 token="brasileiros" lemma="brasileiro" pos="n" features="M=P" />
+      </sn>
+      <sn id="36" tokens="137...138" nucleo="brasileiros" sintagma="os brasileiros" Categoria="OUTRO" sentenca="6">
+        <word_137 token="os" lemma="o" pos="art" features="M=P" />
+        <word_138 token="brasileiros" lemma="brasileiro" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_37>
+    <Cadeia_4>
+      <sn id="6" tokens="40...40" nucleo="jogo" sintagma="jogo" Categoria="OUTRO" sentenca="1">
+        <word_40 token="jogo" lemma="jogo" pos="n" features="M=S" />
+      </sn>
+      <sn id="11" tokens="54...55" nucleo="competição" sintagma="a competição" Categoria="OUTRO" sentenca="2">
+        <word_54 token="a" lemma="o" pos="art" features="F=S" />
+        <word_55 token="competição" lemma="competição, competir" pos="n" features="F=S" />
+      </sn>
+      <sn id="57" tokens="201...209" nucleo="fase" sintagma="A fase final de a competição de este ano" Categoria="OUTRO" sentenca="9">
+        <word_201 token="A" lemma="o" pos="art" features="F=S" />
+        <word_202 token="fase" lemma="fase" pos="n" features="F=S" />
+        <word_203 token="final" lemma="final" pos="adj" features="F=S" />
+        <word_204 token="de" lemma="de" pos="prp" features="-" />
+        <word_205 token="a" lemma="o" pos="art" features="F=S" />
+        <word_206 token="competição" lemma="competição, competir" pos="n" features="F=S" />
+        <word_207 token="de" lemma="de" pos="prp" features="-" />
+        <word_208 token="este" lemma="este" pos="pron-det" features="M=S" />
+        <word_209 token="ano" lemma="ano" pos="n" features="M=S" />
+      </sn>
+      <sn id="58" tokens="205...206" nucleo="competição" sintagma="a competição" Categoria="OUTRO" sentenca="9">
+        <word_205 token="a" lemma="o" pos="art" features="F=S" />
+        <word_206 token="competição" lemma="competição, competir" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_4>
+    <Cadeia_7>
+      <sn id="9" tokens="22...23" nucleo="Finlândia" sintagma="a Finlândia" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_22 token="a" lemma="o" pos="art" features="F=S" />
+        <word_23 token="Finlândia" lemma="Finlândia" pos="prop" features="F=S" />
+      </sn>
+      <sn id="40" tokens="148...148" nucleo="Finlândia" sintagma="Finlândia" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_148 token="Finlândia" lemma="Finlândia" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_7>
+    <Cadeia_9>
+      <sn id="12" tokens="57...58" nucleo="Brasil" sintagma="o Brasil" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_57 token="o" lemma="o" pos="art" features="M=S" />
+        <word_58 token="Brasil" lemma="Brasil" pos="prop" features="M=S" />
+      </sn>
+      <sn id="14" tokens="65...66" nucleo="Grupo_B." sintagma="o Grupo B." Categoria="OUTRO" sentenca="2">
+        <word_65 token="o" lemma="o" pos="art" features="M=S" />
+        <word_66 token="Grupo_B." lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_9>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="2" tokens="9...10" nucleo="esta" sintagma="esta sexta-feira" Categoria="OUTRO" sentenca="1">
+      <word_9 token="esta" lemma="este" pos="pron-det" features="F=S" />
+      <word_10 token="sexta-feira" lemma="sexta-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="7" tokens="43...44" nucleo="cidade" sintagma="a cidade" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+      <word_43 token="a" lemma="o" pos="art" features="F=S" />
+      <word_44 token="cidade" lemma="cidade" pos="n" features="F=S" />
+    </sn>
+    <sn id="8" tokens="46...46" nucleo="Tampere" sintagma="Tampere" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="1">
+      <word_46 token="Tampere" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="10" tokens="52...52" nucleo="Invicto" sintagma="Invicto" Categoria="OUTRO" sentenca="2">
+      <word_52 token="Invicto" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="13" tokens="62...63" nucleo="liderança" sintagma="a liderança" Categoria="OUTRO" sentenca="2">
+      <word_62 token="a" lemma="o" pos="art" features="F=S" />
+      <word_63 token="liderança" lemma="liderança" pos="n" features="F=S" />
+    </sn>
+    <sn id="16" tokens="71...73" nucleo="colocação" sintagma="a terceira colocação" Categoria="OUTRO" sentenca="3">
+      <word_71 token="a" lemma="o" pos="art" features="F=S" />
+      <word_72 token="terceira" lemma="" pos="adj" features="F=S" />
+      <word_73 token="colocação" lemma="colocar" pos="n" features="F=S" />
+    </sn>
+    <sn id="18" tokens="79...80" nucleo="derrotas" sintagma="quatro derrotas" Categoria="OUTRO" sentenca="3">
+      <word_79 token="quatro" lemma="quatro" pos="num" features="F=P" />
+      <word_80 token="derrotas" lemma="derrota" pos="n" features="F=P" />
+    </sn>
+    <sn id="19" tokens="84...84" nucleo="Argentina" sintagma="Argentina" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+      <word_84 token="Argentina" lemma="Argentina" pos="prop" features="F=S" />
+    </sn>
+    <sn id="20" tokens="86...86" nucleo="que" sintagma="que" Categoria="OUTRO" sentenca="4">
+      <word_86 token="que" lemma="que" pos="pron-indp" features="F=P" />
+    </sn>
+    <sn id="21" tokens="88...89" nucleo="vezes" sintagma="duas vezes" Categoria="OUTRO" sentenca="4">
+      <word_88 token="duas" lemma="dois" pos="num" features="F=P" />
+      <word_89 token="vezes" lemma="vez" pos="n" features="F=P" />
+    </sn>
+    <sn id="22" tokens="91...92" nucleo="este" sintagma="este final" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="4">
+      <word_91 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_92 token="final" lemma="final" pos="n" features="M=S" />
+    </sn>
+    <sn id="23" tokens="94...94" nucleo="semana" sintagma="semana" Categoria="OUTRO/UNID" sentenca="4">
+      <word_94 token="semana" lemma="semana" pos="n" features="F=S" />
+    </sn>
+    <sn id="24" tokens="82...86" nucleo="Portugal" sintagma="Portugal e Argentina - que" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+      <word_82 token="Portugal" lemma="Portugal" pos="prop" features="M=S" />
+      <word_83 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_84 token="Argentina" lemma="Argentina" pos="prop" features="F=S" />
+      <word_85 token="-" lemma="" pos="-" features="-" />
+      <word_86 token="que" lemma="que" pos="pron-indp" features="F=P" />
+    </sn>
+    <sn id="25" tokens="100...101" nucleo="chave" sintagma="a chave" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="4">
+      <word_100 token="a" lemma="o" pos="art" features="F=S" />
+      <word_101 token="chave" lemma="chave" pos="n" features="F=S" />
+    </sn>
+    <sn id="26" tokens="103...104" nucleo="time" sintagma="O time" Categoria="COMUNICAÇÃO/PRDIC" sentenca="5">
+      <word_103 token="O" lemma="o" pos="art" features="M=S" />
+      <word_104 token="time" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="31" tokens="118...120" nucleo="set" sintagma="o segundo set" Categoria="OUTROS SERES/MITLG" sentenca="5">
+      <word_118 token="o" lemma="o" pos="art" features="M=S" />
+      <word_119 token="segundo" lemma="" pos="adj" features="M=S" />
+      <word_120 token="set" lemma="" pos="n" features="M=S" />
+    </sn>
+    <sn id="32" tokens="128...130" nucleo="vários" sintagma="vários reservas como" Categoria="OUTRO" sentenca="6">
+      <word_128 token="vários" lemma="" pos="pron-det" features="M=P" />
+      <word_129 token="reservas" lemma="reserva" pos="n" features="F=P" />
+      <word_130 token="como" lemma="como" pos="adv" features="-" />
+    </sn>
+    <sn id="39" tokens="146...148" nucleo="Brasil" sintagma="Brasil e Finlândia" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+      <word_146 token="Brasil" lemma="Brasil" pos="prop" features="M=S" />
+      <word_147 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_148 token="Finlândia" lemma="Finlândia" pos="prop" features="F=S" />
+    </sn>
+    <sn id="41" tokens="149...149" nucleo="se" sintagma="se" Categoria="OUTRO" sentenca="7">
+      <word_149 token="se" lemma="se" pos="pron-pers" features="F=3S=ACC" />
+    </sn>
+    <sn id="42" tokens="153...154" nucleo="este" sintagma="este sábado" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="7">
+      <word_153 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_154 token="sábado" lemma="sábado" pos="n" features="M=S" />
+    </sn>
+    <sn id="46" tokens="166...166" nucleo="transmissão" sintagma="transmissão" Categoria="OUTRO" sentenca="7">
+      <word_166 token="transmissão" lemma="transmissão" pos="n" features="F=S" />
+    </sn>
+    <sn id="47" tokens="171...172" nucleo="canal" sintagma="o canal" Categoria="OUTRO" sentenca="7">
+      <word_171 token="o" lemma="o" pos="art" features="M=S" />
+      <word_172 token="canal" lemma="canal" pos="n" features="M=S" />
+    </sn>
+    <sn id="48" tokens="174...174" nucleo="TV" sintagma="TV" Categoria="OUTRO" sentenca="7">
+      <word_174 token="TV" lemma="TV" pos="prop" features="F=S" />
+    </sn>
+    <sn id="49" tokens="176...176" nucleo="cabo" sintagma="cabo" Categoria="OUTRO" sentenca="7">
+      <word_176 token="cabo" lemma="cabo" pos="n" features="M=S" />
+    </sn>
+    <sn id="50" tokens="177...177" nucleo="SporTV" sintagma="SporTV" Categoria="COMUNICAÇÃO/RTT" sentenca="7">
+      <word_177 token="SporTV" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="51" tokens="185...186" nucleo="fase" sintagma="a fase" Categoria="OUTRO" sentenca="8">
+      <word_185 token="a" lemma="o" pos="art" features="F=S" />
+      <word_186 token="fase" lemma="fase" pos="n" features="F=S" />
+    </sn>
+    <sn id="52" tokens="188...188" nucleo="classificação" sintagma="classificação" Categoria="OUTRO" sentenca="8">
+      <word_188 token="classificação" lemma="classificação, classificar" pos="n" features="F=S" />
+    </sn>
+    <sn id="55" tokens="197...199" nucleo="portugueses" sintagma="portugueses e finlandeses" Categoria="COMUNICAÇÃO/BIBL" sentenca="8">
+      <word_197 token="portugueses" lemma="português" pos="n" features="M=P" />
+      <word_198 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_199 token="finlandeses" lemma="finlandês" pos="n" features="M=P" />
+    </sn>
+    <sn id="59" tokens="208...209" nucleo="este" sintagma="este ano" Categoria="ORGANIZAÇÃO|LOCAL/POV" sentenca="9">
+      <word_208 token="este" lemma="este" pos="pron-det" features="M=S" />
+      <word_209 token="ano" lemma="ano" pos="n" features="M=S" />
+    </sn>
+    <sn id="60" tokens="212...213" nucleo="Rússia" sintagma="a Rússia" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+      <word_212 token="a" lemma="o" pos="art" features="F=S" />
+      <word_213 token="Rússia" lemma="Rússia" pos="prop" features="F=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

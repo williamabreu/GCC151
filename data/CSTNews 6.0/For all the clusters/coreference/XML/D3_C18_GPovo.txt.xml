@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="Um ataque em dois lugares de a Universidade_Técnica_da_Virgínia , em Blacksburg , Estados_Unidos , resultou em a morte de 30 pessoas . Cerca_de 22 de as vítimas eram estudantes . O atirador , segundo dados divulgados por a polícia local estava entre os mortos . Ainda não se sabe se ele cometeu suicídio ou foi morto por policiais . A Casa_Branca em nota divulgada por a imprensa local considerou o atentado , o pior ataque a tiros um campus universitário de a história de os Estados_Unidos . Segundo a polícia , os dois ataques , que ocorreram em lados opostos de o campus de 1.050 hectares , tiveram início a as 7h15 ( 8h15 de Brasília ) em West_Ambler_Johnston_Hall , residência estudantil que abriga a o menos 895 pessoas . Pouco depois , Norris_Hall , edifício de a engenharia , foi alvo de outro ataque a tiros . Após os ataques a tiros , todas as entradas de o campus foram fechadas , e as aulas foram suspensas . A universidade estabeleceu um local de encontro entre famílias e representantes estudantis . Uma reunião deve ocorrer em esta terça-feira em a quadra de basquete de a escola ." />
+  <Sentencas>
+    <sentenca_1 conteudo="Um ataque em dois lugares de a Universidade Técnica de a Virgínia, em Blacksburg, Estados Unidos, resultou em a morte de 30 pessoas." />
+    <sentenca_2 conteudo="Cerca de 22 de as vítimas eram estudantes." />
+    <sentenca_3 conteudo="O atirador, segundo dados divulgados por a polícia local estava entre os mortos." />
+    <sentenca_4 conteudo="Ainda não se sabe se ele cometeu suicídio ou foi morto por policiais." />
+    <sentenca_5 conteudo="A Casa Branca em nota divulgada por a imprensa local considerou o atentado, o pior ataque a tiros um campus universitário de a história de os Estados Unidos." />
+    <sentenca_6 conteudo="Segundo a polícia, os dois ataques, que ocorreram em lados opostos de o campus de 1.050 hectares, tiveram início a as 7h15 (8h15 de Brasília) em West Ambler Johnston Hall, residência estudantil que abriga ao menos 895 pessoas." />
+    <sentenca_7 conteudo="Pouco depois, Norris Hall, edifício de a engenharia, foi alvo de outro ataque a tiros." />
+    <sentenca_8 conteudo="Após os ataques a tiros, todas as entradas de o campus foram fechadas, e as aulas foram suspensas." />
+    <sentenca_9 conteudo="A universidade estabeleceu um local de encontro entre famílias e representantes estudantis." />
+    <sentenca_10 conteudo="Uma reunião deve ocorrer em esta terça-feira em a quadra de basquete de a escola." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="Um" lemma="um" pos="art" features="M=S" sentenca="1" />
+    <word_1 token="ataque" lemma="ataque" pos="n" features="M=S" sentenca="1" />
+    <word_2 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_3 token="dois" lemma="dois" pos="num" features="M=P" sentenca="1" />
+    <word_4 token="lugares" lemma="lugar" pos="n" features="M=P" sentenca="1" />
+    <word_5 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_6 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_7 token="Universidade_Técnica_da_Virgínia" lemma="" pos="prop" features="F=S" sentenca="1" />
+    <word_8 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_9 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_10 token="Blacksburg" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_11 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_12 token="Estados_Unidos" lemma="" pos="prop" features="M=P" sentenca="1" />
+    <word_13 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_14 token="resultou" lemma="resultar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_15 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_16 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_17 token="morte" lemma="morte" pos="n" features="F=S" sentenca="1" />
+    <word_18 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_19 token="30" lemma="" pos="num" features="F=P" sentenca="1" />
+    <word_20 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="1" />
+    <word_21 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_22 token="Cerca_de" lemma="" pos="adv" features="-" sentenca="2" />
+    <word_23 token="22" lemma="" pos="num" features="M=P" sentenca="2" />
+    <word_24 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_25 token="as" lemma="o" pos="art" features="F=P" sentenca="2" />
+    <word_26 token="vítimas" lemma="vítima" pos="n" features="F=P" sentenca="2" />
+    <word_27 token="eram" lemma="ser" pos="v-fin" features="IMPF=3P=IND" sentenca="2" />
+    <word_28 token="estudantes" lemma="estudante" pos="n" features="M=P" sentenca="2" />
+    <word_29 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_30 token="O" lemma="o" pos="art" features="M=S" sentenca="3" />
+    <word_31 token="atirador" lemma="atirar" pos="n" features="M=S" sentenca="3" />
+    <word_32 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_33 token="segundo" lemma="segundo" pos="prp" features="-" sentenca="3" />
+    <word_34 token="dados" lemma="dado" pos="n" features="M=P" sentenca="3" />
+    <word_35 token="divulgados" lemma="divulgar" pos="v-pcp" features="M=P" sentenca="3" />
+    <word_36 token="por" lemma="por" pos="prp" features="-" sentenca="3" />
+    <word_37 token="a" lemma="o" pos="art" features="F=S" sentenca="3" />
+    <word_38 token="polícia" lemma="polícia" pos="n" features="F=S" sentenca="3" />
+    <word_39 token="local" lemma="local" pos="adj" features="F=S" sentenca="3" />
+    <word_40 token="estava" lemma="estar" pos="v-fin" features="IMPF=3S=IND" sentenca="3" />
+    <word_41 token="entre" lemma="entre" pos="prp" features="-" sentenca="3" />
+    <word_42 token="os" lemma="o" pos="art" features="M=P" sentenca="3" />
+    <word_43 token="mortos" lemma="morto" pos="n-adj" features="M=P" sentenca="3" />
+    <word_44 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_45 token="Ainda" lemma="ainda" pos="adv" features="-" sentenca="4" />
+    <word_46 token="não" lemma="não" pos="adv" features="-" sentenca="4" />
+    <word_47 token="se" lemma="se" pos="pron-pers" features="M/F=3S/P=ACC" sentenca="4" />
+    <word_48 token="sabe" lemma="saber" pos="v-fin" features="PR=3S=IND" sentenca="4" />
+    <word_49 token="se" lemma="se" pos="conj-s" features="-" sentenca="4" />
+    <word_50 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" sentenca="4" />
+    <word_51 token="cometeu" lemma="cometer" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_52 token="suicídio" lemma="suicídio" pos="n" features="M=S" sentenca="4" />
+    <word_53 token="ou" lemma="ou" pos="conj-c" features="-" sentenca="4" />
+    <word_54 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_55 token="morto" lemma="" pos="v-pcp" features="M=S" sentenca="4" />
+    <word_56 token="por" lemma="por" pos="prp" features="-" sentenca="4" />
+    <word_57 token="policiais" lemma="policial" pos="n" features="M=P" sentenca="4" />
+    <word_58 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_59 token="A" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_60 token="Casa_Branca" lemma="" pos="prop" features="F=S" sentenca="5" />
+    <word_61 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_62 token="nota" lemma="nota" pos="n" features="F=S" sentenca="5" />
+    <word_63 token="divulgada" lemma="divulgar" pos="v-pcp" features="F=S" sentenca="5" />
+    <word_64 token="por" lemma="por" pos="prp" features="-" sentenca="5" />
+    <word_65 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_66 token="imprensa" lemma="imprensa" pos="n" features="F=S" sentenca="5" />
+    <word_67 token="local" lemma="local" pos="adj" features="F=S" sentenca="5" />
+    <word_68 token="considerou" lemma="considerar" pos="v-fin" features="PS=3S=IND" sentenca="5" />
+    <word_69 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_70 token="atentado" lemma="atentado" pos="n" features="M=S" sentenca="5" />
+    <word_71 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_72 token="o" lemma="o" pos="art" features="M=S" sentenca="5" />
+    <word_73 token="pior" lemma="pior" pos="adj" features="M=S" sentenca="5" />
+    <word_74 token="ataque" lemma="ataque" pos="n" features="M=S" sentenca="5" />
+    <word_75 token="a" lemma="a" pos="prp" features="-" sentenca="5" />
+    <word_76 token="tiros" lemma="tiro" pos="n" features="M=P" sentenca="5" />
+    <word_77 token="um" lemma="um" pos="art" features="M=S" sentenca="5" />
+    <word_78 token="campus" lemma="" pos="n" features="M=S" sentenca="5" />
+    <word_79 token="universitário" lemma="universitário" pos="adj" features="M=S" sentenca="5" />
+    <word_80 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_81 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_82 token="história" lemma="história" pos="n" features="F=S" sentenca="5" />
+    <word_83 token="de" lemma="de" pos="prp" features="-" sentenca="5" />
+    <word_84 token="os" lemma="o" pos="art" features="M=P" sentenca="5" />
+    <word_85 token="Estados_Unidos" lemma="" pos="prop" features="M=P" sentenca="5" />
+    <word_86 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_87 token="Segundo" lemma="segundo" pos="prp" features="-" sentenca="6" />
+    <word_88 token="a" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_89 token="polícia" lemma="polícia" pos="n" features="F=S" sentenca="6" />
+    <word_90 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_91 token="os" lemma="o" pos="art" features="M=P" sentenca="6" />
+    <word_92 token="dois" lemma="dois" pos="num" features="M=P" sentenca="6" />
+    <word_93 token="ataques" lemma="ataque" pos="n" features="M=P" sentenca="6" />
+    <word_94 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_95 token="que" lemma="que" pos="pron-indp" features="M=P" sentenca="6" />
+    <word_96 token="ocorreram" lemma="ocorrer" pos="v-fin" features="MQP=3P=IND" sentenca="6" />
+    <word_97 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_98 token="lados" lemma="lado" pos="n" features="M=P" sentenca="6" />
+    <word_99 token="opostos" lemma="opor" pos="v-pcp" features="M=P" sentenca="6" />
+    <word_100 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_101 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_102 token="campus" lemma="" pos="n" features="M=S" sentenca="6" />
+    <word_103 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_104 token="1.050" lemma="" pos="num" features="M=P" sentenca="6" />
+    <word_105 token="hectares" lemma="hectare" pos="n" features="M=P" sentenca="6" />
+    <word_106 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_107 token="tiveram" lemma="ter" pos="v-fin" features="MQP=3P=IND" sentenca="6" />
+    <word_108 token="início" lemma="início" pos="n" features="M=S" sentenca="6" />
+    <word_109 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_110 token="as" lemma="o" pos="art" features="F=P" sentenca="6" />
+    <word_111 token="7h15" lemma="" pos="n" features="F=P" sentenca="6" />
+    <word_112 token="(" lemma="(" pos="(" features="-" sentenca="6" />
+    <word_113 token="8h15" lemma="" pos="num" features="F=P" sentenca="6" />
+    <word_114 token="de" lemma="de" pos="prp" features="-" sentenca="6" />
+    <word_115 token="Brasília" lemma="Brasília" pos="prop" features="M=S" sentenca="6" />
+    <word_116 token=")" lemma=")" pos=")" features="-" sentenca="6" />
+    <word_117 token="em" lemma="em" pos="prp" features="-" sentenca="6" />
+    <word_118 token="West_Ambler_Johnston_Hall" lemma="" pos="prop" features="M=S" sentenca="6" />
+    <word_119 token="," lemma="" pos="," features="-" sentenca="6" />
+    <word_120 token="residência" lemma="residência" pos="n" features="F=S" sentenca="6" />
+    <word_121 token="estudantil" lemma="estudantil" pos="adj" features="F=S" sentenca="6" />
+    <word_122 token="que" lemma="que" pos="pron-indp" features="F=S" sentenca="6" />
+    <word_123 token="abriga" lemma="abrigar" pos="v-fin" features="PR=3S=IND" sentenca="6" />
+    <word_124 token="a" lemma="a" pos="prp" features="-" sentenca="6" />
+    <word_125 token="o" lemma="o" pos="art" features="M=S" sentenca="6" />
+    <word_126 token="menos" lemma="menos" pos="pron-det" features="M=P" sentenca="6" />
+    <word_127 token="895" lemma="" pos="num" features="F=P" sentenca="6" />
+    <word_128 token="pessoas" lemma="pessoa" pos="n" features="F=P" sentenca="6" />
+    <word_129 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_130 token="Pouco" lemma="pouco" pos="adv" features="-" sentenca="7" />
+    <word_131 token="depois" lemma="depois" pos="adv" features="-" sentenca="7" />
+    <word_132 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_133 token="Norris_Hall" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_134 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_135 token="edifício" lemma="edifício" pos="n" features="M=S" sentenca="7" />
+    <word_136 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_137 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_138 token="engenharia" lemma="engenharia" pos="n" features="F=S" sentenca="7" />
+    <word_139 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_140 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="7" />
+    <word_141 token="alvo" lemma="alvo" pos="n" features="M=S" sentenca="7" />
+    <word_142 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_143 token="outro" lemma="outro" pos="pron-det" features="M=S" sentenca="7" />
+    <word_144 token="ataque" lemma="ataque" pos="n" features="M=S" sentenca="7" />
+    <word_145 token="a" lemma="a" pos="prp" features="-" sentenca="7" />
+    <word_146 token="tiros" lemma="tiro" pos="n" features="M=P" sentenca="7" />
+    <word_147 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_148 token="Após" lemma="após" pos="prp" features="-" sentenca="8" />
+    <word_149 token="os" lemma="o" pos="art" features="M=P" sentenca="8" />
+    <word_150 token="ataques" lemma="ataque" pos="n" features="M=P" sentenca="8" />
+    <word_151 token="a" lemma="a" pos="prp" features="-" sentenca="8" />
+    <word_152 token="tiros" lemma="tiro" pos="n" features="M=P" sentenca="8" />
+    <word_153 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_154 token="todas" lemma="todo" pos="pron-det" features="F=P" sentenca="8" />
+    <word_155 token="as" lemma="o" pos="art" features="F=P" sentenca="8" />
+    <word_156 token="entradas" lemma="" pos="n" features="F=P" sentenca="8" />
+    <word_157 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_158 token="o" lemma="o" pos="art" features="M=S" sentenca="8" />
+    <word_159 token="campus" lemma="" pos="n" features="M=S" sentenca="8" />
+    <word_160 token="foram" lemma="ir, ser" pos="v-fin" features="MQP=3P=IND" sentenca="8" />
+    <word_161 token="fechadas" lemma="fechar" pos="v-pcp" features="F=P" sentenca="8" />
+    <word_162 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_163 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_164 token="as" lemma="o" pos="art" features="F=P" sentenca="8" />
+    <word_165 token="aulas" lemma="aula" pos="n" features="F=P" sentenca="8" />
+    <word_166 token="foram" lemma="ir, ser" pos="v-fin" features="MQP=3P=IND" sentenca="8" />
+    <word_167 token="suspensas" lemma="suspenso" pos="adj" features="F=P" sentenca="8" />
+    <word_168 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_169 token="A" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_170 token="universidade" lemma="universidade" pos="n" features="F=S" sentenca="9" />
+    <word_171 token="estabeleceu" lemma="estabelecer" pos="v-fin" features="PS=3S=IND" sentenca="9" />
+    <word_172 token="um" lemma="um" pos="art" features="M=S" sentenca="9" />
+    <word_173 token="local" lemma="local" pos="n" features="M=S" sentenca="9" />
+    <word_174 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_175 token="encontro" lemma="encontro" pos="n" features="M=S" sentenca="9" />
+    <word_176 token="entre" lemma="entre" pos="prp" features="-" sentenca="9" />
+    <word_177 token="famílias" lemma="família" pos="n" features="F=P" sentenca="9" />
+    <word_178 token="e" lemma="e" pos="conj-c" features="-" sentenca="9" />
+    <word_179 token="representantes" lemma="representante" pos="n" features="M=P" sentenca="9" />
+    <word_180 token="estudantis" lemma="estudantil" pos="adj" features="M=P" sentenca="9" />
+    <word_181 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_182 token="Uma" lemma="um" pos="art" features="F=S" sentenca="10" />
+    <word_183 token="reunião" lemma="reunião" pos="n" features="F=S" sentenca="10" />
+    <word_184 token="deve" lemma="dever" pos="v-fin" features="PR=3S=IND" sentenca="10" />
+    <word_185 token="ocorrer" lemma="ocorrer" pos="v-inf" features="-" sentenca="10" />
+    <word_186 token="em" lemma="em" pos="prp" features="-" sentenca="10" />
+    <word_187 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="10" />
+    <word_188 token="terça-feira" lemma="terça-feira" pos="n" features="F=S" sentenca="10" />
+    <word_189 token="em" lemma="em" pos="prp" features="-" sentenca="10" />
+    <word_190 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_191 token="quadra" lemma="quadra" pos="n" features="F=S" sentenca="10" />
+    <word_192 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_193 token="basquete" lemma="" pos="n" features="M=S" sentenca="10" />
+    <word_194 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_195 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_196 token="escola" lemma="escola" pos="n" features="F=S" sentenca="10" />
+    <word_197 token="." lemma="." pos="." features="-" sentenca="10" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_1>
+      <sn id="1" tokens="3...4" nucleo="lugares" sintagma="dois lugares" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_3 token="dois" lemma="dois" pos="num" features="M=P" />
+        <word_4 token="lugares" lemma="lugar" pos="n" features="M=P" />
+      </sn>
+      <sn id="27" tokens="98...99" nucleo="lados" sintagma="lados opostos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_98 token="lados" lemma="lado" pos="n" features="M=P" />
+        <word_99 token="opostos" lemma="opor" pos="v-pcp" features="M=P" />
+      </sn>
+      <sn id="33" tokens="118...118" nucleo="West_Ambler_Johnston_Hall" sintagma="West Ambler Johnston Hall" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_118 token="West_Ambler_Johnston_Hall" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="34" tokens="120...121" nucleo="residência" sintagma="residência estudantil" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_120 token="residência" lemma="residência" pos="n" features="F=S" />
+        <word_121 token="estudantil" lemma="estudantil" pos="adj" features="F=S" />
+      </sn>
+      <sn id="35" tokens="122...122" nucleo="que" sintagma="que" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_122 token="que" lemma="que" pos="pron-indp" features="F=S" />
+      </sn>
+      <sn id="37" tokens="133...139" nucleo="Norris_Hall" sintagma="Norris Hall , edifício de a engenharia" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_133 token="Norris_Hall" lemma="" pos="prop" features="M=S" />
+        <word_134 token="," lemma="" pos="," features="-" />
+        <word_135 token="edifício" lemma="edifício" pos="n" features="M=S" />
+        <word_136 token="de" lemma="de" pos="prp" features="-" />
+        <word_137 token="a" lemma="o" pos="art" features="F=S" />
+        <word_138 token="engenharia" lemma="engenharia" pos="n" features="F=S" />
+        <word_139 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="38" tokens="135...135" nucleo="edifício" sintagma="edifício" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_135 token="edifício" lemma="edifício" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_1>
+    <Cadeia_10>
+      <sn id="11" tokens="37...39" nucleo="polícia" sintagma="a polícia local" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="3">
+        <word_37 token="a" lemma="o" pos="art" features="F=S" />
+        <word_38 token="polícia" lemma="polícia" pos="n" features="F=S" />
+        <word_39 token="local" lemma="local" pos="adj" features="F=S" />
+      </sn>
+      <sn id="15" tokens="57...57" nucleo="policiais" sintagma="policiais" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_57 token="policiais" lemma="policial" pos="n" features="M=P" />
+      </sn>
+      <sn id="25" tokens="88...89" nucleo="polícia" sintagma="a polícia" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_88 token="a" lemma="o" pos="art" features="F=S" />
+        <word_89 token="polícia" lemma="polícia" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_10>
+    <Cadeia_18>
+      <sn id="0" tokens="0...11" nucleo="ataque" sintagma="Um ataque em dois lugares de a Universidade Técnica de a Virgínia , em Blacksburg" Categoria="EVENTO" sentenca="1">
+        <word_0 token="Um" lemma="um" pos="art" features="M=S" />
+        <word_1 token="ataque" lemma="ataque" pos="n" features="M=S" />
+        <word_2 token="em" lemma="em" pos="prp" features="-" />
+        <word_3 token="dois" lemma="dois" pos="num" features="M=P" />
+        <word_4 token="lugares" lemma="lugar" pos="n" features="M=P" />
+        <word_5 token="de" lemma="de" pos="prp" features="-" />
+        <word_6 token="a" lemma="o" pos="art" features="F=S" />
+        <word_7 token="Universidade_Técnica_da_Virgínia" lemma="" pos="prop" features="F=S" />
+        <word_8 token="," lemma="" pos="," features="-" />
+        <word_9 token="em" lemma="em" pos="prp" features="-" />
+        <word_10 token="Blacksburg" lemma="" pos="prop" features="M=S" />
+        <word_11 token="," lemma="" pos="," features="-" />
+      </sn>
+      <sn id="19" tokens="69...85" nucleo="atentado" sintagma="o atentado , o pior ataque a tiros um campus universitário de a história de os Estados Unidos" Categoria="EVENTO" sentenca="5">
+        <word_69 token="o" lemma="o" pos="art" features="M=S" />
+        <word_70 token="atentado" lemma="atentado" pos="n" features="M=S" />
+        <word_71 token="," lemma="" pos="," features="-" />
+        <word_72 token="o" lemma="o" pos="art" features="M=S" />
+        <word_73 token="pior" lemma="pior" pos="adj" features="M=S" />
+        <word_74 token="ataque" lemma="ataque" pos="n" features="M=S" />
+        <word_75 token="a" lemma="a" pos="prp" features="-" />
+        <word_76 token="tiros" lemma="tiro" pos="n" features="M=P" />
+        <word_77 token="um" lemma="um" pos="art" features="M=S" />
+        <word_78 token="campus" lemma="" pos="n" features="M=S" />
+        <word_79 token="universitário" lemma="universitário" pos="adj" features="M=S" />
+        <word_80 token="de" lemma="de" pos="prp" features="-" />
+        <word_81 token="a" lemma="o" pos="art" features="F=S" />
+        <word_82 token="história" lemma="história" pos="n" features="F=S" />
+        <word_83 token="de" lemma="de" pos="prp" features="-" />
+        <word_84 token="os" lemma="o" pos="art" features="M=P" />
+        <word_85 token="Estados_Unidos" lemma="" pos="prop" features="M=P" />
+      </sn>
+      <sn id="20" tokens="72...74" nucleo="ataque" sintagma="o pior ataque" Categoria="EVENTO" sentenca="5">
+        <word_72 token="o" lemma="o" pos="art" features="M=S" />
+        <word_73 token="pior" lemma="pior" pos="adj" features="M=S" />
+        <word_74 token="ataque" lemma="ataque" pos="n" features="M=S" />
+      </sn>
+      <sn id="26" tokens="91...95" nucleo="ataques" sintagma="os dois ataques , que" Categoria="EVENTO" sentenca="6">
+        <word_91 token="os" lemma="o" pos="art" features="M=P" />
+        <word_92 token="dois" lemma="dois" pos="num" features="M=P" />
+        <word_93 token="ataques" lemma="ataque" pos="n" features="M=P" />
+        <word_94 token="," lemma="" pos="," features="-" />
+        <word_95 token="que" lemma="que" pos="pron-indp" features="M=P" />
+      </sn>
+      <sn id="40" tokens="141...146" nucleo="alvo" sintagma="alvo de outro ataque a tiros" Categoria="EVENTO" sentenca="7">
+        <word_141 token="alvo" lemma="alvo" pos="n" features="M=S" />
+        <word_142 token="de" lemma="de" pos="prp" features="-" />
+        <word_143 token="outro" lemma="outro" pos="pron-det" features="M=S" />
+        <word_144 token="ataque" lemma="ataque" pos="n" features="M=S" />
+        <word_145 token="a" lemma="a" pos="prp" features="-" />
+        <word_146 token="tiros" lemma="tiro" pos="n" features="M=P" />
+      </sn>
+      <sn id="41" tokens="143...144" nucleo="outro" sintagma="outro ataque" Categoria="EVENTO" sentenca="7">
+        <word_143 token="outro" lemma="outro" pos="pron-det" features="M=S" />
+        <word_144 token="ataque" lemma="ataque" pos="n" features="M=S" />
+      </sn>
+      <sn id="43" tokens="149...150" nucleo="ataques" sintagma="os ataques" Categoria="EVENTO" sentenca="8">
+        <word_149 token="os" lemma="o" pos="art" features="M=P" />
+        <word_150 token="ataques" lemma="ataque" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_18>
+    <Cadeia_19>
+      <sn id="28" tokens="101...102" nucleo="campus" sintagma="o campus" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="6">
+        <word_101 token="o" lemma="o" pos="art" features="M=S" />
+        <word_102 token="campus" lemma="" pos="n" features="M=S" />
+      </sn>
+      <sn id="45" tokens="154...159" nucleo="todas" sintagma="todas as entradas de o campus" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_154 token="todas" lemma="todo" pos="pron-det" features="F=P" />
+        <word_155 token="as" lemma="o" pos="art" features="F=P" />
+        <word_156 token="entradas" lemma="" pos="n" features="F=P" />
+        <word_157 token="de" lemma="de" pos="prp" features="-" />
+        <word_158 token="o" lemma="o" pos="art" features="M=S" />
+        <word_159 token="campus" lemma="" pos="n" features="M=S" />
+      </sn>
+      <sn id="46" tokens="158...159" nucleo="campus" sintagma="o campus" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_158 token="o" lemma="o" pos="art" features="M=S" />
+        <word_159 token="campus" lemma="" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_19>
+    <Cadeia_2>
+      <sn id="2" tokens="6...7" nucleo="Universidade_Técnica_da_Virgínia" sintagma="a Universidade Técnica de a Virgínia" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_6 token="a" lemma="o" pos="art" features="F=S" />
+        <word_7 token="Universidade_Técnica_da_Virgínia" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="3" tokens="10...10" nucleo="Blacksburg" sintagma="Blacksburg" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_10 token="Blacksburg" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="48" tokens="169...170" nucleo="universidade" sintagma="A universidade" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_169 token="A" lemma="o" pos="art" features="F=S" />
+        <word_170 token="universidade" lemma="universidade" pos="n" features="F=S" />
+      </sn>
+      <sn id="57" tokens="195...196" nucleo="escola" sintagma="a escola" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="10">
+        <word_195 token="a" lemma="o" pos="art" features="F=S" />
+        <word_196 token="escola" lemma="escola" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_2>
+    <Cadeia_39>
+      <sn id="7" tokens="22...26" nucleo="vítimas" sintagma="Cerca de 22 de as vítimas" Categoria="PESSOA" sentenca="2">
+        <word_22 token="Cerca_de" lemma="" pos="adv" features="-" />
+        <word_23 token="22" lemma="" pos="num" features="M=P" />
+        <word_24 token="de" lemma="de" pos="prp" features="-" />
+        <word_25 token="as" lemma="o" pos="art" features="F=P" />
+        <word_26 token="vítimas" lemma="vítima" pos="n" features="F=P" />
+      </sn>
+      <sn id="8" tokens="28...28" nucleo="estudantes" sintagma="estudantes" Categoria="PESSOA" sentenca="2">
+        <word_28 token="estudantes" lemma="estudante" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_39>
+    <Cadeia_4>
+      <sn id="4" tokens="12...12" nucleo="Estados_Unidos" sintagma="Estados Unidos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_12 token="Estados_Unidos" lemma="" pos="prop" features="M=P" />
+      </sn>
+      <sn id="24" tokens="84...85" nucleo="Estados_Unidos" sintagma="os Estados Unidos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+        <word_84 token="os" lemma="o" pos="art" features="M=P" />
+        <word_85 token="Estados_Unidos" lemma="" pos="prop" features="M=P" />
+      </sn>
+    </Cadeia_4>
+    <Cadeia_41>
+      <sn id="9" tokens="30...31" nucleo="atirador" sintagma="O atirador" Categoria="PESSOA" sentenca="3">
+        <word_30 token="O" lemma="o" pos="art" features="M=S" />
+        <word_31 token="atirador" lemma="atirar" pos="n" features="M=S" />
+      </sn>
+      <sn id="13" tokens="50...50" nucleo="ele" sintagma="ele" Categoria="PESSOA" sentenca="4">
+        <word_50 token="ele" lemma="ele" pos="pron-pers" features="M=3S=NOM" />
+      </sn>
+    </Cadeia_41>
+    <Cadeia_43>
+      <sn id="21" tokens="76...76" nucleo="tiros" sintagma="tiros" Categoria="EVENTO" sentenca="5">
+        <word_76 token="tiros" lemma="tiro" pos="n" features="M=P" />
+      </sn>
+      <sn id="42" tokens="146...146" nucleo="tiros" sintagma="tiros" Categoria="EVENTO" sentenca="7">
+        <word_146 token="tiros" lemma="tiro" pos="n" features="M=P" />
+      </sn>
+      <sn id="44" tokens="152...152" nucleo="tiros" sintagma="tiros" Categoria="EVENTO" sentenca="8">
+        <word_152 token="tiros" lemma="tiro" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_43>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="5" tokens="16...17" nucleo="morte" sintagma="a morte" Categoria="--" sentenca="1">
+      <word_16 token="a" lemma="o" pos="art" features="F=S" />
+      <word_17 token="morte" lemma="morte" pos="n" features="F=S" />
+    </sn>
+    <sn id="10" tokens="34...34" nucleo="dados" sintagma="dados" Categoria="--" sentenca="3">
+      <word_34 token="dados" lemma="dado" pos="n" features="M=P" />
+    </sn>
+    <sn id="12" tokens="47...47" nucleo="se" sintagma="se" Categoria="--" sentenca="4">
+      <word_47 token="se" lemma="se" pos="pron-pers" features="M/F=3S/P=ACC" />
+    </sn>
+    <sn id="14" tokens="52...52" nucleo="suicídio" sintagma="suicídio" Categoria="--" sentenca="4">
+      <word_52 token="suicídio" lemma="suicídio" pos="n" features="M=S" />
+    </sn>
+    <sn id="16" tokens="59...62" nucleo="Casa_Branca" sintagma="A Casa Branca em nota" Categoria="--" sentenca="5">
+      <word_59 token="A" lemma="o" pos="art" features="F=S" />
+      <word_60 token="Casa_Branca" lemma="" pos="prop" features="F=S" />
+      <word_61 token="em" lemma="em" pos="prp" features="-" />
+      <word_62 token="nota" lemma="nota" pos="n" features="F=S" />
+    </sn>
+    <sn id="17" tokens="62...62" nucleo="nota" sintagma="nota" Categoria="--" sentenca="5">
+      <word_62 token="nota" lemma="nota" pos="n" features="F=S" />
+    </sn>
+    <sn id="18" tokens="65...67" nucleo="imprensa" sintagma="a imprensa local" Categoria="--" sentenca="5">
+      <word_65 token="a" lemma="o" pos="art" features="F=S" />
+      <word_66 token="imprensa" lemma="imprensa" pos="n" features="F=S" />
+      <word_67 token="local" lemma="local" pos="adj" features="F=S" />
+    </sn>
+    <sn id="22" tokens="77...79" nucleo="campus" sintagma="um campus universitário" Categoria="--" sentenca="5">
+      <word_77 token="um" lemma="um" pos="art" features="M=S" />
+      <word_78 token="campus" lemma="" pos="n" features="M=S" />
+      <word_79 token="universitário" lemma="universitário" pos="adj" features="M=S" />
+    </sn>
+    <sn id="23" tokens="81...82" nucleo="história" sintagma="a história" Categoria="--" sentenca="5">
+      <word_81 token="a" lemma="o" pos="art" features="F=S" />
+      <word_82 token="história" lemma="história" pos="n" features="F=S" />
+    </sn>
+    <sn id="30" tokens="108...116" nucleo="início" sintagma="início a as 7h15 ( 8h15 de Brasília )" Categoria="--" sentenca="6">
+      <word_108 token="início" lemma="início" pos="n" features="M=S" />
+      <word_109 token="a" lemma="a" pos="prp" features="-" />
+      <word_110 token="as" lemma="o" pos="art" features="F=P" />
+      <word_111 token="7h15" lemma="" pos="n" features="F=P" />
+      <word_112 token="(" lemma="(" pos="(" features="-" />
+      <word_113 token="8h15" lemma="" pos="num" features="F=P" />
+      <word_114 token="de" lemma="de" pos="prp" features="-" />
+      <word_115 token="Brasília" lemma="Brasília" pos="prop" features="M=S" />
+      <word_116 token=")" lemma=")" pos=")" features="-" />
+    </sn>
+    <sn id="31" tokens="110...111" nucleo="7h15" sintagma="as 7h15" Categoria="--" sentenca="6">
+      <word_110 token="as" lemma="o" pos="art" features="F=P" />
+      <word_111 token="7h15" lemma="" pos="n" features="F=P" />
+    </sn>
+    <sn id="36" tokens="125...128" nucleo="menos" sintagma="o menos 895 pessoas" Categoria="--" sentenca="6">
+      <word_125 token="o" lemma="o" pos="art" features="M=S" />
+      <word_126 token="menos" lemma="menos" pos="pron-det" features="M=P" />
+      <word_127 token="895" lemma="" pos="num" features="F=P" />
+      <word_128 token="pessoas" lemma="pessoa" pos="n" features="F=P" />
+    </sn>
+    <sn id="39" tokens="137...138" nucleo="engenharia" sintagma="a engenharia" Categoria="--" sentenca="7">
+      <word_137 token="a" lemma="o" pos="art" features="F=S" />
+      <word_138 token="engenharia" lemma="engenharia" pos="n" features="F=S" />
+    </sn>
+    <sn id="47" tokens="164...165" nucleo="aulas" sintagma="as aulas" Categoria="--" sentenca="8">
+      <word_164 token="as" lemma="o" pos="art" features="F=P" />
+      <word_165 token="aulas" lemma="aula" pos="n" features="F=P" />
+    </sn>
+    <sn id="49" tokens="172...180" nucleo="local" sintagma="um local de encontro entre famílias e representantes estudantis" Categoria="--" sentenca="9">
+      <word_172 token="um" lemma="um" pos="art" features="M=S" />
+      <word_173 token="local" lemma="local" pos="n" features="M=S" />
+      <word_174 token="de" lemma="de" pos="prp" features="-" />
+      <word_175 token="encontro" lemma="encontro" pos="n" features="M=S" />
+      <word_176 token="entre" lemma="entre" pos="prp" features="-" />
+      <word_177 token="famílias" lemma="família" pos="n" features="F=P" />
+      <word_178 token="e" lemma="e" pos="conj-c" features="-" />
+      <word_179 token="representantes" lemma="representante" pos="n" features="M=P" />
+      <word_180 token="estudantis" lemma="estudantil" pos="adj" features="M=P" />
+    </sn>
+    <sn id="50" tokens="175...175" nucleo="encontro" sintagma="encontro" Categoria="--" sentenca="9">
+      <word_175 token="encontro" lemma="encontro" pos="n" features="M=S" />
+    </sn>
+    <sn id="51" tokens="177...177" nucleo="famílias" sintagma="famílias" Categoria="--" sentenca="9">
+      <word_177 token="famílias" lemma="família" pos="n" features="F=P" />
+    </sn>
+    <sn id="52" tokens="179...180" nucleo="representantes" sintagma="representantes estudantis" Categoria="--" sentenca="9">
+      <word_179 token="representantes" lemma="representante" pos="n" features="M=P" />
+      <word_180 token="estudantis" lemma="estudantil" pos="adj" features="M=P" />
+    </sn>
+    <sn id="53" tokens="182...183" nucleo="reunião" sintagma="Uma reunião" Categoria="--" sentenca="10">
+      <word_182 token="Uma" lemma="um" pos="art" features="F=S" />
+      <word_183 token="reunião" lemma="reunião" pos="n" features="F=S" />
+    </sn>
+    <sn id="54" tokens="187...188" nucleo="esta" sintagma="esta terça-feira" Categoria="--" sentenca="10">
+      <word_187 token="esta" lemma="este" pos="pron-det" features="F=S" />
+      <word_188 token="terça-feira" lemma="terça-feira" pos="n" features="F=S" />
+    </sn>
+    <sn id="55" tokens="190...191" nucleo="quadra" sintagma="a quadra" Categoria="--" sentenca="10">
+      <word_190 token="a" lemma="o" pos="art" features="F=S" />
+      <word_191 token="quadra" lemma="quadra" pos="n" features="F=S" />
+    </sn>
+    <sn id="56" tokens="193...193" nucleo="basquete" sintagma="basquete" Categoria="--" sentenca="10">
+      <word_193 token="basquete" lemma="" pos="n" features="M=S" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>

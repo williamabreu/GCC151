@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConteudoXML>
+  <Texto conteudo="SÃO_PAULO - O estado de São_Paulo voltou a sofrer com os ataques contra postos policiais , agências bancárias e ônibus , em a madrugada de esta segunda-feira . As ações são atribuídas a a facção criminosa Primeiro_Comando de a Capital ( PCC ) , que já comandou outros ataques em duas ocasiões . Os ataques de esta madrugada , até agora , não deixaram mortos ou feridos . Uma bomba de fabricação caseira explodiu em frente a o prédio de o Ministério_Público_Estadual e lojas vizinhas também foram atingidas por estilhaços . A rua está interditada para a perícia e , a os poucos , os comerciantes são autorizados a entrar em seus estabelecimentos . A Secretaria_da_Fazenda também foi atingida por uma bomba . Duas bases de a Guarda_Civil_Metropolitana ( GCM ) , sendo uma em o Capão_Redondo , Zona_Sul de São_Paulo , foram alvo de os criminosos . Mais de dez agências bancárias , um posto de gasolina e um supermercado foram atacados . Calcula -se em 15 o número de ônibus incendiados , sendo dez em a região de o ABC e quatro em a capital . Mesmo_assim , o sistema de transporte coletivo de a cidade está normal em esta manhã . A rua onde fica o Departamento_de_Investigações_Sobre_o_Crime_Organizado ( Deic ) foi bloqueada e a passagem de veículos está proibida . ." />
+  <Sentencas>
+    <sentenca_1 conteudo="SÃO PAULO - O estado de São Paulo voltou a sofrer com os ataques contra postos policiais, agências bancárias e ônibus, em a madrugada desta segunda-feira." />
+    <sentenca_2 conteudo="As ações são atribuídas aa facção criminosa Primeiro Comando de a Capital (PCC), que já comandou outros ataques em duas ocasiões." />
+    <sentenca_3 conteudo="Os ataques desta madrugada, até agora, não deixaram mortos ou feridos." />
+    <sentenca_4 conteudo="Uma bomba de fabricação caseira explodiu em frente ao prédio de o Ministério Público Estadual e lojas vizinhas também foram atingidas por estilhaços." />
+    <sentenca_5 conteudo="A rua está interditada para a perícia e, aos poucos, os comerciantes são autorizados a entrar em seus estabelecimentos." />
+    <sentenca_6 conteudo="A Secretaria de a Fazenda também foi atingida por uma bomba." />
+    <sentenca_7 conteudo="Duas bases de a Guarda Civil Metropolitana (GCM), sendo uma em o Capão Redondo, Zona Sul de São Paulo, foram alvo de os criminosos." />
+    <sentenca_8 conteudo="Mais de dez agências bancárias, um posto de gasolina e um supermercado foram atacados." />
+    <sentenca_9 conteudo="Calcula-se em 15 o número de ônibus incendiados, sendo dez em a região de o ABC e quatro em a capital." />
+    <sentenca_10 conteudo="Mesmo assim, o sistema de transporte coletivo de a cidade está normal em esta manhã." />
+    <sentenca_11 conteudo="A rua onde fica o Departamento de Investigações Sobre o Crime Organizado (Deic) foi bloqueada e a passagem de veículos está proibida." />
+    <sentenca_12 conteudo="." />
+  </Sentencas>
+  <Tokens>
+    <word_0 token="SÃO_PAULO" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_1 token="-" lemma="" pos="-" features="-" sentenca="1" />
+    <word_2 token="O" lemma="o" pos="art" features="M=S" sentenca="1" />
+    <word_3 token="estado" lemma="estado" pos="n" features="M=S" sentenca="1" />
+    <word_4 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_5 token="São_Paulo" lemma="" pos="prop" features="M=S" sentenca="1" />
+    <word_6 token="voltou" lemma="voltar" pos="v-fin" features="PS=3S=IND" sentenca="1" />
+    <word_7 token="a" lemma="a" pos="prp" features="-" sentenca="1" />
+    <word_8 token="sofrer" lemma="sofrer" pos="v-inf" features="-" sentenca="1" />
+    <word_9 token="com" lemma="com" pos="prp" features="-" sentenca="1" />
+    <word_10 token="os" lemma="o" pos="art" features="M=P" sentenca="1" />
+    <word_11 token="ataques" lemma="ataque" pos="n" features="M=P" sentenca="1" />
+    <word_12 token="contra" lemma="contra" pos="prp" features="-" sentenca="1" />
+    <word_13 token="postos" lemma="posto" pos="n" features="M=P" sentenca="1" />
+    <word_14 token="policiais" lemma="" pos="adj" features="M=P" sentenca="1" />
+    <word_15 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_16 token="agências" lemma="agência" pos="n" features="F=P" sentenca="1" />
+    <word_17 token="bancárias" lemma="bancário" pos="adj" features="F=P" sentenca="1" />
+    <word_18 token="e" lemma="e" pos="conj-c" features="-" sentenca="1" />
+    <word_19 token="ônibus" lemma="ônibus" pos="n" features="M=P" sentenca="1" />
+    <word_20 token="," lemma="" pos="," features="-" sentenca="1" />
+    <word_21 token="em" lemma="em" pos="prp" features="-" sentenca="1" />
+    <word_22 token="a" lemma="o" pos="art" features="F=S" sentenca="1" />
+    <word_23 token="madrugada" lemma="madrugada" pos="n" features="F=S" sentenca="1" />
+    <word_24 token="de" lemma="de" pos="prp" features="-" sentenca="1" />
+    <word_25 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="1" />
+    <word_26 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" sentenca="1" />
+    <word_27 token="." lemma="." pos="." features="-" sentenca="1" />
+    <word_28 token="As" lemma="o" pos="art" features="F=P" sentenca="2" />
+    <word_29 token="ações" lemma="ação" pos="n" features="F=P" sentenca="2" />
+    <word_30 token="são" lemma="ser" pos="v-fin" features="PR=3P=IND" sentenca="2" />
+    <word_31 token="atribuídas" lemma="atribuir" pos="v-pcp" features="F=P" sentenca="2" />
+    <word_32 token="a" lemma="a" pos="prp" features="-" sentenca="2" />
+    <word_33 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_34 token="facção" lemma="" pos="n" features="F=S" sentenca="2" />
+    <word_35 token="criminosa" lemma="criminoso" pos="adj" features="F=S" sentenca="2" />
+    <word_36 token="Primeiro_Comando" lemma="" pos="adv" features="-" sentenca="2" />
+    <word_37 token="de" lemma="de" pos="prp" features="-" sentenca="2" />
+    <word_38 token="a" lemma="o" pos="art" features="F=S" sentenca="2" />
+    <word_39 token="Capital" lemma="" pos="prop" features="F=S" sentenca="2" />
+    <word_40 token="(" lemma="(" pos="(" features="-" sentenca="2" />
+    <word_41 token="PCC" lemma="" pos="prop" features="F=S" sentenca="2" />
+    <word_42 token=")" lemma=")" pos=")" features="-" sentenca="2" />
+    <word_43 token="," lemma="" pos="," features="-" sentenca="2" />
+    <word_44 token="que" lemma="que" pos="pron-indp" features="M=S" sentenca="2" />
+    <word_45 token="já" lemma="já" pos="adv" features="-" sentenca="2" />
+    <word_46 token="comandou" lemma="comandar" pos="v-fin" features="PS=3S=IND" sentenca="2" />
+    <word_47 token="outros" lemma="outro" pos="pron-det" features="M=P" sentenca="2" />
+    <word_48 token="ataques" lemma="ataque" pos="n" features="M=P" sentenca="2" />
+    <word_49 token="em" lemma="em" pos="prp" features="-" sentenca="2" />
+    <word_50 token="duas" lemma="dois" pos="num" features="F=P" sentenca="2" />
+    <word_51 token="ocasiões" lemma="ocasião" pos="n" features="F=P" sentenca="2" />
+    <word_52 token="." lemma="." pos="." features="-" sentenca="2" />
+    <word_53 token="Os" lemma="o" pos="art" features="M=P" sentenca="3" />
+    <word_54 token="ataques" lemma="ataque" pos="n" features="M=P" sentenca="3" />
+    <word_55 token="de" lemma="de" pos="prp" features="-" sentenca="3" />
+    <word_56 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="3" />
+    <word_57 token="madrugada" lemma="madrugada" pos="n" features="F=S" sentenca="3" />
+    <word_58 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_59 token="até" lemma="até" pos="prp" features="-" sentenca="3" />
+    <word_60 token="agora" lemma="agora" pos="adv" features="-" sentenca="3" />
+    <word_61 token="," lemma="" pos="," features="-" sentenca="3" />
+    <word_62 token="não" lemma="não" pos="adv" features="-" sentenca="3" />
+    <word_63 token="deixaram" lemma="deixar" pos="v-fin" features="MQP=3P=IND" sentenca="3" />
+    <word_64 token="mortos" lemma="" pos="v-pcp" features="M=P" sentenca="3" />
+    <word_65 token="ou" lemma="ou" pos="conj-c" features="-" sentenca="3" />
+    <word_66 token="feridos" lemma="ferir" pos="v-pcp" features="M=P" sentenca="3" />
+    <word_67 token="." lemma="." pos="." features="-" sentenca="3" />
+    <word_68 token="Uma" lemma="um" pos="art" features="F=S" sentenca="4" />
+    <word_69 token="bomba" lemma="bomba" pos="n" features="F=S" sentenca="4" />
+    <word_70 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_71 token="fabricação" lemma="fabricar" pos="n" features="F=S" sentenca="4" />
+    <word_72 token="caseira" lemma="caseira, caseiro" pos="adj" features="F=S" sentenca="4" />
+    <word_73 token="explodiu" lemma="explodir" pos="v-fin" features="PS=3S=IND" sentenca="4" />
+    <word_74 token="em" lemma="em" pos="prp" features="-" sentenca="4" />
+    <word_75 token="frente" lemma="frente" pos="n" features="F=S" sentenca="4" />
+    <word_76 token="a" lemma="a" pos="prp" features="-" sentenca="4" />
+    <word_77 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_78 token="prédio" lemma="prédio" pos="n" features="M=S" sentenca="4" />
+    <word_79 token="de" lemma="de" pos="prp" features="-" sentenca="4" />
+    <word_80 token="o" lemma="o" pos="art" features="M=S" sentenca="4" />
+    <word_81 token="Ministério_Público_Estadual" lemma="" pos="prop" features="M=S" sentenca="4" />
+    <word_82 token="e" lemma="e" pos="conj-c" features="-" sentenca="4" />
+    <word_83 token="lojas" lemma="loja" pos="n" features="F=P" sentenca="4" />
+    <word_84 token="vizinhas" lemma="vizinho" pos="adj" features="F=P" sentenca="4" />
+    <word_85 token="também" lemma="também" pos="adv" features="-" sentenca="4" />
+    <word_86 token="foram" lemma="ir, ser" pos="v-fin" features="MQP=3P=IND" sentenca="4" />
+    <word_87 token="atingidas" lemma="atingir" pos="v-pcp" features="F=P" sentenca="4" />
+    <word_88 token="por" lemma="por" pos="prp" features="-" sentenca="4" />
+    <word_89 token="estilhaços" lemma="estilhaço" pos="n" features="M=P" sentenca="4" />
+    <word_90 token="." lemma="." pos="." features="-" sentenca="4" />
+    <word_91 token="A" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_92 token="rua" lemma="rua" pos="n" features="F=S" sentenca="5" />
+    <word_93 token="está" lemma="estar" pos="v-fin" features="PR=3S=IND" sentenca="5" />
+    <word_94 token="interditada" lemma="interditar" pos="v-pcp" features="F=S" sentenca="5" />
+    <word_95 token="para" lemma="para" pos="prp" features="-" sentenca="5" />
+    <word_96 token="a" lemma="o" pos="art" features="F=S" sentenca="5" />
+    <word_97 token="perícia" lemma="perícia" pos="n" features="F=S" sentenca="5" />
+    <word_98 token="e" lemma="e" pos="conj-c" features="-" sentenca="5" />
+    <word_99 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_100 token="a" lemma="a" pos="prp" features="-" sentenca="5" />
+    <word_101 token="os" lemma="o" pos="art" features="M=P" sentenca="5" />
+    <word_102 token="poucos" lemma="pouco" pos="pron-det" features="M=P" sentenca="5" />
+    <word_103 token="," lemma="" pos="," features="-" sentenca="5" />
+    <word_104 token="os" lemma="o" pos="art" features="M=P" sentenca="5" />
+    <word_105 token="comerciantes" lemma="comerciante" pos="n" features="M=P" sentenca="5" />
+    <word_106 token="são" lemma="ser" pos="v-fin" features="PR=3P=IND" sentenca="5" />
+    <word_107 token="autorizados" lemma="autorizar" pos="v-pcp" features="M=P" sentenca="5" />
+    <word_108 token="a" lemma="a" pos="prp" features="-" sentenca="5" />
+    <word_109 token="entrar" lemma="entrar" pos="v-inf" features="-" sentenca="5" />
+    <word_110 token="em" lemma="em" pos="prp" features="-" sentenca="5" />
+    <word_111 token="seus" lemma="seu" pos="pron-det" features="M=P" sentenca="5" />
+    <word_112 token="estabelecimentos" lemma="estabelecer" pos="n" features="M=P" sentenca="5" />
+    <word_113 token="." lemma="." pos="." features="-" sentenca="5" />
+    <word_114 token="A" lemma="o" pos="art" features="F=S" sentenca="6" />
+    <word_115 token="Secretaria_da_Fazenda" lemma="" pos="prop" features="F=S" sentenca="6" />
+    <word_116 token="também" lemma="também" pos="adv" features="-" sentenca="6" />
+    <word_117 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="6" />
+    <word_118 token="atingida" lemma="atingir" pos="v-pcp" features="F=S" sentenca="6" />
+    <word_119 token="por" lemma="por" pos="prp" features="-" sentenca="6" />
+    <word_120 token="uma" lemma="um" pos="art" features="F=S" sentenca="6" />
+    <word_121 token="bomba" lemma="bomba" pos="n" features="F=S" sentenca="6" />
+    <word_122 token="." lemma="." pos="." features="-" sentenca="6" />
+    <word_123 token="Duas" lemma="dois" pos="num" features="F=P" sentenca="7" />
+    <word_124 token="bases" lemma="base" pos="n" features="F=P" sentenca="7" />
+    <word_125 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_126 token="a" lemma="o" pos="art" features="F=S" sentenca="7" />
+    <word_127 token="Guarda_Civil_Metropolitana" lemma="" pos="prop" features="F=S" sentenca="7" />
+    <word_128 token="(" lemma="(" pos="(" features="-" sentenca="7" />
+    <word_129 token="GCM" lemma="" pos="prop" features="F=S" sentenca="7" />
+    <word_130 token=")" lemma=")" pos=")" features="-" sentenca="7" />
+    <word_131 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_132 token="sendo" lemma="ser" pos="v-ger" features="-" sentenca="7" />
+    <word_133 token="uma" lemma="um" pos="art" features="F=S" sentenca="7" />
+    <word_134 token="em" lemma="em" pos="prp" features="-" sentenca="7" />
+    <word_135 token="o" lemma="o" pos="art" features="M=S" sentenca="7" />
+    <word_136 token="Capão_Redondo" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_137 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_138 token="Zona_Sul" lemma="" pos="prop" features="F=S" sentenca="7" />
+    <word_139 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_140 token="São_Paulo" lemma="" pos="prop" features="M=S" sentenca="7" />
+    <word_141 token="," lemma="" pos="," features="-" sentenca="7" />
+    <word_142 token="foram" lemma="ir, ser" pos="v-fin" features="MQP=3P=IND" sentenca="7" />
+    <word_143 token="alvo" lemma="alvo" pos="n" features="M=S" sentenca="7" />
+    <word_144 token="de" lemma="de" pos="prp" features="-" sentenca="7" />
+    <word_145 token="os" lemma="o" pos="art" features="M=P" sentenca="7" />
+    <word_146 token="criminosos" lemma="criminoso" pos="n" features="M=P" sentenca="7" />
+    <word_147 token="." lemma="." pos="." features="-" sentenca="7" />
+    <word_148 token="Mais" lemma="mais" pos="adv" features="-" sentenca="8" />
+    <word_149 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_150 token="dez" lemma="dez" pos="num" features="F=P" sentenca="8" />
+    <word_151 token="agências" lemma="agência" pos="n" features="F=P" sentenca="8" />
+    <word_152 token="bancárias" lemma="bancário" pos="adj" features="F=P" sentenca="8" />
+    <word_153 token="," lemma="" pos="," features="-" sentenca="8" />
+    <word_154 token="um" lemma="um" pos="art" features="M=S" sentenca="8" />
+    <word_155 token="posto" lemma="posto" pos="n" features="M=S" sentenca="8" />
+    <word_156 token="de" lemma="de" pos="prp" features="-" sentenca="8" />
+    <word_157 token="gasolina" lemma="gasolina" pos="n" features="F=S" sentenca="8" />
+    <word_158 token="e" lemma="e" pos="conj-c" features="-" sentenca="8" />
+    <word_159 token="um" lemma="um" pos="art" features="M=S" sentenca="8" />
+    <word_160 token="supermercado" lemma="supermercado" pos="n" features="M=S" sentenca="8" />
+    <word_161 token="foram" lemma="ir, ser" pos="v-fin" features="MQP=3P=IND" sentenca="8" />
+    <word_162 token="atacados" lemma="atacar" pos="v-pcp" features="M=P" sentenca="8" />
+    <word_163 token="." lemma="." pos="." features="-" sentenca="8" />
+    <word_164 token="Calcula" lemma="calcular" pos="v-fin" features="PR=3S=IND" sentenca="9" />
+    <word_165 token="-se" lemma="" pos="pron-pers" features="M=3P=ACC" sentenca="9" />
+    <word_166 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_167 token="15" lemma="" pos="num" features="M=P" sentenca="9" />
+    <word_168 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_169 token="número" lemma="número" pos="n" features="M=S" sentenca="9" />
+    <word_170 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_171 token="ônibus" lemma="ônibus" pos="n" features="M=P" sentenca="9" />
+    <word_172 token="incendiados" lemma="incendiar" pos="v-pcp" features="M=P" sentenca="9" />
+    <word_173 token="," lemma="" pos="," features="-" sentenca="9" />
+    <word_174 token="sendo" lemma="ser" pos="v-ger" features="-" sentenca="9" />
+    <word_175 token="dez" lemma="dez" pos="num" features="M=P" sentenca="9" />
+    <word_176 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_177 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_178 token="região" lemma="região" pos="n" features="F=S" sentenca="9" />
+    <word_179 token="de" lemma="de" pos="prp" features="-" sentenca="9" />
+    <word_180 token="o" lemma="o" pos="art" features="M=S" sentenca="9" />
+    <word_181 token="ABC" lemma="ABC" pos="prop" features="M=S" sentenca="9" />
+    <word_182 token="e" lemma="e" pos="conj-c" features="-" sentenca="9" />
+    <word_183 token="quatro" lemma="quatro" pos="num" features="M=P" sentenca="9" />
+    <word_184 token="em" lemma="em" pos="prp" features="-" sentenca="9" />
+    <word_185 token="a" lemma="o" pos="art" features="F=S" sentenca="9" />
+    <word_186 token="capital" lemma="capital" pos="n" features="F=S" sentenca="9" />
+    <word_187 token="." lemma="." pos="." features="-" sentenca="9" />
+    <word_188 token="Mesmo_assim" lemma="" pos="adv" features="-" sentenca="10" />
+    <word_189 token="," lemma="" pos="," features="-" sentenca="10" />
+    <word_190 token="o" lemma="o" pos="art" features="M=S" sentenca="10" />
+    <word_191 token="sistema" lemma="sistema" pos="n" features="M=S" sentenca="10" />
+    <word_192 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_193 token="transporte" lemma="transporte" pos="n" features="M=S" sentenca="10" />
+    <word_194 token="coletivo" lemma="coletivo" pos="adj" features="M=S" sentenca="10" />
+    <word_195 token="de" lemma="de" pos="prp" features="-" sentenca="10" />
+    <word_196 token="a" lemma="o" pos="art" features="F=S" sentenca="10" />
+    <word_197 token="cidade" lemma="cidade" pos="n" features="F=S" sentenca="10" />
+    <word_198 token="está" lemma="estar" pos="v-fin" features="PR=3S=IND" sentenca="10" />
+    <word_199 token="normal" lemma="normal" pos="adj" features="F=S" sentenca="10" />
+    <word_200 token="em" lemma="em" pos="prp" features="-" sentenca="10" />
+    <word_201 token="esta" lemma="este" pos="pron-det" features="F=S" sentenca="10" />
+    <word_202 token="manhã" lemma="manhã" pos="n" features="F=S" sentenca="10" />
+    <word_203 token="." lemma="." pos="." features="-" sentenca="10" />
+    <word_204 token="A" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_205 token="rua" lemma="rua" pos="n" features="F=S" sentenca="11" />
+    <word_206 token="onde" lemma="onde" pos="adv" features="-" sentenca="11" />
+    <word_207 token="fica" lemma="ficar" pos="v-fin" features="PR=3S=IND" sentenca="11" />
+    <word_208 token="o" lemma="o" pos="art" features="M=S" sentenca="11" />
+    <word_209 token="Departamento_de_Investigações_Sobre_o_Crime_Organizado" lemma="" pos="prop" features="M=S" sentenca="11" />
+    <word_210 token="(" lemma="(" pos="(" features="-" sentenca="11" />
+    <word_211 token="Deic" lemma="" pos="prop" features="M=S" sentenca="11" />
+    <word_212 token=")" lemma=")" pos=")" features="-" sentenca="11" />
+    <word_213 token="foi" lemma="ir, ser" pos="v-fin" features="PS=3S=IND" sentenca="11" />
+    <word_214 token="bloqueada" lemma="bloquear" pos="v-pcp" features="F=S" sentenca="11" />
+    <word_215 token="e" lemma="e" pos="conj-c" features="-" sentenca="11" />
+    <word_216 token="a" lemma="o" pos="art" features="F=S" sentenca="11" />
+    <word_217 token="passagem" lemma="passagem" pos="n" features="F=S" sentenca="11" />
+    <word_218 token="de" lemma="de" pos="prp" features="-" sentenca="11" />
+    <word_219 token="veículos" lemma="veículo" pos="n" features="M=P" sentenca="11" />
+    <word_220 token="está" lemma="estar" pos="v-fin" features="PR=3S=IND" sentenca="11" />
+    <word_221 token="proibida" lemma="proibir" pos="v-pcp" features="F=S" sentenca="11" />
+    <word_222 token="." lemma="." pos="." features="-" sentenca="11" />
+    <word_223 token="." lemma="." pos="." features="-" sentenca="12" />
+  </Tokens>
+  <Cadeias>
+    <Cadeia_0>
+      <sn id="0" tokens="0...0" nucleo="SÃO_PAULO" sintagma="SÃO PAULO" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_0 token="SÃO_PAULO" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="1" tokens="2...5" nucleo="estado" sintagma="O estado de São Paulo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_2 token="O" lemma="o" pos="art" features="M=S" />
+        <word_3 token="estado" lemma="estado" pos="n" features="M=S" />
+        <word_4 token="de" lemma="de" pos="prp" features="-" />
+        <word_5 token="São_Paulo" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="2" tokens="5...5" nucleo="São_Paulo" sintagma="São Paulo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_5 token="São_Paulo" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="37" tokens="140...140" nucleo="São_Paulo" sintagma="São Paulo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_140 token="São_Paulo" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="49" tokens="185...186" nucleo="capital" sintagma="a capital" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="9">
+        <word_185 token="a" lemma="o" pos="art" features="F=S" />
+        <word_186 token="capital" lemma="capital" pos="n" features="F=S" />
+      </sn>
+      <sn id="52" tokens="196...197" nucleo="cidade" sintagma="a cidade" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="10">
+        <word_196 token="a" lemma="o" pos="art" features="F=S" />
+        <word_197 token="cidade" lemma="cidade" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_0>
+    <Cadeia_2>
+      <sn id="3" tokens="10...11" nucleo="ataques" sintagma="os ataques" Categoria="EVENTO" sentenca="1">
+        <word_10 token="os" lemma="o" pos="art" features="M=P" />
+        <word_11 token="ataques" lemma="ataque" pos="n" features="M=P" />
+      </sn>
+      <sn id="9" tokens="28...29" nucleo="ações" sintagma="As ações" Categoria="EVENTO" sentenca="2">
+        <word_28 token="As" lemma="o" pos="art" features="F=P" />
+        <word_29 token="ações" lemma="ação" pos="n" features="F=P" />
+      </sn>
+      <sn id="16" tokens="53...57" nucleo="ataques" sintagma="Os ataques de esta madrugada" Categoria="EVENTO" sentenca="3">
+        <word_53 token="Os" lemma="o" pos="art" features="M=P" />
+        <word_54 token="ataques" lemma="ataque" pos="n" features="M=P" />
+        <word_55 token="de" lemma="de" pos="prp" features="-" />
+        <word_56 token="esta" lemma="este" pos="pron-det" features="F=S" />
+        <word_57 token="madrugada" lemma="madrugada" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_2>
+    <Cadeia_29>
+      <sn id="33" tokens="126...127" nucleo="Guarda_Civil_Metropolitana" sintagma="a Guarda Civil Metropolitana" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_126 token="a" lemma="o" pos="art" features="F=S" />
+        <word_127 token="Guarda_Civil_Metropolitana" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="34" tokens="129...129" nucleo="GCM" sintagma="GCM" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_129 token="GCM" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_29>
+    <Cadeia_46>
+      <sn id="55" tokens="208...210" nucleo="Departamento_de_Investigações_Sobre_o_Crime_Organizado" sintagma="o Departamento de Investigações Sobre o Crime Organizado " Categoria="ORGANIZAÇÃO|LOCAL" sentenca="11">
+        <word_208 token="o" lemma="o" pos="art" features="M=S" />
+        <word_209 token="Departamento_de_Investigações_Sobre_o_Crime_Organizado" lemma="" pos="prop" features="M=S" />
+        <word_210 token="(" lemma="(" pos="(" features="-" />
+      </sn>
+      <sn id="56" tokens="211...211" nucleo="Deic" sintagma="Deic" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="11">
+        <word_211 token="Deic" lemma="" pos="prop" features="M=S" />
+      </sn>
+    </Cadeia_46>
+    <Cadeia_48>
+      <sn id="4" tokens="13...14" nucleo="postos" sintagma="postos policiais" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_13 token="postos" lemma="posto" pos="n" features="M=P" />
+        <word_14 token="policiais" lemma="" pos="adj" features="M=P" />
+      </sn>
+      <sn id="32" tokens="123...128" nucleo="bases" sintagma="Duas bases de a Guarda Civil Metropolitana " Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_123 token="Duas" lemma="dois" pos="num" features="F=P" />
+        <word_124 token="bases" lemma="base" pos="n" features="F=P" />
+        <word_125 token="de" lemma="de" pos="prp" features="-" />
+        <word_126 token="a" lemma="o" pos="art" features="F=S" />
+        <word_127 token="Guarda_Civil_Metropolitana" lemma="" pos="prop" features="F=S" />
+        <word_128 token="(" lemma="(" pos="(" features="-" />
+      </sn>
+    </Cadeia_48>
+    <Cadeia_50>
+      <sn id="23" tokens="83...84" nucleo="lojas" sintagma="lojas vizinhas" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="4">
+        <word_83 token="lojas" lemma="loja" pos="n" features="F=P" />
+        <word_84 token="vizinhas" lemma="vizinho" pos="adj" features="F=P" />
+      </sn>
+      <sn id="29" tokens="111...112" nucleo="seus" sintagma="seus estabelecimentos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="5">
+        <word_111 token="seus" lemma="seu" pos="pron-det" features="M=P" />
+        <word_112 token="estabelecimentos" lemma="estabelecer" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_50>
+    <Cadeia_52>
+      <sn id="5" tokens="16...17" nucleo="agências" sintagma="agências bancárias" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="1">
+        <word_16 token="agências" lemma="agência" pos="n" features="F=P" />
+        <word_17 token="bancárias" lemma="bancário" pos="adj" features="F=P" />
+      </sn>
+      <sn id="40" tokens="148...160" nucleo="agências" sintagma="Mais de dez agências bancárias , um posto de gasolina e um supermercado" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="8">
+        <word_148 token="Mais" lemma="mais" pos="adv" features="-" />
+        <word_149 token="de" lemma="de" pos="prp" features="-" />
+        <word_150 token="dez" lemma="dez" pos="num" features="F=P" />
+        <word_151 token="agências" lemma="agência" pos="n" features="F=P" />
+        <word_152 token="bancárias" lemma="bancário" pos="adj" features="F=P" />
+        <word_153 token="," lemma="" pos="," features="-" />
+        <word_154 token="um" lemma="um" pos="art" features="M=S" />
+        <word_155 token="posto" lemma="posto" pos="n" features="M=S" />
+        <word_156 token="de" lemma="de" pos="prp" features="-" />
+        <word_157 token="gasolina" lemma="gasolina" pos="n" features="F=S" />
+        <word_158 token="e" lemma="e" pos="conj-c" features="-" />
+        <word_159 token="um" lemma="um" pos="art" features="M=S" />
+        <word_160 token="supermercado" lemma="supermercado" pos="n" features="M=S" />
+      </sn>
+    </Cadeia_52>
+    <Cadeia_54>
+      <sn id="6" tokens="19...19" nucleo="ônibus" sintagma="ônibus" Categoria="OUTRO" sentenca="1">
+        <word_19 token="ônibus" lemma="ônibus" pos="n" features="M=P" />
+      </sn>
+      <sn id="45" tokens="168...172" nucleo="número" sintagma="o número de ônibus incendiados" Categoria="OUTRO" sentenca="9">
+        <word_168 token="o" lemma="o" pos="art" features="M=S" />
+        <word_169 token="número" lemma="número" pos="n" features="M=S" />
+        <word_170 token="de" lemma="de" pos="prp" features="-" />
+        <word_171 token="ônibus" lemma="ônibus" pos="n" features="M=P" />
+        <word_172 token="incendiados" lemma="incendiar" pos="v-pcp" features="M=P" />
+      </sn>
+      <sn id="46" tokens="171...172" nucleo="ônibus" sintagma="ônibus incendiados" Categoria="OUTRO" sentenca="9">
+        <word_171 token="ônibus" lemma="ônibus" pos="n" features="M=P" />
+        <word_172 token="incendiados" lemma="incendiar" pos="v-pcp" features="M=P" />
+      </sn>
+    </Cadeia_54>
+    <Cadeia_56>
+      <sn id="7" tokens="22...23" nucleo="madrugada" sintagma="a madrugada" Categoria="OUTRO" sentenca="1">
+        <word_22 token="a" lemma="o" pos="art" features="F=S" />
+        <word_23 token="madrugada" lemma="madrugada" pos="n" features="F=S" />
+      </sn>
+      <sn id="8" tokens="25...26" nucleo="esta" sintagma="esta segunda-feira" Categoria="OUTRO" sentenca="1">
+        <word_25 token="esta" lemma="este" pos="pron-det" features="F=S" />
+        <word_26 token="segunda-feira" lemma="segunda-feira" pos="n" features="F=S" />
+      </sn>
+      <sn id="17" tokens="56...57" nucleo="esta" sintagma="esta madrugada" Categoria="OUTRO" sentenca="3">
+        <word_56 token="esta" lemma="este" pos="pron-det" features="F=S" />
+        <word_57 token="madrugada" lemma="madrugada" pos="n" features="F=S" />
+      </sn>
+      <sn id="53" tokens="201...202" nucleo="esta" sintagma="esta manhã" Categoria="OUTRO" sentenca="10">
+        <word_201 token="esta" lemma="este" pos="pron-det" features="F=S" />
+        <word_202 token="manhã" lemma="manhã" pos="n" features="F=S" />
+      </sn>
+    </Cadeia_56>
+    <Cadeia_58>
+      <sn id="35" tokens="135...136" nucleo="Capão_Redondo" sintagma="o Capão Redondo" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_135 token="o" lemma="o" pos="art" features="M=S" />
+        <word_136 token="Capão_Redondo" lemma="" pos="prop" features="M=S" />
+      </sn>
+      <sn id="36" tokens="138...138" nucleo="Zona_Sul" sintagma="Zona Sul" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_138 token="Zona_Sul" lemma="" pos="prop" features="F=S" />
+      </sn>
+    </Cadeia_58>
+    <Cadeia_9>
+      <sn id="10" tokens="33...35" nucleo="facção" sintagma="a facção criminosa" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_33 token="a" lemma="o" pos="art" features="F=S" />
+        <word_34 token="facção" lemma="" pos="n" features="F=S" />
+        <word_35 token="criminosa" lemma="criminoso" pos="adj" features="F=S" />
+      </sn>
+      <sn id="12" tokens="41...41" nucleo="PCC" sintagma="PCC" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="2">
+        <word_41 token="PCC" lemma="" pos="prop" features="F=S" />
+      </sn>
+      <sn id="39" tokens="145...146" nucleo="criminosos" sintagma="os criminosos" Categoria="ORGANIZAÇÃO|LOCAL" sentenca="7">
+        <word_145 token="os" lemma="o" pos="art" features="M=P" />
+        <word_146 token="criminosos" lemma="criminoso" pos="n" features="M=P" />
+      </sn>
+    </Cadeia_9>
+  </Cadeias>
+  <Mencoes_Unicas>
+    <sn id="11" tokens="38...39" nucleo="Capital" sintagma="a Capital" Categoria="--" sentenca="2">
+      <word_38 token="a" lemma="o" pos="art" features="F=S" />
+      <word_39 token="Capital" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="13" tokens="44...44" nucleo="que" sintagma="que" Categoria="--" sentenca="2">
+      <word_44 token="que" lemma="que" pos="pron-indp" features="M=S" />
+    </sn>
+    <sn id="14" tokens="47...48" nucleo="outros" sintagma="outros ataques" Categoria="--" sentenca="2">
+      <word_47 token="outros" lemma="outro" pos="pron-det" features="M=P" />
+      <word_48 token="ataques" lemma="ataque" pos="n" features="M=P" />
+    </sn>
+    <sn id="15" tokens="50...51" nucleo="ocasiões" sintagma="duas ocasiões" Categoria="--" sentenca="2">
+      <word_50 token="duas" lemma="dois" pos="num" features="F=P" />
+      <word_51 token="ocasiões" lemma="ocasião" pos="n" features="F=P" />
+    </sn>
+    <sn id="18" tokens="68...72" nucleo="bomba" sintagma="Uma bomba de fabricação caseira" Categoria="--" sentenca="4">
+      <word_68 token="Uma" lemma="um" pos="art" features="F=S" />
+      <word_69 token="bomba" lemma="bomba" pos="n" features="F=S" />
+      <word_70 token="de" lemma="de" pos="prp" features="-" />
+      <word_71 token="fabricação" lemma="fabricar" pos="n" features="F=S" />
+      <word_72 token="caseira" lemma="caseira, caseiro" pos="adj" features="F=S" />
+    </sn>
+    <sn id="19" tokens="71...72" nucleo="fabricação" sintagma="fabricação caseira" Categoria="--" sentenca="4">
+      <word_71 token="fabricação" lemma="fabricar" pos="n" features="F=S" />
+      <word_72 token="caseira" lemma="caseira, caseiro" pos="adj" features="F=S" />
+    </sn>
+    <sn id="20" tokens="75...75" nucleo="frente" sintagma="frente" Categoria="--" sentenca="4">
+      <word_75 token="frente" lemma="frente" pos="n" features="F=S" />
+    </sn>
+    <sn id="21" tokens="77...78" nucleo="prédio" sintagma="o prédio" Categoria="--" sentenca="4">
+      <word_77 token="o" lemma="o" pos="art" features="M=S" />
+      <word_78 token="prédio" lemma="prédio" pos="n" features="M=S" />
+    </sn>
+    <sn id="22" tokens="80...81" nucleo="Ministério_Público_Estadual" sintagma="o Ministério Público Estadual" Categoria="--" sentenca="4">
+      <word_80 token="o" lemma="o" pos="art" features="M=S" />
+      <word_81 token="Ministério_Público_Estadual" lemma="" pos="prop" features="M=S" />
+    </sn>
+    <sn id="24" tokens="89...89" nucleo="estilhaços" sintagma="estilhaços" Categoria="--" sentenca="4">
+      <word_89 token="estilhaços" lemma="estilhaço" pos="n" features="M=P" />
+    </sn>
+    <sn id="25" tokens="91...92" nucleo="rua" sintagma="A rua" Categoria="--" sentenca="5">
+      <word_91 token="A" lemma="o" pos="art" features="F=S" />
+      <word_92 token="rua" lemma="rua" pos="n" features="F=S" />
+    </sn>
+    <sn id="26" tokens="96...97" nucleo="perícia" sintagma="a perícia" Categoria="--" sentenca="5">
+      <word_96 token="a" lemma="o" pos="art" features="F=S" />
+      <word_97 token="perícia" lemma="perícia" pos="n" features="F=S" />
+    </sn>
+    <sn id="27" tokens="101...102" nucleo="poucos" sintagma="os poucos" Categoria="--" sentenca="5">
+      <word_101 token="os" lemma="o" pos="art" features="M=P" />
+      <word_102 token="poucos" lemma="pouco" pos="pron-det" features="M=P" />
+    </sn>
+    <sn id="28" tokens="104...105" nucleo="comerciantes" sintagma="os comerciantes" Categoria="--" sentenca="5">
+      <word_104 token="os" lemma="o" pos="art" features="M=P" />
+      <word_105 token="comerciantes" lemma="comerciante" pos="n" features="M=P" />
+    </sn>
+    <sn id="30" tokens="114...115" nucleo="Secretaria_da_Fazenda" sintagma="A Secretaria de a Fazenda" Categoria="--" sentenca="6">
+      <word_114 token="A" lemma="o" pos="art" features="F=S" />
+      <word_115 token="Secretaria_da_Fazenda" lemma="" pos="prop" features="F=S" />
+    </sn>
+    <sn id="31" tokens="120...121" nucleo="bomba" sintagma="uma bomba" Categoria="--" sentenca="6">
+      <word_120 token="uma" lemma="um" pos="art" features="F=S" />
+      <word_121 token="bomba" lemma="bomba" pos="n" features="F=S" />
+    </sn>
+    <sn id="38" tokens="143...146" nucleo="alvo" sintagma="alvo de os criminosos" Categoria="--" sentenca="7">
+      <word_143 token="alvo" lemma="alvo" pos="n" features="M=S" />
+      <word_144 token="de" lemma="de" pos="prp" features="-" />
+      <word_145 token="os" lemma="o" pos="art" features="M=P" />
+      <word_146 token="criminosos" lemma="criminoso" pos="n" features="M=P" />
+    </sn>
+    <sn id="41" tokens="154...155" nucleo="posto" sintagma="um posto" Categoria="--" sentenca="8">
+      <word_154 token="um" lemma="um" pos="art" features="M=S" />
+      <word_155 token="posto" lemma="posto" pos="n" features="M=S" />
+    </sn>
+    <sn id="42" tokens="157...157" nucleo="gasolina" sintagma="gasolina" Categoria="--" sentenca="8">
+      <word_157 token="gasolina" lemma="gasolina" pos="n" features="F=S" />
+    </sn>
+    <sn id="43" tokens="159...160" nucleo="supermercado" sintagma="um supermercado" Categoria="--" sentenca="8">
+      <word_159 token="um" lemma="um" pos="art" features="M=S" />
+      <word_160 token="supermercado" lemma="supermercado" pos="n" features="M=S" />
+    </sn>
+    <sn id="44" tokens="165...165" nucleo="-se" sintagma="-se" Categoria="--" sentenca="9">
+      <word_165 token="-se" lemma="" pos="pron-pers" features="M=3P=ACC" />
+    </sn>
+    <sn id="47" tokens="177...178" nucleo="região" sintagma="a região" Categoria="--" sentenca="9">
+      <word_177 token="a" lemma="o" pos="art" features="F=S" />
+      <word_178 token="região" lemma="região" pos="n" features="F=S" />
+    </sn>
+    <sn id="48" tokens="180...181" nucleo="ABC" sintagma="o ABC" Categoria="--" sentenca="9">
+      <word_180 token="o" lemma="o" pos="art" features="M=S" />
+      <word_181 token="ABC" lemma="ABC" pos="prop" features="M=S" />
+    </sn>
+    <sn id="50" tokens="190...197" nucleo="sistema" sintagma="o sistema de transporte coletivo de a cidade" Categoria="--" sentenca="10">
+      <word_190 token="o" lemma="o" pos="art" features="M=S" />
+      <word_191 token="sistema" lemma="sistema" pos="n" features="M=S" />
+      <word_192 token="de" lemma="de" pos="prp" features="-" />
+      <word_193 token="transporte" lemma="transporte" pos="n" features="M=S" />
+      <word_194 token="coletivo" lemma="coletivo" pos="adj" features="M=S" />
+      <word_195 token="de" lemma="de" pos="prp" features="-" />
+      <word_196 token="a" lemma="o" pos="art" features="F=S" />
+      <word_197 token="cidade" lemma="cidade" pos="n" features="F=S" />
+    </sn>
+    <sn id="51" tokens="193...194" nucleo="transporte" sintagma="transporte coletivo" Categoria="--" sentenca="10">
+      <word_193 token="transporte" lemma="transporte" pos="n" features="M=S" />
+      <word_194 token="coletivo" lemma="coletivo" pos="adj" features="M=S" />
+    </sn>
+    <sn id="54" tokens="204...205" nucleo="rua" sintagma="A rua" Categoria="--" sentenca="11">
+      <word_204 token="A" lemma="o" pos="art" features="F=S" />
+      <word_205 token="rua" lemma="rua" pos="n" features="F=S" />
+    </sn>
+    <sn id="57" tokens="216...219" nucleo="passagem" sintagma="a passagem de veículos" Categoria="--" sentenca="11">
+      <word_216 token="a" lemma="o" pos="art" features="F=S" />
+      <word_217 token="passagem" lemma="passagem" pos="n" features="F=S" />
+      <word_218 token="de" lemma="de" pos="prp" features="-" />
+      <word_219 token="veículos" lemma="veículo" pos="n" features="M=P" />
+    </sn>
+    <sn id="58" tokens="219...219" nucleo="veículos" sintagma="veículos" Categoria="--" sentenca="11">
+      <word_219 token="veículos" lemma="veículo" pos="n" features="M=P" />
+    </sn>
+  </Mencoes_Unicas>
+</ConteudoXML>
