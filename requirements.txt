@@ -1,7 +1,11 @@
-numpy
 pandas
 jupyter
 nltk
 spacy
 gensim
-nlpnet
+beautifulsoup4
+justext
+urllib3
+requests
+# numpy
+# nlpnet
