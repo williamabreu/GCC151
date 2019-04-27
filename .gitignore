@@ -1,6 +1,9 @@
 # IDE
 .vscode/
 
+# Corpora files
+data/corpora/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
