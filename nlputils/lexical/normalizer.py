@@ -2,7 +2,7 @@ import nltk
 import unidecode
 import string
 
-class Normalizaton:
+class Normalizer:
     def __init__(self):
         self.sent_tokenizer = nltk.data.load('tokenizers/punkt/portuguese.pickle')
         self.stemmer = nltk.stem.RSLPStemmer()
