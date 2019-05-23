@@ -1,3 +1,6 @@
+import spacy
+
+
 class Tagger:
     """
     Faz etiquetagem morfossintática
@@ -7,7 +10,7 @@ class Tagger:
         """
         Instancia o objeto configurado para tratar língua portuguesa.
         """
-        pass
+        self.nlp = spacy.load('pt_core_news_sm')
 
     def tag(self, string: str) -> list:
         """
@@ -16,4 +19,8 @@ class Tagger:
         :param string: String qualquer em português
         :return: Lista de tuplas no formato ('token', 'morphosyntax_tag')
         """
-        pass
+        tag_list = []
+        tagged_text = self.nlp(string)
+        for token in tagged_text:
+            tag_list.append((token.text, token.pos_))
+        return tag_list
