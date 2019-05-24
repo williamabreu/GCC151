@@ -1,3 +1,6 @@
+import spacy
+
+
 class Parser:
     """
     Faz análise sintática de sentenças
@@ -7,7 +10,7 @@ class Parser:
         """
         Instancia o objeto configurado para tratar língua portuguesa.
         """
-        pass
+        self.nlp = spacy.load('pt_core_news_sm')
 
     def parse(self, sentence: str) -> list:
         """
@@ -16,11 +19,15 @@ class Parser:
         :param sentence: Sentença qualquer em português
         :return: Lista de tuplas no formato ('token', 'syntax_role', 'head')
         """
-        pass
+        parse_list = []
+        doc = self.nlp(sentence)
+        for token in doc:
+            parse_list.append((token.text, token.dep_, token.head))
+        return parse_list
 
     def get_SVO(self, sentence: str) -> list:
         """
-        Estrutura uma sentença em Sujeito-Verbo-Objeto
+        Estrutura uma sentença em Sujeito-Verbo-Objeto.
 
         :param sentence: Sentença qualquer em português
         :return: Lista de tuplas no formato ('subject', 'verb', 'object')
