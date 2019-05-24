@@ -32,4 +32,17 @@ class Parser:
         :param sentence: Sentença qualquer em português
         :return: Lista de tuplas no formato ('subject', 'verb', 'object')
         """
-        pass
+        lhs = []
+        rhs = []
+        root = None
+        doc = self.nlp(sentence)
+
+        for token in doc:
+            if token.dep_ == 'ROOT':
+                root = token.text
+            elif root == None:
+                lhs.append(token.text)
+            else:
+                rhs.append(token.text)
+
+        return (' '.join(lhs), root, ' '.join(rhs))
