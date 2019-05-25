@@ -1,1 +1,1 @@
-__all__ = ['crawling', 'lexical']
+__all__ = ['crawling', 'lexical', 'morphosyntax', 'syntax']

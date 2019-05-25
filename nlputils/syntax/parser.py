@@ -36,6 +36,18 @@ class Parser:
         rhs = []
         root = None
         doc = self.nlp(sentence)
+        # nchunks = []
+        # nheads = []     
+        # for token in doc:
+        #         if token.dep_ in ['nsubj', 'obj', 'iobj', 'obl']:
+        #             nheads.append(token)
+        # for token in nheads:
+        #     nchunk = []
+        #     for word in token.subtree:
+        #         if word.pos_ in ['NOUN', 'VERB']:
+        #             nchunk.append(word)
+        #     nchunks.append(nchunk)
+        # return nchunks
 
         for token in doc:
             if token.dep_ == 'ROOT':
