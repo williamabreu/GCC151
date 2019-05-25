@@ -1,5 +1,5 @@
 import spacy
-
+import textacy
 
 class Parser:
     """
@@ -32,29 +32,6 @@ class Parser:
         :param sentence: Sentença qualquer em português
         :return: Lista de tuplas no formato ('subject', 'verb', 'object')
         """
-        lhs = []
-        rhs = []
-        root = None
         doc = self.nlp(sentence)
-        # nchunks = []
-        # nheads = []     
-        # for token in doc:
-        #         if token.dep_ in ['nsubj', 'obj', 'iobj', 'obl']:
-        #             nheads.append(token)
-        # for token in nheads:
-        #     nchunk = []
-        #     for word in token.subtree:
-        #         if word.pos_ in ['NOUN', 'VERB']:
-        #             nchunk.append(word)
-        #     nchunks.append(nchunk)
-        # return nchunks
-
-        for token in doc:
-            if token.dep_ == 'ROOT':
-                root = token.text
-            elif root == None:
-                lhs.append(token.text)
-            else:
-                rhs.append(token.text)
-
-        return (' '.join(lhs), root, ' '.join(rhs))
+        return textacy.extract.subject_verb_object_triples(doc)
+        
