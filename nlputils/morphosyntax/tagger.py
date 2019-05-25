@@ -22,5 +22,5 @@ class Tagger:
         tag_list = []
         tagged_text = self.nlp(string)
         for token in tagged_text:
-            tag_list.append((token.text, token.pos_))
+            tag_list.append((token, token.pos_))
         return tag_list
