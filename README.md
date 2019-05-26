@@ -5,4 +5,4 @@
 - ```notebooks/2_Corpora_Normalization.ipynb```
 
 ### Prova 2 - William e Bruno:
-- ```notebooks/3_ Corpora_Morpho_Syntax.ipynb```
+- ```notebooks/3_Corpora_Morpho_Syntax.ipynb```
