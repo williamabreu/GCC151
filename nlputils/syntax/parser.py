@@ -23,7 +23,7 @@ class Parser:
         parse_list = []
         doc = self.nlp(sentence)
         for token in doc:
-            parse_list.append((token.text, token.dep_, token.head.text))
+            parse_list.append((token, token.dep_, token.head))
         return parse_list
 
     def get_SVO(self, sentence: str) -> list:
