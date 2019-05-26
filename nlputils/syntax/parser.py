@@ -1,6 +1,7 @@
 import spacy
 import textacy
 
+
 class Parser:
     """
     Faz análise sintática de sentenças
@@ -22,7 +23,7 @@ class Parser:
         parse_list = []
         doc = self.nlp(sentence)
         for token in doc:
-            parse_list.append((token.text, token.dep_, token.head))
+            parse_list.append((token.text, token.dep_, token.head.text))
         return parse_list
 
     def get_SVO(self, sentence: str) -> list:
@@ -34,4 +35,3 @@ class Parser:
         """
         doc = self.nlp(sentence)
         return textacy.extract.subject_verb_object_triples(doc)
-        
