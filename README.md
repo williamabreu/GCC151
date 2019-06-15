@@ -6,3 +6,6 @@
 
 ### Prova 2 - William e Bruno:
 - ```notebooks/3_Corpora_Morpho_Syntax.ipynb```
+
+### Prova 3 - William e Bruno:
+- ```notebooks/4_Sentiment_Analysis.ipynb```
