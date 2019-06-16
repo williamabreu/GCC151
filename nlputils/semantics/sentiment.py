@@ -1,6 +1,4 @@
 import pickle
-import os
-import sys
 from nlputils.lexical.normalizer import Normalizer
 
 
@@ -13,24 +11,26 @@ class Sentiment:
         """
         Instancia o objeto configurado para tratar língua portuguesa.
         """
-        try:
-            with open('data/dump/LR_sentiment', 'rb') as fp:
-                self.classifier_lr = pickle.load(fp)
-                fp.close()
-
-            with open('data/dump/Transformer', 'rb') as fp:
-                self.transformer = pickle.load(fp)
-                fp.close()
-        except FileNotFoundError:
-            print('Você precisa fazer o download dos dumps e colocar na pasta /data/dump/')
-            sys.exit(1)
-
+        self.classifier = self.__loadvar('data/dump/classifier.pickle')
+        self.transformer = self.__loadvar('data/dump/transformer.pickle')
         self.normalizer = Normalizer()
 
+    def __loadvar(self, path: str) -> object:
+        """
+        Retorna dump de memória salvo em pickle.
 
-    def preprocessing(self, string: str) -> str:
+        :param path: Caminho do dump salvo
+        :return: Objeto reconstruído
+        """
+        try:
+            with open(path, 'rb') as fp:
+                return pickle.load(fp)
+        except FileNotFoundError:
+            raise FileNotFoundError('Missing file "{}"'.format(path))
+
+    def __preprocessing(self, string: str) -> str:
         """ 
-        Retorna uma string sem pontuções, stopwords e com letras em caixa baixa
+        Retorna uma string sem pontuções, stopwords e com letras em caixa baixa.
 
         :param string: String qualquer em português
         :return: String transformada
@@ -48,6 +48,6 @@ class Sentiment:
         :param string: String qualquer em português
         :return: Valor entre 0 (sentimento mais negativo) e 5 (sentimento mais positivo)
         """
-        preprocessed_sentence = self.preprocessing(string)
-        instance = self.transformer.transform([self.preprocessing(string)])
-        return self.classifier_lr.predict(instance)
+        normalized = self.__preprocessing(string)
+        instance = self.transformer.transform([normalized])
+        return int(self.classifier.predict(instance)[0])
