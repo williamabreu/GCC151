@@ -15,6 +15,8 @@ class Normalizer:
         self.sent_tokenizer = nltk.data.load(
             'tokenizers/punkt/portuguese.pickle')
         self.stemmer = nltk.stem.RSLPStemmer()
+        self.stopwords = nltk.corpus.stopwords.words('portuguese')
+        self.stopwords.remove('não')
 
     def remove_ponctuations(self, text: str) -> str:
         """
@@ -41,8 +43,7 @@ class Normalizer:
         :param tokens: Lista de palavras
         :return: A lista sem as stopwords
         """
-        stopwords = nltk.corpus.stopwords.words('portuguese')
-        return [word for word in tokens if word not in stopwords]
+        return [word for word in tokens if word not in self.stopwords]
 
     def to_lowercase(self, text: str) -> str:
         """
