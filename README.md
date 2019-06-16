@@ -8,4 +8,5 @@
 - ```notebooks/3_Corpora_Morpho_Syntax.ipynb```
 
 ### Prova 3 - William e Bruno:
-- ```notebooks/4_Sentiment_Analysis.ipynb```
+- ```notebooks/4_Sentiment_Analysis_Testing.ipynb```
+- ```notebooks/5_Sentiment_Analysis.ipynb```
