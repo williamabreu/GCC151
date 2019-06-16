@@ -29,4 +29,4 @@ Obtenha o córpus do Buscapé utilizado no modelo de análise de sentimentos e e
 
 Para fazer o download dos dumps de modelos para poupar tempo e pular o treinamento, faça o download do arquivo através dos links e extraia o arquivo dentro do diretório ```/data```.
 
-- [**Análise de Sentimentos**](#)
+- [**Análise de Sentimentos**](https://drive.google.com/uc?export=download&id=1VCJE7YtJd0piKiWmR9RzrS2Tu9rH1-fp)
