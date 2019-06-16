@@ -1,5 +1,6 @@
 import pickle
 import os
+import sys
 from nlputils.lexical.normalizer import Normalizer
 
 
@@ -12,13 +13,17 @@ class Sentiment:
         """
         Instancia o objeto configurado para tratar língua portuguesa.
         """
-        with open('data/dump/LR_sentiment', 'rb') as fp:
-            self.classifier_lr = pickle.load(fp)
-            fp.close()
+        try:
+            with open('data/dump/LR_sentiment', 'rb') as fp:
+                self.classifier_lr = pickle.load(fp)
+                fp.close()
 
-        with open('data/dump/Transformer', 'rb') as fp:
-            self.transformer = pickle.load(fp)
-            fp.close()
+            with open('data/dump/Transformer', 'rb') as fp:
+                self.transformer = pickle.load(fp)
+                fp.close()
+        except FileNotFoundError:
+            print('Você precisa fazer o download dos dumps e colocar na pasta /data/dump/')
+            sys.exit(1)
 
         self.normalizer = Normalizer()
 
